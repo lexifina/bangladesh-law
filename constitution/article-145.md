@@ -1,0 +1,3 @@
+# Contracts and deeds
+145. (1) All contracts and deeds made in exercise of the executive authority of the Republic shall be expressed to be made by the President, and shall be executed on behalf of the President by such person and in such manner as he may direct or authorise.
+(2) Where a contract or deed is made or executed in exercise of the executive authority of the Republic, neither the President nor any other person making or executing the contract or deed in exercise of that authority shall be personally liable in respect thereof, but this article shall not prejudice the right of any person to take proceedings against the Government.

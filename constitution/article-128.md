@@ -1,0 +1,5 @@
+# Functions of Auditor-General
+128. (1) The public accounts of the Republic and of all courts of law and all authorities and officers of the Government shall be audited and reported on by the Auditor General and for that purpose he or any person authorised by him in that behalf shall have access to all records, books, vouchers, documents, cash, stamps, securities, stores or other government property in the possession of any person in the service of the Republic.
+(2) Without prejudice to the provisions of clause (1), if it is prescribed by law in the case of any body corporate directly established by law, the accounts of that body corporate shall be audited and reported on by such person as may be so prescribed.
+(3) Parliament may by law require the Auditor General to exercise such functions, in addition to those specified in clause (1), as such law may prescribe, and until provision is made by law under this clause the President may, by order, make such provision.
+(4) The Auditor General, in the exercise of his functions under clause (1), shall not be subject to the direction or control of any other person or authority.

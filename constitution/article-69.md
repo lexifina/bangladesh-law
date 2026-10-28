@@ -1,0 +1,2 @@
+# Penalty for member sitting or voting before taking oath
+69. If a person sits or votes as a member of Parliament before he makes or subscribes the oath or affirmation in accordance with this Constitution, or when he knows that he is not qualified or is disqualified for membership thereof, he shall be liable in respect of each day on which he so sits or votes to a penalty of one thousand taka to be recovered as a debt due to the Republic.

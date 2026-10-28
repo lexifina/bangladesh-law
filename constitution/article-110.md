@@ -1,0 +1,4 @@
+# Transfer of cases from subordinate courts to High Court Division
+110. If the High Court Division is satisfied that a case pending in a court subordinate to it involves a substantial question of law as to the interpretation of this Constitution, or on a point of general public importance, the determination of which is necessary for the disposal of the case, it shall withdraw the case from that court and may –
+(a) either dispose of the case itself ; or
+(b) determine the question of law and return the case to the court from which it has been so withdrawn (or transfer it to another subordinate court) together with a copy of the judgment of the division on such question, and the court to which the case is so returned or transferred shall, on receipt thereof, proceed to dispose of the case in conformity with such judgment.

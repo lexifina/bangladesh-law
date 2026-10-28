@@ -1,0 +1,2 @@
+# Advisory jurisdiction of Supreme Court
+106. If at any time it appears to the President that a question of law has arisen, or is likely to arise, which is of such a nature and of such public importance that it is expedient to obtain the opinion of the Supreme Court upon it, he may refer the question to the Appellate Division for consideration and the division may, after such hearing as it thinks fit, report its opinion thereon to the President.

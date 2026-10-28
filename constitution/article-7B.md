@@ -1,0 +1,2 @@
+# Basic provisions of the Constitution are not amendable
+7B. Notwithstanding anything contained in article 142 of the Constitution, the preamble, all articles of Part I, all articles of Part II, subject to the provisions of Part IXA all articles of Part III, and the provisions of articles relating to the basic structures of the Constitution including article 150 of Part XI shall not be amendable by way of insertion, modification, substitution, repeal or by any other means.]

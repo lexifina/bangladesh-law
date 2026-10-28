@@ -1,0 +1,2 @@
+# Power to provide indemnity
+46. Notwithstanding anything in the foregoing provisions of this Part, Parliament may by law make provision for indemnifying any person in the service of the Republic or any other person in respect of any act done by him in connection with the national liberation struggle or the maintenance or restoration of order in any area in Bangladesh or validate any sentence passed, punishment inflicted, forfeiture ordered, or other act done in any such area.

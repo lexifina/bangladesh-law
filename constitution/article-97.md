@@ -1,0 +1,2 @@
+# Temporary appointment of Chief Justice
+97. If the office of the Chief Justice becomes vacant, or if the President is satisfied that the Chief Justice is, on account of absence, illness, or any other cause, unable to perform the functions of his office, those functions shall, until some other person has entered upon that office, or until the Chief Justice has resumed his duties, as the case may be, be performed by the next most senior Judge of the Appellate Division.

@@ -1,0 +1,2 @@
+# Rural development and agricultural revolution
+16. The State shall adopt effective measures to bring about a radical transformation in the rural areas through the promotion of an agricultural revolution, the provision of rural electrification, the development of cottage and other industries, and the improvement of education, communications and public health, in those areas, so as progressively to remove the disparity in the standards of living between the urban and the rural areas.

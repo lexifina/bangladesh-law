@@ -1,0 +1,2 @@
+# Acting Auditor-General
+130. At any time when the office of Auditor General is vacant, or the President is satisfied that the Auditor General is unable to perform his functions on account of absence, illness or any other cause, the President may appoint a person to act as Auditor General and to perform the functions of that office until an appointment is made under article 127 or, as the case may be, until the Auditor General resumes the functions of his office.

@@ -1,0 +1,3 @@
+# Additional Supreme Court Judges
+98. Notwithstanding the provisions of article 94, if the President is satisfied that the number of the Judges of a division of the Supreme Court should be for the time being increased, the President may appoint one or more duly qualified persons to be Additional Judges of that division for such period not exceeding two years as he may specify, or, if he thinks fit, may require a Judge of the High Court Division to sit in the Appellate Division for any temporary period :
+Provided that nothing in this article shall prevent a person appointed as an Additional Judge from being appointed as a Judge under article 95 or as an Additional Judge for a further period under this article.

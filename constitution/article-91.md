@@ -1,0 +1,5 @@
+# Supplementary and excess grants
+91. If in respect of any financial year it is found –
+(a) that the amount authorised to be expended for a particular service for the current financial year is insufficient or that a need has arisen for expenditure upon some new service not included in the annual financial statement for that year; or
+(b) that any money has been spent on a service during a financial year in excess of the amount granted for that service for that year;
+the President shall have power to authorise expenditure from the Consolidated Fund whether or not it is charged by or under the Constitution upon that Fund and shall cause to be laid before Parliament a supplementary financial statement setting out the estimated amount of the expenditure or, as the case may be, an excess financial statement setting out the amount of the excess, and the provisions of articles 87 to 90 shall (with the necessary adaptations) apply in relation to those statements as they apply in relation to the annual financial statement.
