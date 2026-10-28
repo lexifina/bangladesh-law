@@ -1,0 +1,2 @@
+# Penalties
+6. Whoever contravenes any Rule made under this Act or an order passed in pursuance thereof shall be punishable with imprisonment for a term which may extend to three years, or with fine, or with both.
