@@ -1,0 +1,7 @@
+## Chapter V
+## SPECIAL PROVISIONS AS TO CERTAIN EXISTING REGISTERS
+# Permission to persons having custody of certain records to send them within one year to Registrar General
+32. If any person in Bangladesh [^6][* * *], has for the time being the custody of any register or record of birth, baptism, naming, dedication, death or burial of any persons of the classes referred to in section 11, sub-section (1), or of any register or record of marriage of any persons of the classes to which Act III of 1872 or the Christian Marriage Act, 1872, or the Parsi Marriage and Divorce Act, 1865, applies, and if such register or record has been made otherwise than in performance of a duty specially enjoined by the law of the country in which the Register or record was kept, he may, at any time before the first day of April, 1891, send the register or record to the office of the Registrar General of Births, Deaths and Marriages for the territories within which he resides [^7][* * *]
+
+[^6]: The words “or in any Acceding State” were omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).
+[^7]: The words and commas “or, if he resides within any Acceding States, to such one of the Registrars General as aforesaid as the Central Government, by notification in the official Gazette, directs in this behalf” were omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).
