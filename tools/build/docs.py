@@ -16,7 +16,7 @@ SITE = 'http://bdlaws.minlaw.gov.bd'
 # Published with the record: what a reader needs to rebuild from the retrieved pages and check the result. How the
 # pages were retrieved stays private (the rule of 2026-10-29), and publish_gate checks every file before it is written.
 BUILD_FILES = ('parse.py', 'build.py', 'docs.py', 'check_repo.py')
-sys.path.insert(0, str(HERE.parent / 'gitlaw_common'))
+sys.path.append(str(HERE.parent / 'gitlaw_common'))
 try:
     from publish_gate import publish_gate
 except ImportError:          # an outside reader rebuilding from the published tools: no private rule to apply
@@ -96,12 +96,14 @@ def render(laws, repealed, skipped_bn, bengali_only, issues, amend, today: str, 
         'regulations': kinds.get('regulation', 0), 'provincial': sum(provincial.values()),
         'bengal': provincial.get('bengal', 0), 'east_bengal': provincial.get('east-bengal', 0),
         'east_pakistan': provincial.get('east-pakistan', 0),
-        'units': units, 'commits': len(laws) + 1, 'footnotes': len(amend), 'footnotes_with_law': with_law,
+        'units': units, 'commits': len(laws) + (2 if any(l.get('language') == 'bn' for l in laws) else 1), 'footnotes': len(amend), 'footnotes_with_law': with_law,
         'footnotes_with_site': with_site, 'footnotes_with_date': with_date, 'amending_laws': len(amending),
         'repealed': len(repealed), 'bengali_only': len(bengali_only),
         'bengali_only_acts': bn_kinds.get('act', 0), 'bengali_only_ordinances': bn_kinds.get('ordinance', 0),
         'bengali_with_english': len(skipped_bn), 'issues': len(issues), 'positional': positional,
         'bengali_linked': sum(1 for l in laws if l.get('bengali_id')),
+        'english': sum(1 for l in laws if l.get('language') == 'en'),
+        'bengali': sum(1 for l in laws if l.get('language') == 'bn'),
         'oldest': years[0] if years else '', 'newest': years[-1] if years else '',
         'check': check,
         'amendment_kinds': dict(sorted(am_kinds.items())),
@@ -133,7 +135,8 @@ def render(laws, repealed, skipped_bn, bengali_only, issues, amend, today: str, 
         return [m['id'], m.get('title') or m['index_title'], m.get('kind') or '', _n(m.get('number')),
                 _n(m.get('year')), m.get('published') or '']
     bn_csv = _csv([['site_id', 'title', 'kind', 'number', 'year', 'date', 'status', 'source']] +
-                  [short(m) + ['in force; the site has its text only in Bengali; not included yet',
+                  [short(m) + [('in force; Bengali text; not built (see data/issues.csv)' if any(l.get('language') == 'bn' for l in laws)
+                                else 'in force; the site has its text only in Bengali; not included yet'),
                                f"{SITE}/act-details-{m['id']}.html"] for m in sorted(bengali_only, key=lambda x: x['id'])] +
                   [short(m) + [f"in force; Bengali text of {SITE}/act-{m['act']['other_id']}.html, which is included",
                                f"{SITE}/act-details-{m['id']}.html"] for m in sorted(skipped_bn, key=lambda x: x['id'])])
@@ -186,6 +189,15 @@ def render(laws, repealed, skipped_bn, bengali_only, issues, amend, today: str, 
         },
         'tool': 'tools/in_force_on.py',
     }
+    if stats['bengali']:
+        corpus['name'] = 'Laws of Bangladesh: the laws in force that the official site publishes, in English and Bengali'
+        corpus['language'] = 'en, bn'
+        corpus['languages'] = {'en': stats['english'], 'bn': stats['bengali']}
+        corpus['not_included'] = {'bengali_only': stats['bengali_only'], 'list': 'data/bengali-only.csv',
+                                  'note': 'laws in force that could not be built (see data/issues.csv)'}
+        corpus['record_note'] = corpus['record_note'].split(' Only the laws the site has in English')[0] + (
+            f" The {stats['english']} laws the site has in English came first; the {stats['bengali']} it has only in "
+            'Bengali were appended after them, from the same retrieved pages.')
     files = {
         'corpus.json': (json.dumps(corpus, indent=2, ensure_ascii=False) + '\n').encode('utf-8'),
         'laws.csv': laws_csv,

@@ -1,25 +1,25 @@
 {
   "corpus": "bd/national/acts",
-  "name": "Laws of Bangladesh: the laws in force that the official site publishes in English",
+  "name": "Laws of Bangladesh: the laws in force that the official site publishes, in English and Bengali",
   "label": "Bangladesh",
-  "language": "en",
+  "language": "en, bn",
   "history": "current-only",
   "laws": {
     "constitution": 1,
-    "acts": 347,
-    "ordinances": 138,
+    "acts": 1085,
+    "ordinances": 160,
     "president_orders": 67,
     "regulations": 37
   },
   "not_included": {
-    "bengali_only": 760,
+    "bengali_only": 0,
     "list": "data/bengali-only.csv",
-    "note": "laws in force that the site has only in Bengali; whether to add them is not decided"
+    "note": "laws in force that could not be built (see data/issues.csv)"
   },
   "history_from": "2026-10-28",
   "record_to": "2026-10-28",
-  "record_note": "The Laws of Bangladesh site (bdlaws.minlaw.gov.bd) publishes only the current text of each law, so each law has one version here: the text as retrieved on 2026-10-28. There is no line-by-line history before that day. The amendment footnotes are kept in the files and parsed into data/amendments.csv. Only the laws the site has in English are included; the 760 laws in force that it has only in Bengali are listed in data/bengali-only.csv.",
-  "built": "2026-10-29",
+  "record_note": "The Laws of Bangladesh site (bdlaws.minlaw.gov.bd) publishes only the current text of each law, so each law has one version here: the text as retrieved on 2026-10-28. There is no line-by-line history before that day. The amendment footnotes are kept in the files and parsed into data/amendments.csv. The 590 laws the site has in English came first; the 760 it has only in Bengali were appended after them, from the same retrieved pages.",
+  "built": "2026-11-03",
   "baseline_trailer": "Consolidated",
   "in_force_trailer": "In-force",
   "dates": {
@@ -52,5 +52,9 @@
       "decided_here": false
     }
   },
-  "tool": "tools/in_force_on.py"
+  "tool": "tools/in_force_on.py",
+  "languages": {
+    "en": 590,
+    "bn": 760
+  }
 }

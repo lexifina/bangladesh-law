@@ -1,10 +1,10 @@
 # The laws of Bangladesh, as a git repository
 
-The laws of Bangladesh in force that the official [Laws of Bangladesh](http://bdlaws.minlaw.gov.bd) site publishes in English: {{LAWS}} laws (the Constitution, {{ACTS}} Acts, {{ORDINANCES}} Ordinances, {{ORDERS}} President's Orders and {{REGULATIONS}} Regulations), each split into one file per section or Article ({{UNITS}} files), with one paragraph per line, so `git blame` and `git diff` work line by line. The site is run by the Legislative and Parliamentary Affairs Division of the Ministry of Law, Justice and Parliamentary Affairs.
+The laws of Bangladesh in force that the official [Laws of Bangladesh](http://bdlaws.minlaw.gov.bd) site publishes: {{LAWS}} laws ({{ENGLISH}} in English and {{BENGALI}} in Bengali; (the Constitution, {{ACTS}} Acts, {{ORDINANCES}} Ordinances, {{ORDERS}} President's Orders and {{REGULATIONS}} Regulations), each split into one file per section or Article ({{UNITS}} files), with one paragraph per line, so `git blame` and `git diff` work line by line. The site is run by the Legislative and Parliamentary Affairs Division of the Ministry of Law, Justice and Parliamentary Affairs.
 
 **What this repository is not, yet: a history.** The site publishes only the current text of each law, with footnotes saying which law inserted, substituted or omitted which words. It keeps no earlier versions and gives no date for its texts. So each law is a single commit holding its whole text as retrieved on {{RETRIEVED}}, and there is no line-by-line history before that day (corpus.json `"history": "current-only"`). Later retrievals will be added as later commits, so the history grows forward from here. The footnotes are kept in the files, word for word, and parsed into [`data/amendments.csv`](data/amendments.csv).
 
-**Only the laws with an English text, for now.** Of the {{INDEX}} laws in the site's chronological index, {{REPEALED}} are marked repealed and {{IN_FORCE}} are in force. {{LAWS}} of those have an English text and are here. The other {{BENGALI_ONLY}} laws in force have a text only in Bengali (almost every law made since 1987 is in Bengali only). They are **not included yet**, and whether to add them has not been decided. They are listed in [`data/bengali-only.csv`](data/bengali-only.csv) with their links.
+**English and Bengali texts.** Of the {{INDEX}} laws in the site's chronological index, {{REPEALED}} are marked repealed and {{IN_FORCE}} are in force. {{ENGLISH}} of those have an English text and were added first. The {{BENGALI}} that the site has only in Bengali (almost every law made since 1987) were added after them, in later commits on top of the first documentation commit, from the same retrieved pages; each has `Language: bn`. {{BENGALI_ONLY}} laws in force could not be built and are listed in [`data/bengali-only.csv`](data/bengali-only.csv) with the reason.
 
 The record holds {{LAWS}} laws in {{COMMITS}} commits.
 
@@ -45,7 +45,7 @@ The footnotes say which law did what. [`data/amendments.csv`](data/amendments.cs
 ## What it does not show
 
 - Any text before {{RETRIEVED}}. The site has none.
-- The {{BENGALI_ONLY}} laws in force whose text the site has only in Bengali ([`data/bengali-only.csv`](data/bengali-only.csv)). {{BENGALI_LINKED}} English law here has a Bengali text too, linked in its `Bengali-version:` trailer, and {{BENGALI_WITH_ENGLISH}} Bengali text is left out because its English version is here.
+- {{BENGALI_ONLY}} laws in force that could not be built ([`data/bengali-only.csv`](data/bengali-only.csv)). {{BENGALI_LINKED}} English law here has a Bengali text too, linked in its `Bengali-version:` trailer, and {{BENGALI_WITH_ENGLISH}} Bengali text is left out because its English version is here.
 - The {{REPEALED}} laws the index marks repealed ([`data/repealed.csv`](data/repealed.csv)). One more, the Lunacy Act, 1912, marked repealed in the index, could not be read: the site answered with an error ([`data/issues.csv`](data/issues.csv)).
 - Rules, regulations made under Acts, notifications and SROs. The site publishes the laws themselves.
 - Pictures and the layout of tables.

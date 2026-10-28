@@ -1,12 +1,12 @@
 # The laws of Bangladesh, as a git repository
 
-The laws of Bangladesh in force that the official [Laws of Bangladesh](http://bdlaws.minlaw.gov.bd) site publishes in English: 590 laws (the Constitution, 347 Acts, 138 Ordinances, 67 President's Orders and 37 Regulations), each split into one file per section or Article (13,576 files), with one paragraph per line, so `git blame` and `git diff` work line by line. The site is run by the Legislative and Parliamentary Affairs Division of the Ministry of Law, Justice and Parliamentary Affairs.
+The laws of Bangladesh in force that the official [Laws of Bangladesh](http://bdlaws.minlaw.gov.bd) site publishes: 1,350 laws (590 in English and 760 in Bengali; (the Constitution, 1,085 Acts, 160 Ordinances, 67 President's Orders and 37 Regulations), each split into one file per section or Article (37,546 files), with one paragraph per line, so `git blame` and `git diff` work line by line. The site is run by the Legislative and Parliamentary Affairs Division of the Ministry of Law, Justice and Parliamentary Affairs.
 
 **What this repository is not, yet: a history.** The site publishes only the current text of each law, with footnotes saying which law inserted, substituted or omitted which words. It keeps no earlier versions and gives no date for its texts. So each law is a single commit holding its whole text as retrieved on 2026-10-28, and there is no line-by-line history before that day (corpus.json `"history": "current-only"`). Later retrievals will be added as later commits, so the history grows forward from here. The footnotes are kept in the files, word for word, and parsed into [`data/amendments.csv`](data/amendments.csv).
 
-**Only the laws with an English text, for now.** Of the 1,685 laws in the site's chronological index, 333 are marked repealed and 1,350 are in force. 590 of those have an English text and are here. The other 760 laws in force have a text only in Bengali (almost every law made since 1987 is in Bengali only). They are **not included yet**, and whether to add them has not been decided. They are listed in [`data/bengali-only.csv`](data/bengali-only.csv) with their links.
+**English and Bengali texts.** Of the 1,685 laws in the site's chronological index, 333 are marked repealed and 1,350 are in force. 590 of those have an English text and were added first. The 760 that the site has only in Bengali (almost every law made since 1987) were added after them, in later commits on top of the first documentation commit, from the same retrieved pages; each has `Language: bn`. 0 laws in force could not be built and are listed in [`data/bengali-only.csv`](data/bengali-only.csv) with the reason.
 
-The record holds 590 laws in 591 commits.
+The record holds 1,350 laws in 1,352 commits.
 
 ## A lawyer's questions as git commands
 
@@ -40,12 +40,12 @@ The site gives no date for its texts. **Every commit is dated by the day the pag
 
 Every law-text commit has the same author: `Laws of Bangladesh (Legislative and Parliamentary Affairs Division) <bdlaws@bdlaws-minlaw-gov-bd.invalid>`, with the trailer `Kind: consolidated`. The address cannot exist. The author is the publisher of the text, not a lawmaker. No line is credited to an amending law, because without the earlier text nobody can tell which words an amendment wrote. In the shared design for these repositories, a change is credited to an amending law only when the source shows the text before and after it.
 
-The footnotes say which law did what. [`data/amendments.csv`](data/amendments.csv) has one row per footnote (6,234): the law and file it belongs to, the kind of change (substituted, omitted, inserted, added and so on), the amending law's number as printed (6,037 footnotes print one), the amending provision ("section 3 and 2nd Schedule"), and, where the amending law is itself on the site and could be matched by number, year and name (2,784 footnotes, 75 distinct laws), its title, date and link. The date is the one the site prints for the amending law. It is not a commencement date.
+The footnotes say which law did what. [`data/amendments.csv`](data/amendments.csv) has one row per footnote (10,742): the law and file it belongs to, the kind of change (substituted, omitted, inserted, added and so on), the amending law's number as printed (10,529 footnotes print one), the amending provision ("section 3 and 2nd Schedule"), and, where the amending law is itself on the site and could be matched by number, year and name (5,269 footnotes, 165 distinct laws), its title, date and link. The date is the one the site prints for the amending law. It is not a commencement date.
 
 ## What it does not show
 
 - Any text before 2026-10-28. The site has none.
-- The 760 laws in force whose text the site has only in Bengali ([`data/bengali-only.csv`](data/bengali-only.csv)). 1 English law here has a Bengali text too, linked in its `Bengali-version:` trailer, and 1 Bengali text is left out because its English version is here.
+- 0 laws in force that could not be built ([`data/bengali-only.csv`](data/bengali-only.csv)). 1 English law here has a Bengali text too, linked in its `Bengali-version:` trailer, and 1 Bengali text is left out because its English version is here.
 - The 333 laws the index marks repealed ([`data/repealed.csv`](data/repealed.csv)). One more, the Lunacy Act, 1912, marked repealed in the index, could not be read: the site answered with an error ([`data/issues.csv`](data/issues.csv)).
 - Rules, regulations made under Acts, notifications and SROs. The site publishes the laws themselves.
 - Pictures and the layout of tables.

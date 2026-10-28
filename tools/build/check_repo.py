@@ -40,6 +40,7 @@ def keep(s: str) -> str:
 def strip_html(h: str) -> str:
     h = re.sub(r'(?is)<(script|style|button)\b.*?</\1\s*>', ' ', h)
     h = re.sub(r'(?s)<!--.*?-->', ' ', h)
+    h = re.sub(r'<\?[^>]*>', ' ', h)   # '<? include("unifoot.php"); ?>' left in a page: HTML reads it as a comment
     # tags as HTML reads them: attribute values quoted with " or ' end at the same quote (and may hold '>': the site
     # nests a link in a title="..."), or are unquoted; title='Agriculturists' Loans Act' is three attributes
     h = TAG.sub(' ', h)

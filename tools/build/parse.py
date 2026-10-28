@@ -370,7 +370,10 @@ def unit_name(label: str, constitution: bool) -> str | None:
         m = re.match(r'^\[?(\d+)([%s]+)\s*[%s.]' % (BN_LETTERS, DANDA), s)
         if not m:
             return None
-        suf = ''.join(chr(ord('A') + BN_LETTERS.index(c)) for c in m.group(2))
+        # the first 26 letters map to A-Z; the last six (র ল শ ষ স হ) to ZZA-ZZF, so a
+        # file name never takes '[', '\' or ']' (seen in act/2023/57, sections 134র-134শ)
+        suf = ''.join(chr(ord('A') + i) if i < 26 else 'ZZ' + chr(ord('A') + i - 26)
+                      for i in (BN_LETTERS.index(c) for c in m.group(2)))
         num = m.group(1) + suf
     else:
         num = m.group(1).replace(' ', '').replace('-', '')
