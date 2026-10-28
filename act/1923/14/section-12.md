@@ -1,0 +1,3 @@
+# Application of proceeds of cess
+12.(1) On the last day of each month, or as soon thereafter as may be convenient, the proceeds of the cess recovered during that month shall, after deduction of the expenses, if any, of collection and recovery, be paid to the Committee.
+(2) Subject to such conditions as may be prescribed, the said proceeds and any other monies received by the Committee shall be applied to meeting the expenses of the Committee and the cost of such measures as it may, with the previous approval of the Government, decide to undertake for promoting agricultural and technological research in the interests of the cotton industry in Bangladesh.
