@@ -1,0 +1,2 @@
+# Restriction of transfer
+3. Notwithstanding any provision in any enactment or any rule of law for the time being in force to the contrary, no transfer, whether made before or after the commencement of this Ordinance or, as the case may be, before or after the making of a direction in pursuance of clause (b) of sub-section (2) of section 1, of a savings certificate shall be valid without the previous consent in writing of an officer of the Post Office authorised by general or special order of the Government in that behalf.
