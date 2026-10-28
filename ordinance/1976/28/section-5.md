@@ -1,0 +1,3 @@
+# Effect of order for the restoration
+5. (1) When the authorised officer makes an order under sub-section (2) of section 4 restoring any agricultural land, such order shall take effect on the 1st day of Baishakh next following the date of the order.
+(2) If, on or before the date on which an order under sub-section (2) of section 4 takes effect, the land to which the order relates has not been restored as required by the order, the authorised officer may, on his motion, and shall, on the application of such person, restore the land to the applicant by evicting the person in possession of the land, and for such eviction the authorised officer may use such force as may be necessary.
