@@ -1,0 +1,1 @@
+2. In the Government Educational and Training Institutions Ordinance, 1961 (E.P. Ord. No. XXVI of 1961), hereinafter referred to as the said Ordinance in the citation of the Ordinance the words “East Pakistan” shall be omitted and in the long title and the first paragraph of the preamble for the words “East Pakistan” the word “Bangladesh” shall be substituted.
