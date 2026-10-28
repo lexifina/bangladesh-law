@@ -1,0 +1,2 @@
+# Validation of certain acts
+4. Notwithstanding anything contained in any law for the time being in force or in any judgment, decree or order of any Court, anything done or action taken or purported to have been done or taken (including any declaration made, any notice or orders issued, assessments or payment of compensations made under the Chittagong Development Authority Ordinance, 1959, or the East Bengal (Emergency) Requisition of Property Act, 1948) shall be deemed to have been validly done, taken or made by or under the said Ordinance.
