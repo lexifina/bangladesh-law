@@ -1,0 +1,4 @@
+# Borrowing power
+22. (1) The Corporation, with the prior approval of the Government, may issue and sell bonds and debentures carrying interest at such rates as may be approved by the Government for the purpose of raising its working capital:
+Provided that the total of sums due on such bonds and debentures issued and outstanding and of the contingent liabilities of the Corporation in respect of guarantees or underwriting agreements shall not at any time exceed five times the combined amount of the paid-up share capital and the reserve fund of the Corporation.
+(2) The bonds and debentures of the Corporation shall be guaranteed by the Government as to the repayment of principal and payment of interest at such rate as may be fixed by the Government at the time when the bonds and debentures are issued.

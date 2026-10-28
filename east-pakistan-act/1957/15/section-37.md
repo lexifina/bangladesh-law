@@ -1,0 +1,3 @@
+# General meetings
+37. (1) A general meeting (hereinafter referred to as the annual general meeting) shall be held at the office of the Corporation annually within two months from the date on which the annual accounts of the Corporation are closed and a general meeting may be convened by the Board at any other time.
+(2) The shareholders present at the annual general meeting shall be entitled to discuss the annual accounts, the annual report of the Board on the working of the Corporation and the auditors' report on the annual balance sheet and accounts, and to express their views in the form of resolutions; and the Corporation shall consider such views and give such effect to them as it considers fit.

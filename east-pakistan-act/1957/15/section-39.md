@@ -1,0 +1,6 @@
+# Returns
+39. (1) The Corporation shall furnish to all shareholders within ten days of the date to which the statement relates, a statement in the prescribed form of its assets and liabilities as they stand at the close of business on the last Thursday of each month, or if that day is a public holiday under the Negotiable Instruments Act, 1881, then as they stand at the close of business on the preceding working day.
+(2) The Corporation shall furnish in the prescribed form to the Government such returns and statements at such intervals as the Government may require from time to time.
+(3) The Corporation shall furnish to the Government within two months of the close of the financial year an audited statement in the prescribed form of its assets and liabilities as they stand at the close of that year together with a profit and loss account for the year and a report on the working of the Corporation during the year, and copies of the said statement, account and report shall be published in the official Gazette and shall be laid before [^13][Parliament].
+
+[^13]: The word “Parliament” was substituted for the words “the Provincial Legislature” by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
