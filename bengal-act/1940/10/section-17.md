@@ -1,0 +1,2 @@
+# Cancellation of licence by a Sub-Registrar
+17. Any Sub-Registrar may, after giving the money-lender to whom a licence entered in the register maintained by such Sub-Registrar was issued an opportunity of being heard, cancel the licence if it is proved that such money-lender was disqualified for holding a licence at the time when such licence was issued; and thereupon the provisions of clause (ii) of sub-section (2) and of sub-sections (3), (4), (5), (6) and (7) of section 16 shall apply.

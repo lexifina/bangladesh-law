@@ -1,0 +1,2 @@
+# Application for cancellation of licence
+19. Any borrower may, in respect of any money-lender from whom he has taken a loan, make an application to a Competent Court for an order under section 20 on the ground that such money-lender has committed such contravention of the provisions of this Act or the rules made thereunder as render him unfit to carry on the business of money-lending, and on receipt of such application, the said Court shall hold such inquiry as it deems necessary.

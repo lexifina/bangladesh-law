@@ -1,0 +1,3 @@
+# Offences in respect of licences
+23. (1) Whoever being disqualified for holding a licence, applies for or obtains a licence during the pendency of such disqualification, without disclosing the fact thereof, shall be punishable, on conviction, with imprisonment which may extend to three months or with fine which may extend to five hundred Taka or with both, and any licence so obtained shall not be deemed to be an effective licence.
+(2) Whoever obliterates or causes to be obliterated or attempts to obliterate an endorsement entered on a licence under this Act or abets such obliteration or attempt shall be punishable, on conviction, with imprisonment which may extend to three months or with fine which may extend to five hundred Taka or with both.

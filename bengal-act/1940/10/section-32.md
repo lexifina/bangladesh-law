@@ -1,0 +1,2 @@
+# Computation of interest on loans in kind
+32. In the case of loans in kind, the money value of the commodity at the time when, and in the locality where, the loan was advanced shall, for the purposes of this Act, be deemed to be the principal of the loan, and in determining the amount which may, subject to the provisions of this chapter, be decreed in respect of any loan repayable in kind, the Court shall take into consideration the market value of the commodity in the said locality at the date or dates of repayment.

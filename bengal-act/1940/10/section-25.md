@@ -1,0 +1,13 @@
+# Money-lenders to furnish statements of accounts
+25. (1) Every money-lender shall, within two months of the commencement of each year, furnish each of his borrowers with a legible statement of accounts in Bengali or English as the borrower may desire signed by the money-lender or his agent and showing the amount outstanding against the borrower; such statement shall be in the prescribed form and shall show-
+(a) the amounts of principal and interest due to the money-lender at the commencement of the year;
+(b) the amounts of any sums advanced to the borrower from time to time since the commencement of the year and the dates on which they were advanced;
+(c) the amounts of any payments received from the borrower since the commencement of the year in respect of loans outstanding and the dates on which they were received;
+(d) the amount of every sum due from the borrower remaining unpaid and the date on which each such sum became due and the amount of interest accrued due and unpaid in respect of every such sum;
+(e) the amount of every sum not yet due which remains outstanding and the date upon which each such sum will become due; and
+(f) such other particulars as may be prescribed.
+(2) In respect of any particular loan, whether advanced before or after the commencement of this Act, a money-lender shall, on demand being made in writing by the borrower at any time while the loan or any portion thereof remains outstanding, supply to the borrower or to any person specified in that behalf in the demand, within thirty days from the date of receipt of the written demand by the money-lender or his duly authorised agent, a statement in Bengali or English as the borrower may desire, signed by the money-lender or his agent and showing in the prescribed form any or all of the particulars specified in sub-section (1):
+Provided that the money-lender shall not be bound to comply with such demand if he has complied with a demand made not more than six months prior to the date thereof, or if within such period of six months he has furnished the statement required by sub-section (1).
+(3) A money-lender shall, on a demand in writing by the borrower, supply to the borrower or to any person specified in that behalf in the demand a copy of any document evidencing an agreement to secure repayment of a loan advanced to the borrower:
+Provided that a money-lender shall not be bound to comply with such a demand if he has previously furnished the borrower with such copy, except on payment of such fee as may be prescribed.
+(4) In this section the expression “year” means the year for which the accounts of the money-lender are ordinarily maintained in his own books.
