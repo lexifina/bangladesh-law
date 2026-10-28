@@ -1,0 +1,3 @@
+[^3][3. Notwithstanding anything contained in any other law for the time being in force, the Government may issue Bangladesh one Taka notes and Bangladesh two Taka notes and any such notes shall be current in Bangladesh in the same manner and to the same extent and as fully as Taka coin called Government Taka issued under the provisions of the Bangladesh Coinage Order, 1972 (P.O. No. 83 of 1972), and shall be legal tender in Bangladesh for the payment of any amount until such time as they are called in by the Government under the provisions of Article 8 of that Order.]
+
+[^3]: Article 3 was substituted by section 4 of The Bangladesh Currency (Amendment) Act, 1989 (Act No. II of 1989)
