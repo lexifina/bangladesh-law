@@ -1,0 +1,6 @@
+# Holding of Government securities by holders of public offices
+6.(1) In the case of any public office to which the Government may, by notification in the official Gazette, declare this sub-section to apply, a Government security may be made or indorsed payable to or to the order of the holder of the office by the name of the office.
+(2) When a Government security is made or indorsed as aforesaid, it shall be deemed to be transferred without any or further indorsement from each holder of the office to the succeeding holder of the office on and from the date on which the latter takes charge of the office.
+(3) When the holder of the office indorses to a third party a Government security made or indorsed as aforesaid, he shall subscribe the indorsement with his name and the name of the office.
+(4) A writing on a Government security now or heretofore standing in the name of the holder of a public office, whereby the security has been or was made or indorsed payable to or to the order of the holder of the office by the name of the office, shall not be deemed to be or to have been invalid by reason only of the security having been so made or indorsed.
+(5) This section applies as well to an office of which there are two or more joint holders as to an office of which there is a single holder.
