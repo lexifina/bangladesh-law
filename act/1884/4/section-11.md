@@ -1,0 +1,2 @@
+# Distress of vessel
+11. Where the owner or master of a Vessel is adjudged under this Act to pay a fine for an offence committed with, or in relation to, that vessel, the Court may, in addition to any other power it may have for the purpose of compelling payment of the fine, direct it to be levied by distress and sale of the vessel, and the tackle, apparel and furniture thereof, or so much thereof as is necessary.
