@@ -1,0 +1,2 @@
+# Relinquishment of possession, management, etc
+4. The Government may, at any time, by notification in the official Gazette, relinquish possession, management and control of a share or shares of which possession, management and control have been assumed under section 2 and upon publication of such notification, the right of possession, management and control shall pass back to the previous owners.
