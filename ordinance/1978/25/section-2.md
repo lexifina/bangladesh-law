@@ -1,0 +1,2 @@
+# Issue of Taka 4685,14,89,000 out of the Consolidated Fund for the year 1978-79
+2. There may be paid and applied from and out of the Consolidated Fund sums not exceeding those specified in column 3 of the Schedule amounting in the aggregate to the sum of Taka four thousand six hundred eighty-five crores, fourteen lakhs and eighty-nine thousand towards defraying several charges which will come in course of payment during the financial year ending on the thirtieth day of June, 1979, in respect of the services and purposes specified in column 2 of the Schedule.
