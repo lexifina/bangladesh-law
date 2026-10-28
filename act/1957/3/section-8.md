@@ -1,0 +1,2 @@
+# Offences by Corporations
+8. If the person contravening an order made under section 3 is a company or other body corporate, every director, manager, secretary or other officer or agent thereof shall, unless he proves that the contravention took place without his knowledge or that he exercised all due diligence to prevent such contravention, be deemed to be guilty of such contravention.

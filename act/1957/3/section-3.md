@@ -1,0 +1,19 @@
+# Power to make orders, etc.
+3. [^5][(1) The Government, so far as it appears to it to be necessary or expedient for securing the equitable distribution of an essential commodity between different areas in Bangladesh and availability at fair prices or for promoting export thereof, may, by notified order, provide for regulating the production, movement, transport and sale of the essential commodity in different areas in Bangladesh and for the prices to be charged or paid for it at any stage of the transaction therein.]
+(2) Without prejudice to the generality of the powers conferred by sub-section (1), an order made thereunder may provide-
+(a) for controlling the prices at which any essential commodity may be bought or sold in any area;
+[^6][(aa) for procuring any essential commodity for purposes of export;
+(aaa) for regulating, restricting or prohibiting the sale, disposal, transport and movement of any essential commodity within [^7][different areas in Bangladesh], for purposes of such procurement;]
+(b) for regulating by licences, permits or otherwise, the transport, movement and distribution [^8][between different areas in Bangladesh] of an essential commodity;
+(c) for prohibiting the withholding of sale [^9][between different areas in Bangladesh] of an essential commodity ordinarily kept for sale;
+(d) for requiring any person holding stock [^10][in an area in Bangladesh an essential commodity to sell in another area thereof] the whole or specific part of the stock at such price to such persons or class of persons under such circumstances as may be specified in the order;
+(e) for collecting any information or statistics with a view to regulating or prohibiting any of the aforesaid matters;
+(f) for requiring persons engaged in any of the matters mentioned above in respect of any essential commodity to maintain and produce for inspection such books, accounts and records relating to their business and to furnish such information relating thereto as may be specified in the order;
+(g) for any incidental and supplementary matters, including in particular the entering, and search of premises, vehicles, vessels and aircraft, the seizure by a person authorised to make such search of any articles in respect of which such person has reason to believe that a contravention of the order has been, is being or is about to be committed, or any records connected therewith, the grant or issue of licences, permits or other documents, and the charging of fees therefore.
+
+[^5]: Sub-section (1) was substituted by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+[^6]: Clauses (aa) and (aaa) were inserted by section 4 of the Essential Supplies (Amendment) Ordinance, 1962 (Ordinance No. IV of 1962)
+[^7]: The words “different areas in Bangladesh” were substituted for the words “a Province or in different areas in a Province” by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+[^8]: The words “between different areas in Bangladesh” were substituted for the words “between the Provinces or between different areas in a Province” by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+[^9]: The words “between different areas in Bangladesh” were substituted for the words “between the Provinces or between different areas in a Province” by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+[^10]: The words “in an area in Bangladesh an essential commodity to sell in another area thereof” were substituted for the words “in a Province of an essential commodity to sell in another Province or another area of the same Province” by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
