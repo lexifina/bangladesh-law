@@ -1,0 +1,2 @@
+# Persons not to be excluded from inheritance or rights in joint-family property
+2. Notwithstanding any rule of Hindu Law or custom to the contrary, no person governed by the Hindu Law, other than a person who is and has been from birth a lunatic or idiot, shall be excluded from inheritance or from any right or share in joint-family property by reason only of any disease, deformity, or physical or mental defect.
