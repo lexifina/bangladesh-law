@@ -1,0 +1,4 @@
+# Disclosure of information in assessment records
+12. Nothing in sub-section (1) of [^14][section 168] of the Income-tax Ordinance, 1984 (XXXVI of 1984), or of that section as applied to excess profits tax by section 21 of the Excess Profits Tax Act, 1940, or business profits tax by section 19 of the Business Profits Tax Act, 1947, shall apply to the disclosure of any of the particulars referred to therein in any proceeding before the Tribunal or in any order made by the Tribunal or in any report submitted to the Tribunal by the Registrar.
+
+[^14]: The word and figure “section 168” was substituted for the word and figure “section 54” by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973) as amended by the Bangladesh Laws (Revision and Declaration) (Second Amendment) Act, 2000 (Act No. XL of 2000)

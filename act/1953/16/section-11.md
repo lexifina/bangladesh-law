@@ -1,0 +1,2 @@
+# Inspection of records
+11. No person shall be entitled to inspect, call for, or obtain copies of any documents, statements or papers or materials furnished to, obtained by or produced before the Tribunal or the Registrar in any proceedings under this Act save as the Tribunal, and after the Tribunal has ceased to exist such authority as the Government may in this behalf specify, may, in its discretion, allow.

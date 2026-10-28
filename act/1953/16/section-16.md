@@ -1,0 +1,2 @@
+# Power to regulate procedure
+16. The Tribunal shall, subject to the provisions of this Act, have power to regulate its own procedure (including the fixing of places and times of its sittings) and may act notwithstanding a vacancy in the number of its members; and the powers of the Tribunal under section 6 may, subject to such conditions as the Government may impose, be exercised by any one member authorised by the Government in this behalf.
