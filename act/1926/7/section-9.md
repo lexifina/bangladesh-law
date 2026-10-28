@@ -1,0 +1,7 @@
+# Effect of revocation of certificate
+9. (1) Where a certificate is revoked under section 8, the former holder of there of shall cease to be deemed to be a citizen of Bangladesh.
+(2) On such revocation, the Government may, by order in writing, direct that the wife and minor children (or any of them) of the person whose certificate is revoked shall cease to be deemed to be citizens of Bangladesh; but where no such direction is made, the status of the wife and the minor children of the person, whose certificate is revoked shall not be affected by the revocation:
+Provided that no such order shall be made in the case of a wife unless by reason of the acquisition by her husband of a new nationality she has also acquired that nationality:
+Provided further that, in the case of a wife who was, or, if the [^12][Citizenship Act, 1951], had been in force at the date of her birth, would have been, by birth a citizen of Bangladesh, no such order as aforesaid shall be made, unless the Government is satisfied that, if she had held a certificate of naturalization in her own right, the certificate could properly have been revoked under section 8, and the provisions of that section as to referring cases for inquiry shall apply to the making of any such order as they apply to the revocation of a certificate.
+
+[^12]: The words, comma and figure "Citizenship Act, 1951" were substituted, for the words, comma and figure "Pakistan Citizenship Act, 1951" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
