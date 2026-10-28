@@ -1,0 +1,2 @@
+# 10
+10.A Special Tribunal may, with a view to obtaining the evidence of any person supposed to have been directly or indirectly concerned in, or privy to the offence, tender a pardon to such person on condition of his making a full and true disclosure ofthe whole circumstances within his knowledge relative to the offence and to every other person concerned, whether as principal or a better, in the commission thereof; and any pardon so tendered shall, for the purpose of section 339 and 339A of the Code, be deemed to have been tendered under section 338, of the Code.
