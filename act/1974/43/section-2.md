@@ -1,0 +1,2 @@
+# Withdrawal of Taka 266,87,32,000 from and out of the Consolidated Fund for a part of the financial year 1974-75
+2. From and out of the Consolidated Fund there may be withdrawal sums not exceeding those specified in column 3 of the Schedule to this Act, amounting in the aggregate to the sum of Taka two hundred and sixty-six crores, eighty-seven lakhs and thirty-two thousand towards defraying the several charges which will come in course of payment during a part of the financial year 1974-75.
