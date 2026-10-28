@@ -1,0 +1,2 @@
+# Magistrate may refuse to register keeper not producing certificate of character
+6. The Magistrate of the District may, if he shall think fit, refuse to register as the keeper of a sarai a person who does not produce a certificate of character in such form and signed by such person as the Government shall from time to time direct.

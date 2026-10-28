@@ -1,0 +1,2 @@
+# Lodgers, etc., not to be received in sarais until registered
+5. After one month after the giving of such notice to register as by this Act provided, the keeper of any sarai or any other person shall not receive any lodger or allow any person, cattle, sheep, elephant, camel or other animal, or any vehicle, to halt or be placed in such sarai until the same and the name and residence of the keeper thereof shall have been registered as by this Act provided.
