@@ -1,0 +1,2 @@
+# Reckless driving
+6. Whoever drives a vehicle in a public place recklessly or negligently, or at a speed or in a manner which is dangerous to the public, having regard to all the circumstances of the case, including the nature, condition and use of the place, and the amount of traffic which actually is at the time and which might reasonably be expected to be, in the place, shall, on conviction, be punishable with fine which may extend to five hundred Taka.

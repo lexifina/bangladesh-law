@@ -1,0 +1,4 @@
+# Duty to stop vehicle for regulating traffic and in case of accident
+5. The person in charge of a vehicle shall cause the vehicle to stop and to remain stationary so long as may be reasonably be necessary-
+(a) when required to do so by any police-officer for the purpose of regulating traffic or of ascertaining his name and address with a view to prosecuting such person under this Act or for any purpose connected with the enforcement of the provisions of this Act or the rules thereunder, or
+(b) when he knows or has reason to believe that an accident has occurred to any person or to any animal or conveyance in charge of a person owing to the presence of the vehicle, and he shall also give his name and address and the name and address of the owner of such vehicle, to any police-officer in uniform present or to any person reasonably requesting such names and addresses.
