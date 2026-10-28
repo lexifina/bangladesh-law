@@ -1,0 +1,2 @@
+# Discharge of person apprehended if not surrendered within two months
+12. If a fugitive offender who, in pursuance of this Act, has been taken into custody to await his surrender, is not conveyed out of Bangladesh within two months after such committal, the High Court Division upon application made to it by or on behalf of the fugitive offender and upon proof that reasonable notice of the intention to make such application has been given to the Government may order such prisoner to be discharged unless sufficient cause is shown to the contrary.

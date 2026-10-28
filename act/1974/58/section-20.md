@@ -1,0 +1,2 @@
+# Property found on fugitive offender
+20. Everything found in the possession of a fugitive offender at the time of his arrest which may be material as evidence in proving the extradition offence may be delivered up with the fugitive offender on his surrender, subject to the rights, if any, of third parties with respect thereto.

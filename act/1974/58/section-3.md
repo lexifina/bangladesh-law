@@ -1,0 +1,5 @@
+# Treaty State
+3. (1) As soon as may be after the commencement of this Act, the Government shall publish in the official Gazette a list of the foreign States with which an extradition treaty is in operation, specifying in respect of each such State the offences persons accused of which are, under the treaty, to be returned to or from that State.
+(2) Whenever there is concluded an extradition treaty between Bangladesh and a foreign State, the Government may, by notification in the official Gazette, declare such State to be a treaty State for the purposes of this Act.
+(3) A declaration under sub-section (2) in relation to a foreign State shall specify the offences persons accused of which are, under the extradition treaty with that State, to be
+returned to or from that State and may provide that this Act shall apply in relation to that State with such modifications, exceptions, conditions and qualifications, if any, as may be set out therein; and the provisions of this Act shall have effect accordingly.

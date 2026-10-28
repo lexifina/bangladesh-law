@@ -1,0 +1,8 @@
+# Extradition by endorsed warrant procedure
+6. (1) Where a warrant for arrest of a fugitive offender has been issued in a treaty State, being a Commonwealth Country or such neighbouring country as the Government may specify in this behalf, and the extradition treaty with that State so provides, the Government may, if it is satisfied that the warrant
+was issued by a person having lawful authority to issue the same, endorse such warrant in the manner prescribed, and the warrant so endorsed shall be sufficient authority to arrest the person named in the warrant and to bring him before any Magistrate in Bangladesh.
+(2) When a fugitive offender appears or is brought before a Magistrate in pursuance of a warrant endorsed under sub-section (1), the Magistrate,-
+(a) if he is satisfied on inquiry that the warrant so endorsed is duly authenticated and that the offence of which the fugitive offender is accused or has been convicted is an extradition offence, shall commit such offender to prison to await his return and shall forthwith send to the Government a certificate of committal; and
+(b) if he is not so satisfied, may, pending receipt of the orders of the Government, detain such offender in custody or release him on bail.
+(3) The Magistrate making an inquiry under sub-section (2) shall report the result of the inquiry to the Government and together with such report forward any written statement which the fugitive offender may desire to submit for consideration of the Government.
+(4) The Government may, after a fugitive offender has been committed to prison under sub-section (2), issue a warrant for the custody and removal of the fugitive offender to the state concerned and for his delivery at a place and to the person to be named in the warrant.
