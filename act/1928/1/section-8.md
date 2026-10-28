@@ -1,0 +1,4 @@
+# Procedure after making order under section 5
+8. (1) Every adolescent offender directed by a Court to be sent to a Borstal school shall be forthwith sent to the place of intermediate custody prescribed in this behalf in respect of such Court.
+(2) a copy of the order of the Court directing the adolescent offender to be detained in a Borstal school shall forthwith be sent by the Court to the Inspector-General, who shall take immediate steps for the removal of the adolescent offender from the place of intermediate custody to a Borstal school as soon as may be practicable.
+(3) The period during which the adolescent offender is kept in the prescribed place of intermediate custody shall, for the purposes of computing his total period of detention in a Borstal school, be deemed to be part of that detention.

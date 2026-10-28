@@ -1,0 +1,3 @@
+# Revocation of license
+13. (1) Subject to the prescribed condition, the Inspector-Government may at any time, with the approval of the Government and shall, at the request of the institution, society or person under whose supervision and authority the adolescent offender has by license been permitted to live, revoke a license granted under section 12, and upon such revocation the adolescent offender shall be detained in a Borstal school until the expiry of the term for which he was ordered to be detained in such school.
+(2) If an adolescent offender removed himself from the supervision of the institution, society or person under which he was by license permitted to live, his license shall be deemed to have been revoked from the date on which he has so removed himself.

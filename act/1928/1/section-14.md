@@ -1,0 +1,2 @@
+# Powers of arrest of police
+14. Any police-officer, not below the rank or a Sub-Inspector of Police may, without orders from a Magistrate and without warrant, arrest an adolescent offender who has escaped from a Borstal school or removed himself from the supervision of the institution, society or person under which he was permitted to live by license under section 12, and shall send him, if so arrested, in custody to the Borstal school in which he was last detained.

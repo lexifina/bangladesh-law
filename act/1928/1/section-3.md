@@ -1,0 +1,3 @@
+# Establishments of Borstal School
+3. (1) The Government may establish Borstal schools at such places as it may think fit wherein adolescent offenders may be detained and given such industrial training and other instruction and be subjected to such disciplinary measures and moral influences as in the opinion of the Government will conduce to their reformation and the prevention of crime.
+(2) For every Borstal school, a Visiting Committee shall be appointed in such manner as may be prescribed and the names of the members of the Visiting Committee or, when a member is appointed ex-officio, the office by virtue of which he has been appointed shall be published in the official Gazette.
