@@ -1,0 +1,2 @@
+# Part VI not to apply to Roman Catholics Saving of certain marriages
+65. This Part of this Act, except so much of sections 62 and 63 as are referred to in section 64, shall not apply to marriages between Roman Catholics. But nothing herein contained shall invalidate any marriage celebrated between Roman Catholics under the provisions of Part V of Act No. XXV of 1864, previous to the twenty-third day of February, 1865.

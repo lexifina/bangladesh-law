@@ -1,0 +1,2 @@
+# Registration of marriages solemnized by Clergymen of Church of England
+28. Every Clergyman of the Church of England shall keep a register of marriages and shall register therein, according to the tabular form set forth in the third schedule hereto annexed, every marriage which he solemnizes under this Act.

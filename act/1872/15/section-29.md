@@ -1,0 +1,5 @@
+# Quarterly returns to Archdeaconry
+29. Every Clergyman of the Church of England shall send four times in every year returns in duplicate, authenticated by his signature, of the entries in the register of marriages solemnized at any place where he has any spiritual charge, to the Registrar of the Archdeaconry to which he is subject, or within the limits of which such place is situate.
+# Contents of returns
+Such quarterly returns shall contain all the entries of marriages contained in the said register from the first day of January to the thirty-first day of March, from the first day of April to the thirtieth day of June, from the first day of July to the thirtieth day of September, and from the first day of October to the thirty-first day of December, of each year respectively, and shall be sent by such Clergyman within two weeks from the expiration of each of the quarters above specified.
+The said Registrar upon receiving the said returns shall send one copy thereof to the Registrar General of Births, Deaths and Marriages.

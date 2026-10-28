@@ -1,0 +1,2 @@
+# Non-validation of marriages within prohibited degrees
+88. Nothing in this Act shall be deemed to validate any marriage which the personal law applicable to either of the parties forbids him or her to enter into.

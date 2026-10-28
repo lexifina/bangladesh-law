@@ -1,0 +1,2 @@
+# Liability for frivolous protest against issue of certificate
+49. Every person entering a protest with the Marriage Registrar, under this Part, against the issue of any certificate, on grounds which such Marriage Registrar, under section 44 or the District Judge, under section 45 or 46, declares to be frivolous and such as ought not to obstruct the issue of the certificate, shall be liable for the costs of all proceedings in relation thereto and for damages, to be recovered by suit by the person against whose marriage such protest was entered.

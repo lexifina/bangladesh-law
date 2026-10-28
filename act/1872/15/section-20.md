@@ -1,0 +1,2 @@
+# Power to prohibit by notice issue of certificate
+20. Every person whose consent to a marriage is required under section 19 is hereby authorized to prohibit the issue of the certificate by any Minister, at any time before the issue of the same, by notice in writing to such Minister, subscribed by the person so authorized with his or her name and place of abode and position with respect to either of the persons intending marriage, by reason of which he or she is so authorized as aforesaid.

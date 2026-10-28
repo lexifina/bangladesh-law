@@ -1,0 +1,3 @@
+# Unlicensed person granting certificate pretending to be licensed
+74. Whoever, not being licensed to grant a certificate of marriage under Part VI of this Act, grants such certificate intending thereby to make it appear that he is so licensed, shall be punished with imprisonment for a term which may extend to five years, and shall also be liable to fine.
+Whoever, being licensed to grant certificates of marriage under Part VI of this Act, without just cause refuses, or wilfully neglects or omits, to perform any of the duties imposed upon him by that Part shall be punished with fine which may extend to one hundred taka.

@@ -1,0 +1,2 @@
+# Copies of certificates to be entered and numbered
+35. Such copies shall be entered in order from the beginning to the end of the said book, and shall bear both the number of the certificate as copied, and also a number to be entered by the Marriage Registrar, indicating the number of the entry of the said copy in the said book, according to the order in which he receives each certificate.
