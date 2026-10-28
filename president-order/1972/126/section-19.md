@@ -1,0 +1,1 @@
+19. The Corporation shall, at least one month before the expiry of a financial year, submit to the Government for approval a statement, to be called the Annual Budget Statement, in the prescribed form for the next financial year showing the estimated receipts and expenditure during that financial year.

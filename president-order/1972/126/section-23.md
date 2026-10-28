@@ -1,0 +1,2 @@
+23. (1) Out of its earings, the Corporation shall establish a general reserve fund and create from time to time such other special reserve as the Board may determine.
+(2) After making provisions for interest, taxes, bad and doubtful debts, depreciation of assets, maintenance of reserves and any other matter determined by the Board, the Corporation may declare a dividend out of the profits accuring in a year.

@@ -1,0 +1,1 @@
+6. The shares of the Corporation shall be deemed to be included among the securities enumerated in section 20 of the Trust Act, 1882 (Act II of 1882), and to be approved securities and approved investments for the purposes of the Insurance Act, 1938 (Act IV of 1938).

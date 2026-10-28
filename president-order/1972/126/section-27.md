@@ -1,0 +1,1 @@
+27. The Government may, by notification in the official Gazette, make rules for the purpose of giving effect to the provisions of this Order.
