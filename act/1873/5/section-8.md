@@ -1,0 +1,3 @@
+# Deposit when excluded in computing court-fees
+8. Where the amount of the deposit belonging to the estate of a deceased depositor does not exceed three thousand taka such amount shall be excluded in computing the fee chargeable, under the Court-fees Act, 1870, on the probate, or letters of administration, or certificate (if any), granted in respect of his property:
+Provided that the person claiming such probate or letters or certificate shall exhibit to the Court authorized to grant the same a certificate of the amount of the deposit in any Government Savings Bank belonging to the estate of the deceased. Such certificate shall be signed by the Secretary of such Bank, and the Court shall receive it as evidence of the said amount.
