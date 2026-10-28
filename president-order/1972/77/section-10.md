@@ -1,0 +1,2 @@
+# Surcharge under the Income Tax Act, 1922 (XI of 1922)
+10. Surcharge under the Income Tax Act, 1922 (XI of 1922), shall be charged as respects any assessment for the year beginning on the first day of July, 1972, at the rate of ten per cent of the income-tax and super-tax payable by an assessee, not being a company, having total income, profits or gains exceeding Taka thirty-six thousand provided that the surcharge payable shall in no case exceed the amount by which the total income, profits or gains exceed Taka thirty-six thousand.
