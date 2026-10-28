@@ -1,0 +1,3 @@
+# Relief in case of several grants
+19C. Whenever a grant of probate or letters of administration has been or is made in respect of the whole of the property belonging to an estate, and the full fee chargeable under this Act has been or is paid thereon, no fee shall be chargeable under the same Act when a like grant is made in respect of the whole or any part of the same property belonging to the same estate.
+Whenever such a grant has been or is made in respect of any property forming part of an estate, the amount of fees than actually paid under this Act shall be deducted when a like grant is made in respect of property belonging to the same estate, identical with or including the property to which the former grant relates.

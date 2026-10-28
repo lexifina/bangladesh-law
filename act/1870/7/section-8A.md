@@ -1,0 +1,4 @@
+# Statement of particulars of subject-matter of suits and plaintiff's valuation thereof
+[^13][8A. In every suit in which an ad valorem court-fee is payable under this Act on the plaint, the plaintiff shall file with the plaint a statement of particulars of the subject-matter of the suit and his own valuation thereof unless such particulars and the valuation are contained in the plaint. The statement shall be in such form and shall contain such particulars as may be prescribed by the Government by notification in the official Gazette. In every such suit the plaintiff shall also, if the Court so directs, file a duplicate copy of the plaint and of the said statement.
+
+[^13]: Sections 8A, 8B, 8C, 8D, 8E and 8F were inserted by section 8 of the Court-fees (Bengal Amendment) Act, 1935 (Act No. VII of 1935).

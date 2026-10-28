@@ -1,0 +1,3 @@
+# Payment of court-fees in respect of probates and letters of administration
+19-I.(1) No order entitling the petitioner to the grant of probate or letters of administration shall be made upon an application for such grant until the petitioner has filed in the Court a valuation of the property in the form set forth in the Third Schedule, and the Court is satisfied that the fee mentioned in No. 11 of the First Schedule has been paid on such valuation.
+(2) The grant of probate or letters of administration shall not be delayed by reason of any motion made by the Collector under section 19H, sub-section (4).

@@ -1,0 +1,4 @@
+# Fees on documents filed, etc., in Mufassil Courts or in public offices
+6. (1) Except in the Courts hereinbefore mentioned no document of any of the kinds specified as chargeable in the first or second schedule to this Act annexed shall be filed, exhibited or recorded in any Court of Justice, or shall be received or furnished by any public officer, unless in respect of such document there has been paid a fee of an amount not less than indicated by either of the said Schedules as the proper fee for such document.
+(2) Notwithstanding anything contained in sub-section (1) or in any other Act, a Court may receive a plaint or memorandum
+of appeal in respect of which an insufficient fee has been paid, subject to the condition that the plaint or memorandum of appeal shall be rejected unless the plaintiff or appellant, as the case may be, pays to the Court within a time to be fixed by the Court such reasonable sum on account of court-fees as the Court may direct.

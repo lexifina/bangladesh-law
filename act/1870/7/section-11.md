@@ -1,0 +1,5 @@
+# Procedure in suits for mesne profits or accounts when amount found due exceeds amount claimed
+11.(1) Where, in any suit for mesne profits or for land and mesne profits or for an account, the fee which would have been payable if the suit had comprised the whole of the relief to which the Court finds the plaintiff to be entitled exceeds the fee actually paid, the Court shall require the plaintiff to pay an additional fee equal to the amount of the excess, and if such additional fee is not paid within such time as the Court may fix, the suit, or if a decree has previously been passed therein, so much of the claim as has not been so decreed, shall be dismissed:
+Provided that, where the additional fee is payable in respect of a portion of the claim which can be relinquished, that portion only shall be dismissed.
+# Refund where amount decreed is less than amount claimed
+(2) Where in any such suit as is referred to in sub-section (1) the Court-fee paid is found to be in excess of the amount of fee which would be payable if the suit had been valued at the amount decreed, the decree-holder shall be entitled to the refund of the excess of Court-fee paid by him.

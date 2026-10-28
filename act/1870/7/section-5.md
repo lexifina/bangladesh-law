@@ -1,0 +1,6 @@
+# Procedure in case of difference as to necessity or amount of fee
+5. When any difference arises between the officer whose duty it is to see that any fee is paid under this chapter and any suitor or attorney, as to the necessity of paying a fee or the amount thereof, the question shall, when the difference arises in the High Court Division, be referred to the taxing-officer, whose decision thereon shall be final, except when the question is, in his opinion, one of general importance, in which case he shall refer it to the final decision of the [^7][Chief Justice of the Supreme Court], or of [^8][such Judge of the Supreme Court] as the Chief Justice shall appoint either generally or specially in this behalf.
+The Chief Justice shall declare who shall be taxing officer within the meaning of the first paragraph of this section.
+
+[^7]: The words “Chief Justice of the Supreme Court” were substituted, for the words “Chief Justice of such High Court” by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).
+[^8]: The words “such Judge of the Supreme Court” were substituted, for the words “Such Judge of the High Court” by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).

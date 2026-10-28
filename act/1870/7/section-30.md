@@ -1,0 +1,7 @@
+# Cancellation of stamp
+30. No document requiring a fee under this Act shall be filed or acted upon in any proceeding in any court or office until the stamp or the receipt has been cancelled.
+Such Officer as the court or the head of the office may from time to time appoint shall, on receiving any such document, forthwith effect such cancellation by punching out [^31][Shapla] so as to leave the amount designated on the stamp untouched, and the part removed by punching shall be burnt or otherwise destroyed.The receipt filed along with any document shall be cancelled with the word "Cancelled" thereon under the signature of an officer in whose office it is filed:
+Provided that if any document bearing a Court-fee stamp of a design current in [^32][Pakistan immediately before the twenty sixth day of March, 1971], and still current in Bangladesh is presented to the proper officer, he shall forthwith effect the cancellation by punching out the figure-head so as to leave the amount designated untouched.
+
+[^31]: The word “Shapla” was replaced, for the words "the crescent and star" by the Bangladesh National Anthem, Flag and Emblem Order, 1972 (President’s Order No. 130 of 1972).
+[^32]: The words “Pakistan immediately before the twenty sixth day of March, 1971” were substituted, for the words “British India immediately before the fifteenth day of August, 1947” by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).

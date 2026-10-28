@@ -1,0 +1,7 @@
+# Procedure where insufficient Court-fee is filed on plaint or memorandum of appeal
+8B.(1) In every suit in which a court-fee is payable under this Act on the plaint or memorandum of appeal the Court shall, on the date fixed for the appearance of the opposite party or as soon as may be thereafter, and in every case before proceeding to deliver judgment, record a finding whether a sufficient Court-fee has been paid.
+(2) If the Court records a finding that an insufficient court-fee has been paid on the plaint or memorandum of appeal the Court shall
+(a) stay all further proceedings in the suit until it has determined the proper amount of such court-fee payable and the plaintiff or the appellant, as the case may be, has paid such amount or until the date referred to in clause (b) as the case may be:
+Provided that if the plaintiff or appellant gives, within such time as the Court may allow, security, to the satisfaction of the Court, for the payment of any additional amount for which he may be found liable the Court may proceed with the suit,
+(b) fix a date before which the plaintiff or appellant shall pay the amount of court-fee due from him, as determined by the Court under clause (a).
+(3) If the plaintiff or appellant fails to give the security referred to in clause (a) of sub-section (2) or to pay the amount referred to in clause (b) of that sub-section within the time allowed or before the date fixed, by the Court, as the case may be, the suit shall be dismissed.

@@ -1,0 +1,4 @@
+# Multifarious suits
+17.(1) In any suit in which two or more separate and distinct causes of action are joined and separate and distinct relief's are sought in respect of each, the plaint or memorandum of appeal shall be chargeable with the aggregate amount of the fees with which the plaints or memoranda of appeal would be chargeable under this Act in separate suits instituted in respect of each such cause of action:
+Provided that nothing in this sub-section shall be deemed to affect any power conferred by or under the Code of Civil Procedure, 1908, to order separate trials.
+(2) Where more relief's than one based on the same cause of action are sought either jointly or in the alternative, the fee shall be paid according to the value of the relief in respect of which the largest fee is payable.
