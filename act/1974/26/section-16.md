@@ -1,0 +1,2 @@
+# Punishment for contravention of law by submarine or any other underwater vehicle
+16. If any submarine or any other underwater vehicle except warships, while passing through the Territorial Sea, does not show its flag, shall be punishable with imprisonment for a term which may extend to 5 (five) years and with fine which may extend to taka 40 (forty) crore or with both and in addition, the Tribunal may order the forfeiture of the vessel or submarine and equipment used in the commission of the offence.

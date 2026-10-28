@@ -1,0 +1,2 @@
+# Punishment for offences in the Continental Shelf
+20. If any person violates the provisions of section 7B, shall be punishable with imprisonment for a term which shall not be less than 3 (three) years with fine shall not be less than taka 10 (ten) crore which may extend to taka 28 (twenty eight) crore and in addition, the Tribunal may order the forfeiture of any vessel and equipment used in the commission of the offence.

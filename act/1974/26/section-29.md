@@ -1,0 +1,2 @@
+# Evidentiary value of pictures, electronic records, etc
+29. If any member from Bangladesh Navy or Bangladesh Coast Guard or any other person captures or receives a video or still photo or records any conversation in the tape-recorder or cell phone or captures any satellite image during occurrence of offences or preparation of such offences or assistance to such offences, these videos, photos or tapes or disks or satellite images shall be admissible as evidence in the trial on proof of authenticity.

@@ -1,0 +1,6 @@
+# Ocean Governance
+7E. (1) The Government may, in order to keep the ocean healthy, productive, safe, secure and resilient, take decisions and materialize these for sustainable use of resources and capacity building, developing human capital with ocean related experience, expertise, knowledge and skills, strategic directions to the stakeholders and conforming to the traditional procedural management and the process involved.
+(2) The Government shall take necessary measures to, subject to the international laws, check the details of mariners and staffs on board the ships coming from different States in its port areas.
+(3) Any foreign ship, having sanctioned and embargoed by the United Nations Security Council (UNSC), shall not enter into any port or the Maritime Zones or anchor in any port area of Bangladesh.
+(4) The shipwrecked sailors drifting across the maritime coastline of Bangladesh or rescued by any ship of Bangladesh shall be provided with the due facilities by the Government, and the country of its domicile shall be informed of it and measures shall be taken for safe repatriation.
+(5) The Government may make rules relating to management and preservation of Maritime Zones including biodiversity of areas beyond national jurisdiction, Marine Genetic Resources, Marine Protected Areas and Particularly Sensitive Sea Areas.

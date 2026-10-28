@@ -1,0 +1,3 @@
+# Blue Economy
+7F. (1) For the purpose of this Act, the Government may make policies, work-plan and implement economic activities that directly or indirectly take place in Maritime Zones, exploration and exploitation of ocean resources in a sustainable manner and use of oceanic products.
+(2) The Government may, with a view to increasing the economic benefits from the blue economy, take appropriate measures for sustainable use of marine resources or minerals, including through sustainable management of fisheries, mariculture, marine tourism, marine biotechnologies, marine transportation, development of ports and harbours, ship building and recycling, renewable energy, etc.

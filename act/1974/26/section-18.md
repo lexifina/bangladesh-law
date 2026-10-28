@@ -1,0 +1,2 @@
+# Punishment for offence in Contiguous Zone
+18. If any person contravenes or attempts to contravene the customs, fiscal, immigration or sanitary laws in the Contiguous Zone or enters Bangladesh having committed an offence in the Contiguous Zone, it shall be an offence and shall be punishable with imprisonment for a term shall not be less than 2 (two) years which may extend to 7 (seven) years or with fine shall not be less than taka 10 (ten) crore which may extend to taka 35 (thirty five) crore or with both.

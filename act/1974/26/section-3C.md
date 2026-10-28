@@ -1,0 +1,4 @@
+# Civil jurisdiction over a foreign ship in the Territorial Sea, etc
+3C. (1) The Government shall not stop or divert a foreign ship passing through the Territorial Sea for the purpose of exercising civil jurisdiction in relation to a person on board the ship.
+(2) The Government may not levy execution against or arrest the ship for the purpose of any civil proceedings, save only in respect of obligations or liabilities assumed or incurred by the ship itself in the course or for the purpose of its voyage through the Territorial Sea.
+(3) Nothing in sub-section (1) shall prejudice the right of Bangladesh, in accordance with its laws, to levy execution against or to arrest, for the purpose of any civil proceedings, a foreign ship lying within the Internal Waters or in the Territorial Sea, or passing through the Territorial Sea after leaving Internal Waters.

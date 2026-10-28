@@ -1,0 +1,2 @@
+# Punishment for throwing nuclear or hazardous wastes
+17. If a master of a foreign vessel discharges or permits to discharge any nuclear or other dangerous, noxious or harmful substance or hazardous waste in the Internal Waters and Territorial Sea, it shall be an offence and the master of the vessel shall be punishable with imprisonment for a term which may extend to 7 (seven) years or with fine which may extend to taka 110 (one hundred ten) crore but shall not be less than taka 80 (eighty) crore or with both.

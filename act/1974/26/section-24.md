@@ -1,0 +1,6 @@
+# Punishment for piracy, armed robbery, maritime terrorism at sea and theft
+24. (1) Whoever commits an act of piracy or maritime terrorism at sea shall be punished with imprisonment which may extend to life term and in addition, the Tribunal may, subject to any restitution, order the forfeiture of vessel or property involved in the commission of the offence.
+(2) Whoever attempts or aid or abet to commit an act of piracy or maritime terrorism shall be punishable with imprisonment for a term which may extend to 14 (fourteen) years and shall also be liable to fine.
+(3) Whoever commits armed robbery at sea shall be punishable with imprisonment for a term which may extend to 10 (ten) years and shall also be liable to fine.
+(4) Whoever commits theft shall be punishable with imprisonment for a term which may extend to 3 (three) years or with fine or with both.
+(5) Whoever commits any act of hostage taking, transnational organized crime related to piracy, maritime terrorism and other offences against safety of maritime navigation shall be punishable with imprisonment for a term which may extend to 20 (twenty) years but shall not be less than 5 (five) years or with fine which shall not be less than taka 10 (ten) crore which may extend to taka 40 (forty) crore or with both.

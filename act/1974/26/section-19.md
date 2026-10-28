@@ -1,0 +1,2 @@
+# Punishment for offences in Exclusive Economic Zone
+19. If any person violates the provisions of section 5A, shall be punishable with imprisonment for a term shall not be less than 3 (three) years or with fine which shall not be less than taka 10 (ten) crore which may extend to taka 40 (forty) crore or with both and in addition, the Tribunal may order the forfeiture of any vessel and equipment used in the commission of the offence.
