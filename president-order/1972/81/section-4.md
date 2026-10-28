@@ -1,0 +1,1 @@
+4. The Government may, for the purpose of removing any difficulty arising out of, or in connection with, or in relation to the transfer of the undertaking of the Printing Corporation under Article 3, make such order as it considers expedient and any such order shall be deemed to be, and given effect to as, part of the provisions of this Order.

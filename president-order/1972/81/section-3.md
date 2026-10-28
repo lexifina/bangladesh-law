@@ -1,0 +1,6 @@
+3. Notwithstanding anything contained in any other law for the time being in force or in any memorandum or articles of association, or in any contract or agreement, or in any deed or other instrument, on the commencement of this Order,-
+(a) the entire undertaking of the Printing Corporation shall stand transferred to, and vest in, the Government;
+(b) all debts and liabilities incurred, all obligations undertaken, all contracts entered into and all agreements made, by or with the Printing Corporation shall, unless the Government otherwise directs, stand transferred to, and be deemed to have been incurred, undertaken, entered into, or made by or with, the Government;
+(c) all suits and other legal proceedings instituted by or against the Printing Corporation in Bangladesh before the commencement of this Order shall, unless the Government otherwise directs, be deemed to have been instituted by or against the Government and may be continued or proceeded with accordingly;
+(d) all officers and other employees of the Printing Corporation shall stand transferred to the Government on such terms and conditions as the Government may determine:
+Provided that an officer or other employee so transferred shall have the option not to continue in the service of the Government.
