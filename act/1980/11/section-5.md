@@ -1,0 +1,2 @@
+# Terms of sanction, etc.
+5. The terms of sanction, permission or licence granted by Government to an industrial undertaking having foreign private investment shall not be unilaterally changed so as to adversely alter the conditions under which the establishment of such undertaking was sanctioned; nor shall foreign private investment be accorded a less favourable treatment than what is accorded to similar private investment by the citizens of Bangladesh in the application of relevant rules and regulations.
