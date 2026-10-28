@@ -1,0 +1,6 @@
+# Transfer by private executor or a administrator of interest under probate or letters
+25. (1) Any private executor or administrator may with the previous consent of the Administrator General [^22][* * *] by an instrument in writing under his hand notified in the official Gazette, transfer the assets of the estate vested in him by virtue of such probate or letters to the Administrator General by that name or any other sufficient description.
+(2) As from the date of such transfer the transferor shall be exempt from all liability as such executor or administrator, as the case may be, except in respect of acts done before the date
+of such transfer, and the Administrator General shall have the rights which he would have had, and be subject to the liabilities to which he would have been subject, if the probate or letters of administration, as the case may be, had been granted to him by that name at the date of such transfer.
+
+[^22]: The words “of the Division in which any of the assets of the estate, in respect of which such executor or administrator has obtained probate or letters of administration, are situate” were omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973

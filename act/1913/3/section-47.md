@@ -1,0 +1,2 @@
+# Costs of audit, etc.
+47. The costs of and incidental to such audit and examination shall be determined in accordance with rules made by the Government, and shall be defrayed in the prescribed manner.

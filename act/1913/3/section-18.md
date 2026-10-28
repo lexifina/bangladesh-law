@@ -1,0 +1,6 @@
+### (c) Revocation of grants
+# Recall of Administrator General’s administration, and grant of probate, etc., to executor or next-of-kin
+18. If an executor or next-of-kin of the deceased, who has not been personally served with a citation or who has not had notice thereof in time to appear pursuant thereto establishes to the satisfaction of the Court a claim to probate of a will or to letters of administration in preference to the Administrator General, any letters of administration granted in accordance with the provisions of this Act to the Administrator General may be revoked, and probate or letters of administration may be granted to such executor or next-of-kin as the case may be:
+Provided that no letters of administration granted to the Administrator General shall be revoked for the cause aforesaid, except in cases in which a will of the deceased is proved in [^18][Bangladesh], unless the application for that purpose is made within six months after the grant to the Administrator General and the Court is satisfied that there has been no unreasonable delay in making the application, or in transmitting the authority under which the application is made.
+
+[^18]: The word "Bangladesh" was substituted for the words "the Division" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)

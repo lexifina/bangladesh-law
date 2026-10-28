@@ -1,0 +1,2 @@
+# Appointment and powers of Deputy Administrators General
+4. The Government may appoint a Deputy or Deputies to assist the Administrator General; and any Deputy so appointed shall, subject to the control of the Government and the general or special orders of the Administrator General, be competent to discharge any of the duties and to exercise any of the powers of the Administrator General, and when discharging such duties or exercising such powers shall have the same privileges and be subject to the same liabilities as the Administrator General.
