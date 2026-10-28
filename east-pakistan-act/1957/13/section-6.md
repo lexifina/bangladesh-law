@@ -1,0 +1,6 @@
+# Penalty
+6. (1) Any person who contravenes or fails to comply with an order made or a direction given under this Act shall be punishable as if he had contravened a provision of this Act.
+(2) Any person who contravenes any provision of this Act shall be punishable with imprisonment for a term which may extend to 3 years or with fine or with both.
+(3) Where any person as aforesaid is company or other body corporate, every member, director, manager, secretary or other officer and every agent and servant thereof shall be punishable as if he had contravened a provision of this Act.
+(4) No person shall be prosecuted under this Act unless he has been given an opportunity by the Government to show cause within such time as the Government may specify why he should not be prosecuted, and if it is made to appear to the satisfaction of the Government at any time before the institution of the prosecution that he has used due diligence to enforce the observance of the provisions of this Act and that the offence has been committed without his knowledge or against his consent, the Government may forbear further proceedings against him:
+Provided that nothing in this sub-section shall prevent the Government from proceeding against him further if it sees reason to do so, in which case he shall not be prosecuted unless he has been given a further opportunity as aforesaid.
