@@ -1,0 +1,1 @@
+9. Any reference in any existing law to the President of Pakistan, the President, the Governor of East Pakistan or the Governor shall, except where the context otherwise requires, be replaced by reference to Government of the People's Republic of Bangladesh.

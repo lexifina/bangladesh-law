@@ -1,0 +1,1 @@
+3. As from the 26th day of March, 1971, all “existing laws” shall, until repealed or altered or amended by competent Legislature or other competent authority, in their application to Bangladesh, be subject to the Adaptation directed in this Order.

@@ -1,0 +1,3 @@
+5. References in any existing law, other than the Income-Tax Act, 1922, the Excess Profits Tax Act, 1940, the Business Profits Tax Act, 1947, the Estate Duty Act, 1950, the Sales Tax Act, 1951, the Gift Tax Act, 1963 and the Wealth Tax Act, 1963, to 'Pakistan' or 'East Pakistan' shall, except where the reference occurs in a title [^1][* * *] or any citation or description of an Act, Ordinance or Regulation and except where context otherwise requires, be replaced by references to Bangladesh.
+
+[^1]: The words “or Preamble” were omitted by Article 2 of the Bangladesh Adaptation of Existing Laws (Amendment) Order, 1972 (President’s Order No. 150 of 1972)

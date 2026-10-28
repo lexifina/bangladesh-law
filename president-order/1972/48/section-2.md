@@ -1,0 +1,1 @@
+2. In this Order, “existing law” means any Act, Ordinance, Regulation, Rule, Order or bye-law which immediately before the 26th day of March, 1971, had the force of law in whole or any part of the territories now comprised in the People's Republic of Bangladesh.

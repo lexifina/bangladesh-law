@@ -1,0 +1,1 @@
+8. Any reference in any existing law to “the Central Government”, “the Government of Pakistan”, “the Provincial Government” or “the Government of East Pakistan” shall be construed as a reference to the Government of the People's Republic of Bangladesh.

@@ -1,0 +1,7 @@
+[^3][7. (1) Unless the context otherwise requires-
+(a) any reference in any law for the time being in force, to the High Court, the High Court of Dacca or the High Court of Bangladesh, exercising original, appellate, revisional or other jurisdiction, shall, as from the 16th day of December, 1972, be construed as reference to the High Court Division of the Supreme Court of Bangladesh established under the Constitution.
+(b) any reference in any existing law to the Supreme Court exercising original, appellate or revisional or other jurisdiction shall, as from the 16th day of December, 1972, be construed as reference to the Appellate Division of the Supreme Court of Bangladesh established under the Constitution.
+(2) Except as otherwise provided in sub-clauses (a) and (b) of clause 1 and where the context so requires, any reference in any law for the time being in force to the Supreme Court or to the High Court of Dacca or the High Court of Bangladesh shall, as from the 16th day of December, 1972, shall be construed as reference to the Supreme Court of Bangladesh established under the Constitution.
+(3) Any reference in any law to an Advocate entitled to practise before the High Court, shall, as from the 16th day of December, 1972, be construed as an Advocate entitled to practise before the Appellate Division and the High Court Division of the Supreme Court of Bangladesh established under the Constitution.]
+
+[^3]: Article 7 was substituted by Article 3 of the Bangladesh Adaptation of Existing Laws (Amendment) Order, 1972 (President’s Order No. 150 of 1972)
