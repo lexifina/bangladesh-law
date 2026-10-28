@@ -1,0 +1,1 @@
+23. The Government may, by notification in the official Gazette, direct that any power conferred or duty imposed by this Order upon it shall, in such circumstances and under such conditions, if any, as may be specified in such notification, be exercised or performed by any officer or authority subordinate to it.

@@ -1,0 +1,2 @@
+21. (1) A Revenue-officer may, for the purposes of this Order, by notice require any person to make or deliver to him a statement or to produce records or documents in his possession or control relating to any land at a time and place specified in the notice.
+(2) Every person required to make or deliver a statement or to produce any record or document under clause (1) shall be deemed legally bound to do so within the meaning of sections 175 and 176 of the Penal Code (Act XLV of 1860).

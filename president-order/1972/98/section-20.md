@@ -1,0 +1,1 @@
+20. A Revenue-officer may, at any time between the hours of sunrise and sunset, enter upon any land, with such officers or servants as he considers necessary, and make a survey or take measurement thereof or do any other acts which he considers to be necessary for carrying out any of his duties under this Order.

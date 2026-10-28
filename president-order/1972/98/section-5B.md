@@ -1,0 +1,3 @@
+[^13][5B. Notwithstanding anything contained in Articles 5 and 5A, if, in the opinion of the Government, any member of a family, holding land in excess of one hundred standard bighas within the meaning of Article 5, transfer any land after the 20th day of February, 1972, and before the 16th day of August, 1972, by a written instrument duly registered, with a view to avoiding the surrender of excess lands to the Government, the Government may pass an order declaring such transfer void.]
+
+[^13]: Article 5B was inserted by Article 5 of the Bangladesh Land Holding (Limitation) (Second Amendment) Order, 1972 (President’s Order No. 154 of 1972)

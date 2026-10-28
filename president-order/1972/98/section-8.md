@@ -1,0 +1,6 @@
+8. If any head of a family [^27][or body] fails, without any reasonable cause, to submit the statement required under Article 7, within the time mentioned therein or wilfully makes any omission from, or incorrect declaration in, the statement submitted by him under that Article, he shall be punishable with simple imprisonment for a term which may extend to six months, or with fine which may extend to ten thousand taka, or with both and the land for which no statement has been submitted or which has been omitted from the statement or in respect of which the incorrect declaration has been made [^28][may be], forfeited to the Government [^29][.
+[* * *]]
+
+[^27]: The words “or body” were inserted by section 7 of the Bangladesh Land Holding (Limitation) (Amendment) Ordinance, 1982 (Ordinance No. III of 1982)
+[^28]: The words “may be” were substituted for the words “shall stand” by Article 8 of the Bangladesh Land Holding (Limitation) (Second Amendment) Order, 1972 (President’s Order No. 154 of 1972)
+[^29]: The full-stop (.) was substituted for the colon (:) and the proviso was omitted by Article 7 of the Bangladesh Land Holding (Limitation) (Amendment) Order, 1972 (President’s Order No. 138 of 1972)

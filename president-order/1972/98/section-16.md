@@ -1,0 +1,2 @@
+16. (1) An appeal against an order of the Revenue-officer assessing compensation under Article 15, if preferred within thirty days of the date of such order, shall lie to the Deputy Commissioner.
+(2) An appeal against an order passed by the Deputy Commissioner under clause (1), if preferred within thirty days of the date of such order, shall lie to the District Judge and the order of the District Judge on such appeal shall be final.

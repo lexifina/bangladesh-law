@@ -1,0 +1,8 @@
+10. (1) On receipt of a statement under Article 7 or of information under Article 9, the Revenue-officer shall have such statement or information verified by necessary enquiries and shall, after giving the parties concerned an opportunity of being heard, pass an order accepting the excess lands surrendered by a family [^31][or body] [^32][* * *]:
+Provided that where a family [^33][or body] does not exercise its option to select the lands to be surrendered to the Government or the option so exercised does not conform to the provisions of Article 6, the Revenue-officer shall make such selection himself in the prescribed manner.
+(2) An order of the Revenue-officer under clause (1) [^34][accepting any excess land] shall contain the full particulars of such land and upon the passing of such order, such land shall, subject to the provision of Article 11, vest in the Government free from all encumbrances.
+
+[^31]: The words “or body” were inserted by section 8 of the Bangladesh Land Holding (Limitation) (Amendment) Ordinance, 1982 (Ordinance No. III of 1982)
+[^32]: The words , figure and comma “or forfeiting any land under Article 8, as the case may be” were omitted by Article 9 of the Bangladesh Land Holding (Limitation) (Second Amendment) Order, 1972 (President’s Order No. 154 of 1972)
+[^33]: The words “or body” were inserted by section 8 of the Bangladesh Land Holding (Limitation) (Amendment) Ordinance, 1982 (Ordinance No. III of 1982)
+[^34]: The words “accepting any excess land” were substituted for the words “accepting any excess land or forfeiting any land” by Article 9 of the Bangladesh Land Holding (Limitation) (Second Amendment) Order, 1972 (President’s Order No. 154 of 1972)
