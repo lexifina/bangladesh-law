@@ -1,0 +1,2 @@
+# Power to compel sales to specified person
+7. The Government may, by general or special order in writing, require any trader holding stock of an essential article to sell the whole or specified part thereof at prices not exceeding the maximum fixed under sub-section (1) of section 3, to such person or class of persons and in such circumstances or under such permits as may be specified in the order and the trader concerned shall comply with such order.

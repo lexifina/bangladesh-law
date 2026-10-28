@@ -1,0 +1,2 @@
+# Power to require licence for trading
+6. The Government may, by notification, direct that no trader or class of trader shall deal in any essential article except under, and in accordance with the conditions of, a licence issued, in this behalf by the Government, on payment of such fees and in such manner and form as may be prescribed. An application for such licence shall be accompanied by such fee as may be prescribed.
