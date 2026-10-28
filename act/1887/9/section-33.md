@@ -1,0 +1,2 @@
+# Application of Act and Code to Court so invested as to two Courts
+33. A Court invested with the jurisdiction of a Court of Small Causes with respect to the exercise of that jurisdiction, and the same Court with respect to the exercise of its jurisdiction in suits of a civil nature which are not cognizable by a Court of Small Causes, shall, for the purposes of this Act and the Code of Civil Procedure, be deemed to be different Courts.

@@ -1,0 +1,7 @@
+# Return of plaints in suits involving questions of title
+23. (1) Notwithstanding anything in the foregoing portion of this Act, when the right of a plaintiff and the relief claimed by him in a Court of Small Causes depend upon the proof or disproof of a title to immoveable property or other title which such a Court cannot finally determine, the Court may at any stage of the proceedings return the plaint to be presented to a Court having jurisdiction to determine the title.
+(2) When a court returns a plaint under sub-section (1), it shall comply with the provisions of the [^7][Code of Civil Procedure,
+1908, Schedule I, Order VII, rule 10]; and make such order with respect to costs as it deems just, and the Court shall, for the purposes of the [^8][Limitation Act, 1908], be deemed to have been unable to entertain the suit by reason of a cause of a nature like to that of defect of jurisdiction.
+
+[^7]: The words, commas and figures “Code of Civil Procedure, 1908, Schedule 1, Order VII, rule 10” were substituted, for the words and figure “second paragraph of section 57 of the Code of Civil Procedure” by section 3 and 2nd Schedule of the Bangladesh Laws (Revision and Declaration), Act, 1973 (Act No. VIII of 1973).
+[^8]: The words, comma and figure “Limitation Act, 1908” were substituted, for the words, comma and figure “Indian Limitation Act, 1877” by section 3 and 2nd Schedule of the Bangladesh Laws (Revision and Declaration) Act 1973 (Act No. VIII of 1973).

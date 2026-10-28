@@ -1,0 +1,5 @@
+# Continuance of proceedings of abolished Courts
+35. (1) Where a Court of Small Causes, or a Court invested with the jurisdiction of a Court of Small Causes, has from any cause ceased to have jurisdiction with respect to any case, any proceeding in relation to the case, whether before or after decree, which, if the Court had not ceased to have jurisdiction, might have been had therein, may be had in the Court which, if the suit out of which the proceeding has arisen were about to be instituted, would have jurisdiction to try the suit.
+(2) Nothing in this section applies to cases for which special provision is made in the [^19][Code of Civil Procedure, 1908,] as extended to Courts of Small Causes or in any other enactment for the time being in force.
+
+[^19]: The words, comma and figures “Code of Civil Procedure, 1908,” were substituted, for the words “Code of Civil Procedure” by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)

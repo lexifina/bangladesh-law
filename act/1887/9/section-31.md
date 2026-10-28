@@ -1,0 +1,3 @@
+# Saving of Power to appoint Judge of Court of Small Causes to other office
+31.(1) Nothing in this Act shall be construed to prevent the appointment of a person who is a Judge or Additional Judge of a Court of Small Causes to be also a Judge of any other Civil Court or to be a Magistrate of any class or to hold any other public office.
+(2) When a Judge or Additional Judge is so appointed, the ministerial officers of his Court shall, subject to any rules which the Government may make in this behalf, be deemed to be ministerial officers appointed to aid him in the discharge of the duties of the other office.
