@@ -1,0 +1,2 @@
+# Census records not open to inspection
+11. No person shall have a right to inspect any book, register or record made by a census officer in the discharge of his duties as such, and notwithstanding anything to the contrary in the Evidence Act, 1872, no entry in any such book, register or record shall be admissible as evidence in any civil proceeding whatsoever, or in any criminal proceedings, other than a prosecution under this Act or under any other law for any act or omission under this Act which constitutes an offence under such other law.

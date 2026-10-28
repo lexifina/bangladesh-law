@@ -1,0 +1,4 @@
+# Preparation of statistical abstracts
+12. The [^9][Director-General] or such person as the Government may authorise in this behalf may, if he thinks fit, at the request and cost (to be determined by him) of any local authority or person, cause abstracts to be prepared and supplied containing any such statistical information as can be derived from the census returns being information which is not contained in any published report and which, in his opinion, it is reasonable for that authority or person to require.
+
+[^9]: The word “Director-General” was substituted for the words and comma “Census Commissioner or any Joint Census Commissioner, Deputy Census Commissioner or Assistant Census Commissioner” by section 8 of the Agricultural Census (Amendment) Ordinance, 1983 (Ordinance No. XXII of 1983)
