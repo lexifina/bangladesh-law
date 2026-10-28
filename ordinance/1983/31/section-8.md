@@ -1,0 +1,7 @@
+# Free Passage of water for irrigation or drainage
+8. (1) For the purpose of irrigation or drainage of lands in the notified area, the owners or occupiers of such lands shall be bound to afford free passage for water through or over all lands in their possession and for that purpose, to allow, when so required by the Deputy Commissioner, by an order in writing, construction and maintenance of such channels as may be necessary:
+Provided that the capacity of such channels shall not exceed in any case two cusecs of flow.
+(2) If any person refuses to comply with an order under sub section (1), the Deputy Commissioner may cause the channel to be constructed or maintained and may impose a penalty which may extend to five times the water rate assessed on such land.
+(3) Notwithstanding anything contained in any other law for the time being in force, no person shall be entitled to claim any compensation for any damage or loss which may be caused as a result of construction or maintenance of any channel under sub section (1) or sub section (2):
+Provided that he shall be entitled to remission of water rate in respect of that portion of land which is affected by such construction or maintenance of channels.
+(4) Any person aggrieved by an order imposing a penalty on him under this section may within thirty days from the date of receipt of the order, appeal to such appellate authority as may be prescribed, and the decision of the appellate authority in such appeal shall be final.
