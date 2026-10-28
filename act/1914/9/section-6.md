@@ -1,0 +1,6 @@
+# Issue of short term bills
+6.(1) Subject to the provisions of [^4][Article 16 of Bangladesh Bank Order, 1972 (P. O. No. 127 of 1972),] the local authorities mentioned in Schedule I and any other local authority to which the Government may, by notification in the official Gazette, extend the provisions of this section, may, with the previous sanction of the Government borrow money by means of the issue of bills or promissory notes payable within any period, not exceeding twelve months, for any purpose for which such local authority may lawfully borrow money under any law for the time being in force:
+Provided that the amount of the bills or promissory notes which may be so issued, shall not exceed, when the amount of the other moneys for the time being borrowed by such local authority is taken into account, the total amount which such local authority is empowered by law to borrow.
+(2) The Government may, by general or special order, regulate the conditions on which money may be borrowed or repaid under this section.
+
+[^4]: The words, commas and figures "Article 16 of Bangladesh Bank Order, 1972 (P.O. No. 127 of 1972)," were substituted, for the words, comma and figures "section 26 of the Indian Paper Currency Act, 1910," by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
