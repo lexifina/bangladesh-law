@@ -1,0 +1,2 @@
+# Extension of age limit for competitive examinations
+11. Notwithstanding anything contained in any other law for the time being in force or in any rule, order or other instrument, a person who has rendered national service shall, for the purpose of appearing in any competitive examination held for appointment to any service or post, be entitled to deduct from his age the period actually spent by him in national service.
