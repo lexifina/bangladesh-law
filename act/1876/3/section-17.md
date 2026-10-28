@@ -1,0 +1,2 @@
+# Collector to refer matter to Court when compensation not accepted
+17. If the Collector and the persons interested do not agree as to the amount of compensation to be allowed, or if upon the said inquiry any question respecting the title to the property of which the value has been diminished, or any right thereto, or interest therein, arises between or among two or more persons making conflicting claims in respect thereof, the Collector shall refer the matter to the determination of the Court in manner hereinafter provided.

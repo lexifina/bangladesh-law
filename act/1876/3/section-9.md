@@ -1,0 +1,4 @@
+# Contents of notice
+9. When any claim for compensation is made before the Collector in accordance with the last preceding section, the Collector shall issue a notice requiring all persons interested in the matter in respect of which compensation is claimed to appear personally or by agent before him at a time and place therein mentioned (such time not being earlier than fifteen days after the date of publication of the notice), and to state the nature of their respective interests in the property affected, and the amount and particulars of their claims to compensation for such interests.
+# Notice to occupiers
+The Collector shall also serve notice to the same effect on the occupier (if any) of the land entered on, and on such persons known or believed to be interested in the matter in respect of which compensation is claimed, or to be entitled to act for persons so interested, as reside within his district.

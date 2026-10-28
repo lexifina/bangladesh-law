@@ -1,0 +1,2 @@
+# Power to inspect and regulate water-supply
+34. Such canal-officer or other person may also enter upon any land, building or village-channel on account of which any water-rate is chargeable for the purpose of inspecting or regulating the use of the water supplied, or of measuring the lands irrigated thereby or chargeable with a water rate, and of doing all things necessary for the proper regulation and management of the canal from which such water is supplied.

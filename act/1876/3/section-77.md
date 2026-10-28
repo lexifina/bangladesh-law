@@ -1,0 +1,2 @@
+# Canal-officer may supply water for purposes other than those of irrigation
+77. On application being made for a supply of water to be used for purposes other than those of irrigation, the canal-officer may give permission for water to be taken for such purposes under special conditions and restrictions as to the limitation and control of the supply as he shall think proper to impose in each case.

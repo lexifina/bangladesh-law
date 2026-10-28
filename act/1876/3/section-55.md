@@ -1,0 +1,2 @@
+# Person may be admitted joint owner of existing village- channel
+55. Any person wishing to become the joint owner of an existing village-channel may petition the canal-officer to that effect, and on receipt of such petition the canal-officer may, if he thinks fit, issue a notice as provided in the last preceding section upon the registered owner, and, after hearing any objection which the registered owner may prefer against the admission of such application to be a joint owner, may direct that the applicant shall be registered as such joint owner.

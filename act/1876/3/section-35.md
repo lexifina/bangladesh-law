@@ -1,0 +1,2 @@
+# Power to enter for repairs, and to prevent accidents
+35. In case of any accident being apprehended or happening to a canal or flood-embankment, any canal-officer, or any person acting under his general or special orders in this behalf, may enter upon any lands adjacent to such canal or flood-embankment, and may execute all works which may be necessary for the purpose of preventing such accident, or repairing any damage done.

@@ -1,0 +1,4 @@
+# Canal-officer may direct transfer of village-channel
+54. Whenever a canal-officer considers that the transfer of a village-channel from the owner is necessary for the proper management of the irrigation from such village-channel, he may cause a notice to be served on the registered owner to appear on a certain day, not less than fifteen days after service of notice, and to prefer any objection to such transfer.
+After hearing such objection, the canal-officer may that such village-channel shall be transferred to such person as he may think fit, and that such person be registered as owner of the said village-channel:
+Provided that no person shall be registered as the owner of a village-channel under this section, unless he has expressed in writing his willingness to be so registered, and until he has paid to the canal-officer such sum as may be fixed by the canal-officer under section 56.

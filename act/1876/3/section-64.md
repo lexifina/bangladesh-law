@@ -1,0 +1,2 @@
+# Procedure when person applies for registration in lieu of deceased owner
+64. When any person applies for registration under the three last preceding sections, the canal-officer shall serve notice on the other registered owners to prefer any objection to the registration, transfer or succession within fifteen days, and, if no such objection shall be made, or if the objections made be deemed invalid, shall order such resignation, transfer or succession to be registered.

@@ -1,0 +1,4 @@
+# Service of notice
+32. Service of any notice under this Part shall be made by delivering or tendering a copy thereof signed by the officer therein mentioned.
+Whenever it may be practicable, the service of the notice shall be made on the person therein named.
+When such person cannot be found, the service may be made on any adult male member of his family residing with him; and, if no such adult male member can be found, the notice may be served by fixing the copy on the outer door of the house in which the person therein named ordinarily dwells or carries on business; and, if such person has no ordinary place of residence within the district, service of any notice may be made by sending copy of such notice by post in a registered cover addressed to such person at his usual place of residence.

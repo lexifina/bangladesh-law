@@ -1,0 +1,9 @@
+# Power to require statements as to name and interests
+10. The Collector may also require any person on whom a notice may be served under the last preceding section, and who makes a claim for compensation in accordance therewith, to deliver to him a statement containing, so far as may be practicable, the name of every other person possessing any interest in the property affected or any part thereof as co-proprietor, sub-proprietor, mortgagee, tenant or otherwise, and of the nature of such interests, and of the rents and profits (if any) received or receivable on account thereof for the year next preceding the date of the statement.
+# Penalty for failure to comply
+If any person shall fail to comply within the time fixed by the notice with a requisition made under this section, the Collector may impose upon him such daily fine as he may think fit, not exceeding fifty taka and such fine shall be payable daily until the requisition is complied with, and the Collector may proceed from time to time to levy the amount which has become due in respect of any such fine, notwithstanding that an appeal against the order imposing such fine may be pending:
+Provided that, whenever the amount levied under any such order shall have exceeded five hundred taka the Collector shall report the case specially to the Commissioner, and no further levy in respect of such fine shall be made otherwise than by authority of the Commissioner.
+# Persons required to make statements legally bound to do so
+Every person required to make or deliver a statement under this section shall be deemed to be legally bound to do so within the meaning of sections 175 and 176 of the [^4][Penal Code].
+
+[^4]: The words "Penal Code" were substituted, for the words "Pakistan Penal Code" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)

@@ -1,0 +1,3 @@
+# Liability when water runs to waste
+80. If water supplied through a village-channel be suffered to run to waste, and if, after inquiry by the canal-officer, the person through whose act or neglect such water was suffered to run to waste cannot be discovered, all the persons chargeable in respect of the water supplied through such village-channel for the crop then on the ground shall be jointly liable for the charges made in respect of the water so wasted, as determined by the Government under section 99.
+All questions arising under this and the last preceding section shall be decided by the canal-officer, subject to the provisions of section 91.

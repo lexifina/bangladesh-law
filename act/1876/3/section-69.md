@@ -1,0 +1,2 @@
+# Owner of village-channel receiving supply through another deceased village-channel
+69. The owner of a village-channel which receives its water through another village-channel may, at the discretion of the canal-officer, either be declared a joint owner of such other village-channel, or may be required to pay rent for the use of the same to the owner thereof, as provided in the last preceding section.

@@ -1,0 +1,2 @@
+# Instalments in which rent is payable
+70. All rent payable under either of the two last preceding sections shall be deemed to be due in the same installments and at the same periods as the water rate is due, or in such other installments and at such other dates as the canal- officer may direct, and may be collected by the canal-officer on behalf of the person entitled to it, if the canal-officer thinks fit.

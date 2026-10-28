@@ -1,0 +1,2 @@
+# Payment of compensation
+25. Payment of the compensation shall be made by the Collector in accordance with the award made by him under section 16; or the proceeding held by him under section 18, if no application be made to the Courts as provided by section19; or the award made by the Court or the decision of the Judge under section 21; or, in the case of an appeal, under section 24, in accordance with the decision in appeal, as the case may be.

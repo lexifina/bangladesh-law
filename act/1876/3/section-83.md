@@ -1,0 +1,3 @@
+# Sum payable under this Part deemed to be rent
+83. Any sum lawfully due under this Part either to the Government, or to any person who has entered into an agreement to collect dues for the Government and certified by the canal-officer to be so due, shall be deemed to be rent payable on a patta or engagement in respect of the land irrigated, and shall be recoverable as such by the person to whom it is payable:
+Provided that the claim(if any)for rent in respect of such land shall have priority over any claim for arrears of water-rate so far as regards recovery of rent by the exercise of the power of distraint.

@@ -1,0 +1,3 @@
+# Objections to amount of compensation fixed by Collector
+19. Any person on whom notice may be served under the same last preceding section, and any person interested in any property in respect of which such notice has been issued, may, within six weeks of the service of such notice, apply to the Court stating his objection to the amount of compensation as fixed by the Collector under the last preceding section, and the amount which he claims as compensation.
+On receipt of such application the Court shall proceed to determine the amount of compensation to be paid on account of the claim and all other matters, as if a reference had been made to it under section 17.

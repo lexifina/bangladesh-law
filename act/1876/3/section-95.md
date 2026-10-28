@@ -1,0 +1,3 @@
+# Obstruction to be removed and damage repaired
+95. Whenever any person is convicted of an offence under either of the last two preceding sections, the convicting Magistrate may order that he shall remove the obstruction or repair the damage in respect of which the conviction is held within a period to be fixed in such order.
+If such person neglects or refuses to obey such order within the fixed period, the canal-officer may remove such obstruction, or repair such damage, and the cost of such removal or repair shall be levied from such person by the Collector under the procedure provided by the Public Demands Recovery Act, 1913, for the recovery of public demands.

@@ -1,0 +1,2 @@
+# Order passed by Collector and canal-officer to remain in force until set aside by Civil Court
+89. Any order passed by the Collector, under either of the two last preceding sections, and, subject to the provisions of section 91, any such order passed by a canal-officer, shall remain in force until set aside by the decree of a Civil Court, and may be executed by any canal-officer as if it were a decree of the Civil Court.

@@ -1,0 +1,5 @@
+# When drainage works necessary, Government may order scheme to be drawn up and carried out
+43. Whenever it appears to the Government that any drainage works are necessary for the public health, or for the improvement or proper cultivation or irrigation of any lands in districts to which the provisions of the [^8][* * *] Embankment and Drainage Act, 1952, do not, apply, or that protection from floods or other accumulations of water, or from erosion by a river, is required for any lands,
+the Government may cause a scheme for such works to be drawn up and carried into execution, and the persons authorized by the Government to draw up and execute such scheme may exercise in connection therewith all or any of the powers conferred on canal-officers by sections 33, 34 and 35, and shall be liable to any or all of the obligations imposed upon canal-officers by sections 36 and 37.
+
+[^8]: The words "East Bengal" were omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)

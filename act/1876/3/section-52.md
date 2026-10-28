@@ -1,0 +1,2 @@
+# Collector to acquire land
+52. On receipt of copy of such notification, the Collector shall proceed to acquire such land under the provisions of the Land Acquisition Act, 1894, as if a declaration had been issued by the Government for the acquisition thereof under section 6 of that Act, and as if the Government had thereupon directed the Collector to take order for the acquisition of such land under section 7 of the said Act, and (if necessary) as if the Government had issued orders for summary possession being taken under section 17 of the said Act.

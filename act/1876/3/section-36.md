@@ -1,0 +1,2 @@
+# Notice to occupier of building, etc.
+36. When such canal-officer or person proposes, under the provisions of either of the three last preceding sections, to enter into any building or enclosed court or garden attached to a dwelling-house not supplied with water flowing from any canal, and not being adjacent to a flood embankment, he shall previously give to the occupier of such building, court or garden such reasonable notice as the urgency of the case may allow.

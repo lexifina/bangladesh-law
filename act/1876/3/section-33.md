@@ -1,0 +1,4 @@
+## Part III
+## OF THE MAINTENANCE OF CANALS
+# Entry for inquiry
+33. Whenever it shall be necessary to make any inquiry or examination in connection with a projected canal or with the maintenance of an existing canal, or with a projected flood-embankment, or with the maintenance of an existing flood-embankment, any canal-officer or other person acting under the general or special orders of a canal-officer may enter upon such land as he may think necessary for the purpose, and may exercise all powers and do all things in respect of such lands as he might exercise and do if the Government had issued a notification under the provisions of section 4 of the Land Acquisition Act, 1894, to the effect that land in that locality is likely to be needed for a public purpose; and may set upon and maintain water-gauges, and do all other things necessary for the prosecution of such inquiry and examination.
