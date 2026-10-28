@@ -1,0 +1,1 @@
+4. Branches of the scheduled banks and collecting agencies mentioned in paragraph 3 shall record the name and address of the person surrendering them and value of such currency notes and shall give a proper receipt to the person surrendering them.

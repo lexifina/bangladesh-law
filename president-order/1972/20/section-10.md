@@ -1,0 +1,3 @@
+[^1][10. Notwithstanding anything contained in this Order or any other Order or Law in force, the Bangladesh Bank may with the approval of the Government pay exchange value of demonetised Pakistani Currency Notes of Rs. 50 denomination, which were held by Courts or Customs Authorities (including those of Indian Courts and Customs Authorities seized between the 26th of March, 1971 and 16th December, 1971) as alamats or exhibit or as pieces of evidence and were released after the 8th of March, 1972, subject to production of evidence to the satisfaction of the authorities concerned.]
+
+[^1]: Article 10 was inserted by Article 2 of the Bangladesh Bank (Demonetisation of Currency Notes) (Amendment) Order, 1972 (President’s Order No. 119 of 1972)

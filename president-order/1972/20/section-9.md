@@ -1,0 +1,1 @@
+9. Whoever fails to take any action required of him by this Order or by any rule made or direction issued under paragraph 7 or furnishes false information to the person receiving the surrendered currency notes or to the committee set up under paragraph 5 of this Order shall be punishable with rigorous imprisonment which may extend to three years' or with fine or with both.

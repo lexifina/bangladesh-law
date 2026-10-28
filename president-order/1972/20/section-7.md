@@ -1,0 +1,1 @@
+7. The Government of the People's Republic of Bangladesh and/or Bangladesh Bank, for the purpose of this Order, may make such rules or issue such directives to such person or authority as it may deem necessary, and it would be mandatory for such persons or authority to execute such rules or directives as may be issued by the Government or Bangladesh Bank under this clause.
