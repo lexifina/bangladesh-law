@@ -1,0 +1,2 @@
+# Penalty for defiling or injuring post office letter-boxes.
+62. Whoever places in or against any letter-box provided by the Post Office for the reception of postal articles any fire, match or light, any explosive, dangerous, filthy, noxious or deleterious substance, or any fluid, or commits a nuisance in any such letter-box or its appurtenances or contents, shall be punishable with imprisonment for a term which may extend to one year, or with fine, or with both.

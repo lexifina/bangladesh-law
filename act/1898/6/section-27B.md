@@ -1,0 +1,16 @@
+# Power to detain newspapers and other articles being transmitted by post.
+27B.(1) Any officer of the Post Office authorized by the Post Master General in this behalf may detain any postal article in course of transmission by post which he suspects to contain –
+(a) (i) any newspaper or book as defined in the [^26][Printing Presses and Publications (Declaration and Registration) Act, 1973.]; or
+(ii) any document;
+containing any treasonable or seditious matter, that is to say, any matter the publications of which is punishable under section 123A or section 124A, as the case may be, of the Penal Code; or
+(b) any newspaper as defined in the [^27][Printing Presses and Publications (Declaration and Registration) Act, 1973,] edited, printed or published otherwise than in conformity with the rules laid down in that Act;
+and shall deliver any postal article so detained to such officer as the Government may appoint in this behalf.
+(2) Any officer detaining any postal article under the provisions of sub-section (1) shall forthwith send by post to the addressee of such article notice of the fact of such detention.
+(3) The Government shall cause the contents of any postal article detained under sub-section (1) to be examined, and if it appears to the Government that the article contained any newspaper, book or other document, of the nature described in clause (a) or clause (b) of sub-section (1), may pass such orders as to the disposal of the article and its contents as it may deem proper, and, if it does not so appear, shall release the article and its contents, unless the same be otherwise liable to seizure under any law for the time being in force:
+Provided that any person interested in any article detained under the provisions of clause (a) of sub-section (1) may, within two months from the date of such detention, apply to the Government for release of the same, and the Government shall consider such application and pass such orders thereon as it may deem to be proper:
+Provided also that, if such application is rejected, the applicant may, within two months from the date of the order rejecting the application, apply to the [^28][High Court Division] for release of the article and its contents on the ground that the article did not contain any newspaper, book or other document containing any treasonable or seditious matter.
+(4) In this section “document” includes also any painting, drawing or photograph, or other visible representation.
+
+[^26]: The words, brackets, comma and figure "Printing Presses and Publications (Declaration and Registration) Act, 1973" were substituted, for the words comma and figure “Press and Registration of Books Act, 1867” by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+[^27]: The words, brackets, comma and figure "Printing Presses and Publications (Declaration and Registration) Act, 1973" were substituted, for the words comma and figure “Press and Registration of Books Act, 1867” by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+[^28]: The words "High Court Division" were substituted, for the words "High Court" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)

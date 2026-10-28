@@ -1,0 +1,11 @@
+# Power to deal with postal articles from abroad bearing fictitious or previously used stamps.
+27.(1) Where a postal article is received by post from any place beyond the limits of Bangladesh–
+(a) bearing a fictitious postage stamp, that is to say, any facsimile or imitation or representation of a postage stamp, or
+(b) purporting to be prepaid with any postage stamp which has been previously used to prepay any other postal article,
+the officer in charge of the post office at which the postal article is received, shall send a notice to the addressee inviting him to attend, either in person or by agent, within a specified time at the post office to receive delivery of the postal article.
+(2) If the addressee or his agent attends at the post office within the time specified in the notice and consents to make known to the officer in charge of the post office the name and address of the sender of the postal article and to redeliver to the officer aforesaid the portion of the postal article which bears the address and the fictitious or previously used postage stamp, or, if the postal article is inseparable from the stamp, the entire postal article, the postal article shall be delivered to the addressee or his agent.
+(3) If the addressee or his agent fails to attend at the post office within the time specified in the notice, or, having attended within that time, refuses to make known the name and address of the sender or to redeliver the postal article or portion thereof as required by sub-section (2), the postal article shall not be delivered to him, but shall be disposed of in such manner as the Government may direct.
+Explanation– For the purposes of this section, the expression “postage stamp” includes any postage stamp for denoting any rate or duty of postage of any [^24][* * *] foreign country and the impression of any stamping machine provided or authorized for the like purpose by or under the authority of the Government of such [^25][* * *] country.
+
+[^24]: The words “part of Her Majesty’s dominions or of any Acceding State or” were omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+[^25]: The words and comma “part, State or” were omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)

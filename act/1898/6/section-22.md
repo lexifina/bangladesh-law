@@ -1,0 +1,3 @@
+# Power to postpone dispatch or delivery of certain postal articles.
+22.(1) Where the dispatch or delivery from a post office of letters would be delayed by the dispatch or delivery therefrom at the same time of book, pattern or sample packets and parcels or any of them, such packets or parcels, or any of them, may subject to such rules as the Government may make in this behalf, be detained in the Post Office so long as may be necessary.
+(2) Where separate parcel posts are established, parcels may be forwarded and conveyed by them, being detained, if necessary, in the Post Office for that purpose.

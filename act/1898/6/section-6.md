@@ -1,0 +1,2 @@
+# Exemption from liability for loss, misdelivery, delay or damage.
+6. The Government shall not incur any liability by reason of the loss, misdelivery or delay of, or damage to, any postal article in course of transmission by post, except in so far as such liability may in express terms be undertaken by the Government as hereinafter provided; and no officer of the Post Office shall incur any liability by reason of any such loss, misdelivery, delay or damage, unless he has caused the same fraudulently or by his wilful act or default.

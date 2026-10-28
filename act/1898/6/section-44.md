@@ -1,0 +1,3 @@
+# Power for remitter to recall money order or alter name of payee.
+44.(1) Subject to such conditions as the Government may, by rules made under section 43, prescribe in respect of the levy of additional rates of commission or fees or any other matters, a person remitting money through the Post Office by means of a money order may require that the amount of the order if not paid to the payee be repaid to him or be paid to such person other than the original payee as he may direct.
+(2) If neither the payee nor the remitter of a money order can be found and if within the period of one year from the date of the issue of the order no claim is made by such payee or remitter, the amount of such order shall not be claimable from the Government.

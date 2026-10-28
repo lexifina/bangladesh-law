@@ -1,0 +1,2 @@
+# Penalty for fraudulently preparing, altering, secreting or destroying Post Office documents.
+55. Whoever, being an officer of the Post Office entrusted with the preparing or keeping of any document, fraudulently prepares the document incorrectly, or alters or secretes or destroys the document, shall be punishable with imprisonment for a term which may extend to two years, and shall also be punishable with fine.
