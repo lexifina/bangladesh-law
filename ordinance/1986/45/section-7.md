@@ -1,0 +1,37 @@
+# Amendment of Act IV of 1969
+7. The following amendments shall be made in the Customs Act, 1969 (IV of 1969), namely :-
+(1) in section 78, in sub-section (2), for the full stop at the end a colon shall be substituted and thereafter the following new proviso shall be added, namely :-
+“Provided that no agent so receiving such cargo or portion shall cause it to be removed or otherwise dealt with except in accordance with the written order of the appropriate officer.”;
+(2) in section 156(1), in the TABLE,-
+(a) after item 43 in column 1 and the entries relating thereto in columns 2 and 3, the following new item 43A shall be inserted, namely :-
+Offence | Penalties | Section of the Act to which offence has reference.
+1 | 2 | 3
+"43A.If any person or agent receiving goods | if such goods cannot be recovered, the person or the agent concerned shall be liable, | 78”;
+| |
+or any portion into his custody, removes or attempts to remove them from the port area with the intention of defrauding the revenue, | | in addition to full duty, to a penalty not exceeding ten times the amount of such duty, or, if such goods are not dutiable or duty thereon cannot be ascertained, to a penalty not exceeding fifty thousand taka for every missing or deficient package or separate article, and in the case of bulk goods, to a penalty not exceeding fifty thousand taka, or ten times the value of the goods, whichever be higher; and upon conviction by a Magistrate he shall further be liable to imprisonment for a term not exceeding six years.
+(b) for the words "two hundred and fifty taka”, "five hundred taka”, "two thousand taka”, "two thousand five hundred taka”, "five thousand taka” and "ten thousand taka”, wherever occurring, the words "two thousand five hundred taka”, "five thousand taka”, "twenty thousand taka”, "twenty-five thousand taka”, "fifty thousand taka” and "one hundred thousand taka” shall, respectively, be substituted;
+(3) in section 180, for the full-stop at the end a colon shall be substituted and thereafter the following new proviso shall be added, namely:-
+"Provided that the provisions of this section shall not apply to an order of confiscation of any goods or imposition of any penalty on any person passed in consequence of a request in writing of the owner of such goods or the person concerned to the effect that the offence is admitted and that the owner of such goods or the person concerned consents in writing to accept the order passed without issuing any show cause notice to him and without prejudice to his right of appeal against such order.”;
+(4) in section 185, for the words "three years” the words "five years” and for the words "Taka five thousand” the words "ten thousand taka” shall be substituted;
+(5) for section 202 the following shall be substituted, namely :-
+"202. Recovery of Government dues- (1) When, under this Act, any duty or regulatory duty is payable to the Government by any person or a penalty is adjudged against any person or a notice or demand is served upon any person calling for the payment of any amount unpaid which may be payable by way of duty, regulatory duty, penalty or under any bond, security, guarantee or any other instrument executed under this Act or the rules or orders and such duty, regulatory duty, penalty or other sums due are not paid within the time it was required or ordered to be paid, the appropriate officer may at any time-
+(a) deduct, or require any other officer of customs to deduct, the amount so payable from any money owing to such person or due which may be in the hands or at the disposal of, or under the control of, the customs authorities or of such officer or of the Government;
+(b) stop clearance of any goods belonging to such person from customs control in the seaport, airport, any other customs-station or from bonded warehouse till such amount is paid or recovered in full;
+(c) require, by a notice in writing, any person owing any money to the person from whom such duty or regulatory duty or penalty or any other sum is recoverable or due, to pay to such officer the amount specified in the notice, or the whole of such money if it is less than the amount so recoverable or due, within seven days of the receipt of the notice or within such longer time as may be allowed by such officer;
+(d) require the proper Excise Officer to recover such amount by attachment and sale of excisable goods or any plant, machinery and equipment used for the manufacture of goods or any other goods in the factory or bonded warehouse belonging to such person;
+(e) recover, or require any other officer of customs to recover, such amount by detaining and selling any goods belonging to such person, which are under the control of the customs authorities.
+(2) If the amount is not recovered from such person in the manner provided in sub-section (1), the appropriate officer may prepare a certificate signed by him specifying the amount due from the person liable to pay the same and send it to the Collector of the district in which such person resides or owns any property or conducts his business and such Collector shall, on receiving the certificate, proceed to recover the amount specified in the certificate as a public demand or an arrear of land revenue.”;
+(6) in THE FIRST SCHEDULE,-
+(a) against Tariff Heading No. 27.09 in column (1), in column (3), for the words and figure "Taka 4.00 per metric ton” the words and figure "Taka 5000.00 per metric ton” shall be substituted;
+(b) against Tariff Heading No. 27.10 in column (1),-
+(i) against sub-head A.1 in column (2), in column (3), for the words and figure "Taka 0.85 pre litre” the words and figure "Taka 1.20 per litre” shall be substituted;
+(ii) against sub-head A.2 in column (2), in column (3), for the words and figure "Taka 0.85 per litre” the words and figure "Taka 1.00 per litre” shall be substituted;
+(iii) against sub-head C.2 in column (2), in column (3), for the words and figure "Taka 65.00 per metric ton” the words and figure "Taka 0.15 per litre” shall be substituted;
+(iv) against sub-head D.1 (a) in column (2), in column (3), for the words and figure "Taka 0.20 per litre” the words and figure "Taka 0.35 per litre” shall be substituted;
+(v) against sub-head D.2 in column (2), in column (3), for the words and figure "Taka 0.11 per litre” the words and figure "Taka 0.30 per litre” shall be substituted;
+(vi) against sub-head F.1 in column (2), in column (3), for the words and figure "Taka 0.20 per litre” the words and figure "Taka 0.25 per litre” shall be substituted;
+(vii) against sub-head G.1 in column (2), in column (3), for the words and figure "Taka 0.10 per litre” the words and figure "Taka 0.15 per litre” shall be substituted; and
+(viii) against sub-head H.2 in column (2), in column (3), for the words and figure "Taka 0.10 per litre” the words and figure "Taka 0.40 per litre” shall be substituted; and
+(c) against Tariff Heading No. 84.06 in column (1), against sub-heads E and F in column (2), in column (3), for the figure "50%” the figure "100%” shall be substituted;
+(7) in THE THIRD SCHEDULE, in item 21, for the words and semicolon "circumstances in which licence may be suspended or revoked; appeals against the suspension or revocation of licence” the following shall be substituted, namely:-
+"circumstances in which penalty may be imposed on the licensee or licence may be suspended or revoked; appeals against the penalty or suspension or revocation of the licence”.
