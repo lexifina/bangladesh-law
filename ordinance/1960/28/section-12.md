@@ -1,0 +1,2 @@
+# Restrictions on movements of tea
+12. Notwithstanding any agreement to the contrary, the Controller-General or any other officer empowered in this behalf by the Government may, by a general or special order in writing, prohibit the transport of tea from one place to another within Bangladesh by or on behalf of any dealer or other person, and direct such dealer or person to sell or deliver the whole or any part of the tea held by him to any person or persons specified in the order.

@@ -1,0 +1,10 @@
+# Maintenance of records, etc.
+17. (1) Every approved dealer shall keep such books, accounts and records relating to the business carried on by him as the Controller-General [^20][or, as the case may be, the Chairman] may require from time to time.
+(2) Every dealer or other person holding stocks of tea and every person employed in connection with the business of such dealer or other person, on being required so to do either by notice served on him or by special or general direction issued by the Controller-General [^21][or, as the case may be, the Chairman], shall-
+(a) produce before such person as may be specified in the notice or direction such accounts and other documents as may be specified in the notice or direction;
+(b) furnish to the Controller-General [^22][or, as the case may be, the Chairman] such estimates, returns and other information relating to the business as may be specified in the notice or direction ; and
+(c) permit any person or persons of a class or description mentioned in the notice or direction to enter upon, inspect and search with a view to securing compliance with this Ordinance or the rules or orders made thereunder any premises used for or in connection with the business, and seize all stocks of tea in respect of which such person or persons have reason to believe that a contravention of this Ordinance or the rules or orders made thereunder has been, is being, or is about to be, committed.
+
+[^20]: The words and commas “or, as the case may be, the Chairman” were inserted by Article 4 of the Tea (Control of Prices, Distribution and Movement) Ordinance (Amendment) Order, 1972 (President’s Order No. 160 of 1972)
+[^21]: The words and commas “or, as the case may be, the Chairman” were inserted by Article 4 of the Tea (Control of Prices, Distribution and Movement) Ordinance (Amendment) Order, 1972 (President’s Order No. 160 of 1972)
+[^22]: The words and commas “or, as the case may be, the Chairman” were inserted by Article 4 of the Tea (Control of Prices, Distribution and Movement) Ordinance (Amendment) Order, 1972 (President’s Order No. 160 of 1972)
