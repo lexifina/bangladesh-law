@@ -1,0 +1,6 @@
+# Determination of value of certain suits by Supreme Court
+9. When the subject-matter of suits of any class, other than suits mentioned in the Court-fees Act, 1870, section 7, paragraphs v and vi and paragraph x, clause (d), is such that in the opinion of the [^4][Supreme Court] it does not admit of being satisfactorily valued the [^5][Supreme Court] may, with the previous sanction of the Government, direct that suits of that class shall, for the purposes of the Court-fees Act, 1870, and of this Act and any other enactment for the time being in force, be treated as if their subject-matter were of such value as the [^6][Supreme Court] thinks fit to specify in this behalf.
+
+[^4]: The words “Supreme Court” were substituted, for the words “High Court” by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+[^5]: The words “Supreme Court” were substituted, for the words “High Court” by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).
+[^6]: The words “Supreme Court” were substituted, for the words “High Court” by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
