@@ -1,0 +1,2 @@
+# Penalty for teasing women
+79. Whoever wilfully and indecently exposes his person in any street or public place within sight of, and in such manner as may be seen by, any woman, whether from within any house or building or not, or wilfully presses or obstructs any woman in a street or public place or insults or annoys any woman by using indecent language or making indecent sounds, gestures or remarks in any street or public place, shall be punishable with imprisonment for a term which may extend to one year, or with fine which may extend to two thousand taka, or with both.

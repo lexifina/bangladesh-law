@@ -1,0 +1,2 @@
+# Penalty for indecent behaviour in public
+78. Whoever wilfully and indecently exposes his person in any street or public place or within sight of, and in such manner as may be seen from any street or public place whether from within any house or building or not, or uses indecent language or behaves indecently or riotously, or in a disorderly manner in a street or public place or in any office, station or landing place, shall be punishable with imprisonment for a term which may extend to three months, or with fine which may extend to five hundred taka, or with both.

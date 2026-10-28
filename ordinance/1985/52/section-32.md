@@ -1,0 +1,3 @@
+# Power of Police Commissioner to requisition vehicles
+32. Notwithstanding anything contained in any other law for the time being in force, the Police Commissioner may, with the previous approval of, and subject to such directions as may be given by, the Government, requisition any vehicle for carrying on any operation by the Force:
+Provided that if the Police Commissioner is satisfied that circumstances exist which render immediate action necessary, he may requisition any vehicle without the previous approval of the Government, but in that case he shall forthwith report the fact of such requisition to the Government.

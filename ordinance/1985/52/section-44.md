@@ -1,0 +1,6 @@
+# Hearing to be given before order under sections 40, 41 or 42 is made
+44. (1) Before an order under sections 40, 41 or 42 is made in respect of any person the Police Commissioner shall inform the person in writing of the general nature of the material allegations against him and the order proposed to be made in respect of him and give a reasonable opportunity of tendering an explanation regarding them.
+(2) If such person makes an application for the examination of any witness, the Police Commissioner shall examine such witness, unless, for reasons to be recorded in writing, he is of opinion that such application is made for the purpose of vexation or delay.
+(3) Such person shall be entitled to appear before the Police Commissioner by a lawyer for the purpose of tendering his explanation and examining the witnesses produced by him.
+(4) The Police Commissioner may, for the purpose of securing the attendance of such person, require that person to appear before him and to execute a bond, with or without sureties, for such attendance during the inquiry.
+(5) If such person fails to execute the bond as required under sub-section (4) or fails to appear before the Police Commissioner during the inquiry, the Police Commissioner may proceed with the inquiry and make the order proposed to be made against him.

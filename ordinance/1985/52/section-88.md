@@ -1,0 +1,2 @@
+# Penalty for false alarm of fire or damage to fire alarm
+88. Whoever knowingly gives or cause to be given a false alarm of fire to the fire-brigade or to any officer or firemen thereof, whether by means of a street fire-alarm, message or otherwise, or, with intent to give such false alarm, wilfully breaks the glass of, or otherwise damages, a street fire-alarm, shall be punishable with imprisonment for a term which may extend to three months, or with fine which may extend to five hundred taka, or with both.

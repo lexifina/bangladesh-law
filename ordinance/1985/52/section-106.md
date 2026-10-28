@@ -1,0 +1,9 @@
+# Power of police-officer to impose penalty in certain cases
+106. (1) If a police-officer, not below such rank as the Police Commissioner may by public notice specify, finds that an offence punishable under section 67, 68, 69 or 70 has been committed, he may give the person who has committed the offence or, when such person is not available, affix on the body of the vehicle in respect of which the offence has been committed, a notice in the prescribed form specifying-
+(a) the offence committed by such person;
+(b) the penalty, not exceeding fifty taka, in the case of a motor vehicle and ten taka, in any other case, which he is to pay; and
+(c) the date on which he is to appear before the Magistrate and pay the penalty.
+(2) If such person appears before the Magistrate and pays the penalty on the specified date, no further proceeding in respect of the offence committed by him shall be taken against him.
+(3) If such person fails to appear before the Magistrate and pay the penalty on the specified date or does not show any cause to the satisfaction of the Magistrate for such failure, the penalty shall be realised from him in the same manner in which a fine imposed by a Magistrate may be realised as if it were a fine imposed by a Magistrate under this Ordinance.
+(4) If such person appears before the Magistrate on the specified date but denies to have committed the offence specified in the notice, the Magistrate shall take cognizance of the offence specified in the notice, treating the notice to be a report in writing made by the police-officer who wrote it, and proceed with the case in accordance with the other provisions of this Ordinance, and in the trial of the case the burden shall lie upon such person to prove that he has not committed such offence.
+(5) The provisions of this section shall have effect notwithstanding anything contained in this Ordinance or in any other law for the time being in force.

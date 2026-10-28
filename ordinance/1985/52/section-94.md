@@ -1,0 +1,2 @@
+# Penalty for melting, etc., of such property
+94. Whoever, having received such information as is referred to in section 93, alters, melts, defaces or puts away or causes or suffers to be altered, melted, defaced or put away, without the previous permission of the police, any such property, shall on proof that the same was stolen or fraudulently obtained, be punishable with imprisonment for a term which may extend to six months, or with fine which may extend to one thousand taka, or with both.
