@@ -1,0 +1,2 @@
+# Telegraph lines and posts placed before the passing of this Act
+19. Every telegraph line or post placed before the passing of this Act under, over, along, across, in or upon any property, for the purposes of a telegraph established or maintained by the Government, shall be deemed to have been placed in exercise of the powers conferred by, and after observance of all the requirements of, this Act.

@@ -1,0 +1,3 @@
+### Provisions applicable to Property vested in or under the Control or Management of Local Authorities.
+# Power for local authority to give permission under section 10, clause (c), subject to conditions
+12. Any permission given by a local authority under section 10, clause (c), may be given subject to such reasonable conditions as that authority thinks fit to impose, as to the payment of any expenses to which the authority will necessarily be put in consequence of the exercise of the powers conferred by that section, or as to the time or mode of execution of any work, or as to any other thing connected with or relative to any work undertaken by the telegraph authority under those powers.

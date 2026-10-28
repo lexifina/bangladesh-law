@@ -1,0 +1,3 @@
+# Power to confer upon licensee powers of telegraph authority under this Part
+19B. The Government may, by notification in the official Gazette, confer upon any licensee under section 4, in respect of the extent of his license and subject to any conditions and restrictions which the Government may think fit to impose and to the provisions of this Part, all or any of the powers which the telegraph authority possesses under this Part with regard to a telegraph established or maintained by the Government or to be so established or maintained:
+Provided that the notice prescribed in section 19A shall always be given to the telegraph authority or officer empowered to received notice under section 19A (1).]

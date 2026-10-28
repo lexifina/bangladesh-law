@@ -1,0 +1,5 @@
+# Power for Government to take possession of licensed telegraphs and to order interception of messages
+5. (1) On the occurrence of any public emergency, or in the interest of the public safety, the Government or any officer specially authorised in this behalf by the Government, may-
+(a) take temporary possession of any telegraph established, maintained or worked by any person licensed under this Act; or
+(b) order that any message or class of messages to or from any person or class of persons or relating to any particular subject brought for transmission by, or transmitted or received by, any telegraph, shall not be transmitted, or shall be intercepted or detained, or shall be disclosed to the Government making the order or an officer thereof mentioned in the order.
+(2) If any doubt arises as to the existence of a public emergency, or whether any act done under sub-section (1) was in the interest of the public safety, a certificate of the Central or, as the case may be, the Government shall be conclusive proof on the point.

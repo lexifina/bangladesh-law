@@ -1,0 +1,4 @@
+# Recovery of dues in respect of telegraph, etc.
+[^3][7A. If any person does not pay any sum due from him under this Act in respect of any telegraph or message, the sum so due may, on application made by the telegraph authority in this behalf, be recovered from such person, as if it were a fine imposed under this Act by any Magistrate having jurisdiction where that person may for the time being be resident; and the telegraph authority may further direct that any message, or postal article as defined in clause (i) of section 2 of the Post Office Act, 1898 not being on Bangladesh State Service, addressed to that person, shall be withheld from him until the sum so due is paid or recovered as aforesaid.]
+
+[^3]: Section 7A was inserted by section 2 of the Telegraph (Amendment) Act, 1957 (Act No. XXV of 1957)

@@ -1,0 +1,2 @@
+# Misconduct
+28. If any telegraph officer, or any person not being a telegraph officer but having official duties connected with any office which is used as a telegraph office, is guilty of any act of drunkenness, carelessness or other misconduct whereby the correct transmission or the delivery of any message is impeded or delayed, or if any telegraph officer loiters or delays in the transmission or delivery of any message, he shall be punished with imprisonment for a term which may extend to three months, or with fine which may extend to one hundred Taka or with both.
