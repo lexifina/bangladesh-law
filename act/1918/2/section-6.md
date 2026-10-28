@@ -1,0 +1,5 @@
+# Punishment for contravention of this Act and rules made thereunder
+[^8][6.(1) If the owner or person in charge of a cinematograph uses the same or allows it to be used, or if the owner or occupier of any place permits that place to be used, in contravention of the provisions of this Act or the rules made thereunder, or of the conditions and restrictions upon, or subject to which, any licence has been granted under this Act, he shall be punishable with imprisonment for a term which may extend to three years or with fine which may extend to ten thousand taka, or with both; and his licence, if any, shall be liable to be revoked by the licensing authority.
+(2) If any person is convicted of an offence punishable under this Act committed by him in respect of any cinematograph, film or cassette, the convicting Court may further direct that the cinematograph, film or cassette shall be forfeited to the Government.]
+
+[^8]: Section 6 was substituted, for the former section 6 by section 4 of the Cinematograph (Amendment) Ordinance, 1982 (Ordinance No. LVII of 1982)
