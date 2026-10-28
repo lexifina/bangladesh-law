@@ -1,0 +1,2 @@
+# Interpretation in case of doubt
+29. If any question arises regarding the interpretation of any provision of this Ordinance or of any Statute, University Ordinance or Regulation, or as to whether any person has been duly nominated as, or is entitled to be, a member of any Authority or other body of the University, the matter shall be referred to the Chancellor, whose decision thereon shall be final.
