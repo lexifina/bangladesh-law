@@ -1,0 +1,4 @@
+# Power to declare certain publications forfeited and to issue search warrants for the same
+[^9][20A. Where any book or paper wherever made appears to the Government to contain any words, signs or visible representations which are indecent, obscene or scurrilous, the Government may, by notification in the official Gazette, stating the grounds of its opinion, declare all copies of such book or paper to be forfeited to the Government and thereupon any police officers may seize the same wherever found in Bangladesh, and any District Magistrate may by warrant authorise any police officer not below the rank of Sub-Inspector to enter upon and search for the same in any premises where any copy of such book or paper may be or may be reasonably suspected to be.]
+
+[^9]: Section 20A was inserted by section 2 of the Printing Presses and Publications (Declaration and Registration) (Amendment) Ordinance, 1976 (Ordinance No. II of 1976)

@@ -1,0 +1,2 @@
+# Penalty for failure to supply copies of newspapers gratis to Government
+35. If any printer of any newspaper published in Bangladesh neglects to deliver copies of the same in compliance with section 26, he shall, on the complaint of the officer to whom copies should have been delivered or of any person authorised by that officer in this behalf, be punishable with fine which may extend to Taka five hundred for every default.

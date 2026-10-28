@@ -1,0 +1,2 @@
+# Putting copy of declaration under section 16 in evidence
+19. In any legal proceeding in which a copy of a declaration under section 7 attested in accordance with section 14 has been put in evidence, it shall be lawful to put in evidence a copy of a declaration under section 16 attested in accordance with section 18, and the former declaration shall not then be taken to be evidence that the declarant , was, at any period subsequent to the date of the latter declaration, printer or publisher of the newspaper therein mentioned.

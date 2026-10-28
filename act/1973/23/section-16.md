@@ -1,0 +1,2 @@
+# New declaration by person who have signed declaration and subsequently ceased to be printers or publishers
+16. Every person who having subscribed a declaration under section 7 subsequently ceases to be the printer or publisher of the newspaper mentioned in such declaration shall appear, in person or by agent authorised in this behalf in the manner prescribed, before the District Magistrate, and make and subscribe in duplicate originals a declaration in Form C.
