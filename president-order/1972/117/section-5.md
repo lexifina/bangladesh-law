@@ -1,0 +1,7 @@
+5. (1) On the dissolution of Committee of management, the Ad hoc Committee appointed under [^7][Article 3] shall exercise all powers, perform all functions and enjoy all privileges as were exercisable, performable or enjoyable by the Committee of management.
+(2) Notwithstanding anything to the contrary contained in any law, rule, bye-law, [^8][, document] memorandum of association, an Ad hoc Committee of an institution set up by any rule, bye-law [^9][, document] or memorandum of association whether registered under the Societies Registration Act, 1860 (Act XXI of 1860), or not, shall, with the approval of Government, have power to make necessary amendments in such rule, bye-law [^10][, document] or memorandum of association.
+
+[^7]: The word and figure “Article 3” were substituted for the word and figure “Article 1” by section 6 of the Bangladesh Committee of Management (Temporary Arrangement) (Amendment) Act, 1973 (Act No. XXIX of 1973)
+[^8]: The comma and word “, document” were inserted by section 6 of the Bangladesh Committee of Management (Temporary Arrangement) (Amendment) Act, 1973 (Act No. XXIX of 1973)
+[^9]: The comma and word “, document” were inserted by section 6 of the Bangladesh Committee of Management (Temporary Arrangement) (Amendment) Act, 1973 (Act No. XXIX of 1973)
+[^10]: The comma and word “, document” were inserted by section 6 of the Bangladesh Committee of Management (Temporary Arrangement) (Amendment) Act, 1973 (Act No. XXIX of 1973)
