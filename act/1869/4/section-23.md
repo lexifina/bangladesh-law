@@ -1,0 +1,2 @@
+# Application for separation made by petition
+23. Application for judicial separation on any one of the grounds aforesaid may be made by either husband or wife by petition to the District Court or the High Court Division; and the Court, on being satisfied of the truth of the statements made in such petition, and that there is no legal ground why the application should not be granted, may decree judicial separation accordingly.

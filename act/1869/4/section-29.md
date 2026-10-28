@@ -1,0 +1,2 @@
+# Discharge or variation of orders
+29. The husband or any creditor of, or person claiming under him, may apply to the Court by which such order was made for the discharge or variation thereof, and the Court, if the desertion has ceased, or if for any other reason it think fit so to do, may discharge or vary the order accordingly.

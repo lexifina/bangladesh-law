@@ -1,0 +1,2 @@
+# Court to be satisfied of absence of collusion
+12. Upon any such petition for the dissolution of a marriage, the Court shall satisfy itself, so far as reasonable can, not only as to the facts alleged, but also whether or not the petitioner has been on any manner accessory to, or conniving at the going through of the said form of marriage, or the adultery, or has condoned the same, and shall also inquire into any countercharge which may be made against the petitioner.

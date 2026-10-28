@@ -1,0 +1,2 @@
+# Wife’s legal position during continuance of order
+31. So long as any such order of protection remains in force, the wife shall be and be deemed to have been, during such desertion of her, in the like position in all respects, with regard to property and contracts and suing and being sued, as she would be under this Act if she obtained a decree of judicial separation.

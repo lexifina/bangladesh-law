@@ -1,0 +1,2 @@
+# English clergyman not compelled to solemnize marriages of persons divorced for adultery
+58. No clergyman in Holy Orders of the Church of England shall be compelled to solemnize the marriage of any person whose former marriage has been dissolved on the ground of his or her adultery, or shall be liable to any suit, penalty or censure for solemnizing or refusing to solemnize the marriage of any such person.

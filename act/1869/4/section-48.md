@@ -1,0 +1,2 @@
+# Suits on behalf of lunatics
+48. When the husband or wife is a lunatic or idiot, any suit under this Act (other than a suit for restitution of conjugal rights) may be brought on his or her behalf by the committee or other person entitled to his or her custody.

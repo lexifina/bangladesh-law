@@ -1,0 +1,3 @@
+# Power to order settlements of wife’s property for benefit of husband and children
+39. Whenever the Court pronounces a decree of dissolution of marriage or judicial separation for adultery of the wife, if it is made to appear to the Court that the wife is entitled to any property, the Court may, if it thinks fit, order such settlement as it thinks reasonable to be made of such property or any part thereof, for the benefit of the husband, or of the children of the marriage, or of both.
+Any instrument executed pursuant to any order of the Court at the time of or after the pronouncing of a decree of dissolution of marriage or judicial separation shall be deemed valid notwithstanding the existence of the disability of covertures at the time of the execution thereof.
