@@ -1,0 +1,2 @@
+# Saving as to statements in instruments of transfer where landlord is not a party
+25. Notwithstanding anything contained in the Evidence Act, 1872, nothing contained in any instrument of transfer to which the landlord is not a party shall be evidence against the landlord of the permanence, the amount or fixity of rent, the area, the transferability or any incident of any tenancy referred to in such instrument.

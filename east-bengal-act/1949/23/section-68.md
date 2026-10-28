@@ -1,0 +1,4 @@
+# Application to record evidence as to improvement
+68. (1) If any non-agricultural tenant holding any non-agricultural land desires that evidence relating to any improvement made in respect thereof be recorded, he may apply to the prescribed Revenue-officer and such Revenue-officer shall thereupon, at a time and place of which notice shall be given to the parties, record the evidence:
+Provided that such Revenue-officer shall not so record the evidence if he considers that there were no reasonable grounds for the making of the application, or if it appears to him that the subject-matter thereof is under inquiry in a Civil Court.
+(2) When any matter has been recorded under this section, the record thereof shall be admissible in evidence in every subsequent proceeding between the landlord and the non-agricultural tenant or any persons claiming under them.

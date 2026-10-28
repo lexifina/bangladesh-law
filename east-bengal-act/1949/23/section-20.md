@@ -1,0 +1,5 @@
+# Ejectment of an under-tenant
+20. Notwithstanding anything contained in any other law for the time being in force or in any contract, an under-tenant shall, subject to the provisions of this Act, be liable to ejectment on one or more of the following grounds, and not otherwise, namely:-
+(a) on the ground that he has used the non-agricultural land comprised in his tenancy in a manner which renders it unfit for use for any of the purposes specified in section 4;
+(b) on the ground that the term of his lease has expired when he holds the non-agricultural land under a written lease:
+Provided that in the case where any non-agricultural land is held by an under-tenant without a lease in writing or under a lease in writing but no term is specified in such lease, it shall be also lawful for his landlord to eject him from such land after having given him six months' notice in writing expiring with the end of a year of the tenancy, and on payment of such reasonable compensation as may be determined by the Deputy Commissioner in the prescribed manner.

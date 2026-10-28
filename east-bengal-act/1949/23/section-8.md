@@ -1,0 +1,13 @@
+# Renewals of lease of tenancies held for not less than twelve years and succession to, and transfer of, such tenancies
+8. (1) Notwithstanding anything contained in any other law for the time being in force or in any contract, where any non-agricultural land is held under a lease in writing for a term of not less than twelve years specified in such lease, the tenant holding such land shall, on the expiration of the period so specified, be entitled to the renewal of such lease for perpetuity on such fair and reasonable rent as may be determined under Chapter XIV of the [^7][* * *] State Acquisition and Tenancy Act, 1950:
+Provided that no premium or salami shall be payable in respect of such renewal.
+(2) Omitted by section 5 of the East Bengal Non-Agricultural Tenancy (Amendment) Ordinance, 1967 (East Pakistan Ordinance No. IX of 1967).
+(3) A tenant holding non-agricultural land comprised in a tenancy to which the provisions of sub-section (1) apply shall not be ejected by his landlord from such land during the term specified in the lease, nor at any time after the tenant has exercised his right of renewal, except on the ground that he has used such land in a manner which renders it unfit for use for any of the purposes specified in section 4.
+(4) The interest of the tenant in any non-agricultural land held under a lease to which the provisions of sub-section (1) apply shall, during the term specified in the lease, or where the tenant has exercised his right of renewal, at any time thereafter-
+(i) in the case where such tenant dies intestate in respect of such interest, be, subject to the provisions of section 91 of the [^8][* * *] State Acquisition and Tenancy Act, 1950, transmitted by inheritance in the same manner as his other immovable property:
+Provided that in any case in which, under the law of inheritance to which such tenant is subject, his other property goes to the State his interest in such land shall be extinguished; and
+(ii) subject to the provisions of this Act and of section 90 of the [^9][* * *] State Acquisition and Tenancy Act, 1950, be capable of being transferred and bequeathed in the same manner and to the same extent as his other immovable property.
+
+[^7]: The words “East Bengal” were omitted by Article 6 of the Bangladesh (Adaptation of Existing Laws) Order, 1972 (President’s Order No. 48 of 1972)
+[^8]: The words “East Bengal” were omitted by Article 6 of the Bangladesh (Adaptation of Existing Laws) Order, 1972 (President’s Order No. 48 of 1972)
+[^9]: The words “East Bengal” were omitted by Article 6 of the Bangladesh (Adaptation of Existing Laws) Order, 1972 (President’s Order No. 48 of 1972)

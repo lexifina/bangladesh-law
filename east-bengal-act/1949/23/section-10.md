@@ -1,0 +1,3 @@
+# Special provisions applicable to tenancies for specific religious purposes
+10. Notwithstanding anything elsewhere contained in this Act or in any other law for the time being in force or in any contract, if the non-agricultural land comprised in any tenancy is held specifically for any religious purpose for any period under a lease in writing in which such purpose is specified, then such tenancy shall be deemed to be a tenancy of the class specified in section 7:
+Provided that the tenant holding such land shall not be ejected by his landlord from such land except on the ground that he has used such land for any purpose other than the said religious purpose or has not used the land for the said religious purpose for more than three years.
