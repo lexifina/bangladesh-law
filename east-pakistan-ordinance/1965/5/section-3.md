@@ -1,0 +1,3 @@
+# Restriction on Publication of certain books or works
+3. (1) No person shall, except with the permission of the Government or such officer as may be specially empowered in this behalf, print or publish any book or work which is first printed or published in any foreign country.
+(2) Any person who has printed or published any book or work, which was first printed or published in any foreign country, immediately before the commencement of this Ordinance, shall, within two months from the date of commencement of this Ordinance, obtain permission of the Government under this Ordinance for publication or putting on circulation of such books or works.
