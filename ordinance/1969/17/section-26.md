@@ -1,0 +1,3 @@
+# Revision and review
+26. (1) Any order passed or made under this Ordinance by an officer or authority subordinate to the Commission or exercising powers of the Commission in pursuance of a direction under section 28 shall be subject to revision by the Commission upon application being made by any aggrieved person within ninety days from the date of such order; and the Commission's order in revision shall be final.
+(2) The Commission may, upon an application being made to it within a period of six months from the date of any order passed by it otherwise than in revision under sub-section (1) or on its own motion, review such order; and the Commission's order in review shall be final.

@@ -1,0 +1,3 @@
+# Power to exempt and to condone contraventions
+2D. (1) The Commission may, by general order which shall be notified in the official Gazette, provide for the granting of exemption from all or any of the provisions of sections 2A, 2B and 2C.
+(2) The Commission may, by order, condone a contravention of any of the provisions of section 2A or section 2B and on the making of such order the provisions of this Ordinance shall have effect as if an exemption had been granted under sub-section (1) of this section in respect of the thing done or omitted to be done in contravention of section 2A or section 2B, as the case may be.

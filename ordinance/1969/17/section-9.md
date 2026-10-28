@@ -1,0 +1,13 @@
+# Listing of securities
+9. (1) An issuer who intends to get any of his securities listed on a Stock Exchange shall submit an application therefore, in the prescribed form to the Stock Exchange and submit a copy of the application to the Commission. Listing of securities
+(2) Upon receipt of an application under sub-section (1), the Stock Exchange may, if it is satisfied after making such inquiry as it may consider necessary that the applicant fulfils the conditions prescribed in this behalf, list the security for dealings on the Stock Exchange.
+(3) Where a Stock Exchange refuses to list a security, the Commission may, either on petition by the applicant made within the prescribed time or on its own motion, direct the Stock Exchange to list the security.
+(4) Where after the listing of a security, the Commission or Stock Exchange finds that the application is deficient in any material respect or that the issuer has failed to comply with any prescribed condition or requirement and that the continued listing of the security would not be in the public interest, the Commission or, as the case may be, the Stock Exchange may, by order, either require the issuer to correct the deficiency or comply with the prescribed condition or requirement within the time specified in the order or revoke the listing.
+(5) A listed security may be de-listed on application by the issuer to the Stock Exchange which may deny the application or grant it on such conditions as appear necessary or appropriate for the protection of investors.
+(6) Where a Stock Exchange refuses to de-list a security, the Commission may, on petition by the applicant made within the prescribed time, direct the Stock Exchange to de-list the security.
+(7) The Commission or a Stock Exchange may, if it considers it to be in the interest of trade or in the public interest so to do, suspend, by order recording the reasons, trading in any listed security.
+(8) An order under sub-section (7) shall remain in force for a period of [^25][thirty] days which the Commission or, as the case may be, the Stock Exchange may extend for further periods not exceeding [^26][fifteen] days at any time.
+(9) No application submitted under sub-section (1) shall be refused, and no listing shall be revoked under sub-section (4), unless the issuer has been given an opportunity of being heard.
+
+[^25]: The word “thirty” was substituted for the word “fourteen” by section 6 of the Securities and Exchange (Amendment) Act, 2012 (Act No. XLVI of 2012).
+[^26]: The word “fifteen” was substituted for the word “fourteen” by section 6 of the Securities and Exchange (Amendment) Act, 2012 (Act No. XLVI of 2012).

@@ -1,0 +1,2 @@
+# Submission of statements of beneficial owners of listed equity securities
+12. Every director or officer of an issuer who is or has been the beneficial owner of any class of its listed equity securities and every person who is directly or indirectly the beneficial owner of more than ten per cent of any class of such securities shall submit to the Commission such returns pertaining to the beneficial ownership of such securities in such form and at such times or at such intervals as may be prescribed.
