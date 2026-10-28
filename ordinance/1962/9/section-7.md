@@ -1,0 +1,4 @@
+# Recovery of cost of demolition of structures
+7. (1) The cost of demolition of structures under section 3 or section 4, hereafter in this section referred to as the cost, shall be payable to the Port Authority by the lessee or unauthorised occupant evicted .
+(2) If the cost is not paid on demand, the Authorised Officer may, on an application made in this behalf by the Port Authority, and after giving the lessee or the unauthorised occupant an opportunity of being heard, cause the materials of the structures demolished to be sold in auction in such manner as may be prescribed.
+(3) If the proceeds of the sale under sub-section (2) are not sufficient to cover the cost, the balance shall be recoverable as arrears of land revenue and, if such proceeds exceed the cost, the excess shall be paid to the lessee or the unauthorised occupant.
