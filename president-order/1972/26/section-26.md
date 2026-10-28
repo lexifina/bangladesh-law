@@ -1,0 +1,1 @@
+26. Any reference to any existing bank in any law, other than this Order, or in any contract or other instrument shall, in so far as it relates to the undertaking which has been transferred by Article 6, be construed as a reference to the corresponding new bank.

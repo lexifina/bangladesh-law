@@ -1,0 +1,3 @@
+8. (1) The Government shall give compensation to each existing bank for acquisition of such of its undertaking as has not already vested in Government by or under any law, and such compensation shall be distributed among the shareholders of the existing bank in the manner prescribed by rules made under this Order:
+Provided that the total compensation payable to an existing bank under this clause shall not exceed the total paid up value of the shares held by the shareholders, among whom such compensation is to be distributed.
+(2) The compensation payable under clause (1) shall be determined and paid in such form and manner as may be prescribed by rules made under this Order.

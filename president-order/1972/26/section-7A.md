@@ -1,0 +1,3 @@
+[^5][7A. Notwithstanding anything contained in Article 6 or 7, the undertaking shall not embrace and shall be deemed never to have embraced liabilities and obligations of whatever kind of existing bank whereunder such existing banks undertook liability (whether absolutely or otherwise) to do or carry out or procure the carrying out of acts or things outside Bangladesh, or the transfer or remission from outside Bangladesh to the territory of Bangladesh or to persons normally resident or carrying on business within that territory of any assets or property (including documents, cash, funds or choses in action).
+
+[^5]: Articles 7A and 7B were inserted by Article 2 of the Bangladesh Banks (Nationalisation) (Second Amendment) Order, 1972 (President’s Order No. 132 of 1972)

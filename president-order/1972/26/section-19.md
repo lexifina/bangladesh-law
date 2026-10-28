@@ -1,0 +1,4 @@
+19. (1) All acts done by the Managing Director of any new bank, acting in good faith, shall, notwithstanding any defect in his appointment or in the procedure, be valid.
+(2) No act or proceeding of any Board shall be invalid merely on the ground of the existence of any vacancy in, or defect in, the constitution of such Board.
+(3) All acts done by a person acting in good faith as a Director of any new bank shall be valid, notwithstanding that it may afterwards be discovered that his appointment was invalid by reason of any defect or disqualification or had terminated by virtue of any provision contained in any law for the time being in force:
+Provided that nothing in this Article shall be deemed to give validity to any act by a Director after his appointment has been shown to be invalid or to have terminated.

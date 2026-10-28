@@ -1,0 +1,5 @@
+9. (1) The general superintendence, direction and management of the affairs and business of a new bank shall vest in a Board of Directors which shall [^6][, subject to such general or special orders as the Government may give it from time to time,] be entitled to exercise all such powers and do all such acts and things as the new bank is authorised to exercise and do.
+[^7][(2) Until the first Board of Directors is appointed by the Government under Article 10, the Managing Director appointed under Article 11 shall, subject to such general or special orders as the Government may give from time to time, exercise all powers, do all acts and things as may be exercised or done by the Board.]
+
+[^6]: The commas and words “, subject to such general or special orders as the Government may give it from time to time,” were inserted by Article 2 of the Bangladesh Banks (Nationalisation) (Second Amendment) Order, 1972 (President’s Order No. 132 of 1972)
+[^7]: Clause (2) was substituted by section 2 of the Bangladesh Banks (Nationalisation) (Amendment) Act, 1974 ( Act No. XX of 1974)

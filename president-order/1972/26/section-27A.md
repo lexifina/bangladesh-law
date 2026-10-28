@@ -1,0 +1,6 @@
+[^26][27A. (1) Notwithstanding anything contained in this Order, the Government may, if in the national interest it deems it expedient so to do, transfer, by agreement, the entire undertaking of any new bank to any company registered under the Companies Act, 1913 (VII of 1913), on such terms and conditions as may be settled with such company.
+(2) Where the entire undertaking of any new bank has been transferred under clause (1), such new bank shall, on such date as the Government may by order notified in the official Gazette specify, stand dissolved.
+Explanation.- The undertaking of a new Bank includes its business, projects, schemes, assets, rights, powers, authorities and privileges, its properties, movable and immovable, reserve funds, investments and deposits and its borrowings, liabilities and obligations of whatever nature.
+(3) The Government may, for the purpose of removing any difficulty in relation to the transfer of the undertaking of a new bank under clause (1) or the dissolution of such bank under clause (2), make such order as it considers expedient and any such order shall be deemed to be, and given effect to as, part of the provisions of this Order.]
+
+[^26]: Article 27A was inserted by section 2 of the Bangladesh Banks (Nationalisation) (Amendment) Ordinance, 1983 (Ordinance No. XLVII of 1983)

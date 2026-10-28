@@ -1,0 +1,1 @@
+25. After making provision for bad and doubtful debts, depreciation of assets and such other matter as may be prescribed, every new bank may, out of its net profits, establish a reserve fund and any surplus remaining thereafter shall be paid to the Government.

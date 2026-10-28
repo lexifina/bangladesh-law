@@ -1,0 +1,1 @@
+27. No provision of law relating to the winding up of companies including banking companies shall apply to any new bank, and the new bank shall not be wound up save by order of the Government and in such manner as it may direct.
