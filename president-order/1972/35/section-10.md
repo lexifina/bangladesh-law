@@ -1,0 +1,1 @@
+10. No suit, prosecution or other legal proceeding shall lie against the Government or any person for anything which is in good faith done or intended to be done under this Order or the rules made thereunder.

@@ -1,0 +1,1 @@
+4. Any person claiming any interest in the land resumed under Article 3, on the ground of having taken lease of such land or any part thereof or having purchased it from any person or otherwise, may, within sixty days after the publication of the notification under Article 3, apply for compensation in the prescribed manner to the Revenue-Officer.

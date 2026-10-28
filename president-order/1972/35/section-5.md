@@ -1,0 +1,1 @@
+5. When an application is made under Article 4, the Revenue-Officer, after giving the applicant an opportunity of being heard and taking such evidence and making such enquiries as he thinks fit, may either reject it recording the reasons for such rejection or allow it for the purpose of assessing compensation.
