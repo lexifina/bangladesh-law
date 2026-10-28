@@ -1,0 +1,2 @@
+# Immunity of chief representative
+3. A chief representative is and shall be entitled to the immunity from suit and legal process, and to the inviolability of residence, official premises and official archives, to which he would be entitled if he were an envoy.
