@@ -1,0 +1,1 @@
+2. No suit, prosecution or other legal proceeding shall lie in any Court against any person for or on account of or in respect of any act done during the period from the 1st day of March, 1971 to the 16th day of December, 1971, in connection with the struggle for national liberation or for maintenance or restoration of order up to the 28th day of February, 1972.
