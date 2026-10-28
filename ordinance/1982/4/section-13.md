@@ -1,0 +1,3 @@
+# Penalty
+13. (1) If any registered medical practitioner or any owner of a private laboratory contravenes any provision of this Ordinance, he shall be punishable with fine which may extend to five thousand Taka, and the Court, while convicting such owner may order forfeiture to the Government of all or any of the movable property in the laboratory.
+(2) If any owner of a private clinic contravenes any provision of this Ordinance, he shall be punishable with imprisonment for a term which may extend to six months, or with fine which may extend to five thousand Taka, or with both, and the Court, while convicting such owner, may order forfeiture to the Government of all or any of the movable property in the clinic.
