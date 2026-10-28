@@ -1,0 +1,2 @@
+# Ordinance No. XXXVI of 1984 এর section 184F এর সংশোধন
+৬২। উক্ত Ordinance এর section 184F এর “tax on income and exemption of tax thereof” শব্দগুলির পরিবর্তে “the imposition and the collection of tax, the exemption of any income from tax, the reduction of the rate of tax, the calling for any information for the purpose of taxation, and the protection of information under this Ordinance” শব্দগুলি ও কমাগুলি প্রতিস্থাপিত হইবে।

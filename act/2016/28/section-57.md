@@ -1,0 +1,3 @@
+# Ordinance No. XXXVI of 1984 এর section 153 এর সংশোধন
+৫৭। উক্ত Ordinance এর section 153 এর sub-section (3) পর প্রান্তস্থিত ফুলস্টপের পরিবর্তে কোলন প্রতিস্থাপিত হইবে এবং অত:পর নিম্নরূপ নূতন proviso সন্নিবেশিত হইবে, যথা:-
+“Provided that where the tax on the basis of return has been paid by the appellant before filing the appeal and the Appellate Joint Commissioner or the Commissioner (Appeals), as the case may be, is convinced that the appellant was barred by sufficient reason from paying the tax before filing the return, Appellate Joint Commissioner or the Commissioner (Appeals) may allow the appeal for hearing.”।

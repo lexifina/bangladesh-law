@@ -1,0 +1,6 @@
+# Ordinance No. XXXVI of 1984 এর section 53F এর সংশোধন
+৩৭। উক্ত Ordinance এর section 53F এর sub-section (2) এর পরিবর্তে নিম্নরূপ sub-sections (2) এবং (3) প্রতিস্থাপিত হইবে, যথা:-
+“(2) Notwithstanding anything contained in this Ordinance or any other law for the time being in force in respect of exemption of tax from any fund, any person responsible for paying any sum by way of interest or share of porfit on any saving deposits or fixed deposits or any term deposit maintained with any Scheduled bank including a co-operative bank or any bank run on Islamic principles or non-banking financial institution or any leasing company or housing finance company, as the case may be, by or in the name of a fund shall deduct, at the time of credit of such interest or share of profit to the account of the fund or at the time of payment thereof, whichever occurs earlier, income tax at the rate of five percent (5%) on such sum.
+(3) Nothing contained in this section shall apply-
+(a) to interest or share of profit arising out of any deposit pension scheme sponsored by the Government or by a scheduled Bank with prior approval of the Government; or
+(b) to such payee or class of payees as the Board may, by a general or special order, specify that income of such payee or class of payee is otherwise exempted from tax.”।

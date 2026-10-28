@@ -1,0 +1,4 @@
+# Ordinance No. XXXVI of 1984 এ নূতন section 57A এর সন্নিবেশ
+৪১। উক্ত Ordinance এর section 57 এর পর নিম্নরূপ নূতন section 57A সন্নিবেশিত হইবে, যথা:-
+“57A. Consequences of the issuance of certificate of tax deduction or collection without actual deduction, collection or payment.-(1) Where a person issues a certificate of deduction or collection of tax at source without actual deduction or collection or payment to the credit of the Government, without prejudice to any other consequences to which he may be liable, the person shall be personally liable to pay the amount not being deducted, collected or paid to the credit of the Government.
+(2) The Deputy Commissioner of Taxes shall take necessary action for the collection of amount mentioned in sub-section (1) from the person so personally liable after giving the person a reasonable opportunity of being heard.”।

@@ -1,0 +1,3 @@
+# Ordinance No. XXXVI of 1984 এ নতুন section 53CCC এর সন্নিবেশ
+৩৫। উক্ত Ordinance এর বিলুপ্ত section 53CC এর পর নিম্নরূপ নূতন section 53CCC সন্নিবেশিত হইবে, যথা:-
+“53CCC. Deduction or collection of tax at source from courier business of a non-resident. - Any person being a company registered under the Companies Act, 1913 (VII of 1913) or কোম্পানী আইন, ১৯৯৪ (১৯৯৪ সনের ১৮ নং আইন) working as local agent of a non-resident courier company shall deduct or collect tax in advance at the rate of fifteen percent (15%) on the amount of service charge accrued from the shipment of goods, documents, parcels or any other things outside Bangladesh.”।

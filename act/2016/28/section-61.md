@@ -1,0 +1,5 @@
+# Ordinance No. XXXVI of 1984 এর section 184A এর সংশোধন
+৬১। উক্ত Ordinance এর section 184A এর sub-section (1) এর clause (x) এর পর নিম্নরূপ নূতন clauses (y), (z) এবং (za) সন্নিবেশিত হইবে, যথা:-
+“(y) receiving any payment which is an income of the payee classifiable under the head "Salaries" by an employee of the government or an authority, corporation, body or units of the government or formed by any law, order or instrument being in force, and if the employee, at any time in the income, draws salary at a scale of grade 10 or above of the চাকুরি (বেতন ও ভাতাদি) আদেশ, ২০১৫ proclaimed in 2015 or at an equivalent grade or pay in any other pay scales applicable in 2015;
+(z) receiving any amount from the Government under the Monthly Payment Order (MPO) if the amount of payment exceeds taka sixteen thousand per month;
+(za) receiving any payment which is an income of the payee classifiable under the head "Salaries" by any person employed in the management or administrative function or in any supervisory position in the production function.”।
