@@ -1,0 +1,10 @@
+# Entry into premises
+10. (1) For carrying out the purposes of this Act, an Authorised Officer or [^18][the Committee or any person empowered by him or it] in this behalf may, after giving reasonable notice to the occupier of any premises, enter upon such premises after sunrise and before sunset.
+(2) The owner of any building or tank or hill shall, on being required by an Authorised Officer or [^19][the Committee or any person empowered by him or it in this behalf, produce before him or it] the sanction obtained therefore under [^20][section 3 or section 3C].
+[^21][(3) The owner of any hill shall, on being required by an Authorised Officer or the Committee or any person empowered by him or it in this behalf, or any Police Officer not below the rank of Assistant Sub-Inspector, produce before him or it the sanction obtained for cutting or razing the hill under section 3C.
+(4) For carrying out the purposes of this Act, an Authorised Officer or the Committee or any person empowered by him or it in this behalf or any Police Officer not below the rank of Assistant Sub-Inspector may, after giving reasonable notice to the occupier of the hill, enter upon such hill at any time.]
+
+[^18]: The words “the Committee or any person empowered by him or it” were substituted for the words “any person empowered by him” by section 8 of the Building Construction (Amendment) Act, 1987 (Act No. XII of 1987)
+[^19]: The words and comma “the Committee or any person empowered by him or it in this behalf, produce before him or it” were substituted for the words and comma “any person empowered by him in this behalf, produce before him” by section 8 of the Building Construction (Amendment) Act, 1987 (Act No. XII of 1987)
+[^20]: The words and figures “section 3 or section 3C” were substituted for the word and figure “section 3” by section 4 of the Building Construction (Amendment) Act, 1990 (Act No. XXXV of 1990)
+[^21]: Sub-sections (3) and (4) were inserted by section 6 of the Building Construction (Amendment) Act, 1990 (Act No. XXXV of 1990)

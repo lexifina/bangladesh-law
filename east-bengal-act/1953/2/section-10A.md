@@ -1,0 +1,10 @@
+# Power of seizure and arrest without warrant
+[^22][10A. (1) The Authorised Officer or any member of the Committee or any officer authorised by him or Committee or any Police Officer not below the rank of Assistant Sub- Inspector who has reason to believe, from personal knowledge or from information given by any person and taken down in writing, that any hill is being cut or razed without obtaining the sanction under section 3C or in breach of any of the terms and conditions subject to which sanction was granted under that section or in contravention of an order made under section 3D may at any time during the day or night-
+(a) enter into such hill;
+(b) seize any vehicle, instrument, material and animal used in the cutting or razing of the hill or loading or carrying the earth of such hill;
+(c) if he is a Police Officer, arrest any person who he has reason to believe to have committed an offence punishable under sub-section (1A) of section 12.
+(2) Whenever a Police Officer makes any arrest or any person makes any seizure under sub-section (1), he shall, within twenty-four hours after such arrest or seizure, make a full report of all the particulars of such arrest or seizure to his immediate superior.
+(3) Every person arrested and any vehicle, instrument, material or animal seized under this section shall be forwarded without delay to the Officer-in-Charge of the nearest police station, and the officer to whom such person or vehicle, instrument, material or animal is forwarded shall, with all convenient despatch, take such measures as may be necessary for the disposal according to law of such person or, as the case may be, vehicle, instrument, material or animal.
+(4) The provisions of the Code of Criminal Procedure, 1898 (Act V of 1898) shall apply, in so far as they are not inconsistent with the provisions of this section, to all arrests and seizure made under this section.]
+
+[^22]: Section 10A was inserted by section 7 of the Building Construction (Amendment) Act, 1990 (Act No. XXXV of 1990)

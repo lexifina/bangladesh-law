@@ -1,0 +1,2 @@
+# Power of removal of temporary building
+4. The Authorised Officer may, by a notice served in the prescribed manner, direct the owner of a temporary building, erected prior to the date of the coming into force of this Act, to remove the same within the period mentioned in the notice or within such further period as may be extended by the Authorised Officer; and the owner thereof shall, on payment to him of such compensation as the Authorised Officer thinks fair and reasonable, remove it within the period aforesaid.

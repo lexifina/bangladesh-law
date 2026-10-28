@@ -1,0 +1,5 @@
+# Eviction of occupier
+[^14][6. (1) The Authorised Officer or the Committee, as the case may be, shall, simultaneously with the issue of an order under section 3B or a notice under section 4 or sub-section (1) of section 5 on the owner, the occupier or the person in-charge of the building, as the case may be, issue a notice upon them to vacate the building within the period mentioned therein or within such further period as may be extended by the Authorised Officer or the Committee.
+(2) If the person upon whom a notice to vacate the building under sub-section (1) has been served does not, in pursuance of that notice, vacate the building within the period mentioned in the notice, he shall, notwithstanding anything contained in any other law for the time being in force, be liable to be summarily evicted therefrom by the Authorised Officer or the Committee, as the case may be, and the Authorised Officer or the Committee may, in effecting such eviction, use or cause to be used such force as may be deemed necessary.]
+
+[^14]: Section 6 was substituted by section 6 of the Building Construction (Amendment) Act, 1987 (Act No. XII of 1987)
