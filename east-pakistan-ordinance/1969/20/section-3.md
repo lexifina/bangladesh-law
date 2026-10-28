@@ -1,0 +1,2 @@
+# This Ordinance and rules to override other laws, but not to affect retirement benefits, etc.
+3. The provisions of this Ordinance and the rules to be framed thereunder shall have effect notwithstanding anything contained in any other law, rule, order, notification contract or other document or instrument; but nothing herein contained shall affect the right to receive any pension, provident fund, gratuity or other benefits accruing to the Railway Servant on his retirement or invalidation or to his family upon his death, otherwise than under this Ordinance.

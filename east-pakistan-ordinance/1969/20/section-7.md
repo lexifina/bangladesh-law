@@ -1,0 +1,4 @@
+# Insurance of Railway Servants
+7. Subject to the provisions of this Ordinance and the rules, in the event of death of a Railway Servant occurring by whatsoever cause, during the continuance of his employment, the Board shall pay to the family of the deceased Railway Servant a sum [^13][equal to the Railway Servant's pay for twenty four months, subject to the maximum of one lakh Taka, the basis for calculation of the sum being the pay last drawn by him].
+
+[^13]: The words and commas “equal to the Railway Servant’s pay for twenty four months, subject to the maximum of one lakh Taka, the basis for calculation of the sum being the pay last drawn by him” were substituted for the words “specified in the Schedule” by section 7 of the Eastern Railway Servants Group Insurance (Amendment) Act, 1991 (Act No. V of 1991)
