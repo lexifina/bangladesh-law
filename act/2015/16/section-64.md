@@ -1,0 +1,5 @@
+# No. LIII of 1977 এ নূতন section 14A এর সন্নিবেশ
+৬৪। Cost and Management Accountants Ordinance, 1977 (Ord. No. LIII of 1977) এর section14 এর পর নিম্নরূপ নূতন section 14A সন্নিবেশিত হইবে, যথা:
+“14A. The function of the Institute shall be subject to the public-interest oversight of the Financial Reporting Council in accordance with section 40 of the Financial Reporting Act, 2015 which shall ensure that the Institute meets its responsibilities to maintain highprofessional standards and develop the accounting profession.” |
+14B. The Institute shall ensure that all members of the Institute shall comply with the Financial Reporting Standards and Auditing Standards issued by the Financial Reporting Council (FRC) pursuant to section 40 of the Financial Reporting Act, 2015.
+14C. A person shall not be entitled to have his name entered in or borne on the Register if he has been removed from the membership of the Institute on being found on inquiry not to have complied with the Financial Reporting Standards and Auditing Standards issued by the Financial Reporting Council (FRC) pursuant to section 40 of the Financial Reporting Act, 2015.
