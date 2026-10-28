@@ -1,0 +1,2 @@
+# Surrender of medicines
+3. Any person in possession of medicines, which were required to be destroyed under section 8 (2)(a) of the said Ordinance, but which have neither been destroyed thereunder nor exported under section 2, shall surrender the medicines to the Government, or to any person authorised by the Government in this behalf, within fifteen days from the date of expiry of the period specified in section 2.

@@ -1,0 +1,3 @@
+# Export of certain medicines
+2. (1) Notwithstanding anything contained in section 8(2)(a) of the Drugs (Control) Ordinance, 1982 (VΙΙΙ of 1982), hereinafter referred to as the said Ordinance, all medicines which were required to be destroyed under that section but have not been destroyed for any reason may, with the prior permission of the Government, be exported outside the country within a period of three months from the date of commencement of this Ordinance.
+(2) All medicines which may be exported under sub-section (1) but are not exported within the period specified therein shall stand forfeited to the Government and may be disposed of by the Government in such manner as it deems fit.
