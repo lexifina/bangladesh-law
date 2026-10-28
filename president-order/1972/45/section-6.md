@@ -1,0 +1,1 @@
+6. No person shall be proceeded against for an offence under this Order except with the previous sanction of the Government or an officer authorised by it in this behalf by a general or special order.

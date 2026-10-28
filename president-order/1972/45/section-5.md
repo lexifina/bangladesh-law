@@ -1,0 +1,1 @@
+5. The Government may, by notification in the official Gazette, add to, amend or alter the Schedule and any such addition, amendment, or alternation shall have effect as if it had been made by this Order.
