@@ -1,0 +1,2 @@
+# Penalty for unlawfully keeping open a notified place of public amusement
+9. If a notified place of public amusement is opened or kept open without, or in contravention of the conditions of, a licence granted under this Act the owner, the lessee or the manager of such place shall be punishable with imprisonment for a term which may extend to six months, or with fine which may extend to one thousand Taka or with both.
