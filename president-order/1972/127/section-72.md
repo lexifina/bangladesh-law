@@ -1,0 +1,1 @@
+72. Notwithstanding anything contained in any law for the time being in force Provident Fund or pension granted by the Bank to its employees shall not be liable to seizure, attachment or sequestration by process of any Court in Bangladesh as the instance of a creditor, for any demand against the pensioner or in satisfaction of a decree or order of any such Court.

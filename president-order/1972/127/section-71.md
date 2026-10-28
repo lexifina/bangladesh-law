@@ -1,0 +1,3 @@
+71. (1) For the purposes of section 124 of the Evidence Act, 1872, the provisions of Part IV of the Code of Civil Procedure, 1908, and the provisions of rule 27 of Order V, and rule 52 of Order XXI of the said Code, the Bank and any Officer of the Bank acting in his capacity as such be deemed to be a public officer.
+(2) The provisions of Section 123 of the Evidence Act shall apply to the unpublished records relating to the affairs of the Bank and the Governor shall be deemed to be the officer or head of the department concerned.
+(3) Every Officer of the Bank shall be deemed to be a public servant within the meaning of section 21 of the Penal Code (Act XLV of 1860).

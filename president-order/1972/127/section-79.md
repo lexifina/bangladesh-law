@@ -1,0 +1,2 @@
+79. (1) The Governor may, by general or special order, delegate to a Deputy Governor, subject to such conditions and limitations, if any, as may be specified in the Order, such of the powers and functions exercisable by him under this Order or under any other law for the time being in force as he may deem necessary for the efficient administration of the functions of the Bank.
+(2) The fact that a Deputy Governor exercises any power or does any act or thing in pursuance of this Order shall be conclusive proof of his authority to do so.

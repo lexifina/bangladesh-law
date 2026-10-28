@@ -1,0 +1,1 @@
+7. Subject to the provisions of this Order and any other law for the time being in force, any person being a citizen of Bangladesh who, immediately before the appointed day, was an employee of the State Bank shall, as from that day, continue to be an employee of the Bank on the same terms and conditions as were applicable to him immediately before that day.

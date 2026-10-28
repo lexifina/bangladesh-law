@@ -1,0 +1,1 @@
+34. The Government shall not re-issue any Taka coins taken over under clause (3) of Article 33 nor put into circulation any Taka coin except through the Bank and the Bank shall not dispose of Taka coin otherwise than for purposes of circulation or by delivery to the Government under the preceding Article.

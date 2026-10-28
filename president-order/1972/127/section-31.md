@@ -1,0 +1,5 @@
+31. Notwithstanding anything contained in the foregoing provisions, the Bank may, with the previous sanction of the Government, for periods not exceeding six months in the first instance, which may with the like sanction be extended from time to time by periods not exceeding three months at a time, hold as assets gold coin, gold or silver bullion, [^65][Special Drawing Rights, Asian Monetary Units [^66][, Islamic Dinars]] or approved foreign exchange of less aggregate amount than that required by sub-clause [^67][(a)] of clause (1) of Article 30.
+
+[^65]: The words and commas “Special Drawing Rights, Asian Monetary Units,” were inserted by section 3 of the Bangladesh Bank (Amendment) Act, 1974 (Act No. LXXII of 1974)
+[^66]: The comma and words “, Islamic Dinars” were inserted by section 7 of the Bangladesh Bank (Amendment) Act, 1975 (Act No. XXXIII of 1975)
+[^67]: The brackets and letter “(a)” were substituted for the brackets and figure “(2)” by section 3 of the Bangladesh Bank (Amendment) Act, 1974 (Act No. LXXII of 1974)

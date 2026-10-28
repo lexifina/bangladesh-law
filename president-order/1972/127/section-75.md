@@ -1,0 +1,1 @@
+75. Notwithstanding anything contained in the Income-tax Act, 1922, or the Business Profits Tax Act, 1947, or any other law for the time being in force relating to income-tax, super-tax or business profits-tax, the Bank shall not be liable to pay any income-tax, super-tax or business profits-tax on any of its income, profits or gains.

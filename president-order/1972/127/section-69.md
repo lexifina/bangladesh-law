@@ -1,0 +1,1 @@
+69. The Research Department and the Statistics Department of the Bank shall have the power, subject to rights and provisions guaranteed under other laws, to request from any natural or juridical person, as well as the Government, any data or information necessary for the proper execution of its duties.

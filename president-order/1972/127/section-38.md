@@ -1,0 +1,1 @@
+38. The Bank may require any Corporation with which it has any transactions under Article 16 to furnish returns referred to in clause (3) of Article 36 and if it does so require, the provisions of clauses (6), (7) and (8) of Article 36 shall apply, so far as may be, to such Corporation as if it were a scheduled bank.

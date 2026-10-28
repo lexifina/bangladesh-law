@@ -1,0 +1,6 @@
+4. (1) The capital of the Bank shall be Taka three crores.
+(2) The entire capital of the Bank shall stand vested in, and allotted to, the Government.
+(3) The capital of the Bank may, subject to the approval of the Government, be increased by a resolution of the Board, and any capital so increased shall be subscribed for by the Government in such form and manner as may be determined by the Government.
+(4) On the appointed day all the shares of the State Bank held in Bangladesh which have not already vested in the Government by or under any other law for the time being in force, shall, by virtue of this Order, be deemed to have been vested in, and allotted to, the Government free from any trust, mortgage, charge, lien, interest, or other encumbrance whatsoever.
+(5) The Government shall pay such compensation in respect of the shares vested in the Government under clause (4) as may be determined by it and such compensation shall be distributed among the share-holders of the State Bank in Bangladesh in the manner as may be determined by the Government:
+Provided that the total compensation payable under this clause shall not exceed the total paid up value of the shares held by the share-holders, among whom such compensation is to be distributed.

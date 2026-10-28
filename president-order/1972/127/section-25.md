@@ -1,0 +1,1 @@
+25. Notwithstanding anything contained in Article 24 no Pakistan Bank note of the denominational value of five hundred rupees and one hundred rupees issued before 8th day of June, 1971 shall be legal tender in payment or an account of amount expressed therein.

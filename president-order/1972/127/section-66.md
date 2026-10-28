@@ -1,0 +1,1 @@
+66. Without prejudice to anything contained in Article 65 the Government may at any time appoint the Comptroller and Auditor-General or such Auditors as it deems fit to examine and report upon the accounts of the Bank.

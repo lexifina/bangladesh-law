@@ -1,0 +1,5 @@
+33. (1) The Bank shall issue Taka coin on demand in exchange for Bank Notes and Bank Notes on demand in exchange for coin which is legal tender in Bangladesh.
+(2) The Bank shall in exchange for Bank Notes of [^68][ten] Taka or upwards supply Bank Notes of lower value or coins which are legal tender in Bangladesh under the Bangladesh Coinage Order, 1972, in such quantities as may in the opinion of the Bank be required for circulation. The Government shall supply such coins to the Bank on demand and if it fails to do so at any time the Bank shall be released during the period of such failure from obligation to supply them to the public.
+(3) The Government shall take over from the Bank at such times and in such quantities as the Bank may, with the previous approval of the Government, determine Taka coins which are not required for purposes of circulation against payment.
+
+[^68]: The word “ten” was substituted for the word “five” by section 3 of the Bangladesh Bank (Amendment) Act, 1989 (Act No. I of 1989)

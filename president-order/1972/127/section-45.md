@@ -1,0 +1,4 @@
+45. (1) A banking company may, in connection with any financial arrangement entered into or proposed to be entered into by it with any person, make an application to the Bank in such form as the Bank may specify requesting it to furnish the applicant with such credit information as may be specified in the application.
+(2) On receipt of an application under clause (1), the Bank may, as soon as may be, furnish the applicant with such credit information relating to the matters specified in the application, as may be in its possession:
+Provided that the information so furnished shall not disclose the names of the banking companies which have submitted such information to the Bank.
+(3) The Bank may in respect of each application levy such fees, as it may deem fit, for furnishing credit information.

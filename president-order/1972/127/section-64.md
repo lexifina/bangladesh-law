@@ -1,0 +1,1 @@
+64. After making provision for bad and doubtful debts, depreciation in assets, contributions to staff superannuation fund and for all other matter for which provision is to be made by or under the Order or which are usually provided for by bankers, the balance of the profits shall be paid to the Government.

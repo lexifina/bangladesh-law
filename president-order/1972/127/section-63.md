@@ -1,0 +1,6 @@
+63. (1) The Bank may establish and maintain a Fund to be called the Export Credit Fund to which shall be credited-
+(a) an initial sum of Taka one crore to be subscribed by the Government, and
+(b) appropriations of such amount from the surplus profits of the Bank as may be determined by the Bank in consultation with the Government.
+(2) The Export Credit Fund shall be applied by the Bank to the following objects, namely :-
+(a) The making of medium-term and long-term loans and advances to scheduled banks and other credit institutions created or established by or under any law for the time being in force, as refinance against their medium-term and long-term loans and advances given for financing exports from Bangladesh, on such terms and conditions as to security and otherwise as the Bank may, from time to time, lay down in this behalf;
+(b) The making of loans and advances, directly or through scheduled banks or other credit institutions created or established by or under any law for the time being in force, to private or Government sponsored institutions in foreign countries, for the purpose of enabling them to import goods from Bangladesh, on such terms and conditions as the Bank may, from time to time, lay down in this behalf.

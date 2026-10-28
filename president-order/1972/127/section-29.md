@@ -1,0 +1,1 @@
+29. Notwithstanding anything contained in any enactment or rule or law to the contrary, no person shall as of right be entitled to recover from the Government or the Bank the value of any lost, stolen, mutilated or imperfect Bank Note.
