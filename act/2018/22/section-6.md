@@ -1,0 +1,5 @@
+# Act No. IV of 1969 এর section 197A এর সন্নিবেশ
+৬। উক্ত Act এর section 197 এর পর নূতন section 197A সন্নিবেশিত হইবে, যথাঃ-
+“197A. Risk Management and Customs Controls.- (1) Subject to the directions of the Board, an officer of Customs may, within his lawful authority, carry out all the Customs controls as he deems necessary.
+(2) For the purpose of identifying and evaluating the risks, and developing the necessary counter-measures thereof, the Customs controls, including random check, shall primarily be based on risk analysis done by using electronic data-processing techniques, if available, according to the criteria developed at local, national or international level.
+Explanation.- For the purpose of this section “Customs Controls” means measures applied by officers of Customs to ensure compliance with this Act governing the import, export, transit, transfer and storage of goods between Bangladesh and other countries or territories, and the presence and movement of imported goods within Bangladesh.”।

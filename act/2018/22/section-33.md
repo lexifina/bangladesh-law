@@ -1,0 +1,3 @@
+# Ordinance No. XXXVI of 1984 এর section 132 এর প্রতিস্থাপন
+৩৩। উক্ত Ordinance এর section 132 এর পরিবর্তে নিম্নরূপ section 132 প্রতিস্থাপিত হইবে, যথা:-
+“132. Orders of penalty to be sent to Deputy Commissioner of Taxes.- The Appellate Tribunal or any income tax authority, not being the Deputy Commissioner of Taxes himself, making an order imposing any penalty under this Ordinance shall forthwith send a copy of the order to the Deputy Commissioner of Taxes, and thereupon all the provisions of this Ordinance relating to the recovery of penalty shall apply as if such order were made by the Deputy Commissioner of Taxes.”।
