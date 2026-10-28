@@ -1,0 +1,2 @@
+# Amendment of section 28 of Ben. Act VII of 1923
+13. In sub-section (1) of section 28 of the said Act, for the words, figures and commas "of Part VII of the Land Acquisition Act, 1894, or procure the temporary occupation of the same under the provisions of Part VI of the said Act, whether the said promoter is or is not a company as defined in that Act", the words, figures and commas "of Chittagong Hill-tracts (Land Acquisition) Regulation, 1958' href='/act-1363.html'>THE Chittagong Hill-tracts (Land Acquisition) Regulation, 1958" shall be substituted.
