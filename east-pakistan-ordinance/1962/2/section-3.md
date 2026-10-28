@@ -1,0 +1,2 @@
+# Penalty for intentionally causing damage and tampering with aids to navigation
+3. Whoever commits mischief by damaging, removing, tampering with or handling any of the aids to navigation, or by doing any act which renders any of the aids to navigation less useful as such, and whoever abets such mischief, shall be punished with imprisonment which may extend to three years, or with fine, or with both.
