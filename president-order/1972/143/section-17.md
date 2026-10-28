@@ -1,0 +1,3 @@
+17. (1) The Corporation shall furnish to the Government such returns, reports and statements as the Government may from time to time require.
+(2) The Corporation shall, as soon as possible after the end of every financial year, furnish to the Government statement of accounts audited under Article 16 together with an annual report on the conduct of its affairs for that year and on its proposal for the next ensuing financial year.
+(3) The copies of the audited accounts and annual report received by the Government under clause (2) shall be published in the official Gazette and shall be laid before the Legislature.

@@ -1,0 +1,1 @@
+19. The Corporation may, subject to any rules or regulations made or directives issued by the Government, appoint such officers, consultants, advisers and employees as it considers necessary for the efficient performance of its functions on such terms and conditions as it may determine.
