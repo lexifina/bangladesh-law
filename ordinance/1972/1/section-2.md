@@ -1,0 +1,5 @@
+# Adaptation of University laws
+2. (1) As from the 16th day of December, 1971, the university laws mentioned in sub-section (2) shall, until repealed or altered or amended by the Legislature of Bangladesh or any other competent authority, be subject to the adaptations specified in that sub-section.
+| |
+E. P. Ord. No. XXIII of 1961. E. P. Ord. No. XXVIII of 1961 E. P. Ord. No. XXXVI of 1961. E. P. Ord. No. IX of 1966. E. P. Ord. No. XXI of 1970 | | (2) In the Rajshahi University Ordinance, 1961, the Dacca University Ordinance, 1961, the East Pakistan Agricultural University Ordinance, 1961, the East Pakistan Engineering and Technological University Ordinance, 1961, the Chittagong University Ordinance, 1966, and the Jahangirnagar Muslim University Ordinance, 1970, references to “Governor”, “East Pakistan” and “Provincial Government” shall, except where the reference occurs in the title or preamble or any citation or description of the Ordinance and except where the context otherwise requires, be construed as references to “President”, “Bangladesh” and “Government of Bangladesh” respectively
+| |
