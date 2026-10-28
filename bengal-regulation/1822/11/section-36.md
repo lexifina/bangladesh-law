@@ -1,0 +1,2 @@
+# Rules for Khas management applied to purchases by Government
+36. If a Collector shall at any time, being so instructed by either the Government or the Board, purchase on account of the Government an estate exposed to sale for the recovery of arrears of revenue, the rules applicable to the management of ordinary malguzari mahals held khas or farmed shall be considered applicable to such estate, and also to all other estates the property of the Government, according as they may be held khas or let in farm.
