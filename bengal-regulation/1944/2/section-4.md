@@ -1,0 +1,6 @@
+# Validation of certain acts and proceedings
+4. Anything done or any action taken or any proceedings commenced before the commencement of this Regulation which, if the [^4][***] Excises and Salt Act, 1944, or the Finance Act, 1944, had applied to the Chittagong Hill-tracts with effect from the 1st day of April, 1944, could have been validly done, taken or commenced, shall not be invalid by reason of the fact that the [^5][***] Excises and Salt Act, 1944, or the Finance Act, 1944, as the case may be, did not so apply but shall be deemed to have been done, taken or commenced in exercise of the powers conferred by or under the [^6][***] Excises and Salt Act, 1944 or the Finance Act, 1944, as the case may be, as if it had applied to the said tracts with effect from the 1st day of April, 1944.
+
+[^4]: The word "Central" was omitted by Section 3, Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).
+[^5]: The word "Central" was omitted by Section 3, Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).
+[^6]: The word "Central" was omitted by Section 3, Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).
