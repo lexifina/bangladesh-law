@@ -1,0 +1,1 @@
+3. Notwithstanding anything contained in any other law for the time being in force or in any contract or agreement, no transfer of any immovable property made after the commencement of this Order shall be deemed to be valid and legal unless the provisions of this Order have been complied with.

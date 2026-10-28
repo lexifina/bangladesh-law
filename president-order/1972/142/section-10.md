@@ -1,0 +1,1 @@
+10. Every officer acting under this Order shall have the powers of a Civil Court for the purpose of receiving evidence, administering oaths, enforcing the attendance of witnesses and compelling the production of documents.

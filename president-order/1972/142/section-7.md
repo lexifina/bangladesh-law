@@ -1,0 +1,2 @@
+7. A transfer of immovable property in contravention of the provisions of this Order shall be null and void and the property so transferred shall stand forfeited to the Government.
+Explanation.- Any wrong, incorrect of false statement made in the affidavit referred to in Article 4 or in the document of transfer or any other relevant document relating to the property shall be deemed to be a contravention of the provisions of this Order for the purpose of this Article.
