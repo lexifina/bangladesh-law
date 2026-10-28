@@ -1,0 +1,2 @@
+13. In the event of any dispute arising between the Commission and a University out of an action of the Commission which is considered by the University concerned to have adversely affected its interest, an appeal shall lie with the President:
+Provided that such an appeal shall be submitted through the Commission which shall forward the appeal along with its views to the President within the shortest possible time.

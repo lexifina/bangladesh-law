@@ -1,0 +1,1 @@
+8. The Government shall, after due appropriation made under law in this behalf, pay to the Commission in each financial year such sums as may be considered necessary for the maintenance and the improvement of Universities or for the promotion of higher education and research and for the purpose of all other functions of the Commission under this Order.

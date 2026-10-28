@@ -1,0 +1,1 @@
+12. The Commission shall, not later than the first day of March each year, prepare a report on its activities during the year ending on the previous thirty-first day of December and submit it to the Government; and the Government shall cause the report to be laid before Parliament.

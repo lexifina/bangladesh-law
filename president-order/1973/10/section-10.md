@@ -1,0 +1,1 @@
+10. The Commission shall, by such date in each year as may be prescribed, submit to the Government for approval, a budget in the prescribed form for such financial year showing the estimated receipts and expenditure and the sums which are likely to be required from the Government.
