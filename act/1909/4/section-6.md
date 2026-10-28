@@ -1,0 +1,5 @@
+# Special provision as to punishment with whipping in frontier districts
+6. [^10][Whenever the] Government has, by notification in the official Gazette, declared the provisions of this section to be in force in any frontier district or any wild tract of country within the jurisdiction of [^11][the Government], any person who in such district or tract of country after such notification as aforesaid commits any offence punishable under the Penal Code with imprisonment for three years or up-wards, may be punished with whipping in lieu of any other punishment to which he may be liable under the said Code.
+
+[^10]: The words "Whenever the" were substituted for the words "Whenever any" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).
+[^11]: The words "the Government" were substituted, for the words "such Provincial Government" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).
