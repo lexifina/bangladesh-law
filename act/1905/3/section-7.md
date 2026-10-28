@@ -1,0 +1,3 @@
+# Power to order demolition of kilns or furnaces erected or used within prohibited areas.
+7.(1) Whenever a Magistrate imposes a fine on any person under section 6, sub-section (2), for erecting or using a kiln, clamp or furnace in contravention of any notification issued under section 6, sub-section (1), clause (a) or clause (b), he may be order direct such person to demolish the kiln, clamp or furnace within a period to be specified on the order.
+(2) If any person fails to demolish any kiln, clamp or furnace within the period prescribed in any such order, or within such longer period as the Magistrate may, for special reason, allow, he shall be liable to fine which may extend to twenty Taka for everyday thereafter during which such failure continues.
