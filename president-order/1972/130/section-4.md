@@ -1,0 +1,1 @@
+4. The National Emblem shall be the national flower Shapla (nymphaea nouchali) resting on water, having on each side an ear of paddy and being surmounted by three connected leaves of jute with two stars on each side of the leaves, as specified in the Third Schedule.

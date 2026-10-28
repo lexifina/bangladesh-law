@@ -1,0 +1,1 @@
+6. Subject to the provisions of this Order, the People's Republic of Bangladesh Flag Rules, 1972, and the National Emblem Rules, 1972, shall, so far as applicable and until amended and repealed, continue to have effect.

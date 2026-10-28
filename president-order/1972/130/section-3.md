@@ -1,0 +1,1 @@
+3. The National Flag shall consist of a circle, coloured red throughout its area, resting on a green background. The size and other features of the National Flag shall be in accordance with the specifications set out in the Second Schedule.
