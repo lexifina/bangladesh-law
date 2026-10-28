@@ -1,0 +1,2 @@
+# Penalty for taking excessive fees
+6. No consular officer or diplomatic officer entrusted with consular duties shall, save as may be provided in the aforesaid regulations, ask for or take any fee or reward for any act done in the execution of his office, and if he does so he shall, without prejudice to any other liability, be punishable for every such offence with fine which may extend to Tk. 3,000.
