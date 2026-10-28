@@ -1,0 +1,3 @@
+# ২৩৷ Ordinance No. XXXVI of 1984 এর section 57 এর সংশোধন৷
+২৩৷ উক্ত Ordinance এর section 57 এর sub-section (2) এর পরিবর্তে নিম্নরূপ sub-section (2) প্রতিস্থাপিত হইবে, যথাঃ-
+"(2) Where the Deputy Commissioner of Taxes in the course of any proceedings under this Ordinance finds any person, required by or under the provisions of this chapter to deduct, collect or pay to the credit of the Government tax, has failed to deduct, collect or pay the tax in accordance with the provisions of this chapter, shall, notwithstanding the provisions of section 137, take necessary action for realisation of such tax alongwith the additional amount payable under clause (b) of sub-section (1) from the person deemed to be an assessee in default under clause (a) of that sub-section."
