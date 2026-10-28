@@ -1,0 +1,2 @@
+# Maintenance of accounts
+18. The Corporation shall maintain proper accounts and other relevant records and prepare annual statement of accounts, including the profit and loss account and balance-sheet, in accordance with such general directions as may be issued, and in such form as may be specified, by Government in consultation with the Comptroller and Auditor General, hereinafter referred to as the Auditor General.
