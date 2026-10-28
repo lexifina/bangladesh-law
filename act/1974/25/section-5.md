@@ -1,0 +1,8 @@
+# Term of office of Chairman and members
+5. (1) Save as otherwise provided in this section, the Chairman shall hold office for a period of three years and shall be eligible for re-nomination for one further term.
+(2) Save as otherwise provided in this section, a member shall hold office for a period of two years and shall be eligible for re-nomination for one further term.
+(3) Where a person nominated as a member under clause (a), clause (b) or clause (c) of sub-section (3) of section 4 is censured under the provisions of sub-section (1) of section 12, he shall cease to be member of the Council.
+(4) Where a person is nominated to be a member of the Council by virtue of his holding an office or appointment, he shall cease to be such member as soon he ceases to hold that office or appointment.
+(5) A member shall be deemed to have vacated his seat if he absents himself without excuse, sufficient in the opinion of the Chairman, from three consecutive meetings of the Council.
+(6) The Chairman may resign his office by giving notice in writing to the Government and any other member may resign his office by giving notice in writing to the Chairman, and upon such resignation being accepted by the Government or the Chairman, as the case may be, he shall be deemed to have vacated his office.
+(7) Any vacancy arising under sub-section (2), sub-section (3), sub-section (4) or sub-section (5) or otherwise shall be filled, as soon as may be, by nomination made by the same authority by which and in the same manner in which the member vacating office was nominated and the member so nominated shall hold office for the remaining period for which the member in whose place he is nominated would have held office.

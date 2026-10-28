@@ -1,0 +1,2 @@
+# Budget of the Council
+16. The Council shall prepare, in such form and at such time each year as may be prescribed, a budget in respect of the financial year next ensuing showing the estimated receipts and expenditure and sums which are likely to be required from the Government during that financial year, and forward copies thereof to the Government for consideration and sanction of the sums shown in the budget to be required from the Government.
