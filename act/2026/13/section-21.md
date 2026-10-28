@@ -1,0 +1,3 @@
+# রহিতকরণ ও হেফাজত
+২১। (১) International Crimes (Tribunals) (Amendment) Ordinance, 2024 (২০২৪ সনের ১৪ নং অধ্যাদেশ), International Crimes (Tribunals) (Amendment) Ordinance, 2025 (২০২৫ সনের ০৪ নং অধ্যাদেশ), International Crimes (Tribunals) (Second Amendment) Ordinance, 2025 (২০২৫ সনের ২০ নং অধ্যাদেশ), এবং International Crimes (Tribunals) (Third Amendment) Ordinance, 2025 (২০২৫ সনের ৫৩ নং অধ্যাদেশ), অতঃপর উক্ত অধ্যাদেশসমূহ বলিয়া উল্লিখিত, এতদ্দ্বারা রহিত করা হইল।
+(২) উপ-ধারা (১) এর অধীন রহিতকরণ সত্ত্বেও, উক্ত অধ্যাদেশসমূহের অধীন কৃত কোনো কার্য, গৃহীত কোনো ব্যবস্থা বা সূচিত কোনো কার্যধারা এই আইনের অধীন কৃত, গৃহীত বা সূচিত হইয়াছে বলিয়া গণ্য হইবে।

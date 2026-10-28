@@ -1,0 +1,7 @@
+# Act No. XIX of 1973 এর নূতন section 23A ও section 23B এর সন্নিবেশ
+২০। উক্ত Act এর section 23 এর পর নিম্নরূপ নূতন section 23A ও section 23B সন্নিবেশিত হইবে, যথা:—
+“23A. Witness Protection.— (1) A Tribunal shall take all necessary measures to ensure the safety, security, and well-being of witnesses who provide testimony or evidence in proceedings under this Act.
+(2) A Tribunal may, on its own motion or upon request by the prosecution, defence, or the witness concerned, order any of the protective measures specified in sub-section (1) or any other measures it deems necessary to safeguard the witness.
+(3) Any decision on witness protection shall be made with due regard to the rights of the accused and the prosecution to a fair trial, ensuring that such measures do not unduly prejudice either party involved in the trial.
+23B. Participation and the Protection of the Victims.- (1) Victims of crimes under this Act, either personally or through duly authorized legal representation, shall have the right to participate in the proceedings of a Tribunal where they or their families hold a position contrary to that of the prosecution and the Tribunal shall record the perspective of the victims for judicial consideration.
+(2) A Tribunal may, on its own motion or upon request by the prosecution or the victims concerned, order any of the protective measures it deems necessary to safeguard the victims.”।
