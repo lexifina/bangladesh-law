@@ -1,0 +1,2 @@
+# Administration of oath if accepted
+10. If such party or witness agrees to make such oath or affirmation, the Court may proceed to administer it, or, if it is of such a nature that it may be more conveniently made out of Court, the Court may issue a commission to any person to administer it, and authorize him to take the evidence of the person to be sworn or affirmed and return it to the Court.

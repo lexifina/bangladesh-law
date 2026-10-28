@@ -1,0 +1,2 @@
+# Power of Court to tender certain oaths
+8. If any party to, or witness in, any judicial proceeding offers to give evidence on oath or solemn affirmation in any form common amongst, or held binding by, persons of the race or persuasion to which he belongs, and not repugnant to justice or decency, and not purporting to affect any third person, the Court may, if it thinks fit, notwithstanding anything hereinbefore contained, tender such oath or affirmation to him.
