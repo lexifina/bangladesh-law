@@ -1,0 +1,1 @@
+8. In computing the period of limitation prescribed by any law for the time being in force for any suit or application against any person by an insurer in respect of any matter arising out of his insurance business, the time during which this has been in force shall be excluded.

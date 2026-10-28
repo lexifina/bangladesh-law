@@ -1,0 +1,1 @@
+7. No proceeding for the winding up of an insurer, the management of whose insurance business has vested in the Government under this Order or for the appointment of a receiver in respect of such business, shall lie in any Court.

@@ -1,0 +1,2 @@
+5. (1) The amount of compensation payable in respect of the vesting in the Government of the management of the insurance business, which had not already vested in or been taken over by the Government by or under any law, of an insurer shall, be such sum as may be determined by the Government.
+(2) The compensation payable under section 7 shall be distributed among the persons entitled thereto by the Government in such manner as may be prescribed by rules made in this behalf.
