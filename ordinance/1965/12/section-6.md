@@ -1,0 +1,2 @@
+# Power of entry in premises, etc.
+6. Any person authorised in this behalf by the Government may at any time between sunrise and sunset enter and inspect any tannery, slaughter-house, cattle-yard or fish-drying area or any premises or land used as a refuse-dump or for carrying on any trade or occupation which may attract birds, for the purpose of ascertaining the extent of danger to the safety of aircraft caused by the attraction of birds and seeing whether the provisions of this Ordinance and any order or notification made or issued thereunder have been complied with.
