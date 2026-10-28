@@ -1,0 +1,3 @@
+# Charge by accuser to be written and verified.
+# Penalty for false accusation. Institution of inquiry by Government
+5. When the charge shall be brought by an accuser, the Government shall require the accusation to be reduced to writing, and verified by the oath or solemn affirmation of the accuser; and every person who shall wilfully and maliciously make any false accusation under this Act, upon such oath or affirmation, shall be liable to the penalties of perjury, but this enactment shall not be construed to prevent the Government from instituting any enquiry which it shall think fit, without such accusation on oath or solemn affirmation as aforesaid.

@@ -1,0 +1,2 @@
+# Security from accuser left by Government, to prosecute
+6. Where the imputations shall have been made by an accuser, and the Government shall think fit to leave to him the conduct of the prosecution, the Government before appointing the commission shall require him to furnish reasonable security that he will attend and prosecute the charge thoroughly and effectually, and also will be forthcoming to answer any counter-charge or action which may be afterwards brought against him for malicious prosecution or perjury or subornation of perjury, as the case may be.

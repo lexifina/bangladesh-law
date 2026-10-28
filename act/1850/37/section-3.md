@@ -1,0 +1,2 @@
+# Authorities to whom inquiry may be committed Notice to accused
+3. The inquiry may be committed either to the Court, Board or other authority to which the person accused is subordinate, or to any other person or persons, to be specially appointed by the Government, commissioners for the purpose: notice of which commission shall be given to the person accused ten days at least before the beginning of the inquiry.
