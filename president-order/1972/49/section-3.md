@@ -1,0 +1,1 @@
+3. The President, the Prime Minister, a Minister and the holders of the offices enumerated in the Schedule shall be paid such salary and allowances and shall be entitled to such privileges as may be prescribed.

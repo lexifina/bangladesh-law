@@ -1,0 +1,1 @@
+4. The Prime Minister and a Minister in receipt of a salary or allowances under this Order shall not be entitled to receive any sum out of funds provided by Legislature by way of salary or allowances in respect of his membership of the Legislature.

@@ -1,0 +1,1 @@
+7. Any rules made by the Government before the commencement of this Order, providing for the remuneration and privileges of the Ministers, shall be deemed to have been made under the provisions of this Order.
