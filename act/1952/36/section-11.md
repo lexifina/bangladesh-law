@@ -1,0 +1,2 @@
+# Power to make regulations
+11. Any officer or authority empowered in this behalf by the Government may make regulations not inconsistent with this Act and rules made thereunder, providing for all matters to be laid down by regulations and generally for all details connected with the organisation, pay, allowances, duties, discipline, training, clothing, equipment and leave of members of the Armed Forces Nursing Service.
