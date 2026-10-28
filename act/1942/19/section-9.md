@@ -1,0 +1,2 @@
+# Penalty for improper disclosure of information or returns
+9. If any person engaged in connection with the collection of statistics under this Act wilfully discloses any information or the contents of any return given or made under this Act otherwise than in the execution of his duties under this Act or for the purposes of the prosecution of an offence under this Act or under the Penal Code, he shall be punishable with imprisonment for a term which may extend to six months, or with fine which may extend to one thousand Taka, or with both imprisonment and fine.

@@ -1,0 +1,2 @@
+# Right of access to record or document
+6. The statistics authority or any person authorised by him in writing in this behalf shall, for the purposes of the collection of any statistics under this Act, have access to any relevant record or document in the possession of any person required to furnish any information or return under this Act, and may enter at any reasonable time any premises wherein he believes such record or document to be, and may ask any question necessary for obtaining any information required to be furnished under this Act.
