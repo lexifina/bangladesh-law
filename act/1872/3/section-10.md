@@ -1,0 +1,2 @@
+# Declaration by parties and witnesses
+10. Before the marriage is solemnized, the parties and three witnesses shall, in the presence of the Registrar, sign a declaration in the form contained in the second schedule to this Act. If either party has not completed the age of twenty-one years, the declaration shall also be signed by his or her father or guardian, except in the case of a widow, and, in every case, it shall be countersigned by the Registrar.

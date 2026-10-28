@@ -1,0 +1,2 @@
+# Place where marriage may be solemnized
+12. The marriage may be celebrated either at the office of the Registrar or at such other place, within reasonable distance of the office of the Registrar, as the parties desire: Provided that the Government may prescribe the conditions under which such marriages may be solemnized at places other than the Registrar's office, and the additional fees to be paid thereupon.

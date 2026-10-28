@@ -1,0 +1,3 @@
+# Procedure on receipt of objection Objector may file suit
+7. On receipt of such notice of objection the Registrar shall not proceed to solemnize the marriage until the lapse of fourteen days from the receipt of such objection, if there be a Court of competent jurisdiction open at the time, or, if there be no such Court open at the time, until the lapse of fourteen days from the opening of such Court.
+The person objecting to the intended marriage may file a suit in any Civil Court having local jurisdiction (other than a Court of Small Causes) for a declaratory decree, declaring that such marriage would contravene some one or more of the conditions prescribed in clauses (1), (2), (3) or (4) of section 2.
