@@ -1,0 +1,2 @@
+# Savings
+3. Nothing in this Act shall affect any right or liability acquired or incurred before its commencement, or any legal proceeding or remedy in respect of any such right or liability; and any such legal proceeding or remedy may be continued or enforced as if this Act had not been passed.
