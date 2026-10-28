@@ -1,0 +1,3 @@
+### Stoppage in Transit
+# Right of stoppage in transit
+50. Subject to the provisions of this Act, when the buyer of goods becomes insolvent, the unpaid seller who has parted with the possession of the goods has the right of stopping them in transit, that is to say, he may resume possession of the goods as long as they are in the course of transit, and may retain them until payment or tender of the price.

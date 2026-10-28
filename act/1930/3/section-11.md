@@ -1,0 +1,3 @@
+### Conditions and Warranties
+# Stipulations as to time
+11. Unless a different intention appears from the terms of the contract, stipulations as to time of payment are not deemed to be of the essence of a contract of sale. Whether any other stipulation as to time is of the essence of the contract or not depends on the terms of the contract.

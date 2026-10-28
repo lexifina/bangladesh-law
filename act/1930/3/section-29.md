@@ -1,0 +1,2 @@
+# Sale by person in possession under voidable contract
+29. When the seller of goods has obtained possession thereof under a contract voidable under section 19 or section 19A of the Contract Act, 1872, but the contract has not been rescinded at the time of the sale, the buyer acquires a good title to the goods, provided he buys them in good faith and without notice of the seller's defect of title.

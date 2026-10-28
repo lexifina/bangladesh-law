@@ -1,0 +1,4 @@
+### Transfer of Title
+# Sale by person not the owner
+27. Subject to the provisions of this Act and of any other law for the time being in force, where goods are sold by a person who is not the owner thereof and who does not sell them under the authority or with the consent of the owner, the buyer acquires no better title of the goods than the seller had, unless the owner of the goods is by his conduct precluded from denying the seller's authority to sell:
+Provided that where the mercantile agent is, with the consent of the owner, in possession of the goods or of a document of title to the goods, any sale made by him, when acting in the ordinary course of business of a mercantile agent, shall be as valid as if he were expressly authorized by the owner of the goods to make the same; provided that the buyer acts in good faith and has not at the time of the contract of sale notice that the seller has not authority to sell.

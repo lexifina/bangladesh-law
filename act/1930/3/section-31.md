@@ -1,0 +1,4 @@
+## Chapter IV
+## PERFORMANCE OF THE CONTRACT
+# Duties of seller and buyer
+31. It is the duty of the seller to deliver the goods and of the buyer to accept and pay for them, in accordance with the terms of the contract of sale.
