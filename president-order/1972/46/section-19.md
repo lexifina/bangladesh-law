@@ -1,0 +1,2 @@
+19. (1) Save as otherwise provided in this Order, no person shall be entitled to practise the profession of law unless he is an advocate.
+(2) Subject to the provisions of this Order, the rules made thereunder and any other law for the time being in force, an advocate shall be entitled as of right to practise throughout Bangladesh, and to appear, act and plead before any court, tribunal or revenue authority in Bangladesh.

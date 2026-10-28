@@ -1,0 +1,1 @@
+41. Any person who is not an advocate and practises the profession of law and any person who is not entitled under this Order to practise in the High Court practises before that Court shall be punishable with imprisonment for a term which may extend to six months.

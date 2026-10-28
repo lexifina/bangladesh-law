@@ -1,0 +1,1 @@
+17. No act done by the Bar Council or any Tribunal or committee thereof shall be called in questions on the ground merely of the existence of any vacancy in, or any defect in the constitution of, such Council, Tribunal or committee.

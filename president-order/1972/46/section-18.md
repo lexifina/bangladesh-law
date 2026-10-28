@@ -1,0 +1,1 @@
+18. No suit or other legal proceeding shall lie against the Bar Council or any Tribunal, Committee, officer or servant of the Bar Council for any act in good faith done or intended to be done in pursuance of the provisions of this Order or rules made thereunder.

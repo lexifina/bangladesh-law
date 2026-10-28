@@ -1,0 +1,1 @@
+38. An appeal made under Article 36 shall not operate as stay of the order appealed against, but the High Court may, for sufficient cause, direct the stay of such order on such terms and conditions as it may deem fit.
