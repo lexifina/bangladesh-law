@@ -1,0 +1,5 @@
+# Measures under Art. 41 of the Charter of the United Nations
+2. If, under Article 41 of the Charter of the United Nations signed at San Francisco on the 26th day of June, 1945, the Security Council of the United Nations calls upon the [^1][Government] to apply any measures, not involving the use of armed force, to give effect to any decision of that Council, the [^2][Government] may, by order published in the official Gazette, make such provisions (including provisions having extra-territorial operation) as appear to it necessary or expedient for enabling those measures to be effectively applied , and without prejudice to the generality of the foregoing power, provision may be made for the punishment of persons offending against the order.
+
+[^1]: The word “Government” was substituted for the words “Central Government” by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+[^2]: e word “Government” was substituted for the words “Central Government” by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
