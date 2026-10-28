@@ -1,0 +1,1 @@
+2. The taxation laws specified in the Schedule shall, until repealed or amended by competent authority, have effect and be deemed to have at all material times had effect subject to the modifications directed by the Schedule.
