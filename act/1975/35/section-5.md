@@ -1,0 +1,3 @@
+# Recovery of taxes
+5. (1) If the Government is satisfied that any taxes are recoverable from a depositor under any law for the time being in force, it may, by order in writing, direct the recovery of such taxes from the value of the demonetised notes deposited by him and send the order to the agency with which the demonetised notes have been deposited.
+(2) On receipt of an order under sub-section (1), the agency shall deduct the amount specified in the order from the value of the demonetised notes deposited by the depositor and pay the balance, if any, to him on such date and in such form and manner as may be determined by the Government under section 4.
