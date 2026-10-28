@@ -1,0 +1,3 @@
+# Power to regulate possession of any poison in certain areas
+4.(1) The Government may by rule regulate the possession of any specified poison in any local area in which the use of such poison for the purpose of committing murder or mischief by poisoning cattle appears to it to be of such frequent occurrence as to render restrictions on the possession thereof desirable.
+(2) In making any rule under sub-section (1), the Government may direct that any breach thereof shall be punishable with imprisonment for a term which may extend to one year, or with fine which may extend to one thousand Taka, or with both, together with confiscation of the poison in respect of which the breach has been committed, and of the vessels, packages or coverings in which the same is found.
