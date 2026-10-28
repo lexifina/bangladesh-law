@@ -1,0 +1,4 @@
+# Levy and realisation of tax from owners, etc., of shops is certain areas
+3. (1) There shall be levied and collected from the owner or management of any shop situated in any Municipal or Cantonment Area or in such other area or areas as may be notified in the official Gazette a tax of Tk. 3 per annum.
+Explanation.- 'Shop' means any premises not being premises intended to be in the nature of a temporary structure, where the trade or business of selling goods by retail or wholesale is carried on by the owner or occupier, or where services are rendered by the owner or occupier to the customers, and includes offices, show-rooms, store-rooms, godowns or ware-houses, wherever situated, used in connection with the said trade or business.
+(2) The Government may make rules regulating the procedure for collection and payment of the tax and any other matter incidental to its levy.
