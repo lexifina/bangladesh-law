@@ -1,0 +1,2 @@
+# Bar to institution of Proceedings under section 145 of the Code of Criminal Procedure
+10. When the Collector has attached any alluvial land under section 3, no proceedings under section 145 of the Code of Criminal Procedure, 1898, shall be instituted in any Court in respect of the same land, or of any part thereof; and any such proceedings already commenced and pending in any such Court shall be stayed.
