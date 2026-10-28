@@ -1,0 +1,7 @@
+# Age of majority of persons domiciled in Bangladesh
+3. Subject as aforesaid, every minor of whose person or property or both a guardian, other than a guardian for a suit within the meaning of [^2][Schedule I, Order XXXII of the Code of Civil Procedure, 1908,] has been or shall be appointed or declared by any Court of Justice before the minor has attained
+the age of eighteen years, and every minor of whose property the superintendence has been or shall be assumed by any Court of Wards before the minor has attained that age shall, notwithstanding anything contained in [^3][Succession Act, 1925,] or in any other enactment, be deemed to have attained his majority when he shall have completed his age of twenty-one years and not before.
+Subject as aforesaid, every other person domiciled in Bangladesh shall be deemed to have attained his majority when he shall have completed his age of eighteen years and not before.
+
+[^2]: The words, letters, commas and figure "Schedule I, Order XXXII of the Code of Civil Procedure, 1908," were substituted, for the words and letter "Chapter XXXI of the Code of Civil Procedure" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+[^3]: The words, commas and figure "Succession Act, 1925," were substituted, for the words, letter and figure "Indian Succession Act (No. X of 1865)" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act VIII of 1973)
