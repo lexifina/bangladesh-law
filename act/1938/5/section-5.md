@@ -1,0 +1,2 @@
+# Right to compensation for damage caused by manoeuvres
+5. Where a notification issued under section 2 authorises the execution of military manoeuvres compensation shall be payable from the Defence Estimates for any damage to person or property or interference with rights or privileges arising from such manoeuvres including expenses reasonably incurred in protecting person, property, rights and privileges.
