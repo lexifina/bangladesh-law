@@ -1,0 +1,1 @@
+3. The provisions of this Order shall have effect notwithstanding anything inconsistent therewith contained in any other law for time being in force or in any memorandum or articles of association or in any contract, deed or other instrument.

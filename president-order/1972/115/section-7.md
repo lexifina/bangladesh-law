@@ -1,0 +1,3 @@
+7. (1) Where any property has vested in the Government under Article 4, every person, in whose possession or custody or under whose control the property may be, shall deliver the property to the Government forthwith.
+(2) Any person who, on the commencement of this Order, has in his possession or custody or under his control any books, documents or other papers relating to the undertaking which has vested in the Government under Article 4 shall deliver them to the Government or to such person as the Government may direct.
+(3) The Government may take all necessary steps for securing possessions of all properties which have vested in the Government under Article 4.
