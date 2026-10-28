@@ -1,0 +1,9 @@
+[^86][39A. (1) Notwithstanding anything contained in this Order, the Government may, if in the national interest it deems it expedient so to do, transfer, by agreement, the entire undertaking of the Sangstha to any company registered under the Companies Act, 1913 (VII of 1913), on such terms and conditions as may be settled with such company.
+(2) Where the entire undertaking of the Sangstha has been transferred under clause (1), the Sangstha shall, on such date as the Government may, by order notified in the official Gazette, specify, stand dissolved.
+Explanation - The Undertaking of the Sangstha includes its business, projects, schemes, assets, properties, movable and immovable, cash balance, reserved funds, investment, rights, powers, authorities and privileges including rights and interests in, or arising out of, such properties and all books of accounts, registers, records and all other documents of whatever nature relating thereto and its borrowing, liabilities and obligations of whatever nature.
+(3) Where the undertaking of the Sangstha has been transferred under clause (1),-
+(a) all contracts entered into and all matters and things engaged to be done by, with or for, the Sangstha shall be deemed to have been entered into or, as the case may be, engaged to be done by, with or for the company;
+(b) all suits and other legal proceedings instituted by or against the Sangstha shall be deemed to be suits and other legal proceedings by or against the company.
+(4) The Government may, for the purpose of removing any difficulty in relation to the transfer of the undertaking of the Sangstha under clause (1) or the dissolution of the Sangstha under clause (2), make such order as it considers expedient and any such order shall be deemed to be, and given effect to as, part of the provisions of this Order.]
+
+[^86]: Article 39A was inserted by section 10 of the Bangladesh Shilpa Rin Sangstha (Amendment) Act, 1993 (Act No. IV of 1993)

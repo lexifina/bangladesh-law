@@ -1,0 +1,1 @@
+20. On the commencement of this Order, the undertakings of the Credit and Investment Corporation, the Investment Corporation and the Investment Trust, hereinafter in this Order referred to as the said financial institutions, shall be transferred to, and shall vest in, the Sangstha.

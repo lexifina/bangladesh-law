@@ -1,0 +1,1 @@
+40. Any reference to the Credit and Investment Corporation, the Investment Corporation or the Investment Trust in any law, other than this Order, or in any contract, agreement, deed of trust or other instrument shall, in so far as it relates to the undertakings which have been transferred to the Sangstha under Article 20, be construed as a reference to the Sangstha.

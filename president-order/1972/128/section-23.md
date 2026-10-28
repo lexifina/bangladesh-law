@@ -1,0 +1,3 @@
+23. (1) Where any property has vested in the Sangstha under Article 20, every person, in whose possession and custody or under whose control the property may be, shall deliver the property to the Sangstha forthwith.
+(2) Any person who, on the commencement of this Order, has in his possession or custody or under his control any books, documents or other papers relating to the undertaking which has vested in the Sangstha under Article 20 shall deliver them to the Sangstha or to such person as the Sangstha may direct.
+(3) The Sangstha may take all necessary steps for securing possession of all properties which have vested in the Sangstha under Article 20.

@@ -1,0 +1,4 @@
+36. The Board may, for the purpose of ensuring efficient functioning of the Sangstha and facilitating transaction of its daily business, by a resolution, delegate to the [^83][ [^84][Chairman, Managing Director]] or any other Director or any officer of the Sangstha subject to such conditions and limitations, if any, as may be specified therein, such of its powers and duties under this Order as it may deem necessary.
+
+[^83]: The words “Managing Director” were substituted for the word “Chairman” by section 15 of the Bangladesh Shilpa Rin Sangstha (Amendment) Ordinance, 1977 (Ordinance No. XIV of 1977)
+[^84]: The words and comma “Chairman, Managing Director” were substituted for the words “Managing Director” by section 2 and the Schedule of the Banks and Financial Institutions Laws Amendment Act, 1980 (Act No. IX of 1980)
