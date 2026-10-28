@@ -1,0 +1,1 @@
+4. Any application or appeal pending before the Board of Revenue or a Commissioner of Division under any law mentioned in the Schedule on the date of coming into force of this Order shall stand transferred to the authority or Court empowered to dispose of it according to the amended provision as indicated in the fourth column of the Schedule.
