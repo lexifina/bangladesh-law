@@ -1,0 +1,2 @@
+# Appointment of Official Receiver as receiver and his duties, rights and liabilities as such
+4. Subject to, and in accordance with, the provisions of this Act and of rules made thereunder but notwithstanding the provision of sub-section (2) of section 3, the Official Receiver may be appointed a Receiver by the Court in respect of any property, and save as provided in this Act, he shall have the same powers, duties and liabilities, shall be entitled to the same rights and privileges and shall be subject to the same control by the Court as any other receiver so appointed.

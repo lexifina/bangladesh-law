@@ -1,0 +1,6 @@
+# Appointment, status, rights, liabilities, etc., of Official Receiver and Deputy Official Receiver
+3. (1) There shall be an Official Receiver and there may be one or more Deputy Official Receivers.
+(2) The offices of Official Receiver and of Deputy Official Receivers (if any) shall be civil posts under the Government.
+(3) Subject to the provisions of sub-section (2) of section 6, all rights, privileges, titles and liabilities of the Official Receiver subsisting immediately prior to the commencement of this Act shall accrue to and vest in the Official Receiver appointed under this Act.
+(4) The person holding the office of Official Receiver immediately prior to the commencement of this Act shall without further appointment become the Official Receiver appointed under this Act, and it shall not be necessary for the Court to reappoint him under section 4 in any case in which he has previously been appointed a receiver.
+(5) A Deputy Official Receiver shall, subject to the control of the Government and to general or special orders of the Official Receiver, be competent to discharge any of the duties and exercise any of the powers of the Official Receiver and shall, when discharging such duties or exercising such powers, have the same rights and privileges and be subject to the same liabilities as the Official Receiver.

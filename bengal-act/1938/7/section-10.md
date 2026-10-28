@@ -1,0 +1,4 @@
+# Suits by or against the Official Receiver
+10. (1) Nothing in section 80 of the Code of Civil Procedure, 1908 (Act V of 1908), shall apply to any suit against the Official Receiver in which no relief is claimed against him personally.
+(2) The Official Receiver shall not sue or be sued without the express permission of the Court.
+(3) Subject to the provisions of this Act and of all other law relating to receivers appointed by the Court, the Official Receiver may sue and be sued by and in the name of “The Official Receiver in the matter of ......................................” and in that name, may hold property of every description, make contracts, enter into engagements binding upon himself and his successors in office and do all other acts necessary or expedient to be done the execution of his office.
