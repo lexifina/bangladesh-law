@@ -1,0 +1,2 @@
+# Interpretation of references to Standard Time
+2. While any order of the Government is in force fixing Standard Time by reference to Greenwich Mean Time as being in advance of Greenwich Mean Time by an interval other than five and one half hours, any reference in any enactment in force in Bangladesh to Standard Time shall, notwithstanding that such reference may define Standard Time as being five and one half hours in advance of Greenwich Mean Time, be interpreted as a reference to Standard Time as fixed for the time being by the order of the Government.
