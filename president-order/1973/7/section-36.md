@@ -1,0 +1,1 @@
+36. The Government may make rules not inconsistent with this Order for the purpose of giving effect to the provisions of this Order, and where the rules framed under this Article are inconsistent with the regulations framed under the next succeeding Article the rules shall prevail.

@@ -1,0 +1,1 @@
+35C. Notwithstanding anything contained in section 32 of the Code of Criminal Procedure, 1898 (Act No. V of 1898), a first class magistrate or a Metropolitan Magistrate, as the case may be, may impose the fine specified in the relevant Articles of this Order.

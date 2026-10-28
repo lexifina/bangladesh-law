@@ -1,0 +1,8 @@
+[^42][30. [^43][(1) The Corporation shall maintain its accounts and prepare an annual statement of accounts.]
+(2) The Comptroller and Auditor-General of Bangladesh, hereinafter referred to as the Auditor-General shall audit the accounts of the Corporation each year and shall submit audit reports in accordance with the provisions of existing law in Bangladesh.
+(3) Notwithstanding the audit done by the Auditor-General under clause (2), the accounts of the Corporation may be audited by two chartered accountants defined in Article 2 (1) (b) of the Bangladesh Chartered Accountants Order, 1973 (P.O. No. II of 1973) and for this purpose, the Government may appoint one or more Chartered Accountants and the Corporation shall provide their honorarium as may be decided by the Government.
+(4) For the purpose of the audit, the Auditor-General or any person authorized by him in this behalf or the Chartered Accountant appointed under clause (3) may have access to all records, documents, cash or deposits in bank, securities, stores and other property of the Corporation and may examine the director or any employee of the Corporation.
+(5) After completion of the audit, the Chartered Accountant appointed under clause (3), shall submit the audit report to the Government, Corporation and relevant agencies, where applicable.]
+
+[^42]: Clause (1) was substituted by section 6 of Bangladesh House Building Finance Corporation (Amendment) Act, 2026 (Act No. 64 of 2026).
+[^43]: Article 30 was substituted by section 24 of Bangladesh House Building Finance Corporation (Amendment) Act, 2021 (Act No. XXV of 2021).

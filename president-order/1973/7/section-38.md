@@ -1,0 +1,7 @@
+38. Notwithstanding anything contained in any other law for the time being in force, on the commencement of this Order,
+(a) all assets, rights, powers, authorities and privileges and all properties, movable and immovable, cash balances, bank deposits and all other rights and interests in or arising out of, such property of the House Building Finance Corporation established under the House Building Finance Corporation Act, 1952 (XVIII of 1952), shall stand transferred to and vested in the Corporation;
+(b) all liabilities and obligations of whatever kind of the said House Building Finance Corporation subsisting within the territory of Bangladesh immediately before the commencement of this Order shall, unless the Government otherwise directs, be the liabilities and obligations of the Corporation;
+(c) all suits and other legal proceedings instituted by or against the said House Building Finance Corporation unless the Government otherwise directs be deemed to have been instituted by or against the Corporation and may be continued or proceeded with accordingly; and
+(d) all rules framed and regulations made, in exercise of powers conferred under the House Building Finance Corporation Act, 1952, hereby repealed, [^50][shall,] unless repugnant to the subject or context, be deemed to have been framed or made under this Order.
+
+[^50]: The word and comma “shall,” was substituted for the word “shall” by section 13 of the Bangladesh House Building Finance Corporation (Amendment) Act, 1975 (Act No. XXVII of 1975)

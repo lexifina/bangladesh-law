@@ -1,0 +1,1 @@
+34. Every Director, auditor, officer or servant of the Corporation shall, before entering upon his duties, make a declaration of fidelity and secrecy in the form set out in the Schedule to this Order.

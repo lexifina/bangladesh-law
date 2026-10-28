@@ -1,0 +1,2 @@
+3. (1) A Corporation to be called the Bangladesh House Building Finance Corporation shall be established as soon as may be to carry out the purposes of this Order.
+(2) The Corporation shall be a body corporate by the name of the Bangladesh House Building Finance Corporation having perpetual succession and a common seal, with power, subject to the provisions of this Order, to acquire and hold property, both movable and immovable, and shall by the said name sue and be sued.
