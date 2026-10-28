@@ -1,0 +1,3 @@
+# Payment of minimum wages
+5. (1) No person shall pay any agricultural labourer wages at a rate lower than the rate fixed by or under this Ordinance to be the minimum wages for such labourer.
+(2) Nothing in sub-section (1) shall be deemed to affect, in any way, the right of an agricultural labourer to continue to receive wages at a rate higher than the minimum rate fixed by or under this Ordinance, if under any agreement or contract or otherwise, he is entitled to receive wages at such higher rate, or to continue to enjoy such amenities and other advantages as are customary for such labourer to enjoy.
