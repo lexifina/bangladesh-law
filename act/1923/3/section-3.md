@@ -1,0 +1,6 @@
+# Power to issue notification prohibiting import of cotton into protected area
+3.(1) The Government may, for the purpose of maintaining the quality or reputation of the cotton grown in any area in [^2][Bangladesh], by notification in the official Gazette, prohibit the import of cotton or of any specified kind of cotton into that area by rail, road, river and sea, or by any one or more of such routes save under, and in accordance with the conditions of, a licence:
+Provided that no such notification shall be deemed to prohibit the import into any protected area of packages containing any kind of cotton and not exceeding ten pounds avoirdupois weight.
+(2) Any such notification may prohibit the delivery to, and the taking of delivery by, any person, at any specified railway station situated in the protected area, of any cotton, the import of which by rail into that area is prohibited when such cotton has been consigned from a railway station not situated in that area, unless such person holds a licence for the import by rail of the cotton into that area.
+
+[^2]: The word "Bangladesh" was substituted, for the words "the Province" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
