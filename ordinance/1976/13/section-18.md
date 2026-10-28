@@ -1,0 +1,3 @@
+# Approval of examinations
+18. (1) Any institution or authority, other than the Council, which holds an examination in Pharmacy, may apply to the Council for approval of the examination for the purpose of qualifying a person for registration as a pharmacist under this Ordinance.
+(2) The Council, if it is satisfied after such enquiry as it may think fit that the examination for the approval of which an application has been made under sub-section (1) is in conformity with the provisions of this Ordinance and the regulations, shall approve the examination and, by notification in the official Gazette, declare it to be an approved examination for the purpose of qualifying a person for registration as a pharmacist under this Ordinance.
