@@ -1,0 +1,5 @@
+# Release from requisition
+8. (1) Where any property requisitioned under any rule made under this Act is to be released from such requisition, the Government [^8][* * *] or any person generally or specially authorised by it in this behalf may, after such enquiry, if any, as it or he may in any case consider it necessary to make or cause to be made, specify by order in writing the person to whom possession of the property shall be given.
+(2) The delivery of possession of the property to the person specified in an order under sub-section (1) shall be a full discharge of the Government from all liabilities in respect of the property, but shall not prejudice any rights in respect of the property which any other person may be entitled by due process of law to enforce against the person to whom possession of the property is given.
+
+[^8]: The words “by which or under whose authority the property was requisitioned” were omitted by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)

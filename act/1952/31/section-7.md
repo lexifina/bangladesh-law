@@ -1,0 +1,7 @@
+# Power to acquire requisitioned property
+7. (1) Without prejudice to any power to acquire property conferred by any rule made under this Act, any immovable property which has been requisitioned under any rule so made may in the manner provided by any such rules for the acquisition of the property, be acquired in the circumstances and by the Government hereinafter specified, namely:-
+(a) where any works have, during the period of requisition, been constructed on, in or over the property wholly or partly at the expense of the Government, by the Government if it decides that the value of, or the right to use, such works shall, by means of the acquisition of the property be preserved or secured for the purposes of the Government; or
+(b) where the cost to the Government of restoring the property to its condition at the time of its requisition as aforesaid would, in the determination of the Government, be excessive having regard to the value of the property at that time, by the Government;
+and at the beginning of the day on which notice of such acquisition is served or published under the aforesaid rules, the immovable property shall vest in the Government free from any mortgage, pledge, lien or similar encumbrance, and the period of the requisition thereof shall end.
+(2) Any decision or determination of the Government under sub-section (1) shall be final, and shall not be called in question in any Court.
+(3) For the purposes of this section, “works” includes buildings, constructions and improvements of the property, of every description.
