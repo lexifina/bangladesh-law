@@ -1,0 +1,2 @@
+# Appeal
+5. Any person aggrieved by an order of the Revenue-officer determining the amount of any ad-interim payment under section 3 may, within a prescribed period and in the prescribed manner, present an appeal in writing to a prescribed superior Revenue Authority, and the decision of such Authority and also, subject only to such decision an order of the Revenue-officer passed under that section shall be final.
