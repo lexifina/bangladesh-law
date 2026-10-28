@@ -1,0 +1,2 @@
+# Village-accounts
+12. It is further enacted that the village-accounts which are required to be kept in such manner and form as has heretofore been the custom, or in such other mode as may hereafter be prescribed by the Board of Revenue shall be prepared in duplicate sets-one for deposit in the office of patwari, and one for deposit in the office of Collector of the district in which the respective estates or tenures may be situated, and, wherever the office of a kanungo may be established, a third copy shall be prepared and deposited in that office.
