@@ -1,0 +1,3 @@
+# Extension of period in certain cases
+5. Any appeal or application for a revision or a review of judgment or for leave to appeal or any other application to which this section may be made applicable by or under any enactment for the time being in force may be admitted after the period of limitation prescribed therefor, when the appellant or applicant satisfies the Court that he had sufficient cause for not preferring the appeal or making the application within such period.
+Explanation - The fact that the appellant or applicant was misled by any order, practice or judgment of the High Court Division in ascertaining or computing the prescribed period of limitation may be sufficient cause within the meaning of this section.
