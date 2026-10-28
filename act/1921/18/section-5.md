@@ -1,0 +1,2 @@
+# Transmission of maintenance order made in Bangladesh
+5. Where a Court in Bangladesh has, whether before or after the commencement of this Act, made a maintenance order against any person, and it is proved to that Court that the person against whom the order was made is resident in a reciprocating territory, the Court shall send to the Government, for transmission to the proper authority of that territory, a certified copy of the order.
