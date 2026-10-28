@@ -1,0 +1,5 @@
+# Jurisdiction of Administrative Appellate Tribunal
+6. (1) The Administrative Appellate Tribunal shall have jurisdiction to hear and determine appeals from any order or decision of an Administrative Tribunal.
+(2) Any person aggrieved by an order or decision of an Administrative Tribunal may, within three months from the date of making of the order or decision, prefer an appeal to the Administrative Appellate Tribunal.
+(2A) Notwithstanding the provisions of sub-section (2), an appeal may be admitted after the period of three months specified in that sub-section but not later than six months, if the appellant satisfies the Administrative Appellate Tribunal that he had sufficient cause for not preferring the appeal within three months
+(3) The Administrative Appellate Tribunal may, on appeal, confirm, set aside, vary or modify any order or decision of an Administrative Tribunal, and the decision of the Administrative appellate Tribunal in an appeal [shall, subject to section 6A, be final].
