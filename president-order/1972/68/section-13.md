@@ -1,0 +1,1 @@
+13. The Board may, by general or special order in writing, direct that such of its powers shall, in such circumstances and under such conditions, if any, as may be specified in the order, be exercisable also by the Chairman or by such Director or officer of the Corporation as may be so specified.

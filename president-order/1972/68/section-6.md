@@ -1,0 +1,2 @@
+6. (1) Subject to rules and regulations made under this Order, the general direction and superintendence of the affairs and business of the Corporation shall vest in a Board of Directors which may exercise all such powers and do all such acts and things as may be exercised or done by the Corporation.
+(2) The Board, in discharging its functions, shall act on commercial considerations with due regard to the interest of the nation and the public generally and be guided by such general or special instructions as may be given to it by the Government from time to time.
