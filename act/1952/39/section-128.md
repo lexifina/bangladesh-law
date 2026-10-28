@@ -1,0 +1,2 @@
+# Transmission of proceedings of a summary court martial
+128. The proceedings of every summary court martial shall without delay be forwarded to an officer having power to convene a district court martial, and such officer, or any higher authority, may, for reasons based on the merits of the case but not on any merely technical grounds, set aside the proceedings or reduce the sentence to any other sentence which the court might have passed.

@@ -1,0 +1,2 @@
+# Neglect to obey orders
+34. Any person subject to this Act who neglects to obey any standing or routine or other orders shall, on conviction by court martial, be punished with rigorous imprisonment for a term which may extend to two years, or with such less punishment as is in this Act mentioned.

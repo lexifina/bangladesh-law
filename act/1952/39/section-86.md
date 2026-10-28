@@ -1,0 +1,2 @@
+# Composition of district court martial
+86. A district court martial shall consist of not less than three officers each of whom has held a commission for a continuous period of not less than two years.

@@ -1,0 +1,2 @@
+# Pay and allowances during trial
+66. In the case of a person subject to this Act who is in custody or under suspension from duty on a charge for an offence, the prescribed officer may direct that the whole or any part of the pay and allowances of such person shall be withheld, pending the result of his trial, on the charge against him, in order to give effect to the provisions of clause (b) of sub-section (1) or sub-section (2) of section 65.

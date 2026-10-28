@@ -1,0 +1,2 @@
+# Arrest by civil authorities
+76. Whenever any person subject to this Act, who is accused of any offence under this Act, is within the jurisdiction of any magistrate or police officer, such magistrate or police officer shall aid in the apprehension and delivery to military custody of such person upon receipt of a written application to that effect signed by that person's commanding officer.

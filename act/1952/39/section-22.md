@@ -1,0 +1,2 @@
+# Reversion of an acting non-commissioned officer
+22. The commanding officer of an acting non-commissioned officer may order him to revert to his permanent grade as a non-commissioned officer or, if he has no permanent grade above the ranks, to the ranks.

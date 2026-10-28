@@ -1,0 +1,2 @@
+# False statement before court martial
+50. Any person subject to this Act who, having been duly sworn or affirmed before any court martial or other military court competent under this Act to administer an oath or affirmation, makes any statement which is false and which he either knows or believes to be false or does not believe to be true, shall, on conviction by court martial, be punished with rigorous imprisonment for a term which may extend to ten years, or with such less punishment as is in this Act mentioned.

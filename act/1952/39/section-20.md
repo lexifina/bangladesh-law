@@ -1,0 +1,5 @@
+# Discharge or dismissal when out of Bangladesh
+20. (1) Any person subject to this Act, who is entitled under the conditions of his service to be discharged, or whose discharge is ordered by competent authority, and who, when he is so entitled or ordered to be discharged, is serving out of Bangladesh, and requests to be sent to Bangladesh, shall, before being discharged, be sent to Bangladesh with all convenient speed.
+(2) Any person subject to this Act who is dismissed from the service and who, when he is so dismissed is serving out of Bangladesh, shall be sent to Bangladesh with all convenient speed.
+(3) When any such person as is mentioned in sub-section (2) is sentenced to dismissal combined with any other punishment, such other punishment, or in the case of a sentence of transportation or imprisonment, a portion of such sentence, may be inflicted before he is sent to Bangladesh.
+Explanation.-For the purposes of this section, the word “discharge” shall include retirement or release, and the word “dismissal” shall include removal.

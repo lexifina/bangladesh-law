@@ -1,0 +1,2 @@
+# Trial by court martial, bar to subsequent trial by criminal court
+96. Where a person subject to this Act is acquitted or convicted of an offence by a court martial, a criminal court shall be debarred from trying him subsequently for the same offence or on the same facts.

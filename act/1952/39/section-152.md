@@ -1,0 +1,3 @@
+# Effect of suspension on dismissal
+152. (1) Where in addition to any other sentence, the punishment of dismissal has been awarded by a court martial, and such other sentence is suspended under section 144, then, such dismissal shall not take effect until so ordered by the authority or officer specified in section 144.
+(2) If such other sentence is remitted under section 148 the punishment of dismissal shall also be remitted.

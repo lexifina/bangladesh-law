@@ -1,0 +1,2 @@
+# Power to withhold pay and allowances pending inquiry into conduct as prisoner of war
+68. Where the conduct of any person subject to this Act, when being taken prisoner by or whilst in the hands of the enemy, is to be inquired into under this Act or any other law for the time being in force, the Chief of Army Staff or any officer empowered by him in this behalf may order that the whole or any part of the pay and allowances of such person shall be withheld pending the result of such inquiry.

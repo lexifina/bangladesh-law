@@ -1,0 +1,2 @@
+# Commencement of sentence of transportation, or rigorous imprisonment or detention
+135. Whenever any person is sentenced under this Act to transportation, rigorous imprisonment or detention, the term of sentence shall, whether it has been revised or not, be reckoned to commence on the day on which the original proceedings were signed by the president or, in the case of a summary court martial, by the court.

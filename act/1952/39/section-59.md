@@ -1,0 +1,13 @@
+# Civil offences
+59. (1) Subject to the provisions of sub-section (2), any person subject to this Act who at any place in or beyond Bangladesh commits any civil offence shall be deemed to be guilty of an offence against this Act and, if charged therewith under this section, shall be liable to be dealt with under this Act, and, on conviction, to be punished as follows, that is to say,-
+(a) if the offence is one which would be punishable under any law in force in Bangladesh with death or with transportation, he shall be liable to suffer any punishment other than whipping assigned for the offence by the aforesaid law or such less punishment as is in this Act mentioned; and
+(b) in any other case, he shall be liable to suffer any punishment other than whipping assigned for the offence by the law in force in Bangladesh, or with rigorous imprisonment for a term which may extend to five years or with such less punishment as is in this Act mentioned.
+(2) A person subject to this Act who commits an offence of murder against a person not subject to this Act or to [^35][* * *] the Air Force Act, 1953, or to the [^36][Navy Ordinance, 1961], or of culpable homicide not amounting to murder against such a person or of rape in relation to such a person, shall not be deemed to be guilty of an offence against this Act and shall not be dealt with under this Act unless he commits any of the said offences,-
+(a) while on active service, or
+(b) at any place outside Bangladesh, or
+(c) at a frontier post specified by the Government by notification in this behalf.
+(3) The powers of a court martial or an officer exercising authority under section 23 to charge and punish any person under this section shall not be affected by reason of the fact that the civil offence with which such person is charged is also an offence against this Act.
+(4) Notwithstanding anything contained in this Act or in any other law for the time being in force, a person who becomes subject to this Act by reason of his being accused of an offence mentioned in clause (d) of sub-section (1) of section 2 shall be liable to be tired or otherwise dealt with under this Act for such offence as if the offence were an offence against this Act and were committed at the time when such person was subject to this Act; and the provisions of this section shall have effect accordingly.
+
+[^35]: The words, commas and figures “the Indian Air Force Act, 1932, or” was omitted by section 4 of প্রতিরক্ষা কর্মবিভাগ (কতিপয় আইন সংশোধন) আইন, ২০১৬ (২০১৬ সনের ১৫ নং আইন)।
+[^36]: The words, comma and figures “Navy Ordinance, 1961” were substituted for the words, comma and figures “Pakistan Navy Ordinance, 1961” by section 4 of প্রতিরক্ষা কর্মবিভাগ (কতিপয় আইন সংশোধন) আইন, ২০১৬ (২০১৬ সনের ১৫ নং আইন)।

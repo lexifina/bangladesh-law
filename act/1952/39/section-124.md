@@ -1,0 +1,4 @@
+# Power of confirming authority to mitigate, remit or commute sentences
+124. Subject to such restrictions, reservations or conditions, as may be contained in any warrant issued under section 120 or section 121, a confirming officer may, when confirming the sentence of a court martial, mitigate or remit the punishment thereby awarded, or commute that punishment for any less punishment or punishments to which the offender might have been sentenced by court martial or if that punishment is death or transportation for life, for any less punishment or punishments mentioned in this Act:
+Provided that a sentence shall not be commuted for a sentence of transportation or fine unless the original sentence was awarded in respect of a civil offence:
+Provided further that a sentence of transportation shall not be commuted for a sentence of rigorous imprisonment for a term exceeding the term of transportation awarded by the court.

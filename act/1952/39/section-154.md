@@ -1,0 +1,2 @@
+# Disposal of certain property without production of probate, etc.
+154. Property deliverable and money payable to the representative, widow or next of kin of a deceased person under section 153 may, if the total value or amount thereof does not exceed one thousand taka, and if the prescribed person thinks fit, be delivered or paid to any one of them who appears to be entitled to receive it or to administer the estate of the deceased, without requiring the production of any probate, letters of administration, succession certificate or other such conclusive evidence of title.

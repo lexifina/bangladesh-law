@@ -1,0 +1,2 @@
+# Confirmation of finding and sentence on board a ship
+125. When any person subject to this Act is tried and sentenced by a court martial while on board a ship, the finding and sentence so far as not confirmed and executed on board the ship may be confirmed and executed in like manner as if such person had been tried at the port of disembarkation.

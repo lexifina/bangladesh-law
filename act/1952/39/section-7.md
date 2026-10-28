@@ -1,0 +1,2 @@
+# Power to declare persons to be on active service
+7. Notwithstanding anything contained in clause (1) of section 8, the Government may, by notification, direct that any person or class of persons subject to this Act shall, with reference to any area in which they may be serving or with reference to all or any of the provisions of this Act or of any other law for the time being in force, be deemed to be on active service within the meaning of this Act.

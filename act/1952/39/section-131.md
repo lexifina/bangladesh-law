@@ -1,0 +1,3 @@
+# Remedy against finding and sentence of court martial
+131. (1) Any person subject to this Act who considers himself aggrieved by the finding or sentence of a general, field general or district court martial may submit a petition, before confirmation of such finding or sentence, to the officer empowered to confirm it and, after confirmation, to the Government, or the Chief of Army Staff or to any prescribed officer, provided that such prescribed officer is higher in rank than the one who confirmed such finding or sentence.
+(2) Any person subject to this Act who considers himself aggrieved by the finding or sentence of a summary court martial may submit a petition to the Government, or the Chief of Army Staff, or any officer empowered to act under section 128.

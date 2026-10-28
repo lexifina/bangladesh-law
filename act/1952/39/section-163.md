@@ -1,0 +1,2 @@
+# Saving of rights of representative
+163. After the committee has deposited with the prescribed person the surplus of the property of any deceased officer under sub-section (6) of section 158 any representative of the deceased shall, as regards any property not collected by the committee and not forming part of the aforesaid surplus, have the same rights and duties as if section 158 had not been enacted.

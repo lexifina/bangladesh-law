@@ -1,0 +1,3 @@
+# Power of criminal court to require delivery of offender
+95. (1) When a criminal court having jurisdiction is of the opinion that proceedings ought to be instituted before itself in respect of any civil offence, it may, by written notice, require the prescribed officer, at his option, either to deliver over the offender to the nearest magistrate to be proceeded against according to law, or to postpone proceedings pending a reference to the Government.
+(2) In every such case, the said officer shall either deliver over the offender in compliance with the requisition or shall forthwith refer the question as to the court before which the proceedings are to be instituted for the determination of the Government, whose order upon such reference shall be final.
