@@ -1,0 +1,7 @@
+# Appeal to Appellate Tribunal
+17. (1) Any Income-tax Officer or any person in respect of whose business an order under section 12 has been passed and who objects to such order or an order, if any, passed by an Appellate Assistant Commissioner of Income-tax under section 15 or section 16 may, within the prescribed time and in the prescribed manner appeal against such order to the Appellate Tribunal constituted under the Income-tax Act, 1922.
+(1A) The Appellate Tribunal may admit an appeal after the expiry of the prescribed time referred to in sub-section (1), if it is satisfied that there was sufficient cause for not presenting it within that time.
+(2) The Appellate Tribunal shall determine the appeal after giving both parties to the appeal an opportunity of being heard.
+If the Appellate Tribunal is not satisfied that the assessment or order which is the subject of appeal ought to be interfered with, it shall reject the appeal and the assessment or order shall stand good.
+If it is satisfied that the assessment or order ought to be interfered with, it shall, subject to the provisions of this Act, pass such orders as it thinks fit, and such orders may include an order enhancing the assessment or penalty:
+Provided that an order enhancing an assessment or penalty shall not be made unless the person affected thereby has been given an opportunity of showing cause against the enhancement.

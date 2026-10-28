@@ -1,0 +1,2 @@
+# Failure to deliver returns or statements
+21. If any person fails, without reasonable cause or excuse, to furnish in due time any return or statement, or to produce, or cause to be produced, any accounts or documents required to be produced under section 11, he shall be punishable with simple imprisonment which may extend to three months or with fine which may extend to five hundred Taka or with both.

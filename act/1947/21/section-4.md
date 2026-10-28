@@ -1,0 +1,11 @@
+# Charge of tax
+4. Subject to the provisions of this Act, there shall, in respect of any business to which this Act applies, be charged, levied and paid on the amount of the taxable profits during any chargeable accounting period, a tax (in this Act referred to as “business profits tax”) which shall be equal to sixteen and two-thirds per cent of the taxable profits:
+Provided that –
+(a) any profits which are, under the provisions of sub-section (3) of section 4 of the Income-tax Act, 1922, exempt from income-tax,
+(b) all profits from any business of life insurance,
+(c) any sum paid to a business by or through the Government by way of bonus or subsidy,
+shall be totally exempt from business profits tax under this Act:
+Provided further that where the profits of an industrial undertaking to which section 15B of the Income-tax Act, 1922, applies are included in the profits and taxable profits of any chargeable accounting period no tax shall be payable under this Act on such part of the said profits as ranks for exemption under the said section:
+Provided further that no tax shall be payable under this Act on the profits of an industrial undertaking as described in sub-section (2) of section 15B of the Income-tax Act, 1922, which has been set up or commenced after the 31st day of March, 1951, and before the first day of April, 1958, as respects the first five successive chargeable accounting periods.
+Provided further that notwithstanding anything to the contrary contained in sub-section (8) of section 10 of the Income-tax Act, 1922, no tax under this Act shall, subject to the terms of the agreement entered into with Government, be payable by an undertaking the profits or gains of which are liable to be computed in accordance with the rules contained in the Second Schedule to the Income-tax Act, 1922.
+Provided further that, as respects any chargeable accounting period relevant to the previous year for assessment under the Income-tax Act, 1922, for any year ending on or after the 31st day of March, 1959 no tax shall be payable under this Act on profits of any business carried on by a firm which is registered under section 26A of the Income-tax Act, 1922 or a firm treated as a registered firm under clause (b) of sub-section (5) of section 23 of the Income-tax Act, 1922.

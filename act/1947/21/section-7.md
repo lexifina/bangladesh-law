@@ -1,0 +1,3 @@
+# Change in persons carrying on business
+7. As from the date of any change in the persons carrying on a business, the business shall be deemed for all the purposes of this Act to have been discontinued and a new business to have been commenced:
+Provided that where a change takes place in the persons carrying on a business and where except for such change relief would be allowable under section 6, the National Board of Revenue may, if it thinks fit, allow such relief under that section as it considers just, having regard to the extent to which the persons directly or indirectly interested in the business before the change remain interested therein after the change.
