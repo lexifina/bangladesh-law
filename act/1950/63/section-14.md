@@ -1,0 +1,2 @@
+# Presumption as to certain documents
+14. When any person enrolled, other than an officer, is required by or in pursuance of any rule or order made under this Act to attend at any place, a certificate purporting to be signed by the prescribed officer stating that the person so required to attend has failed to attend in accordance with such requirement shall, without proof of the signature or appointment of such officer be evidence of the matter stated therein.

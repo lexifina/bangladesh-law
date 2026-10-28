@@ -1,0 +1,14 @@
+# Application of the Indian Army Act, 1911
+12. (1) Every officer of the Bangladesh National Guard when doing duty as such officer shall be subject to the provisions of [^13][* * *] the [^14][* * *] Army Act, 1952, and the rules and regulations made thereunder, in the same manner and to the same extent as if such officer held the same rank in the Bangladesh Army as he holds for the time being in the Bangladesh National Guard but subject to the terms of his commission and to any order of the President made in this behalf.
+(2) Every non-commissioned officer and man of the Bangladesh National Guard-
+(a) when called out or embodied for military service under section 11, or
+(b) when embodied for, or otherwise undergoing military training in the prescribed manner, shall be subject to [^15][* * *] the [^16][* * *] Army Act, 1952, and the rules and regulations made thereunder, and the said Act, rules and regulations shall apply to him, subject to any order of the President made in this behalf as if he held the same rank in the Bangladesh Army as he holds for the time being in the Bangladesh National Guard:
+Provided that the said Act, rules and regulations shall, in their application to such non commissioned officers and men when embodied for or otherwise undergoing military training, be modified to such extent and in such manner as may be prescribed.
+(3) When any offence punishable under [^17][* * *] the [^18][* * *] Army Act, 1952, has been committed by any person while subject to that Act under the provisions of this section such person may, notwithstanding that he may have ceased to be so subject, be taken into and kept in military custody and tried and punished for such offence as aforesaid in like manner as if he had not ceased to be so subject.
+
+[^13]: The words, commas and figures “the Indian Army Act, 1911 or” were omitted by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+[^14]: The word “Pakistan” was omitted by Article 6 of the The Bangladesh (Adaptation of Existing Laws) Order, 1972 (President’s Order No. 48 of 1972)
+[^15]: The words, commas and figures “the Indian Army Act, 1911 or” were omitted by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+[^16]: The word “Pakistan” was omitted by Article 6 of the The Bangladesh (Adaptation of Existing Laws) Order, 1972 (President’s Order No. 48 of 1972)
+[^17]: e words, commas and figures “the Indian Army Act, 1911 or” were omitted by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+[^18]: e word “Pakistan” was omitted by Article 6 of the The Bangladesh (Adaptation of Existing Laws) Order, 1972 (President’s Order No. 48 of 1972)
