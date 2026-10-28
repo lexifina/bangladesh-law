@@ -1,0 +1,3 @@
+# Ordinance No. XXXVI of 1984 এর section 107F এর প্রতিস্থাপন
+৫০। উক্ত Ordinance এর section 107F এর পরিবর্তে নিম্নরূপ section 107F প্রতিস্থাপিত হইবে, যথা :-
+””107F. Report from an accountant to be furnished.- The Deputy Comissioner of Taxes may, by notice in writing, require that a person who has entered into international transaction or transactions the aggregate value of which, as recorded in the books of accounts, exceeds three crore taka during an income year shall furnish within the period as may be specified in the notice and in the form and manner as may be prescribed, a report from a Chartered Accountant or a Cost and Management Accountant regarding all or of a part of the information, documents and records furnished under section 107E.”””

@@ -1,0 +1,3 @@
+# Ordinance No. XXXVI of 1984 এ নূতন section 124AA এর সন্নিবেশ
+৫৩। উক্ত Ordinance এর section 124A এর পর নিম্নরূপ নূতন section 124AA সন্নিবেশিত হইবে, যথা:-
+””124AA. Penalty for failure to verify Taxpayer”s Identification Number.- Where a person, responsible for verification of the authenticity of twelve-digit Taxpayer”s Identification Number (TIN) in accordance with the provision of sub-section (2) of section 184A of this Ordinance, has, without reasonable cause, failed to comply with such requirement under that provision, the Deputy Commissioner of Taxes or any other income tax authority authorised by the Board for this purpose, as the case may be, may impose upon such person a penalty not exceeding taka fifty thousand.”””

@@ -1,0 +1,3 @@
+# Ordinance No. XXXVI of 1984 এ নূতন section 129B এর সন্নিবেশ
+৫৫। উক্ত Ordinance এর section 129A এর পর নিম্নরূপ নূতন section 129B সন্নিবেশিত হইবে, যথা:-
+””129B. Penalty for furnishing fake audit report.”Where, in the course of any proceeding under this Ordinance, the Deputy Commissioner of Taxes, the Appellate Joint Commissioner, the Commissioner (Appeals) or the Appellate Tribunal is satisfied beyond reasonable doubt that any audit report furnished by an assessee along with the return of income or thereafter for any income year is not signed by a chartered accountant or is believed to be false, such authority or the Tribunal, as the case may be, shall impose upon such assessee a penalty of a sum of one lakh taka for that income year.”””

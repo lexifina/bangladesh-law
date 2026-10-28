@@ -1,0 +1,14 @@
+# Ordinance No. XXXVI of 1984 এর section 82BB এর সংশোধন
+৪৭। উক্ত Ordinance এর section 82BB এর sub-sections (1) এবং (2) এর পরিবর্তে নিম্নরূপ sub-sections (1) এবং (2) প্রতিস্থাপিত হইবে, যথা :-
+"(1) Subject to sub-sections (2) or (3) and section 93, where an assessee, either manually or electronically, furnishes a return of income mentioning twelve-digit Taxpayers Identification Number (TIN) in compliance with the conditions and within time specified in sub-section (2) of section 75 and pays tax in accordance with section 74, he shall be issued by the Deputy Commissioner of Taxes or any other official authorised by him, an acknowledgement of receipt of the return and such acknowledgement shall be deemed to be an order of the Deputy Commissioner of Taxes for the purpose of assessment.
+(2) On receipt of such return under sub-section (1), the Deputy Commissioner of Taxes shall”
+(a) process such return in the following manner, namely:”
+(i) the income shall be computed after making the adjustments in respect of any arithmetical error in the return and any incorrect claim, if such incorrect claim is apparent from the existence of any information in the return;
+(ii) the tax shall be computed on the basis of the income computed under sub-clause (i); and
+(iii) the sum payable by, or the amount of refund due to, the assessee shall be determined after adjustment of the tax and interest, if any, computed under sub-clause (ii) by any tax deducted at source, any tax collected at source, any advance tax paid, any tax paid under section 74 and any other amount paid by way of tax and interest;
+(b) send, after processing such return in accordance with the provision of clause (a), a notice of demand along with an intimation to the assessee specifying the income so computed, the liability to pay tax on such income, the amount of tax credit allowed, the sum determined to be payable by, or refundable to, him and such other particulars within thirty days of such computation as may be specified:
+Provided that no such intimation shall be sent after the expiry of a period of twelve months from the end of the financial year in which the return is furnished:
+Provided further that no demand notice requiring the assessee to pay more taxes shall be made unless the assessee is given an opportunity in writing in this regard.
+Explanation.-For the purposes of this section, “an incorrect claim apparent from the existence of any information in the return” shall mean a claim, on the basis of an entry, in the return”
+(i) of an item, which is inconsistent with another entry of the same, or some other item, in such return; or
+(ii) in respect of a deduction, where such deduction exceeds the specified statutory limit which may have been expressed as monetary amount, percentage, ratio or fraction.””।

@@ -1,0 +1,3 @@
+# Ordinance No. XXXVI of 1984 এ নূতন section 53P এর সন্নিবেশ
+৪৩। উক্ত Ordinance এর section 53O এর পর নিম্নরূপ নূতন section 53P সন্নিবেশিত হইবে; যথা :-
+“53P. Deduction of tax from any sum paid by real estate developer to land owner.-Where any person engaged in real estate or land development business pays any sum to the land owner on account of signing money, subsistence money, house rent or in any other form called by whatever name for the purpose of development of the land of such owner in accordance with any power of attorney or any agreement or any written contract, such person shall deduct tax at the rate of fifteen per cent (15%) on the sum so paid at the time of such payment.”।

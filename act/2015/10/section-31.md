@@ -1,0 +1,4 @@
+# Ordinance No. XXXVI of 1984 এর section 52JJ এর প্রতিস্থাপন
+৩১। উক্ত Ordinance এর section 52JJ এর পরিবর্তে নিম্নরূপ section 52JJ প্রতিস্থাপিত হইবে, যথা :-
+“52JJ. Collection of tax from travel agent.- Any person responsible for paying on behalf of any airlines to a resident any sum by way of commission or discount or incentive bonus or any other benefits convertible into money called by whatever name for selling tickets of an airline or for carrying cargo by air shall deduct or collect advance tax at the rate of zero point three zero per cent (0.30%) of the total value of the tickets of the airlines or any charge for carrying cargo by air at the time of payment to such resident.
+Explanation.- For the purpose of computation of value of tickets or charge, any payment made in respect of any embarkation fees, travel tax, flight safety insurance, security tax and airport tax shall not be included in such value or charge.”।

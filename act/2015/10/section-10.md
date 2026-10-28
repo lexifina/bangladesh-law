@@ -1,0 +1,6 @@
+# Ordinance No. XXXVI of 1984 এর section 16B এর প্রতিস্থাপন
+১০। উক্ত Ordinance এর section 16B এর পরিবর্তে নিম্নরূপ section 16B প্রতিস্থাপিত হইবে, যথা :-
+””16B. Charge of additional tax.-Notwithstanding anything contained in any other provision of this Ordinance, where-
+(a) a public limited company, not being a banking or insurance company, listed with any stock exchange in Bangladesh, has not issued, declared or distributed dividend or bonus share equivalent to at least fifteen per cent (15%) of its paid up capital to its shareholders within a period of six months immediately following any income year, the company shall be charged additional tax at the rate of five per cent (5%) on the undistributed profit in addition to tax payable under this Ordinance; or
+(b) any person employs or allows, without prior approval of the Board of Investment or any competent authority of the Government, as the case may be, any individual not being a Bangladeshi citizen to work at his business or profession at any time during the income year, such person shall be charged additional tax at the rate of fifty per cent (50%) of the tax payable on his income or taka five lakh, whichever is higher in addition to tax payable under this Ordinance.
+Explanation.- For the purpose of clause (a), "undistributed profit" means accumulated profit including free reserve.””।

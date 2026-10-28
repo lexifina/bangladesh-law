@@ -1,0 +1,3 @@
+# Ordinance No. XXXVI of 1984 এ নূতন section 165AA এর সন্নিবেশ
+৬০। উক্ত Ordinance এর section 165A এর পর নিম্নরূপ নূতন section 165AA সন্নিবেশিত হইবে, যথা :-
+””165AA. Punishment for furnishing fake audit report.- A person is guilty of an offence punishable with imprisonment for a term which may extend to three years, but shall not be less than three months, or with fine upto taka one lakh, or both, if he furnishes along with the return of income or thereafter any audited statement of accounts which is false or does not conform with signature of a chartered accountant purported to be signatory to such statement.”””
