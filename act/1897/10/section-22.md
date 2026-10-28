@@ -1,0 +1,5 @@
+# Making of rules or bye-laws and issuing of orders between passing and commencement of enactment
+22. Where, by any [^93][Act of Parliament] or Regulation which is not to come into force immediately on the passing
+thereof, a power is conferred to make rules or bye-laws, or to issue orders with respect to the application of the Act or Regulation, or with respect to the establishment of any Court or office or the appointment of any Judge or officer thereunder, or with respect to the person by whom, or the time when, or the place where, or the manner in which, or the fees for which, anything is to be done under the Act or Regulation, then that power may be exercised at any time after the passing of the Act or Regulation; but rules, bye-laws or orders so made or issued shall not take effect till the commencement of the Act or Regulation.
+
+[^93]: The words "Act of Parliament" were substituted, for the words "Central Act" by Article 8 of the General Clauses (Amendment) Order, 1972 (President's Order No. 147 of 1972)

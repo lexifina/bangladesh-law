@@ -1,0 +1,2 @@
+# Saving for previous enactments, rules and bye-laws
+29. The provisions of this Act respecting the construction of Acts, Regulations, rules or bye-laws made after the commencement of this Act shall not affect the construction of any Act, Regulation, rule or bye-law made before the commencement of this Act, although the Act, Regulation, rule or bye-law is continued or amended by an Act, Regulation, rule or bye-law made after the commencement of this Act.

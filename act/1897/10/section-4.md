@@ -1,0 +1,7 @@
+# Application of foregoing definitions to previous enactments
+4. (1) The definitions in section 3 of the following words and expressions, that is to say, "affidavit", [^43][advocate], "District Judge", "father", "immoveable property", "imprisonment", "Magistrate", "month", "moveable property", "oath", "person", "section", "son", "swear", "will" and "year" apply also, unless there is anything repugnant in the subject or context, to all [^44][Acts of Parliament] made after the third day of January, 1868, and to all Regulations made on or after the fourteenth day of January, 1887.
+(2) The definitions in the said section of the following words and expressions, that is to say, "abet", "Chapter", "commencement", "financial year", "local authority", "master", "offence", "part", "public nuisance", "registered", "schedule", "ship", "sign", "sub-section" and "writing" apply also, unless there is anything repugnant in the subject or context, to all [^45][Acts of Parliament] and Regulations made on or after the fourteenth day of January, 1887.
+
+[^43]: The word "advocate" was substituted, for the word "barrister", by Article 5 of the General Clauses (Amendment) Order, 1972 (President's Order No. 147 of 1972).
+[^44]: The words "Acts of Parliament" were substituted, for the words "Central Acts" by the General Clauses (Amendment) Order, 1972 (President's Order No. 147 of 1972).
+[^45]: The words "Acts of Parliament" were substituted, for the words "Central Acts" by the General Clauses (Amendment) Order, 1972 (President's Order No. 147 of 1972).
