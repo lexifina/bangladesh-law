@@ -1,0 +1,12 @@
+# Power to appoint Kazis for any local area
+2. Whenever it appears to the [^2][Government] that any considerable number of the [^3][Muslims] resident in any local area desire that one or more Kazis should be appointed for such local area, the [^4][Government] may, if it thinks fit, after consulting the principal [^5][Muslim] residents of such local area, select one or more fit persons and appoint him or them to be kazis for such local area.
+If any question arises whether any person has been rightly appointed kazi under this section, the decision thereof by the [^6][Government] shall be conclusive.
+The [^7][Government] may, if it thinks fit, suspend or remove any kazi appointed under this section who is guilty of any misconduct in the execution of his office, or who is for a continuous period of six months absent from the local area for which he is appointed, or leaves such local area for the purpose or leaves such local area for the purpose of residing elsewhere, or is declared an insolvent, or desires to be discharged from the office, or who refuses or becomes in the opinion of the [^8][Government] unfit, or personally incapable, to discharge the duties of the office.
+
+[^2]: The word "Government" was substituted, for the words "Provincial Government" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+[^3]: The word "Muslims" was substituted, for the word "Muhammadans" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+[^4]: The word "Government" was substituted, for the words "Provincial Government" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+[^5]: The word "Muslim" was substituted, for the word "Muhammadan" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+[^6]: The word "Government" was substituted, for the words "Provincial Government" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+[^7]: The word "Government" was substituted, for the words "Provincial Government" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+[^8]: The word "Government" was substituted, for the words "Provincial Government" by the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973), section 3 and 2nd Schedule
