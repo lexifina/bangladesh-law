@@ -1,0 +1,5 @@
+# Ordinance No. XXXVI of 1984 এর section 124 এর সংশোধন
+৪৪। উক্ত Ordinance এর section 124 এর sub-section (2) এর পরিবর্তে নিম্নরূপ sub-section (2) প্রতিস্থাপিত হইবে; যথা:-
+(2) Where any person has, without reasonable cause, failed to file or furnish any return, certificate, statement or information required under sections 58, 75A, 103A, 108, 108A, 109, or 110, the Deputy Commissioner of Taxes may impose upon such person-
+(a) where the return, statement or information under sections 75A, 108 or 108A has not been filed or furnished, a penalty amounting to ten per cent of tax imposed on last assessed income or five thousand taka, whichever is higher, and in the case of a continuing default, a further penalty of one thousand taka for every month or fraction thereof during which the default continues;
+(b) in other cases of non-compliance, a penalty amounting to five thousand taka, and in the case of a continuing default, a further penalty of one thousand taka for every month or fraction thereof during which the default continues.”।

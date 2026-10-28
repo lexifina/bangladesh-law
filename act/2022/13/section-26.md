@@ -1,0 +1,4 @@
+# Ordinance No. XXXVI of 1984 এর section 53BB এর প্রতিস্থাপন
+২৬। উক্ত Ordinance এর section 53BB এর পরিবর্তে নিম্নরূপ section 53BB প্রতিস্থাপিত হইবে, যথা:-
+“53BB.Deduction of tax from export proceeds of goods.- (1)The Bank, through which export proceeds of goods of an exporter is received, shall deduct tax at the rate of 1% (one percent) of total export proceeds at the time of crediting the proceeds to the account of the exporter.
+(2) Where the Board, on an application made in this behalf, gives a certificate in writing that the income of the exporter is partly or fully exempted from tax under any provision of the Ordinance, the Bank shall make credit to the account of an assesse without any deduction of tax or deduction of tax at a rate lesser than the rate specified in this section for the period mentioned in that certificate.”।
