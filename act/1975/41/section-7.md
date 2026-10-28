@@ -1,0 +1,6 @@
+# Compensation
+7. (1) In respect of the shares in a dissolved company which have vested in the Government under section 6 and the rights arising out of such shares, there shall be paid to the holders of such shares as compensation,-
+(a) if the full amount of the value of the shares had been paid, a sum equivalent to the face-value of those shares, and
+(b) if the full amount of the value of the shares had not been paid, a sum equivalent to the amount actually paid on account of such shares.
+(2) Acceptance by a shareholder of a dissolved company of the compensation payable under sub-section (1) shall operate as full and complete discharge of such shareholder from any obligations in respect of the debts and liabilities of such company.
+(3) If a shareholder declines to accept the compensation payable in respect of his shares under sub-section (1), he shall be entitled to such compensation or, as the case may be, be liable to make such contribution, according as, after assessment of the dissolved company, the value of the assets exceeds or falls short of the liabilities as he would have been entitled or liable had the dissolved company been wound up under the Companies Act, 1913 (VII of 1913).
