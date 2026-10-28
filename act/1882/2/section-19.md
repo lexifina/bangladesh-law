@@ -1,0 +1,2 @@
+# Accounts and information
+19. A trustee is bound (a) to keep clear and accurate accounts of the trust-property, and (b), at all reasonable times, at the request of the beneficiary, to furnish him with full and accurate information as to the amount and state of the trust-property.

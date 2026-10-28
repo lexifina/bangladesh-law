@@ -1,0 +1,4 @@
+# Right to reimbursement of expenses
+32. Every trustee may reimburse himself, or pay or discharge out of the trust-property, all expenses properly incurred in or about the execution of the trust, or the realisation, preservation or benefit of the trust-property, or the protection or support of the beneficiary.
+If he pays such expenses out of his own pocket, he has a first charge upon the trust-property for such expenses and interest thereon; but such charge (unless the expenses have been incurred with the sanction of a principal Civil Court of original jurisdiction) shall be enforced only by prohibiting any disposition of the trust-property without previous payment of such expenses and interest.
+If the trust-property fail, the trustee is entitled to recover from the beneficiary personally on whose behalf he acted, and at whose request, expressed or implied, he made the payment, the amount of such expenses.

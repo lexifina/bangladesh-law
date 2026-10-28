@@ -1,0 +1,2 @@
+# Power to sell in lots, and either by public auction or private contract
+37. Where the trustee is empowered to sell any trust-property, he may sell the same subject to prior charges or not, and either together or in lots, by public auction or private contract, and either at one time or at several times, unless the instrument of trust otherwise directs.

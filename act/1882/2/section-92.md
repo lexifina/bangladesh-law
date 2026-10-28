@@ -1,0 +1,2 @@
+# Purchase by person contracting to buy property to be held on trust
+92. Where a person contracts to buy property to be held on trust for certain beneficiaries and buys the property accordingly, he must hold the property for their benefit to the extent necessary to give effect to the contract.

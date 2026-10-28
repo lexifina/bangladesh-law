@@ -1,0 +1,2 @@
+# No set-off allowed to trustee
+24. A trustee who is liable for a loss occasioned by a breach of trust in respect of one portion of the trust-property cannot set-off against his liability a gain which has accrued to another portion of the trust-property through another and distinct breach of trust.

@@ -1,0 +1,2 @@
+# Suspension of trustee’s powers by decree
+45. Where a decree has been made in a suit for the execution of a trust, the trustee must not exercise any of his powers except in conformity with such decree, or with the sanction of the Court by which the decree has been made, or, where an appeal against the decree is pending, of the Appellate Court.
