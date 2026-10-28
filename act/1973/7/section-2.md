@@ -1,0 +1,2 @@
+# Issue of Taka 94,86,78,000 from and out of the Consolidated Fund for a part of the financial year 1973-74
+2. From and out of the Consolidated Fund there may be withdrawn sums not exceeding those specified in column 3 of the Schedule to this Act, amounting in the aggregate to the sum of Taka 94,86,78,000 towards defraying the several charges which will come in course of payment during a part of the financial year 1973-74.
