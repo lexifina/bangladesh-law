@@ -1,0 +1,2 @@
+# Amount and kind of security, and with what sureties
+2. In default of any Act having special reference to the office of any public accountant, the security given shall be of such amount and kind, real or personal, or both, and with such sureties (regard being had to the nature of the office), as shall be required by any rules made or to be made from time to time, by the authority by which each public accountant is appointed to his office.

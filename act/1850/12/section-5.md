@@ -1,0 +1,2 @@
+# Enactments applied to proceedings by and against accountants
+5. All Regulations and Acts now or hereafter to be in force for the recovery of arrears of land-revenue due to Government, and for recovery of damages by any person wrongfully proceeded against for any such arrear shall apply, with such changes in the forms of procedure as are necessary to make them applicable to the case, to the proceedings against and by such public accountant.

@@ -1,0 +1,2 @@
+# Prosecution of accountants and sureties
+4. The person or persons at the head of the office to which any public accountant belongs may proceed against any such public accountant and his securities for any loss or defalcation in his accounts, as if the amount thereof were an arrear of land-revenue due to Government.
