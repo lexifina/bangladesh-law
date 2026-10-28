@@ -1,0 +1,2 @@
+# Power to establish searching stations
+11. The Government may, at any places along the boundary-line between Bangladesh and foreign territory, and at such distance within such line as it deems expedient, establish, searching-posts at which all vessels, carts and baggage-animals, and all boxes, bales and packages in transit, may be stopped and searched for arms, ammunition and military stores by any officer empowered by the Government in this behalf by name or in virtue of his office.

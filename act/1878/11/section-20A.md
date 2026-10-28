@@ -1,0 +1,6 @@
+# Enhanced punishment in certain cases
+[^18][20A. Notwithstanding anything contained in this Act, whoever goes armed with a pistol, revolver, rifle of [^19][shot gun or other fire-arm] in contravention of the provision of section 13, or has any such fire-arm in his possession or under his control in contravention of the provisions of section 14 or section 15, under circumstances indicting that he intended that such fire-arm should be used for the commission of any offence of murder shall [^20][* * *] be punished with death, or with transportation for life or any shorter term or with imprisonment for a term which may extend to fourteen years, to which fine may be added.]
+
+[^18]: Section 20A was inserted by section 3 of the Bengal Criminal Law (Amendment) Act, 1934 (Act No. VII of 1934)
+[^19]: The words "shot gun or other fire-arm" were substituted, for the words "or other fire-arm" by section 3 of the Arms (Amendment) Act, 1980 (Act No. VII of 1980)
+[^20]: The words, commas and figure "if he is tried by Commission were appointed under the Bengal Criminal Law Amendment Act, 1925," were omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)

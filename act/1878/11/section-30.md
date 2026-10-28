@@ -1,0 +1,2 @@
+# Searches in the case of offences against section 19, clause (f), how conducted
+30. Where a search is to be made under the Code of Criminal Procedure, in the course of any proceedings instituted in respect of an offence punishable under section 19, clause (f) such search shall, notwithstanding anything contained in the said Code, be made in the presence of some officer specially appointed by name or in virtue of his office by the Government in this behalf, and not otherwise.

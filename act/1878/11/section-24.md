@@ -1,0 +1,2 @@
+# Power to confiscate.
+24. When any person is convicted of an offence punishable under this Act, committed by him in respect of any arms, ammunition or military stores, it shall be in the discretion of the convicting Court or Magistrate further to direct that the whole or any portion of such arms, ammunition or military stores, and any vessel, cart or baggage-animal used to convey the same, and any box, package or bale in which the same may have been concealed, together with the other contents of such box, package or bale, shall be confiscated.

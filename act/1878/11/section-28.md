@@ -1,0 +1,3 @@
+# Information to be given regarding offences
+28. Every person aware of the commission of any offence punishable under this Act shall, in the absence of reasonable excuse, the burden of proving which shall lie upon such person, give information of the same to the nearest Police-officer or Magistrate, and
+every person employed upon any railway or by any public carrier shall, in the absence of reasonable excuse, the burden of proving which shall lie upon such person, give information to the nearest Police-officer regarding any box, package or bale in transit which he may have reason to suspect contains arms, ammunition or military stores in respect of which an offence against this Act has been or is being committed.
