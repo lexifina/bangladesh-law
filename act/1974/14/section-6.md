@@ -1,0 +1,2 @@
+# Detention orders not to be invalid or inoperative on certain grounds
+6. No detention order shall be invalid or inoperative merely by reason that the person to be detained thereunder is outside the limits of the territorial jurisdiction of the Government or the District Magistrate or Additional District Magistrate making the order, or that the place of detention of such person is outside the said limits.

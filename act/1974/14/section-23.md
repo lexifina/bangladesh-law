@@ -1,0 +1,5 @@
+# Enforcement of the provisions of sections 21 and 22
+23. (1) Any police officer, or any other person authorised in this behalf by the Government, may search any person entering or seeking to enter, or being on or in, or leaving, a protected place or protected area, and any vehicle, vessel, animal or article brought in by such person, and may, for the purpose of the search, detain such person, vehicle, vessel, animal or article:
+Provided that no woman shall be searched in pursuance of this sub-section except by a woman.
+(2) If any person is in a protected place or protected area in contravention of the provisions of section 21 or, as the case may be, 22, then, without prejudice to any other proceedings which may be taken against him, he may be removed therefrom by or under the direction of any police officer or by any other person authorised in this behalf by the Government.
+(3) If any person is in a protected place or protected area in contravention of any of the provisions of section 21 or, as the case may be, 22, he shall be punishable with imprisonment for a term which may extend to three years, or with fine, or with both.

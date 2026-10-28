@@ -1,0 +1,4 @@
+# Communication of grounds of order
+8. (1) In every case where an order has been made under section 3, the authority making the order shall, as soon as may be, but subject to the provisions of sub-section (2), communicate to the person affected thereby the grounds on which the order has been made to enable him to make a representation in writing against the order, and it shall be the duty of such authority to inform such person of his right of making such representation and to afford him the earliest opportunity of doing so:
+Provided that nothing in this section shall require the authority to disclose the facts which it considers to be against the public interest to disclose.
+(2) In the case of a detention order, the authority making the order shall inform the person detained under that order of the grounds of his detention at the time he is detained or as soon thereafter as is practicable, but not later than fifteen days from the date of detention.

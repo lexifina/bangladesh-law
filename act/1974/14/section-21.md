@@ -1,0 +1,4 @@
+# Protected places
+21. (1) If as respects any place or class of places the Government considers it necessary in the public interest that special precautions should be taken to prevent the entry of unauthorised persons, it may, by order, declare that place or, as the case may be, every place of that class to be a protected place; and thereupon, for so long as the order remains in force, such place or every place of such class, as the case may be, shall be a protected place for the purposes of this Act.
+(2) No person shall, without the permission of the Government, enter, or be on or in, or pass over, any protected place.
+(3) Where in pursuance of sub-section (2) any person is granted permission to enter, or to be on or in, or to pass over, a protected place, the person shall, while acting under such permission, comply with such orders for regulating his conduct as may be given by the Government.

@@ -1,0 +1,2 @@
+# Application of the Code to proceedings of Special Tribunals
+29. The provisions of the Code, so far only as they are not inconsistent with the provisions of this Act, shall apply to the proceedings of Special Tribunals, and such Special Tribunals shall have all the powers conferred by the Code on a Court of Session exercising original jurisdiction, and a person conducting prosecution before such Special Tribunals shall be deemed to be a public prosecutor.

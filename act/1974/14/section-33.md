@@ -1,0 +1,2 @@
+# Report by police officer to Government
+33. A police officer making an arrest in connection with an offence triable under this Act shall, immediately after producing the person arrested before the nearest Magistrate, send a copy to the Government of the report submitted by him to the Magistrate relating to such arrest through such officer as the Government may, by general or special order, direct.

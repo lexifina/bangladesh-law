@@ -1,0 +1,5 @@
+# Procedure of Advisory Board
+11. (1) The Advisory Board shall, after considering the materials placed before it and calling for such further information as it may deem necessary from the Government or from the person concerned and after affording the person concerned an opportunity of being heard in person, submit its report to the Government within one hundred and seventy days from the date of detention.
+(2) The report of the Advisory Board shall specify in a separate part thereof the opinion of the Advisory Board as to whether or not there is sufficient cause for the detention of the person concerned.
+(3) When there is a difference of opinion among the members of the Advisory Board, the opinion of the majority of such members shall be deemed to be the opinion of the Board.
+(4) Nothing in this section shall entitle any person against whom a detention order has been made to appear by any legal practitioner in any matter connected with the reference to the Advisory Board, and the proceedings of the Advisory Board and its report, excepting that part of the report in which the opinion of the Advisory Board is specified, shall be confidential.

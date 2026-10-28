@@ -1,0 +1,4 @@
+# Action upon the report of Advisory Board
+12. (1) In any case where the Advisory Board has reported that there is, in its opinion, sufficient cause for the detention of a person, the Government may confirm the detention order and continue the detention of the person concerned for such period as it thinks fit:
+Provided that the Advisory Board shall, after affording the person concerned an opportunity of being heard in person, review such detention order, unless revoked earlier, once in every six months from the date of such detention order and the Government shall inform the person concerned of the result of such review.
+(2) In any case where the Advisory Board has reported that there is, in its opinion, no sufficient cause for the detention of the person concerned, the Government shall revoke the detention order and cause the person to be released forthwith.

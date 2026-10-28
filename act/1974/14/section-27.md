@@ -1,0 +1,13 @@
+# Procedure of Special Tribunals
+27. (1) Notwithstanding anything contained in the Code or in any other law for the time being in force, a Special Tribunal may take cognizance of an offence triable under this Act without the accused being committed to it for trial, but shall not take cognizance of any such offence except on a report in writing made by a police officer not below the rank of Sub-Inspector.
+(2) Proceedings in respect of an offence triable under this Act alleged to have been committed by any person may be taken before [^22][any Special Tribunal] having jurisdiction in the place where that person is for the time being or where the offence or any part thereof was committed.
+(3) A Special Tribunal may sit at such times and places as it deems fit or as the Government may direct.
+(4) A Special Tribunal trying an offence under this Act shall try such offence summarily and in trying such offence such Special Tribunal shall follow the procedure laid down in the Code for summary trial of summons cases.
+(5) A Special Tribunal shall not adjourn any trial for any purpose unless such adjournment is, in its opinion, necessary in the interest of justice.
+[^23][(6) Where a Special Tribunal has reason to believe that an accused person has absconded or is concealing himself so that he cannot be arrested and produced before it for trial and there is no immediate prospect of arresting him, it shall, by order published in at least two Bengali daily newspapers having wide circulation, direct such person to appear before it within such period as may be specified in the order, and if such person fails to comply with such direction, he shall be tried in his absence.
+(6A) Where in a case after the production or appearance of an accused person before the Tribunal or his release on bail, the accused person absconds or fails to appear before it, the procedure as laid down in sub-section (6) shall not apply and the Tribunal shall, after recording its decision so to do, try such person in his absence.]
+[^24][(7) A Special Tribunal may, on application or of its own motion, direct a police officer to make further investigation in any case relating to an offence triable under this Act and report within such time as may be specified by it.]
+
+[^22]: The words “any Special Tribunal” were substituted for the words “the Special Tribunal” by section 3 of the Special Powers (Amendment) Act, 1980 (Act No. VIII of 1980)
+[^23]: Sub-sections (6) and (6A) were substituted for former sub-section (6) by section 4 of the Special Powers (Amendment) Act, 1991 (Act No. XVIII of 1991)
+[^24]: Sub-section (7) was added by section 2 of the Special Powers (Second Amendment) Act, 1974 (Act No. LXXIII of 1974)
