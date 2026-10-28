@@ -1,0 +1,2 @@
+# Prisoners not to be ironed by Jailer except under necessity
+58. No prisoner shall be put in irons or under mechanical restraint by the Jailer of his own authority, except in case of urgent necessity, in which case notice thereof shall be forthwith given to the Superintendent.

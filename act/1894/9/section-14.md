@@ -1,0 +1,3 @@
+# Medical Officer to report in certain cases
+14. Whenever the Medical Officer has reason to believe that the mind of a prisoner is, or is likely to be, injuriously affected by the discipline or treatment to which he is subjected, the Medical Officer shall report the case in writing to the Superintendent, together with such observations as he may think proper.
+This report, with the orders of the Superintendent thereon, shall forthwith be sent to the Inspector General for information.

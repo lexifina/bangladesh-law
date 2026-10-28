@@ -1,0 +1,3 @@
+# Award of punishments under sections 46 and 47
+48. (1) The Superintendent shall have power to award any of the punishments enumerated in the two last foregoing sections, subject, in the case of separate confinement for a period exceeding one month, to the previous confirmation of the Inspector General.
+(2) No officer subordinate to the Superintendent shall have power to award any punishment whatever.

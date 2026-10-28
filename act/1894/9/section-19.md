@@ -1,0 +1,2 @@
+# Jailer to be present at night
+19. The Jailer shall not be absent from the prison for a night without permission in writing from the Superintendent; but, if absent without leave for a night from unavoidable necessity, he shall immediately report the fact and the cause of it to the Superintendent.

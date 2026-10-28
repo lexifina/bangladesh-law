@@ -1,0 +1,2 @@
+# Restriction on transfer of food and clothing between certain prisoners
+32. No part of any food, clothing, bedding or other necessaries belonging to any civil or unconvicted criminal prisoner shall be given, hired or sold to any other prisoner; and any prisoner transgressing the provisions of this section shall lose the privilege of purchasing food or receiving it from private sources, for such time as the Superintendent thinks proper.
