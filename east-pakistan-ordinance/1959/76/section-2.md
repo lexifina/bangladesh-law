@@ -1,0 +1,3 @@
+# Bar to jurisdiction of Civil Courts
+2. When the Government terminates any lease in respect of any plot in the Dhanmandai Residential Area, on the failure of the tenant to complete the constructions of the houses, out-houses and appurtenances within the period stipulated in the Indenture of Lease and for allotment of more than one plot in the family and takes possession of the same, no suit or proceeding of any kind whatsoever shall lie or be proceeded with in any Court to challenge the validity of any such order of termination of the lease and taking over possession of the demised property on the termination of such lease.
+Explanation.- 'Family' means husband, wife and children.
