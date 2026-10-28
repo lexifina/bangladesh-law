@@ -1,0 +1,2 @@
+# Bar of Civil or Criminal Proceedings
+22. No proceedings taken or orders passed under this Act, shall be called in question otherwise than as provided hereunder and no civil or criminal proceedings shall be instituted against any person for anything done or intended or purporting to be done under this Act, or against any person for any loss or damage caused to or in respect of any property, as a result of an act done or purporting to be done under this Act.

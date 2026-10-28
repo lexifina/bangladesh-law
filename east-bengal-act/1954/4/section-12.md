@@ -1,0 +1,2 @@
+# Joint proceedings
+12. Where two or more persons are associated together with regard to any matter covered by the allegations contained in the information respectively laid in respect of each, to an extent which in the opinion of the Tribunal justifies such a course, the enquiry into the matter with regard to which they are associated together may be conducted against all or any of them jointly, or against each of them separately, as the Tribunal shall think just.

@@ -1,0 +1,4 @@
+# Secret record
+27. The record of the proceedings held by the Tribunal or any portion thereof for which the person laying the information or conducting the prosecution before the Tribunal, has claimed privilege before the Tribunal or which he has requested for being kept a secret shall not be available for inspection by any one during the enquiry before the Tribunal or any revision proceedings before the [^12][High Court Division] hearing the revision, or after the disposal of the case, and such records shall after the disposal of the enquiries be kept in such custody as the Government may prescribe.
+
+[^12]: The words “High Court Division” were substituted for the words “High Court” by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)

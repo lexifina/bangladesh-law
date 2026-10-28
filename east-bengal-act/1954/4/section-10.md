@@ -1,0 +1,2 @@
+# Proceedings before Tribunal
+10. The Tribunal shall then proceed to enquire into the truth or otherwise of the information upon which action has been taken, and for that purpose to take such evidence as may appear necessary, following in all cases the procedure prescribed in the Code of Criminal Procedure, 1898 for conducting trials and recording evidence in summary cases, but subject to the other provisions of this Act.
