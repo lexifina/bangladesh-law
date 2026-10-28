@@ -1,0 +1,2 @@
+# “Vessel” to include tackle, cargo, etc.
+7. For the purposes of this Act, the term “vessel” shall be deemed to include also every article or thing or collection of things being or forming part of the tackle, equipment, cargo, stores or ballast of a vessel; and any proceeds arising from the sale of a vessel, and of the cargo thereof, or of any other property recovered therefrom, shall be regarded as a common fund.

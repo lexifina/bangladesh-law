@@ -1,0 +1,2 @@
+# Power to make rules to regulate and prohibit the placing of obstructions in fairways
+8. The Government may, from time to time, by notification in the official Gazette, make rules to regulate or prohibit, in any fairway leading to a port in Bangladesh, the placing of fishing-stakes, the casting or throwing of ballast, rubbish or any other thing likely to give rise to a bank or shoal, or the doing of any other act which will in its opinion, cause, or be likely to cause, obstruction or danger to navigation.
