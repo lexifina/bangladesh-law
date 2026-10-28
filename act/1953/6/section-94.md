@@ -1,0 +1,2 @@
+# Limit of certain deductions
+94. The total deductions from the pay and allowances of a person made under clauses (d) to (g) and clause (i) of section 90, and clauses (e) and (g) to (i) of section 91 shall not, except where he is sentenced to dismissal, exceed in any one month one-half of his pay and allowances for that month.

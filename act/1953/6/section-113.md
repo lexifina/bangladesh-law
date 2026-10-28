@@ -1,0 +1,2 @@
+# Composition of general court-martial
+113. A general court-martial shall consist of not less than five officers, each of whom has held a commission for not less than three whole years and of whom not less than four are of a rank not below that of flight-lieutenant.

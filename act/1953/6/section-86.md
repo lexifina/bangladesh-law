@@ -1,0 +1,6 @@
+# Punishment of officers and warrant officers
+86. An officer having power to convene a general court-marital or such other officer as is, with the consent of the Government, specified by the Chief of Air Staff may, in the prescribed manner, proceed against an officer below the rank of squadron leader or a warrant officer, who is charged with an offence under this Act, and award one or more of the following punishments, that is to say:-
+(a) forfeiture of seniority, or in the case of any of them whose promotion depends upon length of service, forfeiture of service for the purpose of promotion for a period not exceeding twelve months, but subject to the right of the accused previous to the award to elect to be tried by a court-martial;
+(b) severe reprimand or reprimand;
+(c) stoppage of pay and allowances for a period not exceeding three months, or until any proved loss or damage occasioned by the offence of which he is convicted is made good, whichever is less out subject to the right of the accused specified in clause (a);
+(d) forfeiture of pay and allowances for a period not exceeding three months for an offence under clause (e) of section 42 in so far as it consists of neglect to obey flying orders or under section 62 or section 63.

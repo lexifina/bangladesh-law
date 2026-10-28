@@ -1,0 +1,2 @@
+# Review of proceedings
+88. If any punishment awarded under section 82 or 86, appears to a superior Air Force authority as defined in section 89 to be illegal, unjust or excessive, such authority may cancel, vary or remit the punishment and make such other direction as may be appropriate in the circumstances of the case.

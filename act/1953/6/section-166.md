@@ -1,0 +1,2 @@
+# Execution of sentence of imprisonment in special cases
+166. Whenever, in the opinion of the Chief of Air Staff or an Air or other Officer Commanding a group any sentence or portion of a sentence of imprisonment cannot, for special reasons, conveniently be carried out in accordance with the provisions of section 165, such officer may direct that such sentence or portion of sentence shall be carried out by confinement in any civil prison or other fit place.

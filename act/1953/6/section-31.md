@@ -1,0 +1,2 @@
+# Privileges of reservists
+31. Every person belonging to the Air Force Reserve shall, when called out for, or engaged in, or returning from training or service, be entitled to all the privileges accorded by sections 28 and 29 to a person subject to this Act.

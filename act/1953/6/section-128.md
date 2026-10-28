@@ -1,0 +1,5 @@
+# Challenges
+128. (1) At all trials by courts-martial, as soon as the court is assembled, the names of the president and members shall be read over to the accused, who shall thereupon be asked whether he objects to being tried by any officer sitting on the Court.
+(2) If the accused objects to any such officer, his objection, and also the reply thereto of the officer objected to, shall be heard and recorded, and the remaining officers of the court shall, in the absence of the challenged officer, decide on the objection.
+(3) If the objection is allowed by one-half or more of the votes of the officers entitled to vote, the objection shall be allowed, and the member objected to shall retire, and his vacancy may be filled in the prescribed manner by another officer, subject to the same right of the accused to object.
+(4) When no challenge is made, or when challenges have been made and disallowed, or the place of every officer successfully challenged has been filled by another officer to whom no objection is made or allowed, the court shall proceed with the trial.

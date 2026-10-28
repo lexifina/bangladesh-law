@@ -1,0 +1,3 @@
+# Order in case of concurrent jurisdiction of criminal court and court-martial
+123. When a criminal court and a court-martial have each jurisdiction in respect of a civil offence, it shall be in the discretion of the prescribed Air Force authority to decide before which court the proceedings shall be instituted, and if that authority decides that they shall be instituted before a court-martial, to direct that the accused person shall be detained in Air Force custody.
+Explanation.- In this section the term “court-martial” shall include an officer exercising authority under section 82 or section 86.

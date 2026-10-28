@@ -1,0 +1,4 @@
+## Chapter XVII
+## TRANSITORY PROVISIONS
+# [Omitted.]
+205. [Definitions.- Omitted by section 6(z) of প্রতিরক্ষা কর্মবিভাগ (কতিপয় আইন সংশোধন) আইন, ২০১৬ (২০১৬ সনের ১৫ নং আইন)।]

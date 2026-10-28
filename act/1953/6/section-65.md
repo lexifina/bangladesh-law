@@ -1,0 +1,2 @@
+# Violation of good order and Air Force discipline
+65. Any person subject to this Act who is guilty of any act or omission which though not specified in this Act, is prejudicial to good order and Air Force discipline shall, on conviction by court-martial, be liable to suffer short imprisonment.

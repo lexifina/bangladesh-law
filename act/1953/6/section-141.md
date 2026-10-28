@@ -1,0 +1,6 @@
+# Reference by accused to Government officer
+141. (1) If at any trial, or other proceedings for desertion or absence without leave, overstaying leave, or not re-joining when warned for service, the accused states in his defence any sufficient or reasonable excuse for his unauthorised absence, and refers in support thereof to any officer in the [^41][service of the Republic] or if it appears that any such officer is likely to prove or disprove the said statement in the defence, the court or officer conducting the proceedings shall address such officer and adjourn the court or proceedings until his reply is received.
+(2) The written reply of any officer so addressed shall, if signed by him, be received in evidence and have the same effect as if made on oath before the court or officer conducting the proceedings.
+(3) If the court-martial is dissolved before receipt of such reply or if it omits to comply with the provisions of this section, the convening officer may, at his discretion, annul the proceedings and order a fresh trial by the same or another court-martial.
+
+[^41]: The words “service of the Republic” were substituted for the words “service of the Government” by section 6(t) of প্রতিরক্ষা কর্মবিভাগ (কতিপয় আইন সংশোধন) আইন, ২০১৬ (২০১৬ সনের ১৫ নং আইন)।

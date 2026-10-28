@@ -1,0 +1,2 @@
+# Orders pending suspension
+181. A confirming officer may, when confirming any sentence referred to in section 180, direct that the offender be not committed to prison or to custody until the orders of the authority or officer specified in section 180 have been obtained.

@@ -1,0 +1,2 @@
+# Exercise of powers vested in holder of Air Force office
+9. Any power or jurisdiction given to, and any act or thing to be done by, to, or before any person holding any Air Force appointment may be exercised by, or done by, to, or before any other person for the time being authorised in that behalf according to the custom of the service, or according to rules made under this Act.

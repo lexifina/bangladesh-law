@@ -1,0 +1,2 @@
+# Execution of sentence of fine
+172. When a sentence of fine is imposed by a court-martial under section 71, whether the trial was held within Bangladesh or not, a copy of such sentence, signed and certified by the confirming officer may be sent to any magistrate in Bangladesh, and such magistrate shall thereupon cause the fine to be recovered in accordance with the provisions of the Code of Criminal Procedure, 1898, for the levy of fines as if it were a sentence of fine imposed by such magistrate.

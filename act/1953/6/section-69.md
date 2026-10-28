@@ -1,0 +1,2 @@
+# Abetment of offences punishable with death and not committed
+69. Any person subject to this Act who abets the commission of any of the offences punishable with death under sections 34 and 37 shall, on conviction by court-martial, if that offence be not committed in consequence of the abetment and no express provision is made by this Act for the punishment of such abetment, be liable to suffer long imprisonment.
