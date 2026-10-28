@@ -1,0 +1,4 @@
+# Pension and Provident Fund or Contributory Provident Fund only
+34. (1) The Board shall establish for the benefit of its officers and other employees either Pension and Provident Funds or Contributory Provident Fund only, as it may deem fit in such manner, and subject to such conditions, as may be prescribed by regulations. When a Provident Fund is established, the Government may, by notification, declare that the provisions of the Provident Funds Act, 1925 shall apply to such Funds.
+(2) In case the Board establishes a Contributory Provident Fund under sub section (1) all employees of the Board shall subscribe to that Fund a sum equal to 81/3 per cent of his salary every month. The Board shall contribute an equal amount in respect of each subscriber every month.
+(3) The terms and conditions of deposit of subscriptions and contributions to the Fund and withdrawals and advances from it shall be such as may be prescribed by regulations.

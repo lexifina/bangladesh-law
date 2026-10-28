@@ -1,0 +1,2 @@
+# Bar against membership of the Board or Committee on the persons with financial interest in the affairs of the Board
+38. No person who has any financial interest in any book prescribed by the Board as a course of study for any examination conducted by the Board or has a financial interest as a partner or otherwise in any firm which publishes, procures or supplies such book, shall be eligible to become a member of the Board or a Committee constituted under this Ordinance and continue as such after having acquired any such interest.
