@@ -1,0 +1,16 @@
+# Transfer of case to [^279][Chief Metropolitan Magistrate, Chief Judicial Magistrate], etc.
+[^280][205CC.(1) When in a case instituted on a police report or otherwise, the accused appears or is brought before the Magistrate and it appears to the Magistrate that the offence is triable exclusively by the [^281][Chief Metropolitan Magistrate,] [^282][ or Chief Judicial Magistrate], he shall-
+(a) send the case to the [^283][Chief Metropolitan Magistrate or, as the case may be, [^284][Chief Judicial Magistrate];
+(b) subject to the provisions of this Code relating to bail, remand the accused to custody during, and until the conclusion of, the trial;
+(c) send to the [Chief Metropolitan Magistrate or, as the case may be, [^285][Chief Judicial Magistrate] the record of the case and the documents and articles, if any, which are to be produced in evidence.
+(2) The [^286][Chief Judicial Magistrate or the Chief Metropolitan Magistrate] may direct that any case received by him under sub-section (1) or any class of such cases shall be heard by any [^287][Additional Chief Metropolitan Magistrate or, Additional Chief Judicial Magistrate] subordinate to him.]
+
+[^279]: The words and comma “Chief Metropolitan Magistrate, Chief Judicial Magistrate” were substituted for the words “District Magistrate” by section 68(a) of the Code of Criminal Procedure (Amendment) Act, 2009 (Act No. XXXII of 2009) (with effect from 1st November, 2007).
+[^280]: Section 205CC was inserted by section 6 of the Code of Criminal Procedure (Third Amendment) Ordinance, 1982 (Ordinance No. LX of 1982)
+[^281]: The words and comma "Chief Metropolitan Magistrate," were inserted by section 4 of the Code of Criminal Procedure (Amendment) Ordinance, 1983 (Ordinance No. IV of 1983)
+[^282]: The words “or Chief Judicial Magistrate” were substituted for the words “District Magistrate or the Additional District Magistrate” by section 68(b) of the Code of Criminal Procedure (Amendment) Act, 2009 (Act No. XXXII of 2009) (with effect from 1st November, 2007).
+[^283]: The words and commas "Chief Metropolitan Magistrate or, as the case may be, District Magistrate" were substituted, for the words "District Magistrate" by section 4 of the Code of Criminal Procedure (Amendment) Ordinance, 1983 (Ordinance No. IV of 1983)
+[^284]: The words " Chief Judicial Magistrate" were substituted for the words " District Magistrate" by section 68 of the Code of Criminal Procedure (Amendment ) Ordinance, 2007 (Ordinance No. 2 of 2007).
+[^285]: The words “Chief Judicial Magistrate” were substituted for the words “District Magistrate” by section 68(b) of the Code of Criminal Procedure (Amendment) Act, 2009 (Act No. XXXII of 2009) (with effect from 1st November, 2007).
+[^286]: The words “Chief Judicial Magistrate or the Chief Metropolitan Magistrate” were substituted for the words “District Magistrate” by section 68(c) of the Code of Criminal Procedure (Amendment) Act, 2009 (Act No. XXXII of 2009) (with effect from 1st November, 2007).
+[^287]: The words and comma “Additional Chief Metropolitan Magistrate or, Additional Chief Judicial Magistrate” were substituted for the words “Additional District Magistrate” by section 68(c) of the Code of Criminal Procedure (Amendment) Act, 2009 (Act No. XXXII of 2009) (with effect from 1st November, 2007).

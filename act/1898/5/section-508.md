@@ -1,0 +1,2 @@
+# Adjournment of inquiry or trial
+508. In every case in which a commission is issued under section 503 or section 506, the inquiry, trial or other proceeding may be adjourned for a specified time reasonably sufficient for the execution and return of the commission.

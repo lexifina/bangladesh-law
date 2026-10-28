@@ -1,0 +1,7 @@
+# Jurisdiction in the case of juveniles
+[^39][29B. Any offence, other than one punishable with death or transportation for life, committed by any person who at the date when he appears or is brought before the Court is under the age of fifteen years, may be tried by [^40][Chief Judicial Magistrate] [^41][or the Chief Metropolitan Magistrate], or by any Magistrate specially empowered by the Government to exercise the powers conferred by [^42][or under any law] providing for the custody, trial or punishment of youthful offenders, by any Magistrate empowered by or under such law to exercise all or any of the powers conferred thereby.]
+
+[^39]: Section 29B was inserted by section 6 of the Code of Criminal Procedure (Amendment) Act, 1923 (Act No. XVIII of 1923)
+[^40]: The words “Chief Judicial Magistrate” were substituted for the words “District Magistrate” by section 14 of the Code of Criminal Procedure (Amendment) Act, 2009 (Act No. XXXII of 2009) (with effect from 1st November, 2007).
+[^41]: The words "or the Chief Metropolitan Magistrate" were inserted by section 2 and Schedule of the Code of Criminal Procedure (Amendment) Ordinance, 1976 (Ordinance No. LXXXVI of 1976)
+[^42]: The words "or under any law" were substituted, for the words and comma "section 8, sub-section (1), of the Reformatory Schools Act, 1897, or, in any area in which the said Act has been wholly or in part repealed by any other law" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)

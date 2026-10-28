@@ -1,0 +1,3 @@
+# Previous conviction
+265L. In a case where a previous conviction is charged under the provisions of sub-section (7) of section 221, and the accused does not admit that he has been previously convicted as alleged in the charge, the Court may, after it has convicted the said accused under section 265E or section 265K, take evidence in respect of the alleged previous conviction, and shall record a finding thereon:
+Provided that no such charge shall be read out by the Court nor shall the accused be asked to plead thereto nor shall the previous conviction be referred to by the prosecution or in any evidence adduced by it, unless and until the accused has been convicted under section 265E or section 265K.]

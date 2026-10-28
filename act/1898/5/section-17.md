@@ -1,0 +1,7 @@
+# Subordination of Executive,Judicial and Metropolitan Magistrates.
+[^25][17. (1) All Executive Magistrate appointed under section 10 and 12 (1) shall be subordinate to the District Magistrate who, from time to time, give special order consistent with this Code as to the distribution of business among such Magistrates.
+(2) All Judicial Magistrates appointed under section 11 and 12 (3) and all Benches constituted under section 15 shall be subordinate to the Chief Judicial Magistrate who may, from time to time give special orders consistent with this Code and rules made by the Government under section 16 as to the distribution of business among Magistrates and Benches.
+(3) All Metropolitan Magistrates including Additional Chief Metropolitan Magistrate, and Special Metropolitan Magistrate appointed under section 12 (5) and Benches constituted under section 19, shall be subordinate to the chief Metropolitan Magistrate, who may, from time to time, give special orders consistent with this Code and rules made by the Government under section 16 as to the distribution of business among such Magistrates and Benches.
+(4) All Judicial Magistrates including the Chief Judicial Magistrate shall be subordinate to the Sessions Judge and all Metropolitan Magistrates including the Chief Metropolitan Magistrate shall be subordinate to the Metropolitan Sessions Judge.
+
+[^25]: Sections 17 was substituted by section 10 of the Code of Criminal Procedure (Amendment) Act, 2009 (Act No. XXXII of 2009) (with effect from 1st November, 2007).

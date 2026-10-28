@@ -1,0 +1,7 @@
+# Duty of officer commanding troops required by Magistrate to disperse assembly
+130.(1) When [^162][an Executive Magistrate] [^163][or the Police Commissioner] determines to disperse any such assembly by military force, he may require any commissioned or non-commissioned officer in command of any soldiers in the Bangladesh Army [^164][* * *] to disperse such assembly by military forced, and to arrest and confine such persons forming part of it as the Magistrate 1[or the Police Commissioner] may direct, or as it may be necessary to arrest and confine in order to disperse the assembly or to have them punished according to law.
+(2) Every such officer shall obey such requisition in such manner as he thinks fit, but in so doing he shall use as little force, and do as little injury to person and property, as may be consistent with dispersing the assembly and arresting and detaining such persons.
+
+[^162]: The words “an Executive Magistrate” were substituted for the word “a Magistrate” by section 49 of the Code of Criminal Procedure (Amendment) Act, 2009 (Act No. XXXII of 2009) (with effect from 1st November, 2007).
+[^163]: The words "or the Police Commissioner" were inserted by the Schedule of the Dhaka Metropolitan Police (Amendment) Ordinance, 1976" (Ordinance No. LXIX of 1976)
+[^164]: The words, commas and figure "or of any Volunteers enrolled under the Indian Volunteers Act, 1869," were omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)

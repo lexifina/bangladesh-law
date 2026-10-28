@@ -1,0 +1,3 @@
+# Person acquitted on such ground to be detained in safe custody
+471.(1) Whenever the finding states that the accused person committed the act alleged, the Magistrate or Court before whom or which the trial has been held, shall, if such act would, but for the incapacity found, have constituted an offence, order such person to be detained in safe custody in such place and manner as the Magistrate or Court thinks fit, and shall report the action taken to the Government:
+Provided that no order for the detention of the accused in a lunatic asylum shall be made otherwise than in accordance with such rules as the Government may have made under the Lunacy Act, 1912.

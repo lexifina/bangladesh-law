@@ -1,0 +1,7 @@
+# Provision for powers of Judges and Magistrates being exercised by their successors in office
+559.(1) Subject to the other provisions of this Code, the powers and duties of a Judge or Magistrate may be exercised or performed by his successor in office.
+(2) When there is any doubt as to who is the successor in office of any Magistrate, [^589][the Chief Metropolitan Magistrate or, [^590][the Chief Judicial Magistrate or the District Magistrate], the District Magistrate] shall determine by order in writing the Magistrate who shall, for the purposes of this Code or of any proceedings or order thereunder, be deemed to be the successor in office of such Magistrate.
+(3) When there is any doubt as to who is the successor in office of any Additional or Assistant Sessions Judge, the Sessions Judge shall determine by order in writing the Judge who shall, for the purposes of this Code or of any proceedings or order thereunder, be deemed to be the successor in office of such Additional or Assistant Sessions Judge.
+
+[^589]: The words “the Chief Judicial Magistrate or the District Magistrate” were substituted for the words “as the case may be” by section 97 of the Code of Criminal Procedure (Amendment) Act, 2009 (Act No. XXXII of 2009) (with effect from 1st November, 2007).
+[^590]: The words and commas "the Chief Metropolitan Magistrate or, as the case may be, the District Magistrate" were substituted, for the words "the District Magistrate" by the Schedule of the Code of Criminal Procedure (Amendment) Ordinance, 1976 (Ordinance No. LXXXVI of 1976)

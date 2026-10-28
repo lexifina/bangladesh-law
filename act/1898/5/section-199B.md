@@ -1,0 +1,5 @@
+# Form of authorization under second proviso to section 198 or 199
+[^263][199B.(1) The authorization of a husband given to another person to make a complaint on his behalf under the second proviso to section 198 or the second proviso to section 199 shall be in writing, shall be signed or otherwise attested by the husband, shall contain a statement to the effect that he has been informed of the allegations upon which the complaint is to be founded, shall be countersigned by the Officer referred to in the said provisos, and shall be accompanied by a certificate signed by that Officer to the effect that leave of absence for the purpose of making a complaint in person cannot for the time being be granted to the husband.
+(2) Any document purporting to be such an authorization and complying with the provisions of sub-section (1), and any document purporting to be a certificate required by that sub-section shall, unless the contrary is proved, be presumed to be genuine, and shall be received in evidence.]
+
+[^263]: Section 199B was inserted by section 4 of the Code of Criminal Procedure (Second Amendment) Act, 1943 (Act No. XXVIII of 1943)

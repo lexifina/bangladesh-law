@@ -1,0 +1,3 @@
+# Service and execution in Bangladesh of processes received from outside Bangladesh
+93C.(1) Where a Court has received for service or execution a summons to, or a warrant for the arrest of, an accused person issued by a Court established or continued by the authority of the Government in exercise of its foreign jurisdiction, outside Bangladesh it shall cause the same to be served or executed as if it were a summons or warrant received by it from a Court in Bangladesh for service or execution within the local limits of its jurisdiction.
+(2) Where any warrant of arrest has been so executed the person arrested shall so far as possible be dealt with in accordance with the procedure prescribed by sections 85 and 86.]

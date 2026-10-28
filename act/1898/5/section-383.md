@@ -1,0 +1,2 @@
+# Execution of sentence of transportation or imprisonment in other cases
+383. Where the accused is sentenced to transportation or imprisonment in cases other than those provided for by section 381, the Court passing the sentence shall forthwith forward a warrant to the jail in which he is, or is to be, confined, and, unless the accused is already confined in such jail, shall forward him to such jail, with the warrant.

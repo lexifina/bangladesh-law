@@ -1,0 +1,3 @@
+# Parties may examine witnesses
+505.(1) The parties to any proceeding under this Code in which a commission is issued, may respectively forward any interrogatories in writing which the Magistrate or Court directing the commission may think relevant to the issue and when the commission is directed to a Magistrate or officer mentioned in section 503, such Magistrate or the Officer to whom the duty of executing such commission has been delegated shall examine the witness upon such interrogatories.
+(2) Any such party may appear before such Magistrate or officer by pleader, or if not in custody, in person, and may examine, cross-examine and re-examine (as the case may be) the said witness.

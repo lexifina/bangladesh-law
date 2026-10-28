@@ -1,0 +1,4 @@
+# Release of accused when evidence deficient
+169. If, upon an investigation under this Chapter, it appears to the officer in charge of the police-station or to the police-officer making the investigation that there is not sufficient evidence or reasonable ground of suspicion to justify the forwarding of the accused to a Magistrate, such officer shall, if such person is in custody, release him on his executing a bond, with or without sureties, as such officer may direct, to appear, if and when so required, before a Magistrate empowered to take cognizance of the offence on a police-report and to try the accused or [^205][send] him for trial.
+
+[^205]: The word "send" was substituted, for the word "commit" by section 2 and Schedule of the Law Reforms Ordinance, 1978 (Ordinance No. XLIX of 1978)

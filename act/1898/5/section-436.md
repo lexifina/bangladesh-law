@@ -1,0 +1,8 @@
+# Power to order inquiry
+436. On examining any record under section 435 or otherwise, the High Court Division or the Sessions Judge may direct the [^479][Chief Metropolitan Magistrate or [^480][Chief Judicial Magistrate]] by himself or by any of the Magistrates subordinate to him to make, and the 3[^481][Chief Metropolitan Magistrate or [^482][Chief Judicial Magistrate]] may himself make, or direct any Sub-ordinate Magistrate to make, further inquiry into any complaint which has been dismissed under section 203 or sub-section (3) of section 204, or into the case of any person accused of an offence who has been discharged:
+Provided that no Court shall make any direction under this section for inquiry into the case of any person who has been discharged unless such person has had an opportunity of showing cause why such direction should not be made.
+
+[^479]: The words "Chief Metropolitan Magistrate" were substituted, for the words "District Magistrate" by the Schedule of the Code of Criminal Procedure (Amendment) Ordinance, 1976 (Ordinance No. LXXXVI of 1976)
+[^480]: The words “Chief Judicial Magistrate” were substituted for the words “District Magistrate” by section 84 of the Code of Criminal Procedure (Amendment) Act, 2009 (Act No. XXXII of 2009) (with effect from 1st November, 2007).
+[^481]: The words "Chief Metropolitan Magistrate" were substituted, for the words "District Magistrate" by the Schedule of the Code of Criminal Procedure (Amendment) Ordinance, 1976 (Ordinance No. LXXXVI of 1976)
+[^482]: The words “Chief Judicial Magistrate” were substituted for the words “District Magistrate” by section 84 of the Code of Criminal Procedure (Amendment) Act, 2009 (Act No. XXXII of 2009) (with effect from 1st November, 2007).

@@ -1,0 +1,7 @@
+# Record [^414][***] in trials of certain offences by first and second class Magistrates
+355.(1) [^415][In cases tried under Chapter XX or Chapter XXII] by a Magistrate of the first or second class and in all proceedings under section 514 (if not in the course of a trial), the Magistrate shall make a memorandum of the substance of the evidence of each witness as the examination of the witness proceeds.
+(2) Such memorandum shall be written and signed by the Magistrate with his own hand, and shall form part of the record.
+(3) If the Magistrate is prevented from making a memorandum as above required, he shall record the reason of his inability to do so, and shall cause such memorandum to be made in writing from his dictation in open Court, and shall sign the same, and such memorandum shall form part of the record.
+
+[^414]: The words "in summons-cases and" were omitted by section 27 of the Code of Criminal Procedure (Second Amendment) Ordinance, 1982 (Ordinance No. XXIV of 1982)
+[^415]: The words and figures "In cases tried under Chapter XX or Chapter XXII" were substituted, for the words, figures, brackets, letters and commas "In summons-cases tried before a Magistrate and in the cases of the offences mentioned in sub-section (1) of section 260, clauses (b) to (m), both inclusive, when tried" by section 27 of the Code of Criminal Procedure (Second Amendment) Ordinance, 1982 (Ordinance No. XXIV of 1982)

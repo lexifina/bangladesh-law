@@ -1,0 +1,5 @@
+# Deduction of imprisonment in cases where convicts may have been in custody
+[^63][35A.(1) Except in the case of an offence punishable only with death, when any court finds an accused guilty of an offence and, upon conviction, sentences such accused to any term of imprisonment, simple or rigorous, it shall deduct from the sentence of imprisonment, the total period the accused may have been in custody in the meantime, in connection with that offence.
+(2) If the total period of custody prior to conviction referred to in sub-section (1) is longer than the period of imprisonment to which the accused is sentenced, the accused shall be deemed to have served out the sentence of imprisonment and shall be released at once, if in custody, unless required to be detained in connection with any other offence; and if the accused is also sentenced to pay any fine in addition to such sentence, the fine shall stand remitted.]
+
+[^63]: Section 35A was substituted, for section 35A by section 2 of the Code of Criminal Procedure (Amendment) Act, 2003 (Act No. XIX of 2003)

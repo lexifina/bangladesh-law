@@ -1,0 +1,2 @@
+# Discharge of offender on submission or apology
+484. When any Court has under section 480 or section 482 adjudged an offender to punishment or forwarded him to a Magistrate for trial for refusing or omitting to do anything which he was lawfully required to do or for any international insult or interruption the Court may, in its discretion, discharge the offender or remit the punishment on his submission to the order or requisition of such Court, or on apology being made to its satisfaction.

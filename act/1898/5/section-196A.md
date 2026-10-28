@@ -1,0 +1,10 @@
+# Prosecution for certain classes of criminal conspiracy
+[^252][196A. No Court shall take cognizance of the offence of criminal conspiracy punishable under section 120B of the Penal Code,
+(1) in a case where the object of the conspiracy is to commit either an illegal act other than an offence, or a legal act by illegal means, or an offence to which the provisions of section 196 apply, unless upon complaint made by order or under authority from the [^253][Government, or some officer empowered in this behalf by the Government], or.
+(2) in a case where the object of the conspiracy is to commit any non-cognizable offence, or a cognizable offence not punishable with death, transportation or rigorous imprisonment for a term of two years or upwards, unless the [^254][Government, [^255][***] or a] District Magistrate empowered in this behalf by the Government, has, by order in writing consented to the initiation of the proceedings:
+Provided that where the criminal conspiracy is one to which the provisions of sub-section (4) of section 195 apply no such consent shall be necessary.]
+
+[^252]: Section 196A was inserted by section 5 of the Criminal Law Amendment Act, 1913 ( No. VIII of 1913)
+[^253]: The words and comma "Government, or some officer empowered in this behalf by the Government" were substituted, for the words and comma "Central Government or the Provincial Government concerned, or some officer empowered in this behalf by either of the two Governments" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+[^254]: The words, commas and letter "Government, or the Chief Metropolitan Magistrate, or a" were substituted, for the words and comma "Government, or a" by section 2 and Schedule of the Code of Criminal Procedure (Amendment) Ordinance, 1976 (Ordinance No. LXXXVI of 1976)
+[^255]: The words “or the Chief Metropolitan Magistrate” were omitted by section 66 of the Code of Criminal Procedure (Amendment) Act, 2009 (Act No. XXXII of 2009) (with effect from 1st November, 2007).

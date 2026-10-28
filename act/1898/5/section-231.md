@@ -1,0 +1,2 @@
+# Recall of witnesses when charge altered
+231. Whenever a charge is altered or added to by the Court after the commencement of the trial, the prosecutor and the accused shall be allowed to re-call or re-summon, and examine with reference to such alteration or addition, any witness who may have been examined and also to call any further witness whom the Court may think to be material.

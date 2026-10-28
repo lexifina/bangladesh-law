@@ -1,0 +1,16 @@
+# Power to release persons imprisoned for failing to give security
+124.(1) Whenever the District Magistrate [^148][***] is of opinion that any person imprisoned for failing to give security under this Chapter may be released without hazard to the community or to any other person, he may order such person to be discharged.
+(2) Whenever any person has been imprisoned for failing to give security under this Chapter, the [^149][***] District Magistrate may (unless the order has been made by some Court superior to his own) make an order reducing the amount of the security or the number of sureties or the time for which security has been required.
+(3) An order under sub-section (1) may direct the discharge of such person either without conditions or upon any conditions which such person accepts:
+Provided that any condition imposed shall cease to be operative when the period for which such person was ordered to give security has expired.
+(4) The Government may prescribe the conditions upon which a conditional discharge may be made.
+(5) If any condition upon which any such person has been discharged is, in the opinion of the District Magistrate [^150][***], by whom the order of discharge was made or of his successor, not fulfilled, he may cancel the same.
+(6) When a conditional order of discharge has been cancelled under sub-section (5), such person may be arrested by any police-officer without warrant, and shall thereupon be produced before the District Magistrate [^151][***].
+Unless such person then gives security in accordance with the terms of the original order for the unexpired portion of the term for which he was in the first instance committed or ordered to be detained (such portion being deemed to be a period equal to the period between the date of the breach of the conditions of discharge and the date on which, except for such conditional discharge, he would have been entitled to release), the District Magistrate [^152][***], may remand such person to prison to undergo such unexpired portion.
+A person remanded to prison under this sub-section shall, subject to the provisions of section 122, be released at any time on giving security in accordance with the terms of the original order for the unexpired portion aforesaid to the Court or Magistrate by whom such order was made, or to its or his successor.
+
+[^148]: The words “or Chief Metropolitan Magistrate” were omitted by section 43(a) of the Code of Criminal Procedure (Amendment) Act, 2009 (Act No. XXXII of 2009) (with effect from 1st November, 2007).
+[^149]: The words “Chief Metropolitan or” were omitted by section 43(b) of the Code of Criminal Procedure (Amendment) Act, 2009 (Act No. XXXII of 2009) (with effect from 1st November, 2007).
+[^150]: The words “or Chief Metropolitan Magistrate” were omitted by section 43(c) of the Code of Criminal Procedure (Amendment) Act, 2009 (Act No. XXXII of 2009) (with effect from 1st November, 2007).
+[^151]: The words “or Chief Metropolitan Magistrate” were omitted by section 43(d) of the Code of Criminal Procedure (Amendment) Act, 2009 (Act No. XXXII of 2009) (with effect from 1st November, 2007).
+[^152]: The words “or Chief Metropolitan Magistrate” were omitted by section 43(d) of the Code of Criminal Procedure (Amendment) Act, 2009 (Act No. XXXII of 2009) (with effect from 1st November, 2007).

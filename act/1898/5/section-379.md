@@ -1,0 +1,2 @@
+# Procedure in cases submitted to High Court Division for confirmation
+379. In cases submitted by the Court of Session to the High Court Division for the confirmation of a sentence of death, the proper officer of the High Court Division shall, without delay, after the order of confirmation or other order has been made by the High Court Division, send a copy of the order, under the seal of the High Court Division and attested with his official signature, to the Court of Session.

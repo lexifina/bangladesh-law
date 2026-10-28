@@ -1,0 +1,10 @@
+# Power to record statements and confessions
+164.(1) [^197][Any Metropolitan Magistrate, any Magistrate of the first class] and any Magistrate of the second class specially empowered in this behalf by the Government may, if he is not a police-officer record any statement or confession made to him in the course of an investigation under this Chapter or at any time afterwards before the commencement of the inquiry or trial.
+(2) Such statements shall be recorded in such of the manners hereinafter prescribed for recording evidence as is, in his opinion best fitted for the circumstances of the case. Such confessions shall be recorded and signed in the manner provided in section 364, and such statements or confessions shall then be forwarded to the Magistrate by whom the case is to be inquired into or tried.
+(3) A Magistrate shall, before recording any such confession, explain to the person making it that he is not bound to make a confession and that if he does so it may be used as evidence against him and no Magistrate shall record any such confession unless, upon questioning the person making it, he has reason to believe that it was made voluntarily; and, when he records any confession, he shall make a memorandum at the foot of such record to the following effect:-
+"I have explained to (name) that he is not bound to make a confession and that, if he does so, any confession he may make may be used as evidence against him and I believe that this confession was voluntarily made. It was taken in my presence and hearing, and was read over to the person making it and admitted by him to be correct, and it contains a full and true account of the statement made by him.
+(Signed) A.B.
+Magistrate."
+Explanation-It is not necessary that the Magistrate receiving and recording a confession or statement should be a Magistrate having jurisdiction in the case.
+
+[^197]: The words and comma "Any Metropolitan Magistrate, any Magistrate of the first class" were substituted, for the comma and words", any Magistrate of the first class" by section 2 and Schedule of the Code of Criminal Procedure (Amendment) Ordinance, 1976 (Ordinance No. LXXXVI of 1976)

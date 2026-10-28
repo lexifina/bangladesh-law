@@ -1,0 +1,11 @@
+# High Court Division's powers of revision
+439.(1) In the case of any proceeding the record of which has been called for by itself or which has been reported for orders, or which otherwise comes to its knowledge, the High Court Division may, in its discretion, exercise any of the powers conferred on a Court of Appeal by sections 423, 426, 427 and 428 or on a Court by section 338, and may enhance the sentence; and, when the Judges composing the Court of Revision are equally divided in opinion, the case shall be disposed of in manner provided by section 429.
+(2) No order under this section shall be made to the prejudice of the accused unless he has had an opportunity of being heard either personally or by pleader in his own defence.
+(3) Where the sentence dealt with under this section has been passed by a Magistrate [^484][* * *], the Court shall not inflict a greater punishment for the offence which, in the opinion of such Court, the accused has committed than might have been inflicted for such offence by [^485][a Metropolitan Magistrate or] a Magistrate of the first class.
+[^486][(4) Nothing in this section shall be deemed to authorize the High Court Division to convert a finding of acquittal into one of conviction, or to entertain any proceedings in revision with respect to an order made by the Sessions Judge under section 439A].
+(5) Where under this Code an appeal lies and no appeal is brought, no proceedings by way of revision shall be entertained at the instance of the party who could have appealed.
+(6) Notwithstanding anything contained in this section, any convicted person to whom an opportunity has been given under sub-section (2) of showing cause why his sentence should not be enhanced shall, in showing cause, be entitled also to show cause against his conviction.
+
+[^484]: The words and figure "acting otherwise than under section 34" were omitted by section 2 and Schedule of the Law Reforms Ordinance, 1978 (Ordinance No. XLIX of 1978)
+[^485]: The letter and words "a Metropolitan Magistrate or" were inserted by the Schedule of the Code of Criminal Procedure (Amendment) Ordinance, 1976 (Ordinance No. LXXXVI of 1976)
+[^486]: Sub-section (4) was substituted for sub-section (4) by section 2 and Schedule of the Law Reforms Ordinance, 1978 (Ordinance No. XLIX of 1978)

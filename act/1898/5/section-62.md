@@ -1,0 +1,6 @@
+# Police to report apprehensions.
+62. Officers in charge of police-stations shall report [^76][in [^77][a] Metropolitan Area, to the Chief Metropolitan Magistrate, and in other areas, to the District Magistrate, [^78][and also to the Chief Judicial Magistrate] the cases of all persons arrested without warrant, within the limits of their respective stations, whether such persons have been admitted to bail or otherwise.
+
+[^76]: The words and commas "in the Dacca Metropolitan Area, to the Chief Metropolitan Magistrate, and in other areas, to the District Magistrate, or if the District Magistrate" were substituted, for the words and commas "to the District Magistrate, or, if he" by section 2 and Schedule of the Code of Criminal Procedure (Amendment) Ordinance, 1976 (Ordinance No. LXXXVI of 1976)
+[^77]: The letter "a" was substituted, for the words "the Dacca" by section 2 of the Code of Criminal Procedure (Amendment) Act, 1980 (Act No. IV of 1980)
+[^78]: The words “and also to the Chief Judicial Magistrate” were substituted for the words and comma “or if the District Magistrate so directs, to the Sub-divisional Magistrate” by section 22 of the Code of Criminal Procedure (Amendment) Act, 2009 (Act No. XXXII of 2009) (with effect from 1st November, 2007).

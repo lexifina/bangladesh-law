@@ -1,0 +1,2 @@
+# Dismissal of complaint
+203. The Magistrate before whom a complaint is made or to whom it has been transferred, may dismiss the complaint, if after considering the statement on oath (if any) of the complainant and the result of the investigation or inquiry (if any) under section 202; there is in his judgment no sufficient ground for proceeding. In such cases he shall briefly record his reasons for so doing.

@@ -1,0 +1,5 @@
+# Power to compel restoration of abducted females
+552. Upon complaint made to a [^582][Metropolitan Magistrate [^583][or a Magistrate of the first class] or] District Magistrate on oath of the abduction or unlawful detention of woman, or of a female child under the age of sixteen years, for any unlawful purpose, he may make an order for the immediate restoration of such woman to her liberty, or of such female child to her husband, parent, guardian or other person having the lawful charge of such child, and may compel compliance with such order, using such force as may be necessary.
+
+[^582]: The words "Metropolitan Magistrate or" were inserted by the Schedule of the Code of Criminal Procedure (Amendment) Ordinance, 1976 (Ordinance No. LXXXVI of 1976)
+[^583]: The words “or a Magistrate of the first class” were inserted after the words “Metropolitan Magistrate” by section 96 of the Code of Criminal Procedure (Amendment) Act, 2009 (Act No. XXXII of 2009) (with effect from 1st November, 2007).

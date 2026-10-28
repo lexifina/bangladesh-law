@@ -1,0 +1,14 @@
+# Report of police-officer
+173.(1) Every investigation under this Chapter shall be completed without unnecessary delay, and, as soon as it is completed, the officer in charge of the police-station shall-
+(a) forward to a Magistrate empowered to take cognizance of the offence on a police-report a report, in the form prescribed by the Government, setting forth the names of the parties, the nature of the information and the names of the persons who appear to be acquainted with the circumstances of the case, and stating whether the accused (if arrested) has been forwarded in custody or has been released on his bond, and, if so, whether with or without sureties, and
+(b) communicate, in such manner as may be prescribed by the Government, the action taken by him to the person, if any, by whom the information relating to the commission of the offence was first given.
+(2) Where a superior officer of police has been appointed under section 158, the report shall in any cases in which the Government by general or special order so directs, be submitted through that officer, and he may, pending the orders of the Magistrate, direct the officer-in-charge of the police-station to make further investigation.
+(3) Whenever it appears from a report forwarded under this section that the accused has been released on his bond, the Magistrate shall make such order for the discharge of such bond or otherwise as he thinks fit.
+[^212][(3A) When such report is in respect of a case to which section 170 applies, the police-officer shall forward to the Magistrate along with the report-
+(a) all documents or relevant extracts thereof on which the prosecution proposes to rely other than those already sent to the Magistrate during investigation;
+(b) the statements recorded under sub-section (3) of section 161 of all the persons whom the prosecution proposes to examine as its witnesses.
+(3B) Nothing in this section shall be deemed to preclude further investigation in respect of an offence after a report under sub-section (1) has been forwarded to the Magistrate and, whereupon such investigation, the officer in charge of the police-station obtains further evidence, oral or documentary, he shall forward to the Magistrate a further report or reports regarding such evidence in the form prescribed; and the provisions of sub-section (1) to (3A) shall, as far as may be, apply in relation to such report or reports as they apply in relation to a report forwarded under sub-section (1).]
+(4) a copy of any report forwarded under this section shall on application, be furnished to the accused before the commencement of the inquiry or trial:
+Provided that the same shall be paid for unless the Magistrate for some special reason thinks fit to furnish it free of cost.
+
+[^212]: Sub-sections (3A) and (3B) were inserted by section 2 and Schedule of the Law Reforms Ordinance, 1978 (Ordinance No. XLIX of 1978)

@@ -1,0 +1,2 @@
+# Discharge of person informed against
+119. If, on an inquiry under section 117, it is not proved that it is necessary for keeping the peace or maintaining good behaviour, as the case may be, that the person in respect of whom the inquiry is made, should execute a bond, the Magistrate shall make an entry on the record to that effect, and if such person is in custody only for the purposes of the inquiry, shall release him, or, if such person is not in custody, shall discharge him.

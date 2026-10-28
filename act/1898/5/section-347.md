@@ -1,0 +1,4 @@
+# Procedure when, higher punishment should be inflicted on accused
+[^395][347. Notwithstanding anything contained in this Code, whenever a Magistrate of the first class is of opinion, after recording the evidence for the prosecution, that if the accused or, where more accused than one are being tried together, any of such accused is convicted he should receive a punishment more severe than that which such Magistrate is empowered to inflict, he may record his opinion and submit his proceedings, and forward the accused, or all the accused, to the Court of Session to which he is subordinate, whereupon the Court of Session shall try the case as if the case were exclusively triable by it under this Code.]
+
+[^395]: Section 347 was substituted, for section 347 by section 5 of the Code of Criminal Procedure (Second Amendment) Act, 1980 (Act No. XXX of 1980)

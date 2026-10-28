@@ -1,0 +1,4 @@
+# Application to High Court Division to set aside order of forfeiture
+99B. Any person having any interest in any newspaper, book or other document, in respect of which an order of forfeiture has been made under section 99A, may, within two months from the date of such order, apply to the High Court Division to set aside such order on the ground that the issue of the newspaper, or the book or other document, in respect of which the order was made, did not contain [^130][any such matter, word or visible representation,] as is referred to in sub-section (1) of section 99A.
+
+[^130]: The words and commas "any such matter, word or visible representation," were substituted, for the words "any treasonable or seditious or other matter of such a nature" by section 4 of the Code of Criminal Procedure (Amendment) Act, 1991 (Act No. XVI of 1991)

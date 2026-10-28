@@ -1,0 +1,2 @@
+# Sending of warrants for execution outside Bangladesh
+93B. Notwithstanding anything contained in section 82, where a Court in Bangladesh desires that a warrant issued by it for the arrest of an accused person shall be executed at any place outside Bangladesh within the local limits of the jurisdiction of a Court established or continued by the authority of the Government in exercise of its foreign jurisdiction, it may send such warrant, by post or otherwise, to the presiding officer of that Court to be executed.

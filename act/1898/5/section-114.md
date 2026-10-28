@@ -1,0 +1,3 @@
+# Summons or warrant in case of person not so present
+114. If such person is not present in Court, the Magistrate shall issue a summons requiring him to appear, or, when such person is in custody, a warrant directing the officer in whose custody he is, to bring him before the Court:
+Provided that whenever it appears to such Magistrate, upon the report of a police-officer or upon other information (the substance of which report or information shall be recorded by the Magistrate), that there is reason to fear the commission of a breach of the peace, and that such breach of the peace cannot be prevented otherwise than by the immediate arrest of such person, the Magistrate may at any time issue a warrant for his arrest.

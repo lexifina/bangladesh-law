@@ -1,0 +1,5 @@
+# Power of commissioned military officers to disperse assembly
+131. When the public security is manifestly endangered by any such assembly, and when [^165][no Executive Magistrate] can be communi-cated with, any commissioned officer of the Bangladesh Army may disperse such assembly by military force, and may arrest and confine any persons forming part of it, in order to disperse such assembly or that they may be punished according to law; but if, while he is acting under this section, it becomes practicable for him to communicate with [^166][an Executive Magistrate], he shall do so, and shall thenceforward obey the instructions of the Magistrate as to whether he shall or shall not continue such action.
+
+[^165]: The words “no Executive Magistrate” were substituted for the words “no Magistrate” by section 50 of the Code of Criminal Procedure (Amendment) Act, 2009 (Act No. XXXII of 2009) (with effect from 1st November, 2007).
+[^166]: The words “an Executive Magistrate” were substituted for the words “a Magistrate” by section 50 of the Code of Criminal Procedure (Amendment) Act, 2009 (Act No. XXXII of 2009) (with effect from 1st November, 2007).

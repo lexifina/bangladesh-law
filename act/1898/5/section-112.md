@@ -1,0 +1,2 @@
+# Order to be made
+112. When a Magistrate acting under section 107, section 108, section 109 or section 110 deems it necessary to require any person to show cause under such section, he shall make an order in writing, setting forth the substance of the information received, the amount of the bond to be executed, the term for which it is to be in force, and the number, character and class of sureties (if any) required.

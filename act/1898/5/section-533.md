@@ -1,0 +1,3 @@
+# Non-compliance with provisions of section 164 or 364
+533.(1) If any Court, before which a confession or other statement of an accused person recorded or purporting to be recorded under section 164 or section 364 is tendered or has been received in evidence, finds that any of the provisions of either of such sections have not been complied with by the Magistrate recording the statement, it shall take evidence that such person duly make the statement recorded; and, notwithstanding anything contained in the Evidence Act, 1872, section 91, such statement shall be admitted if the error has not injured the accused as to his defence on the merits.
+(2) The provisions of this section apply to Courts of Appeal, Reference and Revision.

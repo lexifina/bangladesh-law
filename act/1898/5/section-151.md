@@ -1,0 +1,2 @@
+# Arrest to prevent such offences
+151. A police-officer knowing of a design to commit any cognizable offence may arrest, without orders from a Magistrate and without a warrant, the person so designing, if it appears to such officer that the commission of the offence cannot be otherwise prevented.

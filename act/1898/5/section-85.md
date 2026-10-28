@@ -1,0 +1,7 @@
+# Procedure on arrest of person against whom warrant issued
+85. When a warrant of arrest is executed outside the district in which it was issued, the person arrested shall, unless the Court which issued the warrant is within twenty miles of the place of arrest or is nearer than [^94][the Executive Magistrate] or District Superintendent of Police [^95][or the Police Commissioner in [^96][a Metropolitan Area]] within the local limits of whose jurisdiction the arrest was made, or unless security is taken under section 76, be taken before such Magistrate or [^97][Police Commissioner or District Superintendent of Police].
+
+[^94]: The words “the Executive Magistrate” were substituted for the words “the Magistrate” by section 28 of the Code of Criminal Procedure (Amendment) Act, 2009 (Act No. XXXII of 2009) (with effect from 1st November, 2007).
+[^95]: The words "or Police Commissioner" were inserted by the Schedule of the Dacca Metropolitan Police (Amendment) Ordinance, 1976 (Ordinance No. LXIX of 1976)
+[^96]: The letter and words "a Metropolitan Area" were substituted, for the words "the Dacca Metropolitan Area" by the Schedule III of the Chittagong Metropolitan Police Ordinance, 1978 (Ordinance No. XLVIII of 1978)
+[^97]: The words “Police Commissioner or District Superintendent of Police” were substituted for the words “Police Commissioner or District Superintendent” by section 28 of the Code of Criminal Procedure (Amendment) Act, 2009 (Act No. XXXII of 2009) (with effect from 1st November, 2007).

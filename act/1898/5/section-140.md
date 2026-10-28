@@ -1,0 +1,6 @@
+# Procedure on order being made absolute Consequences of disobedience to order
+140.(1) When an order has been made absolute under section 136 [^178][or section 137], the Magistrate shall give notice of the same to the person against whom the order was made, and shall further require him to perform the act directed by the order within a time to be fixed in the notice, and inform him that, in case of disobedience, he will be liable to the penalty provided by section 188 of the Penal Code.
+(2) If such act is not performed within the time fixed, the Magistrate may cause it to be performed, and may recover the costs of performing it, either by the sale of any building, goods or other property removed by his order, or by the distress and sale of any other movable property of such person within or without the local limits of such Magistrate's jurisdiction. If such other property is without such limits, the order shall authorize its attachment and sale when endorsed by the Magistrate within the local limits of whose jurisdiction the property to be attached is found.
+(3) No suit shall lie in respect of anything done in good faith under this section.
+
+[^178]: The words and figure "or section 137" were substituted, for the comma, words and figures ", section 137 or section 139" by section 2 and Schedule of the Law Reforms Ordinance, 1978 (Ordinance No. XLIX of 1978)

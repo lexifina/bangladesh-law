@@ -1,0 +1,13 @@
+# Procedure of [^386][* * *] [^387][Chief Judicial Magistrate] in cases which he cannot dispose of.
+346.(1) If, in the course of an inquiry or a trial before a [^388][Chief Judicial Magistrate] in any district, the evidence appears to him to warrant a presumption that the case is one which should be tried or 1[^389][sent] for trial by some other [^390][Chief Judicial Magistrate] in such district, he shall stay proceedings and submit the case, with a brief report explaining its nature, to any [^391][Chief Judicial Magistrate]to whom he is subordinate or to such other [^392][Chief Judicial Magistrate], having jurisdiction, as the District [^393][Chief Judicial Magistrate] directs.
+(2) The Magistrate to whom the case is submitted may, if so empowered, either try the case himself, or refer it to any Magistrate subordinate to him having jurisdiction, or [^394][send] the accused for trial.
+
+[^386]: The word "Provincial" in the marginal heading was omitted by section 2 and Schedule of the Law Reforms Ordinance, 1978 (Ordinance No. XLIX of 1978)
+[^387]: The words " Chief Judicial Magistrate" were substituted for the word " Magistrate" by section 74 of the Code of Criminal Procedure (Amendment ) Ordinance, 2007 (Ordinance No. 2 of 2007).
+[^388]: The words “Chief Judicial Magistrate” were substituted for the word “Magistrate” by section 74 of the Code of Criminal Procedure (Amendment) Act, 2009 (Act No. XXXII of 2009) (with effect from 1st November, 2007).
+[^389]: The word "sent" was substituted, for the word "committed" by section 2 and Schedule of the Law Reforms Ordinance, 1978 (Ordinance No. XLIX of 1978)
+[^390]: The words “Chief Judicial Magistrate” were substituted for the word “Magistrate” by section 74 of the Code of Criminal Procedure (Amendment) Act, 2009 (Act No. XXXII of 2009) (with effect from 1st November, 2007).
+[^391]: The words " Chief Judicial Magistrate" were substituted for the word " Magistrate" by section 74 of the Code of Criminal Procedure (Amendment ) Ordinance, 2007 (Ordinance No. 2 of 2007).
+[^392]: The words “Chief Judicial Magistrate” were substituted for the word “Magistrate” by section 74 of the Code of Criminal Procedure (Amendment) Act, 2009 (Act No. XXXII of 2009) (with effect from 1st November, 2007).
+[^393]: The words “Chief Judicial Magistrate” were substituted for the word “Magistrate” by section 74 of the Code of Criminal Procedure (Amendment) Act, 2009 (Act No. XXXII of 2009) (with effect from 1st November, 2007).
+[^394]: The word "send" was substituted, for the word "commit" by section 2 and Schedule of the Law Reforms Ordinance, 1978 (Ordinance No. XLIX of 1978)

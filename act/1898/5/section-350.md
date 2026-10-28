@@ -1,0 +1,8 @@
+# Conviction [^409][***] on evidence partly recorded by one Magistrate and partly by another
+350.(1) Whenever any Magistrate, after having heard and recorded the whole or any part of the evidence in an inquiry or a trial, ceases to exercise jurisdiction therein, and is succeeded by another Magistrate who has and who exercises such jurisdiction, the Magistrate so succeeding may act on the evidence so recorded by his predecessor, or partly recorded by his predecessor and partly recorded by himself; or he may re-summon the witnesses and recommence the inquiry or trial:
+[^410][Provided that if the succeeding Magistrate is of opinion that further examination of any of the witnesses whose evidence has already been recorded is necessary in the interests of justice, he may re-summon any such witness, and after such further examination, cross-examination and re-examination, if any, as he may permit, the witness shall be discharged.]
+(2) Nothing in this section applies to cases in which proceedings have been stayed under section 346 or in which proceedings have been submitted to a superior Magistrate under section 349.
+(3) When a case is transferred under the provisions of this Code from one Magistrate to another, the former shall be deemed to cease to exercise jurisdiction therein, and to be succeeded by the latter within the meaning of sub-section (1).
+
+[^409]: The words "or commitment" in the marginal heading were omitted by section 2 and Schedule of the Law Reforms Ordinance, 1978 (Ordinance No. XLIX of 1978)
+[^410]: The proviso was substituted, for the original proviso by section 2 and Schedule of the Law Reforms Ordinance, 1978 (Ordinance No. XLIX of 1978)

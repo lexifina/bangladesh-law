@@ -1,0 +1,5 @@
+# Procedure where no claimant appears within six months
+524.(1) If no person within such period establishes his claim to such property, and if the person in whose possession such property was found, is unable to show that it was legally acquired by him, such property shall be at the disposal of the Government, and may be sold under the orders of the [^547][ Chief Metropolitan Magistrate, Chief Judicial Magistrate], or of a Magistrate of the first class empowered by the Government in this behalf.
+(2) In the case of every order passed under this section, an appeal shall lie to the Court to which appeals against sentences of the Court passing such order would lie.
+
+[^547]: The words and comma “Chief Metropolitan Magistrate, Chief Judicial Magistrate” were substituted for the words and commas “Metropolitan Magistrate, District Magistrate, or Sub-divisional Magistrate” by section 93 of the Code of Criminal Procedure (Amendment) Act, 2009 (Act No. XXXII of 2009) (with effect from 1st November, 2007).

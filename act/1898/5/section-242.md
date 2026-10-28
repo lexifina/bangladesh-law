@@ -1,0 +1,5 @@
+# Charge to be framed
+[^294][242. [^295][If, after such consideration and hearing as aforesaid, the Magistrate is of opinion that there is ground for presuming that the accused has committed an offence, the Magistrate shall frame a formal charge] relating to the offence of which he is accused and he shall be asked whether he admits that he has committed the offence with which he is charged.]
+
+[^294]: Section 242 was substituted, for the former section 242 by section 16 of the Code of Criminal Procedure (Second Amendment) Ordinance, 1982 (Ordinance No. XXIV of 1982)
+[^295]: The words and commas "If, after such consideration and hearing as aforesaid, the Magistrate is of opinion that there is ground for presuming that the accused has committed as offence, the Magistrate shall frame a formal charge" were substituted, for the words and comma "When the accused appears or is brought before the Magistrate, a formal charge shall be framed" by section 8 of the Code of Criminal Procedure (Third Amendment) Ordinance, 1982 (Ordinance No. LX of 1982)

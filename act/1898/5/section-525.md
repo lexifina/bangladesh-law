@@ -1,0 +1,2 @@
+# Power to sell perishable property
+525. If the person entitled to the possession of such property is unknown or absent and the property is subject to speedy and natural decay, or if the Magistrate to whom its seizure is reported is of opinion that its sale would be for the benefit of the owner, or that the value of such property is less than ten taka the Magistrate may at any time direct it to be sold; and the provisions of sections 523 and 524 shall, as nearly as may be practicable, apply to the net proceeds of such sale.

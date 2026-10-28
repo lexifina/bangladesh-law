@@ -1,0 +1,11 @@
+# Executive Magistrates
+[^18][10.(1) In every district and in every Metropolitan Area, the Government shall appoint as many persons as it thinks fit to be
+Executive Magistrates and shall appoint one of them to be the District Magistrate.
+(2) The Government may also appoint any Executive Magistrate to be an Additional District Magistrate, and such Additional District Magistrate shall have all or any of the powers of a District Magistrate under this Code or under any other law for the time being in force, as the Government may direct.
+(3) Whenever in consequence of the office of a District Magistrate becoming vacant, any officer succeeds temporarily to the chief executive in the administration of the district, such officer shall, pending the orders of the Government, exercise all the powers and perform all the duties respectively conferred and imposed by this Code on the District Magistrate.
+(4) The Government may, or subject to the control of the Government, the District Magistrate may, from time to time, by order define local areas within which the Executive Magistrate may exercise all or any of the powers with which they may be invested under this Code and, except as otherwise provided by such definition, the jurisdiction and powers of every such Executive Magistrate shall extend throughout the district.
+(5) The Government may, if it thinks expedient or necessary, appoint any persons employed in the Bangladesh Civil Service (Administration) to be an Executive Magistrate and confer the powers of an Executive Magistrate on any such member.
+(6) Subject to the definition of the local areas under sub-section (4) all persons appointed as Assistant Commissioners, Additional Deputy Commissioners or Upazila Nirbahi Officer in any District or Upazila shall be Executive Magistrates and may exercise the power of Executive Magistrate within their existing respective local areas.
+(7) Nothing in this section shall preclude the Government from conferring, under any law for the time in force, on a Commissioner of Police, all or any of the powers of an executive Magistrate in relation to a Metropolitan area.]
+
+[^18]: Section 10 was substituted by section 8 of the Code of Criminal Procedure (Amendment) Act, 2009 (Act No. XXXII of 2009) (with effect from 1st November, 2007).

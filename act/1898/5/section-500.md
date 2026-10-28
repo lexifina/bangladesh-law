@@ -1,0 +1,3 @@
+# Discharge from custody
+500.(1) As soon as the bond has been executed, the person for whose appearance it has been executed shall be released; and, when he is in jail, the Court admitting him to bail shall issue an order of release to the officer in charge of the jail, and such officer on receipt of the order shall release him.
+(2) Nothing in this section, section 496 or section 497 shall be deemed to require the release of any person liable to be detained for some matter other than that in respect of which the bond was executed.

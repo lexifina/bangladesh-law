@@ -1,0 +1,16 @@
+# Postponement for issue of process
+202.(1) Any Magistrate, on receipt of a complaint of an offence of he is authorized to take cognizance, or which has been transferred to him under section 192, may, if he thinks fit, for reasons to be recorded in writing, postpone the issue of process for compelling the attendance of the person complained against, and either inquire into the case himself or, if he is a Magistrate other than a Magistrate of the third class, direct an inquiry or investigation to be made by any Magistrate subordinate to him, or by a police-officer, or by such other person as he thinks fit, for the purpose of ascertaining the truth of falsehood of the complaint:
+Provided that, save where the complaint has been made by a Court, no such direction shall be made unless the [^271][provisions of section 200 have been complied with] [^272][:
+[^273][* * *]]
+[^274][Provided further that where it appears to the Magistrate that the offence complained of is triable exclusively by a Court of Session, the Magistrate may postpone the issue of process for compelling the attendance of the person complained against and may make or cause to be made an inquiry or investigation as mentioned in this sub-section for the purpose of ascertaining the truth or falsehood of the complaint.]
+(2) If any inquiry or investigation under this section is made by a person not being a Magistrate or a police-officer, such person shall exercise all the powers conferred by this Code on an officer in charge of a police-station, except that he shall not have power to arrest without warrant.
+(2A) Any Magistrate inquiring into a case under this section may, if he thinks, fit, take evidence of witnesses on oath [^275][:
+Provided that if it appears to the Magistrate that the offence complained of is triable exclusively by the Court of Session, he shall call upon the complainant to produce all his witnesses and examine them on oath.]
+[^276][(2B) Where the police submits the final report, the Magistrate shall be competent to accept such report and discharge the accused.]
+
+[^271]: The words and figure "provisions of section 200 have been complied with" were substituted, for the words and figures "complainant has been examined on oath under the provisions of section 200" by section 2 and Schedule of the Law Reforms Ordinance, 1978 (Ordinance No. XLIX of 1978)
+[^272]: A colon was substituted, for the full-stop at the end of the first proviso and thereafter a new proviso was added by section 2 and Schedule of the Law Reforms Ordinance, 1978 (Ordinance No. XLIX of 1978)
+[^273]: Second proviso was omitted by section 4 of the Code of Criminal Procedure (Second Amendment) Act, 1980 (Act No. XXX of 1980)
+[^274]: Proviso was added by section 12 of the Code of Criminal Procedure (Second Amendment) Ordinance, 1982 (Ordinance No. XXIV of 1982)
+[^275]: A colon was substituted for the full-stop at the end of sub-section (2A) and thereafter the proviso was added by section 2 and Schedule of the Law Reforms Ordinance, 1978 (Ordinance No. XLIX of 1978)
+[^276]: Sub-section 2(B) was added by section 12 of the Code of Criminal Procedure (Second Amendment) Ordinance, 1982 (Ordinance No. XXIV of 1982)

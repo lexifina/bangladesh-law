@@ -1,0 +1,5 @@
+# Summary procedure for punishment for non-attendance by a witness in obedience to summons
+[^503][485A.(1) If any witness being summoned to appear before a Criminal Court is legally bound to appear at a certain place and time in obedience to the summons and without just excuse neglects or refuses to attend at that place or time or departs from the place where he has to attend before the time at which it is lawful for him to depart, and the Court before which the witness is to appear is satisfied that it is expedient in the interests of justice that such a witness should be tried summarily, the Court, may take cognizance of the offence and after given the offender an opportunity of showing cause why he should not be punished under this section, sentence him to fine not exceeding Taka two hundred and fifty.
+(2) In every such case the Court shall follow, as nearly as may be practicable, the procedure prescribed for summary trials.]
+
+[^503]: Section 485A was inserted by section 2 and Schedule of the Law Reforms Ordinance, 1978 (Ordinance No. XLIX of 1978)

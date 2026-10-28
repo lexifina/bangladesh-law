@@ -1,0 +1,14 @@
+# Sessions Judge may withdraw cases from Assistant Sessions Judge.
+528.(1) Any Sessions Judge may withdraw any case from, or recall any case which he has made over to, any [^557][Joint] Sessions Judge subordinate to him.
+(1A) At any time before the trial of the case or the hearing of the appeal has commenced before the Additional Sessions Judge, any Sessions Judge may recall any case or appeal which he has made over to any Additional Sessions Judge.
+(1B) Where a Sessions Judge withdraws or recalls a case under sub-section (1) or recalls a case or appeal under sub-section (IA), he may either try the case in his own Court or hear the appeal himself, or make it over in accordance with the provisions of this Code to another Court for trial or hearing, as the case may be.
+(2) [The Chief Metropolitan Magistrate or [^558][Chief Judicial Magistrate or District Magistrate] may withdraw any case from, or recall any case which he has made over to, any Magistrate subordinate to him, and may inquire into or try such case himself, or refer it for inquiry or trial to any other such Magistrate competent to inquire into or try the same.
+(3) The Government [^559][with the approval of the High Court Division] may authorize the [^560][Chief Metropolitan Magistrate or the Chief Judicial Magistrate] to withdraw from any Magistrate subordinate to him either such classes of cases as he thinks proper, or particular classes of cases.
+(4) Any Magistrate may recall any case made over by him under section 192, sub-section (2), to any other Magistrate and may inquire into or try such case himself.
+(5) A Magistrate making an order under this section shall record in writing his reasons for making the same.
+CHAPTER XLIVA.–[Omitted by the Criminal Law (Extinction of Discriminatory Privileges) Act, 1949 (Act No. II of 1950), Schedule.]
+
+[^557]: The word “Joint” was substituted for the word “Assistant” by section 94(a) of the Code of Criminal Procedure (Amendment) Act, 2009 (Act No. XXXII of 2009) (with effect from 1st November, 2007).
+[^558]: The words “Chief Judicial Magistrate or District Magistrate” were substituted for the words “any District Magistrate or Sub-divisional Magistrate” by section 94(b) of the Code of Criminal Procedure (Amendment) Act, 2009 (Act No. XXXII of 2009) (with effect from 1st November, 2007).
+[^559]: The words “with the approval of the High Court Division” were inserted after the words “The Government” by section 94(c) of the Code of Criminal Procedure (Amendment) Act, 2009 (Act No. XXXII of 2009) (with effect from 1st November, 2007).
+[^560]: The words “Chief Metropolitan Magistrate or the Chief Judicial Magistrate” were substituted for the words “District Magistrate” by section 94(c) of the Code of Criminal Procedure (Amendment) Act, 2009 (Act No. XXXII of 2009) (with effect from 1st November, 2007).

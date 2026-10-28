@@ -1,0 +1,6 @@
+# Power to direct tender of pardon
+338. At any time [^337][before the judgment is passed, the Court of Session trying the case] may, with the view of obtaining on the trial the evidence of any person supposed to have been directly or indirectly concerned in or privy to, any such offence, tender, or order [^338][* * *] [^339][or the Chief Metropolitan Magistrate or the Chief Judicial Magistrate] to tender, a pardon on the same condition to such person.
+
+[^337]: The words and comma "before the judgment is passed, the Court of Session trying the case" were substituted, for the words and comma "after commitment, but before judgment is passed, the Court to which the commitment is made" by section 2 and Schedule of the Law Reforms Ordinance, 1978 (Ordinance No. XLIX of 1978)
+[^338]: The words "the committing Magistrate or" were omitted, by section 2 and Schedule of the Law Reforms Ordinance, 1978 (Ordinance No. XLIX of 1978)
+[^339]: The words “or the Chief Metropolitan Magistrate or the Chief Judicial Magistrate” were substituted for the words “or the District Magistrate” by section 73 of the Code of Criminal Procedure (Amendment) Act, 2009 (Act No. XXXII of 2009) (with effect from 1st November, 2007).

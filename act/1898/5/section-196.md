@@ -1,0 +1,4 @@
+# Prosecution for offences against the State
+196. No Court shall take cognizance of any offence punishable under Chapter VI or IXA of the Penal Code (except section 127), or punishable under section 108A, or section 153A, or section 294A, or section 295A or section 505 of the same Code, unless upon complaint made by order of, or under authority from, the [^251][Government, or some officer empowered in this behalf by the Government].
+
+[^251]: The words and comma "Government, or some officer empowered in this behalf by the Government" were substituted, for the words and comma "Central Government or the Provincial Government concerned, or some officer empowered in this behalf by either of the two Governments" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)

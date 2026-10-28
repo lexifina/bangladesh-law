@@ -1,0 +1,12 @@
+## Chapter XXXV
+## PROCEEDINGS IN CASE OF CERTAIN OFFENCES AFFECTING THE ADMINISTRATION OF JUSTICE
+# Procedure in cases mentioned in section 195.
+[^499][476.(1) When any Civil, Revenue or Criminal Court is, whether on application made to it in this behalf or otherwise, of opinion that it is expedient in the interests of justice that an inquiry should be made into any offence referred to in section 195, sub-section (1), clause (b) or clause (c), which appears to have been committed in or in relation to a proceeding in that Court, such Court may, after such preliminary inquiry, if any, as Court, such Court may, after such preliminary inquiry, if any, as it thinks necessary, record a finding to that effect and make a complaint thereof in writing signed by the presiding officer of the Court, and shall forward the same to a Magistrate of the first class having jurisdiction, and may take sufficient security for the appearance of the accused before such Magistrate or if the alleged offence is non-bailable may, if it thinks necessary so to do, send the accused in custody to such Magistrate, and may bind over any person to appear and give evidence before such Magistrate:
+Provided that, where the Court making the complaint is High Court Division, the complaint may be signed by such officer of the Court as the Court may appoint.
+[^500][For the purpose of this sub-section, a Metropolitan Magistrate shall be deemed to be a Magistrate of the first class.]
+[^501][(2) A Magistrate to whom a complaint is made under sub-section (1) or section 476A or section 476B shall, notwithstanding anything contained in Chapter XVI, proceed, as far as may be, to deal with the case as if it were instituted on a police report.]
+(3) Where it is brought to the notice of such Magistrate or of any other Magistrate to whom the case may have been transferred, that an appeal is pending against the decision arrived at in the judicial proceeding out of which the matter has arisen, he may, if he thinks fit, at any stage adjourn the hearing of the case until such appeal is decided.
+
+[^499]: Sections 476, 476A and 476B were substituted, for section 476 by section 128 of the Code of Criminal Procedure (Amendment) Act, 1923 (Act No. XVIII of 1923)
+[^500]: Paragraph was added by section 60 and Schedule of the Code of Criminal Procedure (Amendment) Ordinance, 1976 (Ordinance No. LXXXVI of 1976)
+[^501]: Sub-section (2) was substituted, for the former sub-section (2) by section 2 and Schedule of the Law Reforms Ordinance, 1978 (Ordinance No. XLIX of 1978)

@@ -1,0 +1,10 @@
+# Record in other cases
+356.(1) In all other trials before Courts of Session and Magistrates and in all inquiries under [^416][Chapter XII] the evidence of each witness shall be taken down in writing in the language of the Court by the Magistrate or Sessions Judge, or in his presence and hearing and under his personal direction and superintendence and shall be signed by the Magistrate or Sessions Judge.
+# Memorandum when evidence not taken down by the Magistrate or Judge himself
+(3) In cases in which the evidence is not taken down in writing by the Magistrate or Session Judge, he shall, as the examination of each witness proceeds, make a memorandum of the substance of what such witness deposes; and such memorandum shall be written and signed by the Magistrate or Sessions Judge with his own hand, and shall form part of the record.
+(4) If the Magistrate or Sessions Judge is prevented from making a memorandum as above required, he shall record the reason of his inability to make it.
+# Evidence given in English
+(2) When the evidence of such witness is given in English, the Magistrate or Sessions Judge may take it down in that language with his own hand, and, unless the accused is familiar with English, or the language of the Court is English, an authenticated translation of such evidence in the language of the Court shall form part of the record.
+(2A) When the evidence of such witness is given in any other language, not being English, than the language of the Court, the Magistrate or Sessions Judge may take it down in that language with his own hand, or cause it to be taken down in that language in his presence and hearing and under his personal direction and superintendence, and an authenticated translation of such evidence in the language of the Court or in English shall form part of the record.
+
+[^416]: The word and figure "Chapter XII" were substituted, for the words and figures "Chapters XII and XVIII" by section 2 and Schedule of the Law Reforms Ordinance, 1978 (Ordinance No. XLIX of 1978)

@@ -1,0 +1,6 @@
+# Procedure by police upon seizure of property taken under section 51 or stolen
+523.(1) The seizure by any police-officer of property taken under section 51, or alleged or suspected to have been stolen, or found under circumstances which create suspicion of the commission of any offence, shall be forthwith reported to a Magistrate, who shall make such order as he thinks fit respecting the disposal of such property or the delivery of such property to the person entitled to the possession thereof, or, if such person cannot be ascertained, respecting the custody and production of such property.
+# Procedure where owner of property seized unknown
+(2) If the person so entitled is known, the Magistrate may order the property to be delivered to him on such conditions (if any) as the Magistrate thinks fit. If such person is unknown, the Magistrate may detain it and shall, in such case, issue a Proclamation specifying the articles of which such property consists, and requiring any person who may have a claim thereto, to appear before him and establish his claim within [^546][one month] from the date of such proclamation.
+
+[^546]: The words "one month" were substituted for the words "six months" by the Code of Criminal Procedure (Amendment) Order, 1973 (President's Order No. I of 1973), Article 2

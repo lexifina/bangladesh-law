@@ -1,0 +1,4 @@
+# Confinement of youthful offenders in reformatories
+399.(1) When any person under the age of fifteen years is sentenced by any Criminal Court to imprisonment for any offence, the Court may direct that such person, instead of being imprisoned in a criminal jail, shall be confined in any reformatory established by the Government as a fit place for confinement, in which there are means of suitable discipline and of training in some branch of useful industry or which is kept by a person willing to obey such rules as the Government prescribes with regard to the discipline and training of persons confined therein.
+(2) All persons confined under this section shall be subject to the rules so prescribed.
+(3) [Omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).]

@@ -1,0 +1,3 @@
+# Return of commission
+507.(1) After any commission issued under section 503 or section 506 has been duly executed, it shall be returned, together with the deposition of the witness examined thereunder, to the Court out of which it issued; and the commission, the return thereto and the deposition shall be open at all reasonable times to inspection of the parties, and may, subject to all just exceptions, be read in evidence in the case by either party, and shall form part of the record.
+(2) Any deposition so taken, if it satisfies the conditions prescribed by section 33 of the Evidence Act, 1872, may also be received in evidence at any subsequent stage of the case before another Court.

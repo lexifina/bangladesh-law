@@ -1,0 +1,5 @@
+# Application of this Chapter to Commissions issued in Burma
+[^529][508A. The provisions of sub-section (3) of section 503, [^530][section 504] and so much of sections 505 and 507 as relates to the execution of a commission and its return by the Magistrate or officer to whom the commission is directed shall apply in respect of commissions issued by any Court or Judge having authority in this behalf in the United Kingdom or in any other country of the commonwealth other than Bangladesh or in the Union of Burma or any other country in which reciprocal arrangement in this behalf exists under the law in force in that country relating to commissions for the examination of witnesses, as they apply to commissions issued under section 503 or section 506.]
+
+[^529]: Section 508A was inserted by section 3 of the Code of Criminal Procedure (Amendment) Act, 1940 (Act No. XXXV of 1940)
+[^530]: The word and figure "section 504" were inserted by the Schedule of the Code of Criminal Procedure (Amendment) Ordinance, 1976 (Ordinance No. LXXXVI of 1976)

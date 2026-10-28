@@ -1,0 +1,16 @@
+# Powers of Appellate Court in disposing of appeal
+423.(1) The Appellate Court shall then send for the record of the case, if such record is not already in Court. After perusing such record, and hearing the appellant or his pleader, if he appears, and the Public Prosecutor, if he appears, and, in case of Public Prosecutor, if he appears, and, in case of an appeal under [^462][* * *] section 417, the accused, if he appears, the Court may, if it considers that there is no sufficient ground for interfering, dismiss the appeal, or may-
+(a) in an appeal from an order of acquittal, reverse such order and direct that further inquiry be made, or that the accused be retired or [^463][sent] for trial, as the case may be, or find him guilty and pass sentence on him according to law ;
+(b) in an appeal from a conviction, (1) reverse the finding and sentence, and acquit or discharge the accused, or order him to be retried by a Court of competent jurisdiction subordinate to such Appellate Court or [^464][sent] for trial, or (2) alter the finding, maintaining the sentence, or, with or without altering the finding, reduce the sentence or, (3) with or without such reduction and with or without altering the finding, alter the nature of the sentence, but, subject to the provisions of section 106, sub-section (3), not so as to enhance the same;
+[^465][(bb) in an appeal for enhancement of sentence, (1) reverse the finding and sentence and acquit or discharge the accused or order him to be retired by a Court competent to try the offence, or (2) alter the finding maintaining the sentence, or (3) with or without altering the finding, alter the nature or the extent, or the nature and extent, or the sentence, so as to enhance or reduce the same;]
+(c) in an appeal from any other order, alter or reverse such order;
+(d) make any amendment or any consequential or incidental order that may be just or proper [^466][:
+Provided that the sentence shall not be enhanced unless the accused has had an opportunity of showing cause against such enhancement:
+Provided further that the Appellate Court shall not inflict greater punishment for the offence which in its opinion the accused has committed than might have been inflicted for that offence by the Court passing the order or sentence under appeal.]
+(2) [Omitted by section 2 and Schedule of the Law Reforms Ordinance, 1978 (Ordinance No. XLIX of 1978).]
+
+[^462]: The words, figures, comma and brackets "section 411A, sub-section (2) or" were omitted by section 2 and Schedule of the Law Reforms Ordinance, 1978 (Ordinance No. XLIX of 1978)
+[^463]: The word "sent" was substituted, for the word "committed" by section 2 and Schedule of the Law Reforms Ordinance, 1978 (Ordinance No. XLIX of 1978)
+[^464]: The word "sent" was substituted, for the word "committed" by section 2 and Schedule of the Law Reforms Ordinance, 1978 (Ordinance No. XLIX of 1978)
+[^465]: Clause (bb) was inserted by section 2 and Schedule of the Law Reforms Ordinance, 1978 (Ordinance No. XLIX of 1978)
+[^466]: A colon was substituted for the full-stop at the end of clause (d) and thereafter the provisos were added by section 2 and Schedule of the Law Reforms Ordinance, 1978 (Ordinance No. XLIX of 1978)

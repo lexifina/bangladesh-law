@@ -1,0 +1,9 @@
+# Power to attach subject of dispute
+146.(1) If the Magistrate decides that none of the parties was then in such possession, or is unable to satisfy himself as to which of them was then in such possession of the subject of dispute, he may attach it until a competent Court has determined the rights of the parties thereto, or the person entitled to possession thereof:
+Provided that [^187][ [^188][ such Magistrate]may withdraw the attachment at any time if he is satisfied that there is no longer any likelihood of a breach of the peace in regard to the subject of dispute.
+(2) When the Magistrate attaches the subject of dispute, he may, if he thinks fit and if no receiver of the property, the subject of dispute, has been appointed by any Civil Court appoint a receiver thereof, who, subject to the control of the Magistrate, shall have all the powers of a receiver appointed under the [^189][Code of Civil Procedure, 1908]:
+Provided that, in the event of a receiver of the property, the subject of dispute, being subsequently appointed by any Civil Court, possession shall be made over to him by the receiver appointed by the Magistrate, who shall thereupon be discharged.
+
+[^187]: The words "The Chief Metropolitan Magistrate or" were inserted by section 2 and Schedule of the Code of Criminal Procedure (Amendment) Ordinance, 1976 (Ordinance No. LXXXVI of 1976)
+[^188]: The words “such Magistrate” were substituted for the words “the Metropolitan Magistrate or the District Magistrate or the Magistrate who has attached the subject of dispute” by section 55 of the Code of Criminal Procedure (Amendment) Act, 2009 (Act No. XXXII of 2009) (with effect from 1st November, 2007).
+[^189]: The words, comma and figure "Code of Civil Procedure, 1908" were substituted, for the words "Code of Civil Procedure" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)

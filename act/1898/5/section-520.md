@@ -1,0 +1,2 @@
+# Stay of order under sections 517, 518 or 519
+520. Any Court of appeal, confirmation, reference or revision may direct any order under section 517, section 518 or section 519, passed by a Court subordinate thereto, to be stayed pending consideration by the former Court, and may modify, alter or annul such order and make any further orders that may be just.

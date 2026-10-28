@@ -1,0 +1,8 @@
+# Warrant forwarded for execution outside jurisdiction
+83.(1) When a warrant is to be executed outside the local limits of the jurisdiction of the Court issuing the same, such Court may, instead of directing such warrant to a police-officer, forward the same by post or otherwise to any [^89][Executive Magistrate or District Superintendent of police] [^90][or, the Police Commissioner in [^91][a Metropolitan Area]] within the local limits of whose jurisdiction it is to be executed.
+(2) The Magistrate or District Superintendent [^92][or Police Commissioner] to whom such warrant is so forwarded shall endorse his name thereon and, if practicable, cause it to be executed in manner hereinbefore provided within the local limits of his jurisdiction.
+
+[^89]: The words “Executive Magistrate or District Superintendent of Police” were substituted for the words “Magistrate or District Superintendent” by section 26 of the Code of Criminal Procedure (Amendment) Act, 2009 (Act No. XXXII of 2009) (with effect from 1st November, 2007).
+[^90]: The words and comma "or, the Police Commissioner in the Dacca Metropolitan Area" were inserted by the Schedule of the Dacca Metropolitan Police (Amendment) Ordinance, 1976 (Ordinance No. LXIX of 1976)
+[^91]: The letter and words "a Metropolitan Area" were substituted, for the words "the Dhaka Metropolitan Area" by the Schedule III of the Chittagong Metropolitan Police Ordinance, 1978 (Ordinance No. XLVIII of 1978)
+[^92]: The words "or Police Commissioner" were inserted by the Schedule III of the Chittagong Metropolitan Police Ordinance, 1978 (Ordinance No. XLVIII of 1978)

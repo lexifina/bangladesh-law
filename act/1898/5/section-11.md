@@ -1,0 +1,9 @@
+# Judicial Magistrates
+[^19][11. (1) In every district outside a Metropolitan Area, the Chief Judicial Magistrates, Additional Chief Judicial Magistrates and other Judicial Magistrates shall be appointed from the persons employed in the Bangladesh Judicial service in accordance with the rules framed by the President under the proviso to Article 133 of the constitution.
+(2) An Additional Chief Judicial Magistrate shall have all or any of the powers of the Chief Judicial Magistrate under this Code or any other law for the time being in force, as the Government may direct.
+[^20][(2A) The Government may, by general or special order in the official Gazette, direct at what place or places the Court of Chief Judicial Magistrate, Additional Chief Judicial Magistrate and other Judicial Magistrates shall hold its sitting.]
+(3) The Government may, or subject to the general or special orders issued by the Government in consultation with the High Court Division, the Chief Judicial Magistrate may, from time to time, define local areas within which the Judicial Magistrates may exercise all or any of the powers with which they may be invested under this Code, and except as otherwise provided by such definition, the jurisdiction and powers of every such Magistrate shall extend throughout the district.
+(4) Notwithstanding anything contained in this section, the Government may require any Executive Magistrate to perform the functions of a Judicial Magistrate for a period to be determined in consultation with the High Court Division and during such period, the Magistrate shall not perform the functions of an Executive Magistrate.]
+
+[^19]: Section 11 was substituted by 8 of the Code of Criminal Procedure (Amendment) Act, 2009 (Act No. XXXII of 2009) (with effect from 1st November, 2007).
+[^20]: Sub-section (2A) was inserted after the sub-section (2) by section 2 of the Code of Criminal Procedure, (Amendment) Act, 2012 (Act No. XXXVII of 2012).

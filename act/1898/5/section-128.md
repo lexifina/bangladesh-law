@@ -1,0 +1,5 @@
+# Use of civil force to disperse
+128. If, upon being so commanded, any such assembly does not disperse, or if, without being so commanded, it conducts itself in such a manner as to show a determination not to disperse, any [^157][Executive Magistrate] or officer in charge of a police-station, may proceed to disperse such assembly by force, and may require the assistance of any male person, not being an officer, soldier, sailor or airman in the armed forces of Bangladesh [^158][***] for the purpose of dispersing such assembly, and, if necessary, arresting and confining the persons who form part of it, in order to disperse such assembly or that they may be punished according to law.
+
+[^157]: The words “Executive Magistrate” were substituted for the word “Magistrate” by section 47 of the Code of Criminal Procedure (Amendment) Act, 2009 (Act No. XXXII of 2009) (with effect from 1st November, 2007).
+[^158]: The words, letter commas and figure "or a volunteer enrolled under the Indian Volunteers Act, 1869, and acting as such," were omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
