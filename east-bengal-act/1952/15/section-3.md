@@ -1,0 +1,6 @@
+# Prohibition of issue of certain advertisement
+3. (1) No person shall, by means of any advertisement, treat, or offer to treat, any person for, or advertise the treatment of, any venereal disease, sexual disorder, irregularity of menstruation or any other prescribed disease, infirmity or abnormality, or offer to prescribe any remedy therefore, or give or offer to give any advice in connection with the treatment thereof.
+(2) No person shall print or publish, or cause to be printed or published, for distribution to the public, or circulate or cause to be circulated, to the public or to any person,-
+(a) any advertisement, or
+(b) any label or set of instructions, whether pictorial or otherwise, to be affixed to, or delivered with, any packet, box, bottle or phial
+if such advertisement, label or set of instructions recommends, asserts or infers that any remedy, medicine, medicinal or herbal preparation or any appliance or charm of any kind, whether for use internally or externally, is a cure, or is useful or may be used, for the prevention, treatment or relief of any venereal disease, sexual disorder, irregularity of menstruation or any other prescribed disease, infirmity or abnormality.
