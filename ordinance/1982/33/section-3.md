@@ -1,0 +1,2 @@
+# Constitution of reserved forest
+3. Notwithstanding anything contained to the contrary in the Forest Act, 1927 (XVI of 1927), or in any other law for the time being in force, or in any judgment, decree or order, the lands comprising of 59,648.70 acres constituting a reserved forest known as the Attia Forest under Notifications mentioned in the Schedule shall, notwithstanding any defect in such constitution or Notifications, be deemed to have been validly constituted a reserved forest and the Notifications so issued shall be deemed to have had effect accordingly.
