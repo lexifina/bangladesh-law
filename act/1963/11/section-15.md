@@ -1,0 +1,4 @@
+# Failure by landlord to make necessary repairs
+15. If a landlord fails to keep a building in a state of reasonable repairs, or to make such repairs thereto, not being structural alterations, as may from time to time be necessary, it shall be competent for the Controller to direct, on application by the tenant, and after such inquiry as the Controller may think necessary that such repairs may be made by the tenant, and the cost thereof deducted from the rent payable by him:
+Provided that nothing in this section shall enable the tenant to spend on repairs any amount exceeding three months' rent unless the Controller after making necessary inquiry is satisfied that such repairs are essential to render the building fit for occupation:
+Provided further that where under the terms of the agreement of tenancy, a tenant is authorised to make repairs at the expense of the landlord no application under this section shall be necessary.

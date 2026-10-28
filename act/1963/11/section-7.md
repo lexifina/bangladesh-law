@@ -1,0 +1,11 @@
+# Determination of fair rent
+7. (1) The Controller shall, on application by the tenant or landlord of a building, fix the fair rent of such building after holding such inquiry as he may think fit.
+(2) The fair rent shall be fixed after taking into consideration the following factors, namely:-
+(a) in the case of a building which was in existence before the 1st July, 1961, the rent of that building during the twelve months immediately preceding that date and where that building was not let out during the said period the rent prevailing in the locality during that period for buildings having similar accommodation, amenities, conveniences, facilities and environment; or
+(b) in the case of a building completed on or after the 1st July, 1961, the rent at which such building is first let out within twelve months of its completion, and where that building is not let out during the said period, the rent prevailing in the locality during that period for buildings having similar accommodation, amenities, conveniences, facilities and environment; and
+(c) the annual value of the building as assessed by the Cantonment Board under the provisions of the Cantonments Act, 1924, relating to the period mentioned in clause (a) or clause (b).
+(3) In fixing the fair rent of a building, the Controller shall also take into consideration the fixtures of the buildings, such as lifts and electric and other fittings, the rise and fall of the costs of construction and repairs and the imposition, abolition, enhancement or reduction of taxes since the 1st July, 1961.
+(4) In working out the depreciation of a building, the Controller shall take into consideration the location, climatic conditions, the nature of materials used in its construction, and the attention paid to its regular maintenance.
+(5) On and from such date as the Government may, by notification in the official Gazette, appoint in this behalf, the Controller shall not entertain any application under sub-section (1) after the expiry of one hundred and twenty days-
+(a) from the said date, where the building has been occupied by the tenant since before the said date; and
+(b) from the date of the occupation of the building by the tenant, in any other case.

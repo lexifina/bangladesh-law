@@ -1,0 +1,2 @@
+# Fair rates, etc., to be displayed
+20. The fair rates fixed by the Controller and the maximum number of guests who may be accommodated in each room or unit of accommodation in a hotel or lodging-house shall be displayed in a conspicuous manner in the office and in the public rooms, if any, of such hotel or lodging-house.

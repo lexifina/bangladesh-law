@@ -1,0 +1,2 @@
+# Indemnity
+31. No suit or other legal proceedings shall lie against the Controller or any person acting under his orders, in respect of anything which is in good faith done or intended to be done under this Act.
