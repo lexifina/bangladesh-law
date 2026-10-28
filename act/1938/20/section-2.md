@@ -1,0 +1,11 @@
+# Dissuasion from enlistment and instigation to mutiny or insubordination after enlistment
+2. Whoever-
+(a) with intent to affect adversely the recruitment of persons to serve in the Military, Naval or Air Forces of [^3][Bangladesh], wilfully dissuades or attempts to dissuade the public or any person from entering any such Forces, or
+(b) without dissuading or attempting to dissuade any person from entering such Forces, instigates the public or any person to do, after entering any such Force, anything which is an offence punishable as mutiny or insubordination [^4][31 of the Army Act, 1952, or sections 36, 40 and 41 of the Navy Ordinance, 1961, or sections 37 and 42 of the Air Force Act, 1953], as the case may be,
+shall be punishable with imprisonment for a term which may extend to one year, or with fine, or with both.
+No person shall be prosecuted for any offence under this Act except with the previous sanction of the Government.
+Exception 1.- The provisions of clause (a) of this section do not extend to comments on or criticism of the policy of Government in connection with the Military, Naval or Air Forces, made in good faith without any intention of dissuading from enlistment.
+Exception 2.- The provisions of clause (a) of this section do not extend to the case in which advice is given in good faith for the benefit of the individual to whom it is given, or for the benefit of any member of his family or of any of his dependants.
+
+[^3]: The word “Bangladesh” was substituted for the words “His Majesty” by section 3 and the Second Schedule of the Bangladesh Laws (Revision and Declaration) 9Amendment) Act, 1974 (Act No. LIII of 1974)
+[^4]: The figure, words and commas “31 of the Army Act, 1952, or sections 36, 40 and 41 of the Navy Ordinance, 1961, or sections 37 and 42 of the Air Force Act, 1953” were substituted for the figures, words and commas “31 of the Pakistan Army Act, 1952 or sections 10 to 12 and 14 to 17 inclusive of the Naval Discipline Act as applied to the Pakistan Navy by the Pakistan Navy (Discipline) Act, 1934, or section 37 and 42 of the Pakistan Air Force Act, 1953,”, by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
