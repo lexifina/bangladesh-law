@@ -1,0 +1,21 @@
+[^169][44CC. (1) Every political party setting up any candidate for election shall maintain proper account of all its income and expenditure for the period from the date of publication of notification under clause (1) of Article 11 till the completion of elections in all the constituencies in which it has set up candidates and such account shall show clearly the amount received by it as donation above [^170][taka five thousand] from any candidate or any person seeking nomination or from any other person or source giving their names and addresses and the amount received from each of them and the mode of receipt [^171][and these details of the list of amounts received as donations must be transparently published on the political party's official website].
+(2) The funds of every such political party shall be deposited and maintained in any scheduled bank.
+(3) No such political party shall expend during the aforesaid period for election purposes, including election expenses for the contesting candidates set up by it, an amount exceeding-
+(a) where the number of such candidates is more than two hundred, [^172][taka four crore and fifty lakh],
+(b) where the number of such candidates is more than one hundred but not more than two hundred, [^173][taka three crore],
+(c) where the number of such candidates is, [^174][ more than fifty but not more than one hundred, taka one crore and fifty lakh] [^175][,
+(d) where the number of such candidates is not more than fifty, taka seventy five lakh:
+Provided that the amount mentioned in sub-clauses (a), (b), (c) and (d) shall be subject to maximum taka one lakh and fifty thousand per candidate[^176][:
+Provided further that the expenditure incurred by the party chief for travelling to various constituencies for the purposes of election campaign shall be excluded.]
+(4) No such political party shall receive any donation amounting to more than [^177][taka twenty thousand] unless it is made by cheque.
+(5) If any political party contravenes any provision of this Article, it shall be punishable with fine which may extend to taka ten lakh.
+
+[^169]: Articles 44CC and 44CCC were inserted by section 18 of the Representation of the People (Amendment) Act, 2001 (Act No. LVII of 2001).
+[^170]: The words “taka five thousand” were substituted for words “taka one thousand” by section 18 of Representation of the People Order (Amendment) Act, 2009 (Act. No. XIII of 2009) (with effect from 19th August, 2008).
+[^171]: The words “and these details of the list of amounts received as donations must be transparently published on the political party's official website” were inserted after the words “the mode of receipt” by section 27 of the Representation of the People (Amendment) Act, 2026 (Act No. 03 of 2026). (with effect from 03 November, 2025)
+[^172]: The words “taka four crore and fifty lakh” were substituted for words “taka one hundred and fifty lakh” by section 18 of Representation of the People Order (Amendment) Act, 2009 (Act. No. XIII of 2009) (with effect from 19th August, 2008).
+[^173]: The words “taka three crore” were substituted for words and comma “taka one hundred lakh” by section 18 of Representation of the People Order (Amendment) Act, 2009 (Act. No. XIII of 2009) (with effect from 19th August, 2008).
+[^174]: The words “more than fifty but not more than one hundred, taka one crore and fifty lakh” were substituted for the words “not more than one hundred taka seventy five lakh” by section 18 of Representation of the People Order (Amendment) Act, 2009 (Act. No. XIII of 2009) (with effect from 19th August, 2008).
+[^175]: The comma (,) was substituted for the full stop (.) at the end and thereafter sub-clause (d) was added by section 18 of Representation of the People Order (Amendment) Act, 2009 (Act. No. XIII of 2009) (with effect from 19th August, 2008).
+[^176]: The colon (:) was substituted for the full-stop (.) and thereafter the proviso was added by section 12 of the Representation of the People (Amendment) Act, 2013 (Act No. LI of 2013).
+[^177]: The words “taka twenty thousand” were substituted for the words “taka one thousand” by section 18 of Representation of the People Order (Amendment) Act, 2009 (Act. No. XIII of 2009) (with effect from 19th August, 2008).

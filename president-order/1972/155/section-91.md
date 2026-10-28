@@ -1,0 +1,11 @@
+## Chapter VII
+## MISCELLANEOUS
+[^260][91. [^261][* * *] Save as otherwise provided, the Commission may-
+[^262][(a) stop the election at any polling station or entire constituency, as the case may be, at any stage of the election if it is convinced that it shall not be able to ensure the conduct of the election justly, fairly and in accordance with law due to malpractices, including coercion, intimidation and pressures or for a reason of an act of God prevailing at the election;
+(aa) withhold the result of any polling station or polling stations, if it is convinced upon receipt of information from any source that the result of such polling station or polling stations was grossly prejudiced by malpractices including coercion, intimidation, manipulation or any other malpractice or irregularity or otherwise, and after prompt inquiry of the matter, in a manner as it may deem appropriate, direct publication of the result of such polling station or polling stations or declare the election of any such polling station or polling stations or the entire constituency, as the case may be, cancelled with direction for holding of a fresh poll in such polling station or polling stations or, the entire constituency, as the case may be, as that may seem to it to be just and appropriate;]
+(b) review an order passed by an officer under this Order or the rules, including rejection or acceptance of a ballot paper; and
+(c) issue such instructions and exercise such powers, and make such consequential orders as may, in its opinion, be necessary for ensuring that an election of any polling station is conducted impartially, justly and fairly, and in accordance with the provisions of this Order and the rules.
+
+[^260]: Articles 91 and 91A were substituted for former Article 91 by section 17 of the Representation of the People (Amendment) Act, 1994 (Act No. XXIII of 1994)
+[^261]: The marginal note “Commission to ensure fair election, etc.-” were omitted by section 40 of the Representation of the People (Amendment) Act, 2001 (Act No. LVII of 2001)
+[^262]: Clause (a) and (aa) were substituted by section 38 of the Representation of the People (Amendment) Act, 2026 (Act No. 03 of 2026). (with effect from 03 November, 2025)

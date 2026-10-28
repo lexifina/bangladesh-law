@@ -1,0 +1,7 @@
+[^139][37A. (1) Notwithstanding anything contained in this Order, the office of the Returning Officer shall, for each constituency, be deemed to be a polling station solely for the purpose of counting all postal ballots duly received by the Returning Officer up to the official closing time of the poll.
+(2) The Returning Officer shall appoint a Presiding Officer and such number of Polling Officers as he may deem necessary to conduct the counting of postal ballots.
+(3) The Presiding Officer shall, in the presence of the contesting candidates or their election agents or polling agents, open the postal ballot envelopes and count the votes cast in favour of each contesting candidate in such manner and in accordance with such procedure as may be prescribed by the Commission.
+(4) Upon completion of the counting of all postal ballots, the Presiding Officer shall prepare a duly authenticated statement of the postal ballot count in the prescribed form and shall submit the same to the Returning Officer without delay.
+(5) The Returning Officer shall incorporate the postal ballot count, as submitted by the Presiding Officer, into the consolidated result of the constituency in accordance with the provisions of Article 37 of this Order and the Rules, if any made thereunder.]
+
+[^139]: Article 37A was inserted by section 22 of Representation of the People (Amendment) Act, 2026 (Act No. 03 of 2026). (with effect from 03 November, 2025)

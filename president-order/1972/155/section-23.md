@@ -1,0 +1,5 @@
+23. Where any act or thing is authorised by this Order to be done in the presence of the candidate, an election agent or a polling agent, the failure of such person to attend at the time and place appointed for the purpose shall not invalidate any act or thing otherwise validly done [^102][:
+Provided that the Returning Officer or the Presiding Officer, as the case may be, shall, as far as practicable, endeavour to ensure the attendance of the said person at the time of doing the said act or thing:
+Provided further that, if a candidate or his election agent or polling agent is found absent at the time of doing the said act or thing, the Returning Officer or the Presiding Officer, as the case may be, shall immediately try to find out the reason of such absence and record the fact and communicate it to the Commission together with his comments thereon, and shall endeavour to ensure such attendance.]
+
+[^102]: The colon (:) was substituted for the full-stop (.) and thereafter the provisos were inserted by section 8 of the Representation of the People (Amendment) Act, 2001 (Act No. LVII of 2001)

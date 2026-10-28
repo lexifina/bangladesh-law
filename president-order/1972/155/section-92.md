@@ -1,0 +1,1 @@
+92. No Court shall question the legality of any action taken in good faith by or under the authority of, the Commission, a Returning Officer, Presiding Officer or an Assistant Presiding Officer or any decision given by any of them or by any other officer or authority appointed under this Order or the rules.

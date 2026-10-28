@@ -1,0 +1,1 @@
+93. No suit, prosecution or other legal proceeding shall lie against the Commission or any Officer or other person in respect of anything which is in good faith done or intended to be done under or in pursuance of this Order or of any rule or order made or any direction given thereunder.

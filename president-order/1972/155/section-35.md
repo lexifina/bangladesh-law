@@ -1,0 +1,1 @@
+35. No person shall be given any ballot paper or be permitted to vote after the hour fixed for the close of the poll except the persons who at that hour are present within the building room, tent or enclosure in which the polling station is situated and have not voted but are waiting to vote.

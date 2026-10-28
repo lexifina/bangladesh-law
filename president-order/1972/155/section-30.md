@@ -1,0 +1,3 @@
+30. (1) The Presiding Officer shall keep order at the polling station and may remove or cause to be removed any person who misconducts himself at a polling station or fails to obey any lawful orders of the Presiding Officer.
+(2) Any person removed under clause (1) from a polling station shall not, without the permission of' the Presiding Officer, again enter the polling station during the day and shall, if he is accused of an offence in a polling station, be liable to be arrested without warrant by a police officer.
+(3) The powers under this Article shall not be so exercised as to deprive an elector of an opportunity to cast his vote at the polling station at which he is entitled to vote.

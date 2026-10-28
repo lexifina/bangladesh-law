@@ -1,0 +1,1 @@
+43. The documents retained under Article 42, except the ballot papers, shall be open to public inspection at such time and subject to such conditions as may be prescribed, and the Returning Officer shall, upon an application made in this behalf and on payment of such fee and subject to such conditions as may be prescribed, furnish copies of, or extracts from, those documents.

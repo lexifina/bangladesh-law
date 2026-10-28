@@ -1,0 +1,2 @@
+5. (1) The Commission may require any person or authority to perform such function or render such assistance for the purposes of this Order as it may direct.
+(2) All executive authorities of the Government shall assist the Commission in the performance of its functions, and for this purpose the President may, after consultation with the Commission, issue such directions as he may consider necessary.

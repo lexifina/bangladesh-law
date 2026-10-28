@@ -1,0 +1,2 @@
+89. (1) No Court shall take cognizance of an offence under clause (2) of Article 81, Article 83, Article 84, Article 85 or Article 86, except upon a complaint in writing made by order of, or under authority from, the Commission.
+(2) The Commission shall, if it has reason to believe that any offence specified in clause (1) has been committed, cause such enquiries to be made or prosecution to be instituted as it may think fit.

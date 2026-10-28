@@ -1,0 +1,3 @@
+86. A person in the service of Bangladesh is guilty of an offence punishable with imprisonment for a term which may extend to [^231][five years and shall not be less than one year, and also with fine], if he, misuses his official position in a manner calculated to influence the result of the election.
+
+[^231]: The words and comma “five years and shall not be less than one year, and also with fine” were substituted for the words and commas “two years, or with fine which may extend to Taka one thousand, or with both” by section 17 of the Representation of the People (Amendment) Act, 1991 (Act No. X of 1991)

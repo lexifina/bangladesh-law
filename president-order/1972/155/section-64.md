@@ -1,0 +1,1 @@
+64. The High Court Division shall declare the election of the returned candidate to be void and the petitioner or any other contesting candidate to have been duly elected, if it is so claimed by the petitioner or any of the respondents and the High Court Division is satisfied that the petitioner or such other contesting candidate was entitled to be declared elected.

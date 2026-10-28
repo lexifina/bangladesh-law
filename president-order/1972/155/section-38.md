@@ -1,0 +1,3 @@
+[^140][38. Where, after consolidation of the results of the count under Article 37, it is found that there is equality of votes between two or more contesting candidates, the Returning Officer shall forthwith submit a written report on such equality of votes to the Commission and the Commission shall then direct the Returning Officer to arrange for a re-poll among the contesting candidates who have secured an equal number of votes.]
+
+[^140]: Article 38 was substituted by section 23 of the Representation of the People (Amendment) Act, 2026 (Act No. 03 of 2026). (with effect from 03 November, 2025)
