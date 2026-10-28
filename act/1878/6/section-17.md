@@ -1,0 +1,2 @@
+# Decision of Collector final, and no suit to lie against him for acts done bona fide
+17. No decision passed or act done by the Collector under this Act shall be called in question by any Civil Court, and no suit or other proceeding shall lie against him for anything done in good faith in exercise of the powers hereby conferred.
