@@ -1,0 +1,4 @@
+# Power to grant extraordinary pensions and gratuities
+3. Notwithstanding anything contained in any enactment or in any rule made thereunder regulating the powers of local authorities, and without prejudice to any powers conferred by or under any such enactment, a local authority may grant a pension or gratuity to any officer thereof who may, since the 4th day of August, 1914, have been wounded or otherwise incapacitated in [^4][service of the Republic] and to the widow or child of any such officer who may have died in consequence of injuries received or illness contracted since the 4th day of August, 1914, in the course of such service.
+
+[^4]: The words "service of the Republic" were substituted, for the words "service of the State" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
