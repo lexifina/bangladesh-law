@@ -1,0 +1,14 @@
+# Power for Magistrate of the District to appoint the Chairman of Municipalities or President, of Union Boards to discharge the functions of an officer under section 14
+32.(1) The Magistrate of the District may appoint for
+the purposes of this Act, a Chairman of a [^6][Paurashava] constituted under the [^7][Municipal Administration Ordinance, 1960]; or a President of a [^8][Union Parishad] constituted under [^9][Bangladesh Local Council and Municipal Committee (Dissolution and Administration) Order, 1972]; to discharge the functions of an officer appointed under section 14, in respect of
+cattle impounded within the area included within that [^10][Paurashava] or within the area subject to the jurisdiction of that Union Parishad, as the case may be:
+Provided that a Chairman or President so appointed may, by general or special order, delegate to the Vice-Chairman of such [^11][Pasurashava] or the Vice-President of such [^12][Union Parishad] as the case may be, all or any of the functions of an officer appointed under section 14 which such Chairman or President is entitled to discharge and may at any time withdraw the same.
+(2) A Chairman or President so appointed, or a Vice-Chairman or Vice-President to whom the Chairman or the President, as the case may be, may have delegated all or any of the functions referred to in sub-section (1), shall, not, directly or indirectly, purchase any cattle at a sale under this Act.
+
+[^6]: The word “Paurashava” was substituted, for the word “Municipality” by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).
+[^7]: The words Comma and figure “Municipal Administration Ordinance, 1960” were substituted, for the words “Bengal Municipal Act” by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).
+[^8]: The words “Union Parishad” were substituted, for the words “Union Board” by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).
+[^9]: The words, brackets, comma and figure “Bangladesh Local Council and Municipal Committee (Dissolution and Administration) Order, 1972” were substituted, for the words “Bengal Village self-Government Act, 1919” by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).
+[^10]: The word “Paurashava” was substituted, for the word “Municipality” by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).
+[^11]: The word “Paurashava” was substituted, for the word “Municipality” by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).
+[^12]: The words “Union Parishad” were substituted, for the words “Union Board” by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).

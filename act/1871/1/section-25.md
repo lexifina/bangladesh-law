@@ -1,0 +1,2 @@
+# Recovery of penalty for mischief committed by causing cattle to trespass
+25. Any fine imposed under the next following section or for the offence of mischief by causing cattle to trespass on any land may be recovered by sale of all or any of the cattle by which the trespass was committed, whether they were seized in the act of trespassing or not, and whether they are the property of the person convicted of the offence, or were only in his charge when the trespass was committed.

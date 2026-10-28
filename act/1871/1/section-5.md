@@ -1,0 +1,2 @@
+# Control of pounds Rates of charge for feeding impounded cattle
+5. The pounds shall be under the control of the Magistrate of the District; and he shall fix, and may from time to time alter, the rates of charge for feeding and watering impounded cattle.

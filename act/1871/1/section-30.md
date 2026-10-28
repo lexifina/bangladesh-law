@@ -1,0 +1,2 @@
+# Set- off
+30. Any compensation paid to such person under this Act by order of the convicting Magistrate shall be set-off and deducted from any sum claimed by or awarded to him as compensation in such suit.
