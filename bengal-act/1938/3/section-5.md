@@ -1,0 +1,3 @@
+# Purposes for which the Fund may be utilised
+5. Expenditure from the Fund shall not be incurred except upon the relief of famine and the relief of distress caused by serious drought, flood, earthquake or other natural calamities:
+Provided that, if at any time, the total amount of the Fund exceeds twelve lakhs of Taka the Government may utilise such excess to meet expenditure on protective irrigation works and other works for the prevention of famine or flood or to pay debt charges for which the Government may from time to time be liable, including interest, sinking fund charges and redemption charges.
