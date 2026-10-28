@@ -1,0 +1,3 @@
+# Procedure when offender cannot be found
+39. When the offender cannot be found, the Magistrate may, if he finds that an offence has been committed, order the property in respect of which the offence has been committed to be confiscated and taken charge of by the Regional Forest Officer, or to be made over to the person whom the Magistrate deems to be entitled to the same:
+Provided that no such order shall be made until the expiry of one month from the date of seizing such property, or without hearing the person, if any, claiming any right thereto, and the evidence, if any, which he may produce in support of his claim.

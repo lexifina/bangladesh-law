@@ -1,0 +1,2 @@
+# Information of the Magistrate and procedure thereupon
+34. The Regional Forest Officer may cause information to be given to a Magistrate regarding any forest offence which he has reason to believe to have been committed in respect of any forest-produce; and upon receipt of any such information, the Magistrate shall, with all convenient despatch, take such measures as may be necessary for the arrest and trial of the offender and the disposal of the property according to law.

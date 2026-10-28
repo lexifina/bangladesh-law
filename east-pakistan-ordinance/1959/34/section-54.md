@@ -1,0 +1,2 @@
+# Power of officers
+54. It shall be lawful for any officer authorised either generally or specially in this behalf by the Regional Forest Officer to enter with his subordinates and servants and workmen at any time upon any part of a controlled forest for the purpose of ascertaining whether there has been any violation of an approved working plan and to do any other acts which are in his opinion necessary for carrying out the purposes of this Ordinance.

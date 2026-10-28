@@ -1,0 +1,2 @@
+# Disposal of unclaimed forest-produce
+36. If no statement of claim is presented in respect of any such forest-produce after a notice has been published under sub-section (1) of section 35, or if a person whose claim has been rejected under that section omits to institute a suit under sub-section (4) thereof, the ownership of such forest-produce shall vest in the Government free from all encumbrances, or, when such forest-produce has been delivered to any person under sub-section (3) of that section, in such person free from all encumbrances not created by such person.

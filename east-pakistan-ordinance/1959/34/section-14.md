@@ -1,0 +1,2 @@
+# Power to order a vested forest to be formed into a separate estate
+14. The Government may, if it thinks it expedient, direct the Collector to partition off that part of an estate which comprises a vested forest into a separate estate; and the demand in respect of land-revenue and cess for which the original estate was liable shall on such partition be assessed upon and divided between the two separate estate so formed respectively in such manner as the Government may direct.

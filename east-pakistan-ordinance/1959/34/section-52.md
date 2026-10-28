@@ -1,0 +1,2 @@
+# Onus of proof
+52. Notwithstanding anything contained in any other Act, when in any area in respect of which the Government has made rules under clause (b) of sub-section (2) of section 41 of the Forest Act, 1927, any person is found to be moving forest-produce without a pass from an officer duly authorised to issue the same, the burden of proof that such person has not committed an offence under this Ordinance in respect of such forest-produce shall lie on him.

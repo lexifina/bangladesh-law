@@ -1,0 +1,3 @@
+# Power to arrest without warrant
+46. (1) Any Forest or Police Officer may, without orders from a Magistrate and without a warrant, arrest any person against whom a reasonable suspicion exists of his having been concerned in any forest-offence punishable with imprisonment for one month or upwards under this Ordinance.
+(2) Every officer making an arrest under this section shall, without unnecessary delay and subject to the provisions of this Ordinance as to release on bond, take or send the person arrested before the Magistrate having jurisdiction in the case or to the officer-in-charge of the nearest police-station.

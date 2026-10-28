@@ -1,0 +1,2 @@
+# Power to release on a bond a person arrested
+47. Any Forest Officer of a rank not inferior to that of a Ranger, who, or whose subordinate, has arrested any person under the provisions of section 46, may release such person on his executing a bond to appear if and when so required, before the Magistrate having jurisdiction in the case or before the officer-in-charge of the nearest police-station.

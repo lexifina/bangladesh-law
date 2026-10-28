@@ -1,0 +1,2 @@
+# Pleaders
+27. The Government, or any person who has made a claim under this Ordinance may appoint any person to appear, plead and act on its or his behalf before the Forest Settlement Officer, or any appellate or revisional authority in the course of any inquiry, appeal or revision under this Ordinance or before any arbitrator appointed to determine any compensation payable under sub-section (5) of section 10.

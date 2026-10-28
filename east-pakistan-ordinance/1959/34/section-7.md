@@ -1,0 +1,5 @@
+# Vesting of forest in a Regional Forest Officer
+7. Notwithstanding anything contained in sections 3 and 4 or in sub-section (2) of section 6, if the Government is satisfied that the conservation of any private forest in a notified area should not be left to the owner thereof, the Government may, by a notification specifying the reasons for so doing, direct that the control of such forest shall be vested in such Regional Forest Officer for such period as may be specified in the notification:
+Provided that no such notification shall be issued until-
+(a) the Regional Forest Officer has, by notice in writing, called upon the owner of such forest to show cause before the Appellate Committee within such period as may be specified in such notice why the control of such forest should not be so vested, and
+(b) the Appellate Committee after considering the cause, if any, shown by the owner and any evidence which the owner may produce in support of the same has recommended that such notification should be issued.

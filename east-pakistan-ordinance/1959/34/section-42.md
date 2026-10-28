@@ -1,0 +1,2 @@
+# Property when to vest in Government
+42. When an order for the confiscation of any property has been passed under section 37 or section 39, as the case may be, and the period limited by section 41 for an appeal from such order has expired and no such appeal has been preferred, or when, on such an appeal being preferred, the Appellate Court confirms such order in respect of the whole or a portion of such portion thereof as the case may be, shall vest in the Government free form all encumbrances.

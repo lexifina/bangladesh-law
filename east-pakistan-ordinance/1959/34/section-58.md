@@ -1,0 +1,2 @@
+# Application of rules made under sections 41 and 42 of the Forest Act 1927, to transit of forest-produce from private forest
+58. All rules made by the Government to regulate the transit of timber and other forest-produce under sections 41 and 42 of the Forest Act, 1927, for the time being in force, shall apply so far as may be to the transit of all timber and other forest-produce from any private forest to which any of the provisions of this Ordinance apply.

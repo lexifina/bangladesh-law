@@ -1,0 +1,4 @@
+# Land required under this Ordinance to be deemed to be needed for a public purpose under the Land Acquisition Act, 1894
+61. Whenever it appears to the Government that any land is required for any of the purposes of this Ordinance, such land shall be deemed to be needed for a public purpose within the meaning of [^15][section 3 of the Acquisition and Requisition of Immovable Property Ordinance, 1982 (Ord. No. II of 1982)].
+
+[^15]: The words, figures, comma and brackets “section 3 of the Acquisition and Requisition of Immovable Property Ordinance, 1982 (Ord. No. II of 1982)” were substituted for the words, figures, comma and brackets “section 4 of the Land Acquisition Act, 1894 (I of 1894)” by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)

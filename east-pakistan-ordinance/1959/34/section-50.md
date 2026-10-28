@@ -1,0 +1,2 @@
+# Power of Court to order payment or rewards out of fine
+50. Whenever a Court imposes a fine under this Ordinance or confirms in appeal under this Ordinance a sentence of fine or a sentence of which fine forms a part, for a forest-offence other than an offence specified in sub-section (1) of section 6 or section 44, the Court may, when passing judgment, order any portion of the fine recovered to be paid to the person whose information led to the detection of the offence.

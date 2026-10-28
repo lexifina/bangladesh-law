@@ -1,0 +1,2 @@
+# Appeal from orders under section 37 or section 39
+41. The officer who made the seizure under section 32 or any of his official superiors or any person claiming to be interested in the property so seized, may, within one month from the date of any order passed by the Magistrate under section 37 or section 39, appeal therefrom to the Court to which orders made by such Magistrate are ordinarily appealable, and the order passed on such appeal shall be final.
