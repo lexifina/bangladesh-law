@@ -1,0 +1,3 @@
+# Police Commissioner may authorise erection of barriers on streets
+26. (1) The Police Commissioner may, whenever in his opinion such action is necessary, authorise such police-officer as he thinks fit to erect barriers on any street for the purpose of stopping temporarily vehicles driven on such street and satisfy himself that the provisions of any law for the time being in force have not been contravened in respect of any such vehicle or by the driver or person in charge of such vehicle.
+(2) The Police Commissioner may make such orders as he deems fit for regulating the use of such barriers.

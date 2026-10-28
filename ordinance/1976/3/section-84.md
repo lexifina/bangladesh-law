@@ -1,0 +1,2 @@
+# Penalty for wilful trespass
+84. Whoever without satisfactory excuse wilfully enters or remains in or upon any dwelling-house or premises or any land or ground attached thereto, or any ground, building, monument or structure belonging to Government or appropriated to public purposes, or any boat, vessel or vehicle, shall, whether he causes any damage or not, be punishable with fine which may extend to one hundred taka.

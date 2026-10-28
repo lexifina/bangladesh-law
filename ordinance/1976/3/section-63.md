@@ -1,0 +1,2 @@
+# Penalty for entering or returning without permission
+63. Any person who in contravention of an order made under section 38, 39 or 40 enters or returns without permission to the Metropolitan Area or enters or returns to the said Area with permission granted under section 45(2) but fails, contrary to the provisions thereof, to remove himself outside the said Area at the expiry of the period specified in the permission shall be punishable with imprisonment for a term which may extend to two years, or with fine which may extend to five thousand taka, or with both.

@@ -1,0 +1,2 @@
+# Offences committed by firms, etc.
+98. If the person committing an offence punishable under this Ordinance is a firm, company or other body corporate, every partner, director, manager, secretary or other officer or agent thereof shall, unless he proves that the commission took place without his knowledge or that he exercised all due diligence to prevent such commission, be deemed to be guilty of such commission.

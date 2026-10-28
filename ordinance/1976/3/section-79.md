@@ -1,0 +1,2 @@
+# Penalty for exhibiting mimetic, musical or other performance, etc.
+79. Whoever exhibits, contrary to any regulation made by the Police Commissioner, any mimetic, musical or other performance of a nature which may attract crowd, or carries or places bulky advertisements, pictures, figures or emblems in any street or public place whereby an obstruction to passengers or annoyance to the neighbouring residents may be occasioned shall be punishable with fine which may extend to two hundred taka.

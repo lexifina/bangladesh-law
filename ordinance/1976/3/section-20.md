@@ -1,0 +1,2 @@
+# Power of police-officers to search suspected persons in streets, etc.
+20. When in a street or a place of public resort a person has possession or apparent possession of any article which a police-officer in good faith suspects to be stolen property such police-officer may search for and examine the same and may require an account thereof, and, should the account given by the possessor be manifestly false or suspicious, may detain such article and report the facts to a Magistrate, who shall thereon proceed according to sections 523 and 525 of the Code.

@@ -1,0 +1,4 @@
+# Employment of additional police at certain places
+37. (1) When it appears to the Police Commissioner that the behaviour of the persons employed on any public work or in any industrial or commercial concern under construction or in operation at any place necessitates the employment of additional police at such place, he may depute such additional police to such place as he thinks fit and keep such police employed at such place for so long as such necessity continues.
+(2) The Police Commissioner may make order, from time to time, directing the person by whom the work or concern is being constructed or carried on to pay such amount as cost of employment of such additional police as he may specify therein, and such person shall thereupon make the payment accordingly.
+(3) Any person aggrieved by an order of the Police Commissioner under sub-section (2) may appeal to the Government and the decision of the Government on such appeal shall be final.

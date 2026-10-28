@@ -1,0 +1,2 @@
+# Public notices how to be given
+106. Any public notice required to be given under any of the provisions of this Ordinance shall be in writing, shall be signed by the Police Commissioner, and shall be published in the locality to be affected thereby by affixing copies thereof in conspicuous public places, or by proclaiming the same with beat of drums or by advertising the same in such local newspaper as the Police Commissioner may deem fit, or by any two or more of these means and by any other means he may think suitable.

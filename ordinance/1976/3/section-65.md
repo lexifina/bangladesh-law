@@ -1,0 +1,2 @@
+# Penalty for wrong driving and violation of traffic regulations
+65. Whoever, when driving a vehicle along the street, without sufficient reason fails to keep on the left side of such street and when passing any other vehicle proceeding on the same direction fails to keep on the right side of such vehicle or violates any traffic regulation made by the Police Commissioner shall be punishable with fine which may extend to two hundred taka.

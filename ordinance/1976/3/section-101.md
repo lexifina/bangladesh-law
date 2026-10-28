@@ -1,0 +1,3 @@
+# Disposal of certain specified cases
+101. (1) A Court taking cognizance of an offence punishable under section 56, 57, 60, 61, 64, 69, 70, 71, 72, 73, 77, 78, 79, 80, 82, 83, 84, 92, 93, 95 or 96 may state in the summons to be served on the accused person that he may, by a specified date prior to the hearing of the charge, plead guilty to the charge by registered letter and remit to the Court such sum, not exceeding one-fourth of the amount of fine specified for such offence, as the Court may specify.
+(2) Where an accused person pleads guilty and remits the sum specified, no further proceeding in respect of the offence shall be taken against him.

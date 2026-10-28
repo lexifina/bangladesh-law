@@ -1,0 +1,2 @@
+# Penalty for possession of property of which no satisfactory account can be given
+88. Whoever has in his possession, or conveys in any manner, or offers for sale or pawn, anything which there is reason to believe to have been stolen or fraudulently obtained, shall, if he fails to account for such possession, be punishable with imprisonment for a term which may extend to one year, or with fine which may extend to two thousand taka, or with both.
