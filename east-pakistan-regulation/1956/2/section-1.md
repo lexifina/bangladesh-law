@@ -1,0 +1,3 @@
+# Short title and commencement
+1. (1) This Regulation may be called the Chittagong Hill- tracts (Industrial Laws) Regulation, 1956.
+(2) It shall come into force at once.
