@@ -1,0 +1,2 @@
+# Not more than one suit to be brought.Claim for loss to estate may be added
+2. Provided always that not more than one action or suit shall be brought for, and in respect of the same subject-matter of complaint: Provided that, in any such action or suit, the executor, administrator or representative of the deceased may insert a claim for and recover any pecuniary loss to the estate of the deceased occasioned by such wrongful act, neglect or default, which sum, when recovered, shall be deemed part of the assets of the estate of the deceased.

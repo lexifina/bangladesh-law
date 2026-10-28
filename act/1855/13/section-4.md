@@ -1,0 +1,2 @@
+# Interpretation clause
+4. The following words and expressions are intended to have the meanings hereby assigned to them respectively, so far as such meanings are not excluded by the context or by the nature of the subject-matter; that is to say the word "person" shall apply to bodies politic and corporate; and the word "parent" shall include father and mother and grand-father and grand-mother; and the word "child" shall include son and daughter and grand-son and grand-daughter and step-son and step-daughter.
