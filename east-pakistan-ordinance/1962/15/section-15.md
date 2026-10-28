@@ -1,0 +1,3 @@
+# Powers of Branch Societies
+15. Subject to the provisions of this Ordinance and the rules made thereunder, and subject to the regulations of the Society made under section 7, each Branch Society shall have all powers to regulate its own procedure and constitution, to receive gifts and donations, and to expend all monies received by it for its purposes:
+Provided that 10 per cent of cash donations received by any Branch Society for any of the objects set out in section 10 shall be placed at the disposal of the Executive Committee of the Society to be applied by it for the general purposes of the Society.
