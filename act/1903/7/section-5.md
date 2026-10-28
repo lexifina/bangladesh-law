@@ -1,0 +1,2 @@
+# Payment for damage.
+5. The officer so authorized shall at the time of such entry pay or tender payment for all necessary damage to be done as aforesaid, and, in case of dispute as to the sufficiency of the amount so paid or tendered, he shall at once refer the dispute to the decision of the Collector or other chief revenue officer of the district, and such decision shall be final.

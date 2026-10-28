@@ -1,0 +1,3 @@
+# Costs
+27.(1) Every such award shall also state the amount of costs incurred in the proceedings under this Part, and by what persons and in what proportion they are to be paid.
+(2) When the award of the Collector is not upheld, the costs shall ordinarily be paid by the Collector, unless the Court is of opinion that the claim of the applicant was so extravagant or that he was so negligent in putting his case before the Collector that some deduction from his costs should be made or that he should pay a part of the Collector's costs.

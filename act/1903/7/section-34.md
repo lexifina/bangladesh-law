@@ -1,0 +1,2 @@
+# Payment of interest.
+34. When the amount of any compensation awarded under this Act is not paid or deposited within fifteen days of making the award, the Collector shall pay the amount awarded with interest thereon at the rate of six per centum per annum from the date of the award until it is so paid or deposited.
