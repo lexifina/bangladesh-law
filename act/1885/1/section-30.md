@@ -1,0 +1,2 @@
+# Penalty for rash navigation and stacking of timber
+30. Whoever navigates, anchors, moors or fastens any vessel or raft, or stacks any timber, in a manner so rash or negligent as to damage a public ferry, shall be punished with imprisonment for a term which may extend to three months, or with fine which may extend to five hundred Taka, or with both; and the toll-collector or lessee of the tolls of such ferry, or any of his assistants, may seize and detain such vessel, raft or timber pending the inquiry and assessment hereinafter mentioned.

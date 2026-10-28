@@ -1,0 +1,2 @@
+# Power to cancel lease
+13. The lease of the tolls of any public ferry shall be liable to be cancelled at once by the Magistrate of the district in which such ferry is situated, if it shall appear to such Magistrate that the lessee has failed to make due provision for the convenience or safety of the public within fifteen days after being required to do so by a notice in writing from such Magistrate.

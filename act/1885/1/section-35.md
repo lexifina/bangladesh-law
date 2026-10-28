@@ -1,0 +1,2 @@
+# Management may be vested in local authority
+35. It shall be lawful for the Government to order that any public ferry shall be managed by a local authority having jurisdiction over the area or any part of the area in which such ferry is situated; and such local authority shall have all the powers vested in the Magistrate of the district under this Act except the powers specified in sections 7, 17 and 32, and thereupon the ferries shall be managed accordingly.

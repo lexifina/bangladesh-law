@@ -1,0 +1,3 @@
+# Magistrate may assess damage done by offender
+32. Every Magistrate or Bench of Magistrates trying any offence under this Act may inquire into and assess the value of the damage (if any) done or caused by the offender to the ferry concerned, and shall order the amount of such value to be paid by him in addition to any fine imposed upon him under this Act; and the amount so ordered to be paid shall be leviable as if it were a fine, or when the offence is one under section 30 by the sale of the vessel, raft or timber causing the damage, and of anything found in or upon such vessel or raft.
+The Commissioner may, on the appeal of any person deeming himself aggrieved by an order under this section, reduce or remit the amount payable under such order.

@@ -1,0 +1,8 @@
+# Similar power in cases of emergency
+34. When any boats or their equipments, or any materials or appliances suitable for setting up a ferry, are emergently required for facilitating the transport of officers or troops of the [^5][Republic] on duty, or of any other persons on the business of the [^6][Republic] or of any animals, vehicles or baggage belonging to such officers, troops or persons, or of any property of the [^7][Republic], the Magistrate of the district may take possession of and use the same (paying such compensation for the use thereof as the [^8][Government] may [^9][* * *] direct, until such transport is completed.
+
+[^5]: The word “Republic” was substituted, for the word “State” by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).
+[^6]: The word “Republic” was substituted, for the word “State” by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).
+[^7]: The word “Republic” was substituted, for the word “State” by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).
+[^8]: The word “Government” was substituted, for the words and commas “Central Government, where the transport is in connection with the affairs of the Central Government, and the Provincial Government in other cases” by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).
+[^9]: The words “in each case” were omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).

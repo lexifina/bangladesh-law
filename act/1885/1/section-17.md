@@ -1,0 +1,3 @@
+# Claims for compensation and what amount to be awarded
+17. Claims for compensation for any loss sustained by any person in consequent of a private ferry being taken possession of, or a new public ferry, or subsidiary ferry, being established under section 6 or section 11, shall be inquired into by the Magistrate of the district in which such ferry is situated, who shall, with the approval of the Commissioner, award compensation to any person who may appear justly entitled thereto.
+Such compensation shall be calculated upon an estimate of the annual net profit actually realized by such person from such ferry on an average of the five years next preceding such declaration, and shall in no case exceed the amount of fifteen times such net annual profit.
