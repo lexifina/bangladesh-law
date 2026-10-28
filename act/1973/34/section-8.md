@@ -1,0 +1,5 @@
+# Visitation
+8. (1) The Commission shall have the right to cause an inspection to be made by such person or persons, as it may direct, of the University, its buildings, laboratories and equipment, and of any institutions associated with the University, and also of the examinations, teaching and other work conducted or done by the University and to cause an inquiry to be made in like manner in respect of any matter connected with the University.
+(2) The Commission shall in every case give notice to the University of its intention to cause an inspection or inquiry to be made and the University shall be entitled to be represented thereat.
+(3) The Commission shall communicate to the Syndicate its views with reference to the results of any such inspection or inquiry, and shall, after ascertaining the opinion of the Syndicate thereon, advise the University upon the action to be taken in that behalf.
+(4) The Syndicate shall report to the Commission the action, if any, which is proposed to be taken or has been taken upon the results of its inspection or inquiry.

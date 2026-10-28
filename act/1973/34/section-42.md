@@ -1,0 +1,5 @@
+# Admission to University Courses
+42. (1) Admission of students to the University in Honours Courses and Higher Degrees shall be made by an Admission Committee appointed for that purpose by the Academic Council.
+(2) Students shall not be eligible for admission to a course of study for a degree in the University unless they have passed the Intermediate Examination or the Higher Secondary Education, Bangladesh or any other Authority incorporated by any law for the time being in force in Bangladesh or an examination recognised under the Statutes as equivalent thereto, and possess such further qualifications as may be prescribed by the University Ordinances.
+(3) The conditions under which students may be admitted to the diploma courses of the University shall be prescribed by the University Ordinances.
+(4) The University may admit a student from a foreign country to any of the courses of study if the Academic Council is satisfied that his or her qualifications are equivalent to those required for admission to the course.

@@ -1,0 +1,2 @@
+# Academic Council
+24. The Academic Council shall be the principal academic body of the University, and shall, subject to the provisions of this Act, the Statutes and the University Ordinances, have the control and general supervision over, and be responsible for maintenance of standards of, instruction, education and examination within the University, and shall exercise such other powers and perform such other duties as may be conferred or imposed upon it by the Statutes. It shall have the right to advise the Syndicate on all academic matters.
