@@ -1,0 +1,2 @@
+# Issue of Taka 14,84,60,000 out of the Consolidated Fund for the year 1977-78
+2. There may be paid and applied from and out of the Consolidated Fund sums not exceeding those specified in column 3 of the Schedule amounting in the aggregate to the sum of Taka fourteen crores eighty-four lakhs and sixty thousand towards defraying the several charges which will come in course of payment during the financial year ending on the thirtieth day of June, 1978, in respect of Bangladesh Railways for the services and purposes specified in column 2 of the Schedule.
