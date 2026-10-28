@@ -1,0 +1,4 @@
+# Certain decrees to be treated as nullities
+36. Notwithstanding anything contained in any Act, any decree of a Civil Court passed in regard to a debt after the date of an application under section 8 shall be treated as a nullity in so far as-
+(a) it is inconsistent with any order passed by a Board under sub-section (2) of section 13 regarding any debt or with any determination by the Board under section 18 of the principal and the arrears of interest of any debt included in a subsisting award; or
+(b) it relates to a debt the documents in respect of which being in the possession or under the control of the creditor have not been produced before the Board and marked by the Board as required by section 14 unless it is proved to the satisfaction of the Civil Court that there were sufficient reasons for non-production of the documents before the Board.

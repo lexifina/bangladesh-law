@@ -1,0 +1,2 @@
+# Extension of period of limitation
+52. Notwithstanding anything contained in any other Act, when the period of limitation is calculated for any application, suit or appeal regarding a debt which has been the subject of any proceedings under this Act, the time during which such proceedings continued and the time during which person interested in such debt was debarred by any provision of this Act from making or instituting the application, suit or appeal, or executing the decree in question, as the case may be, shall be excluded.

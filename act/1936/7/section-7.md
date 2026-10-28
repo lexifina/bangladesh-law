@@ -1,0 +1,2 @@
+# Government may invest Boards with certain powers
+7. The Government may, by notification, from time to time, empower a Board to exercise all or any of the powers under sub-section (2) or (3) of section 9, sub-section (2) of section 13, clause (b) or clause (c) of sub-section (1) of section 19, section 21, or sub-section (1) of section 22, and unless so empowered a Board shall not exercise any such powers.

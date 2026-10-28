@@ -1,0 +1,3 @@
+# Power of Government to cancel appointment of Chairman and members of, or to dissolve, a Board
+4. The Government may, at any time, for reasons to be recorded in writing, cancel, by notification, the appointment of the Chairman or any other member of a Board or dissolve any Board:
+Provided that if, when a board is dissolved, the Government does not consider the appointment of another Board to be necessary or desirable, it may authorise any Government Servant to exercise such of the powers of the Board in connection with the making of awards as it may specify and the Collector to exercise all or any of the other powers of the Board.
