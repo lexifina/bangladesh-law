@@ -1,0 +1,1 @@
+9. Whoever fails to take any action required of him by this Order or by any rule made or by any directive issued under Article 7 or furnished false information to the person receiving the surrendered Bank notes shall be punishable with rigorous imprisonment which may extend to three years, or with fine of Taka 10,000.00 or with both.

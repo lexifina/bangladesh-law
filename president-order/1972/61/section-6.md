@@ -1,0 +1,1 @@
+6. A person who has surrendered any Bank notes under Article 5 shall be entitled to receive the amount equivalent to the value of the Bank notes so surrendered by him from such bank or agency, to such extent and in such manner as may be prescribed by the Bangladesh Bank with the approval of the Government and notified in the official Gazette.
