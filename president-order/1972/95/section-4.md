@@ -1,0 +1,2 @@
+4. (1) On the commencement of this Order, there shall be established five Corporations to be called the Bangladesh Jatiya Bima Corporation, the Karnaphuli Bima Corporation, the Teesta Bima Corporation, the Surma Jiban Bima Corporation and the Rupsa Jiban Bima Corporation.
+(2) Every Corporation shall be a body corporate having perpetual succession and a common seal with power, subject to the provisions of this Order, to acquire, hold and dispose of property, both movable and immovable, and shall by its name sue and be sued.

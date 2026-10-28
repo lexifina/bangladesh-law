@@ -1,0 +1,7 @@
+21. (1) Where an insurer whose undertaking has been transferred to a subsidiary Corporation under clause (1) of Article 17 has, at any time after the 25th day of March, 1971, or where a Custodian appointed under the Bangladesh Insurance (Emergency Provisions) Order, 1972 (P.O. No. 30 of 1972), in respect of such undertaking has-
+(a) wilfully caused loss or damage to any property appertaining to the undertaking ; or
+(b) misused any such property ; or
+(c) sold or disposed of any such property without consideration or for an inadequate consideration or made any payment to any person without consideration and the sale, disposal or payment was not reasonably necessary for the purpose of the insurance business of the insurer,
+the subsidiary Corporation may lodge a complaint with the Government in respect of such loss, damage, misuse, sale, disposal or payment, against those who were responsible for such loss, damage, misuse, sale, disposal or payment.
+(2) The Government may make such order against the parties complained against as it thinks just having regard to the extent to which those parties were respectively responsible for the loss, damage, misuse, sale, disposal or payment or benefited therefrom.
+(3) Where an application made to the Government under this Article is determined in favour of the subsidiary Corporation, the Government shall take such measures as may be necessary to enforce its order and any amount payable to the Corporation under the order may be recovered as arrear of land revenue.

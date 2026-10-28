@@ -1,0 +1,1 @@
+39. Any dispute between the controlling Corporation and a subsidiary Corporation, or between two subsidiary Corporations, may be referred by any of the Corporations involved in the dispute to the Government whose decision shall be final.

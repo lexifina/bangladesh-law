@@ -1,0 +1,2 @@
+5. (1) The authorised capital of the controlling Corporation shall be ten crore taka to be subscribed by the Government from time to time according to the requirements of the Corporation and in such form and manner as may be prescribed.
+(2) The authorised capital of each subsidiary Corporation shall be two crore taka to be subscribed by the controlling Corporation from time to time according to the requirements of such Corporation and in such form and manner as may be prescribed.

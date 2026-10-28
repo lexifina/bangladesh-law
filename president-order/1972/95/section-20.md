@@ -1,0 +1,4 @@
+20. (1) Where any undertaking has vested in a subsidiary Corporation under clause (1) of Article 17,-
+(a) every person, in whose possession or custody or under whose control any property appertaining to the undertaking may be, shall deliver the property to the subsidiary Corporation forthwith;
+(b) any person who on the commencement of this Order has in his possession or custody or under his control any books, documents or other papers relating to the undertaking shall deliver them to the subsidiary Corporation or to such person as the subsidiary Corporation may direct.
+(2) Without prejudice to the provisions of clause (1), it shall be lawful for a subsidiary Corporation to take all necessary steps for securing possession of all properties which have vested in the subsidiary Corporation under clause (1) of Article 17.

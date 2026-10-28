@@ -1,0 +1,4 @@
+30. (1) After making provision for bad and doubtful debts, depreciation of assets and any other matter determined by the Board, the controlling Corporation of a general subsidiary Corporation may, out of its net annual profits, establish a reserve fund and any surplus remaining thereafter shall be paid-
+(a) in the case of the controlling Corporation, to the Government or, if the Government so directs, be utilised for such purposes and in such manner as the Government may determine;
+(b) in the case of a general subsidiary Corporation, to the controlling Corporation.
+(2) If as a rsult of any investigation undertaken by a life subsidiary Corporation under Article 27 any surplus emerges, ninety-five per cent of such surplus or such higher percentage thereof as the Government may approve shall be allocated to or reserved for the life insurance policy-holders of the Corporation and the remainder shall be paid to the controlling Corporation.

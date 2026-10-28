@@ -1,0 +1,4 @@
+6. (1) Subject to rules made under this Order, the general direction and administration of the affairs and business of every Corporation shall vest in a Board of Directors which may exercise all powers and do all acts and things which may be exercised or done by the Corporation.
+(2) Every Board in discharging its functions shall act on commercial consideration having due regard to public interest generally.
+(3) The Board of the controlling Corporation shall be guided on questions of policy by such general or special instructions as may be given to it by the Government from time to time and, if any question arises as to whether any question is a question of policy or not, the decision of the Government shall be final.
+(4) The Board of a subsidiary Corporation shall be guided by such general or special instructions as may be given to it by the controlling Corporation from time to time.

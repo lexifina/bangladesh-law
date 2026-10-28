@@ -1,0 +1,2 @@
+22. The Government shall give compensation to an insurer for such of his undertaking transferred to a subsidiary Corporation under clause (1) of Article 17 as has not already vested in the Government by or under any law, and such compensation shall be determined and distributed among the shareholders of the insurer in such manner as may be prescribed:
+Provided that the total compensation payable to an insurer under this Article shall not exceed the total paid up value of the shares held by the shareholders among whom such compensation is to be distributed.

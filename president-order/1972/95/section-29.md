@@ -1,0 +1,2 @@
+29. Every subsidiary Corporation shall pay, each year to the controlling Corporation such sum as may be required by the controlling Corporation for the performance of its functions under this Order:
+Provided that such sum shall not exceed one per cent of the gross premium received by a general subsidiary Corporation and three per cent of the gross premium received by a life subsidiary Corporation.

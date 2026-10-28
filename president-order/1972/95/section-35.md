@@ -1,0 +1,1 @@
+35. An insurer, being a company the undertaking of which has vested in a subsidiary Corporation under clause (1) of Article 17, shall stand dissolved in Bangladesh on such date as the Government may, by notification in the official Gazette, appoint.

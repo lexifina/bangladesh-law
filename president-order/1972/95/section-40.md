@@ -1,0 +1,1 @@
+40. The Government may, by general or special order in writing, direct that any power which by or under any of the provisions of this Order is conferred on it shall, subject to such conditions, if any, as may be specified in the Order, be exercisable also by the controlling Corporation.

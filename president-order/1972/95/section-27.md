@@ -1,0 +1,1 @@
+27. Each life subsidiary Corporation shall, once at least in every two years, cause an investigation to be made by actuaries into the financial condition of' its business, including a valuation of its liabilities in respect thereto, and submit the report of the actuaries to the controlling Corporation and also to the Government.

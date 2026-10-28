@@ -1,0 +1,1 @@
+38. No suit, prosecution or other legal proceeding shall lie against any Director, officer or employee of a Corporation for anything which is in good faith done or intended to be done under this Order.
