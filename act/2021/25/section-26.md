@@ -1,0 +1,5 @@
+# O.No.7 of 1973 এর Article 35 এর সংশোধন
+২৬। উক্ত Order এর Article 35 এর clause (1), (2) এবং (3) এর পরিবর্তে নিম্নরূপ clause (1), (2) এবং (3) প্রতিস্থাপিত হইবে, যথা :-
+“35(1) Whoever willfully makes a false statement or intentionally uses any false statement for the purpose of obtaining a loan from the Corporation or of inducing the Corporation to accept security of any form or kind shall be punishable with imprisonment for a term which may extend to five years or fine which may extend to five lakh taka or with both.
+(2) Whoever without the consent in writing of the Corporation uses the name of the Corporation in any prospectus or advertisement shall be punishable with imprisonment for a term which may extend to six month or with fine which may extend to fifty thousand taka or with both.
+(3) Whoever being a director or employee of the Corporation contravenes his declaration of fidelity and secrecy, shall be punishable with imprisonment for a term not exceeding one year or with fine which may extend to taka one lakh or with both.”।
