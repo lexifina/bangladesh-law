@@ -1,0 +1,3 @@
+# Powers of court in appeal and revision
+8. Where an appeal or application for revision is made against conviction of an offence for which an order is made under section 4 or section 5 discharging the offender absolutely or conditionally or placing him on probation the appellate court or the court sitting in revision may pass such order as it could have passed under the Code, or may set aside or amend the order made under section 4 or section 5 and in lieu thereof pass sentence authorised by law:
+Provided that the appellate court or the court sitting in revision shall not impose a greater punishment than the punishment which might have been imposed by the court by which the offender was convicted.
