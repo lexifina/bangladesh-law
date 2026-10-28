@@ -1,0 +1,2 @@
+# Enhancement of land revenue or rent resulting from rounding off : its effect on other laws
+5. Notwithstanding anything contained in any other law for the time being in force, where the rounding off under section 4 results in an enhancement of land revenue or rent, such enhancement shall not be deemed to be an enhancement within the meaning of any law under which an enhancement of rent confers any privilege or imposes any liability on, or gives any protection to, the person liable to pay such land revenue or rent or any other person claiming through him.
