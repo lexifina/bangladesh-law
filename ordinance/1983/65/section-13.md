@@ -1,0 +1,7 @@
+# Transfer of assets, etc., of the Santosh Islamic University to the Board
+13. (1) Notwithstanding anything contained in any other law for the time being in force, or in any agreement, deed or other instrument, upon the constitution of the Board,-
+(a) the Santosh Islamic University Project Implementation Committee and the Local Project Committee of the Santosh Islamic University, hereinafter referred to as the said Committees, shall stand dissolved;
+(b) all assets, rights, powers, authorities and privileges and all properties, moveable and immoveable, cash and bank balances, funds, investments and all other rights and interests in, or arising out of, such properties of the said Committees and also of the Santosh Islamic University shall stand transferred to and vest in the Board;
+(c) all debts, liabilities and obligations of the said Committees and also of the Santosh Islamic University shall stand transferred to the Board;
+(d) all suits, prosecutions and other legal proceedings instituted by or against the said Committees or the Santosh Islamic University before such constitution shall be deemed to be suits, prosecutions or proceedings by or against the Board and shall be proceeded or otherwise dealt with accordingly.
+(2) The Government may, for the purpose of removing any difficulty in relation to the transfer and other matters specified in sub-section (1), make such orders as it considers expedient, and any such order shall be deemed to be, and given effect to as, part of the provisions of this Ordinance.
