@@ -1,0 +1,2 @@
+# Power of Court to refer questions to prescribed authorities
+12. If any Court is in doubt whether, for the purposes of section 10 or section 11, a soldier is or was at any particular time serving under special conditions, or has died while so serving or as to the date of such death or as to the date on which official intimation of such death was sent to his next-of-kin by the authorities in Bangladesh, the Court may refer the point for the decision of the prescribed authority, and the certificate of that authority shall be conclusive evidence on the point.
