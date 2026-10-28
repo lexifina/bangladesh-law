@@ -1,0 +1,4 @@
+# Act No. XVIII of 1950 এর section 2 এর সংশোধন
+২। Protection and Conservation of Fish Act, 1950 (Act No. XVIII of 1950), অতঃপর উক্ত Act বলিয়া উল্লিখিত, এর section 2 এর clause (6) এর প্রান্তস্থিত “.” full stop এর পরিবর্তে “;” semicolon প্রতিস্থাপিত হইবে, এবং অতঃপর নিম্নরূপ নূতন clause (7) ও clause (8) সংযোজিত হইবে, যথা:-
+“(7) “Fish Sanctuary” means any area within or a whole water body declared by the Government in the Official Gazette where fish and other aquatic life are protected, allowing them to breed, thrive and move freely in a safe and suitable environment;
+(8) “Water body” means any river or stream, estuary, canal, beel, haor, baor, lake, spring, or any similar nature or water-holding area, including dighi, pond, ditch, enclosure (gher), pit land, water-rich area, floodplain, borrow pit, and wetland either perennial or seasonally inundated or submerged.”।
