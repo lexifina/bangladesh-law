@@ -1,0 +1,2 @@
+# Levy of price equalisation surcharge
+3. There shall be levied on the specified goods imported in any shipping period into Bangladesh after the 22nd day of April, 1966, or, if the Government, in respect of any specified goods by order so directs, after such later date as may be specified therein, whose rate of landed cost is lower than the highest rate, an additional duty as price equalisation surcharge at the rate by which the rate of the landed cost of such goods falls short of the highest rate.
