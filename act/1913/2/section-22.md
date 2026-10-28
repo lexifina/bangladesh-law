@@ -1,0 +1,2 @@
+# Right of beneficiary to inspection and copies of accounts
+22. Every beneficiary under a trust which is being administered by the Official Trustee shall, subject to such conditions and restrictions as may be prescribed, be entitled, at all reasonable times, to inspect the accounts of such trust, and the report and certificate of the auditor and, on payment of the prescribed fees, to be furnished with copies thereof or extracts therefrom, and nothing in the Trusts Act, 1882, shall affect the provisions of this section.
