@@ -1,0 +1,10 @@
+{
+  "path": "bd",
+  "code": "BD",
+  "name": "Bangladesh",
+  "level": "country",
+  "repo": "https://github.com/lexifina/bangladesh-law",
+  "build": "gazette",
+  "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
+  "register_date": "2026-10-28"
+}
