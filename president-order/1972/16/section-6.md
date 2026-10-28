@@ -1,0 +1,1 @@
+6. No person shall, except in accordance with the provisions of this Order or any rules made thereunder, transfer any abandoned property in any manner or create any charge or encumbrance on such property, and any transfer made or charge or encumbrance created in contravention of this Order shall be null and void.

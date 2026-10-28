@@ -1,0 +1,2 @@
+17. (1) Any person who has been in unauthorised possession of any abandoned property shall be liable to pay such compensation for such unauthorised possession as may be assessed by such authority and in such manner as may be prescribed.
+(2) Any person who has caused damage to or disposed of the whole or a part of any abandoned property shall be liable to pay such compensation as may be assessed by such authority and in such manner as may be prescribed.

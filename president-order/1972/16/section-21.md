@@ -1,0 +1,1 @@
+21. No provision of law relating to the winding up of companies or banks or business or dissolution of firms shall apply to any company, bank, business or firm vested in the Government as abandoned property under this Order, and such company, bank, business or firm shall not be wound up or dissolved save by order of the Government and in such manner as it may direct.

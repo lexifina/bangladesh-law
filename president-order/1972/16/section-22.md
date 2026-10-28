@@ -1,0 +1,1 @@
+22. The Government may, by order published in the official Gazette, direct that any power or duty which is conferred or imposed by this Order upon the Government shall, in such circumstances and under such conditions, if any, as may be specified in the direction, be exercised or discharged by any officer or authority subordinate to it.

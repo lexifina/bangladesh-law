@@ -1,0 +1,1 @@
+19. Without prejudice to the provisions of Article 17, any person who wilfully causes damage to, or disposes of the whole or a part of, any abandoned property or allows damage to be caused to, or disposal of the whole or a part of, any abandoned property shall be punishable with imprisonment for a term which may extend to five years, or with fine, or with both.

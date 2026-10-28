@@ -1,0 +1,1 @@
+9. When any property is vested in the Government under this Order, only such liabilities in respect of such property shall be deemed to be the liabilities in respect of the property as may be determined by such authority and in such manner as may be prescribed.

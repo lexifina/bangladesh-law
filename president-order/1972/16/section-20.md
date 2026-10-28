@@ -1,0 +1,1 @@
+20. Any person who fails to surrender any abandoned property as required under clause (2) or clause (3) of Article 7 or Article 10 shall be punishable with imprisonment for a term which may extend to five years, or with fine, or with both.

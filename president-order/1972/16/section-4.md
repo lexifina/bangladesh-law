@@ -1,0 +1,1 @@
+4. On the commencement of this Order, all abandoned properties in Bangladesh shall vest in the Government and shall be administered, controlled, managed and disposed of, by transfer or otherwise, in accordance with the provisions of this Order.
