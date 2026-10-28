@@ -1,0 +1,3 @@
+# Appointment and jurisdiction of Special Judges
+5. (1) For the trial of offences punishable under section 3, the Government may appoint as Special Judges, having jurisdiction throughout Bangladesh, any persons who have acted for a period of not less than two years in the exercise of the powers of a Sessions Judge or an Assistant Sessions Judge under the Code of Criminal Procedure, 1898.
+(2) A Special Judge shall try any offence punishable under section 3 which the Government by general or special order in writing directs to be tried by him, and may hold his sittings for the trial of any case in any place fixed by the Government.
