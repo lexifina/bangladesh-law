@@ -1,0 +1,3 @@
+# Application of the provisions of this Ordinance to culturable waste land
+3. The Deputy Commissioner may declare that the provisions of this Ordinance shall apply to any culturable waste land and on and from the day of making such declaration the possession of such culturable waste land shall vest in the Deputy Commissioner for a period not exceeding one year, and where the culturable waste land would, in the opinion of the Deputy Commissioner, require substantial reclamation, for a period not exceeding ten years, from the date of such declaration:
+Provided that no such subsequent declaration for any year shall be made more than three months in advance or for a period of more than one year.

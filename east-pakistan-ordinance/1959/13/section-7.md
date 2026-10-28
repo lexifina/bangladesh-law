@@ -1,0 +1,6 @@
+# Possession of culturable waste land
+7. (1) Where the owner wishes to cultivate himself the culturable waste land, in respect of which a declaration has been made under section 3, after the expiry of the period for which the possession has vested in the Deputy Commissioner, he may, not later than three months before the expiry of the period, serve a notice on the Deputy Commissioner to that effect accompanied by security deposit of [^5][Tk] 50 per acre and in such case such land shall be released by the Deputy Commissioner at the end of the above mentioned period and the possession thereof shall vest back in the owner.
+(2) Where the owner of the culturable waste land, of which possession has vested back in such owner under sub-section (1), fails to cultivate such land and raise any crop therein after possession thereof has so vested back, such culturable waste land together with the security deposit under sub-section (1) shall be forfeited to the [^6][Government].
+
+[^5]: The word “Tk” was substituted for the word “Rs” by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+[^6]: The word “Government” was substituted for the words “Provincial Government” by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
