@@ -1,0 +1,4 @@
+# Establishment and continuance of agency
+5. (1) An agency not in existence on the coming into force of this Ordinance shall be established only after a certificate of registration has been issued under sub-section (3) of section 4.
+(2) An agency already in existence shall not be continued for more than six months from the date on which this Ordinance comes into force, unless an application for its registration has, within thirty days of such date, been made under sub-section (1) of section 4.
+(3) Where an application as aforesaid has been made in respect of an existing agency, and such application is rejected, then, notwithstanding the period of six months provided in sub-section (2), the agency may be continued for a period of thirty days from the date on which the application is rejected, or if an appeal is preferred under section 6, until such appeal is dismissed.
