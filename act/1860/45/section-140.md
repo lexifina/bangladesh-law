@@ -1,0 +1,2 @@
+# Wearing garb or carrying token used by soldier, sailor or airman
+140. Whoever, not being a soldier, sailor or airman in the Military, Naval or Air service of Bangladesh, wears any garb or carries any token resembling any garb or token used by such a soldier, sailor or airman with the intention that it may be believed that he is such a soldier, sailor or airman, shall be punished with imprisonment of either description for a term which may extend to three months, or with fine which may extend to five hundred taka or with both.

@@ -1,0 +1,3 @@
+# Giving false information respecting an offence committed
+203. Whoever, knowing or having reason to believe that an offence has been committed, gives any information respecting that offence which he knows or believes to be false, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.
+Explanation.-In sections 201 and 202 and in this section the word "offence" includes any act committed at any place out of Bangladesh, which, if committed in Bangladesh, would be punishable under any of the following sections, namely, 302, 304, 382, 392, 393, 394, 395, 396, 397, 398, 399, 402, 435, 436, 449, 450, 457, 458, 459 and 460.

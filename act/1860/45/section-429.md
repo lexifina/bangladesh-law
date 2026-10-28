@@ -1,0 +1,2 @@
+# Mischief by killing or maiming cattle, etc., of any value or any animal of the value of fifty taka
+429. Whoever commits mischief by killing, poisoning, maiming or rendering useless, any elephant, camel, horse, mule, buffalo, bull, cow or ox, whatever may be the value thereof, or any other animal of the value of fifty taka or upwards, shall be punished with imprisonment of either description for a term which may extend to five years, or with fine, or with both.

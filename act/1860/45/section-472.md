@@ -1,0 +1,4 @@
+# Making or possessing counterfeit seal, etc., with intent to commit forgery punishable under section 467
+472. Whoever makes or counterfeits any seal, plate or other instrument for making an impression, intending that the same shall be used for the purpose of committing any forgery which would be punishable under section 467 of this Code, or, with such intent, has in his possession any such seal, plate or other instrument, knowing the same to be counterfeit, shall be punishable with [^144][imprisonment] for life, or with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.
+
+[^144]: The word “imprisonment” was substituted, for the word “transportation” by section 21 of the Penal Code (Amendment) Ordinance, 1985 (Ordinance No. XLI of 1985).

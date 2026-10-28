@@ -1,0 +1,6 @@
+# Rash driving or riding on a public way
+279. Whoever drives any vehicle, or rides, on any public way in a manner so rash or negligent as to endanger human life, or to be likely to cause hurt or injury to any other person, shall be punished with imprisonment of either description for a term which may extend to [^89][three years, or with fine which may, subject to the minimum of one thousand taka, extend to five thousand taka] or with both.
+[^90][Explanation. Any person driving any vehicle, or riding, on any public way, in a speed which exceeds the limit prescribed in this behalf by or under any law for the time being in force shall, for the purpose of this section, be deemed to have driven so rashly or negligently as to endanger human life, or cause hurt or injury to any other person.]
+
+[^89]: The words and commas “three years, or with fine which may, subject to the minimum of one thousand taka, extend to five thousand taka” were substituted, for the words “six month, or with fine which may extend to one thousand taka” by section 3 of the Penal Code (Amendment) Ordinance, 1982 (Ordinance No. X of 1982)
+[^90]: The explanation was added by section 3 of the Penal Code (Amendment) Ordinance, 1982 (Ordinance No. X of 1982)

@@ -1,0 +1,5 @@
+# Extortion by threat of accusation of an offence punishable with death or imprisonment, etc.
+388. Whoever commits extortion by putting any person in fear of an accusation against that person or any other, of having committed or attempted to commit any offence punishable with death, or with [^127][imprisonment for life], or with imprisonment for a term which may extend to ten years, or of having attempted to induce any other person to commit such offence, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine; and, if the offence be one punishable under section 377 of this Code, may be punished with [^128][imprisonment for life.]
+
+[^127]: The words “imprisonment for life” were substituted, for the words “transportation for life” by section 20 of the Penal Code (Amendment) Ordinance, 1985 (Ordinance No. XLI of 1985)
+[^128]: The words “imprisonment for life” were substituted, for the words “transportation for life” by section 20 of the Penal Code (Amendment) Ordinance, 1985 (Ordinance No. XLI of 1985)

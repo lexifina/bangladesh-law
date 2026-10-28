@@ -1,0 +1,2 @@
+# Adultery
+497. Whoever has sexual intercourse with a person who is and whom he knows or has reason to believe to be the wife of anather man, without the consent or connivance of that man, such sexual intercourse not amounting to the offence of rape, is guilty of the offence of adultery, and shall be punished with imprisonment of either description for a term which may extend to five years, or with fine, or with both. In such case the wife shall not be punished as an abettor.

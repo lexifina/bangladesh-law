@@ -1,0 +1,2 @@
+# Punishment for lurking house-trespass or house-breaking by night
+456. Whoever commits lurking house-trespass by night, or house-breaking by night, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine.

@@ -1,0 +1,2 @@
+# Mischief by injury to public road, bridge, river or channel
+431. Whoever commits mischief by doing any act which renders or which he knows to be likely to render any public road, bridge, navigable river or navigable channel, natural or artificial, impassable or less safe for traveling or conveying property, shall be punished with imprisonment of either description for a term which may extend to five years, or with fine, or with both.

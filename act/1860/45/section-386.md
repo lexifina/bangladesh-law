@@ -1,0 +1,2 @@
+# Extortion by putting a person in fear of death or grievous hurt
+386. Whoever commits extortion by putting any person in fear of death or of grievous hurt to that person or to any other, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.

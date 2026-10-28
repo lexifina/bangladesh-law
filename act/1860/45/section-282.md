@@ -1,0 +1,2 @@
+# Conveying person by water for hire in unsafe or over-loaded vessel
+282. Whoever knowingly or negligently conveys, or causes to be conveyed for, hire, any person by water in any vessel, when that vessel is in such a state or so loaded as to endanger the life of that person, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to one thousand taka, or with both.

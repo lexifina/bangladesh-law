@@ -1,0 +1,3 @@
+### Of the Receiving of Stolen Property
+# Stolen property
+410. Property, the possession whereof has been transferred by theft, or by extortion, or by robbery, and property which has been criminally misappropriated or in respect of which criminal breach of trust has been committed, is designated as "stolen property," whether the transfer has been made, or the misappropriation or breach of trust has been committed, within or without Bangladesh. But, if such property subsequently comes into the possession of a person legally entitled to the possession thereof, it then ceases to be stolen property.

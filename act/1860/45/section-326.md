@@ -1,0 +1,4 @@
+# Voluntarily causing grievous hurt by dangerous weapons or means
+326. Whoever, except in the case provided for by section 335, voluntarily causes grievous hurt by means of any instrument for shooting, stabbing or cutting, or any instrument which, used as a weapon of offence, is likely to cause death, or by means of fire or any heated substance, or by means of any poison or any corrosive substance, or by means of any explosive substance, or by means of any substance which it is deleterious to the human body to inhale, to swallow, or to receive into the blood, or by means of any animal, shall be punished with [^107][imprisonment] for life or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.
+
+[^107]: The word “imprisonment” was substituted, for the word “transportation” by section 19 of the Penal Code (Amendment) Ordinance, 1985 (Ordinance No. XLI of 1985)

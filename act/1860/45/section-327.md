@@ -1,0 +1,2 @@
+# Voluntarily causing hurt to extort property or to constrain to an illegal act
+327. Whoever voluntarily causes hurt, for the purpose of extorting from the sufferer, or from any person interested in the sufferer, any property or valuable security, or of constraining the sufferer, or any person interested in such sufferer to do anything which is illegal or which may facilitate the commission of an offence, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.

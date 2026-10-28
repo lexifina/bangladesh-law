@@ -1,0 +1,4 @@
+# Fraudulent cancellation, destruction, etc., of will, authority to adopt, or valuable security
+477. Whoever fraudulently or dishonestly, or with intent to cause damage or injury to the public or to any person, cancels, destroys or defaces, or attempts to cancel, destroy or deface, or secrets or attempts to secret any document which is or purports to be a will, or an authority to adopt a son, or any valuable security, or commits mischief in respect to such document, shall be punished with [^146][imprisonment] for life, or with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.
+
+[^146]: The word “imprisonment” was substituted, for the word “transportation” by the Penal Code (Amendment) Ordinance, 1985 (Ordinance No. XLI of 1985)section 21.

@@ -1,0 +1,4 @@
+# Having possession of document described in section 466 or 467, knowing it to be forged and intending to use it as genuine
+474. Whoever has in his possession any document, knowing the same to be forged, and intending that the same shall fraudulently or dishonestly be used as genuine, shall, if the document is one of the description mentioned in section 466 of this Code, be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine; and if the document is one of the description mentioned in section 467, shall be punished with [^145][imprisonment] for life, or with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.
+
+[^145]: The word “imprisonment” was substituted, for the word “transportation” by the Penal Code (Amendment) Ordinance, 1985 (Ordinance No. XLI of 1985)section 21 .

@@ -1,0 +1,7 @@
+# Intentional omission to apprehend on the part of public servant bound to apprehend
+221. Whoever, being a public servant, legally bound as such public servant to apprehend or to keep in confinement any person charged with or liable to be apprehended for an offence, intentionally omits to apprehend such person, or intentionally suffers such person to escape, or intentionally aids such person in escaping or attempting to escape from such confinement, shall be punished as follows, that is to say:
+with imprisonment of either description for a term which may extend to seven years, with or without fine, if the person in confinement, or who ought to have been apprehended, was charged with, or liable to be apprehended for, an offence punishable with death; or
+with imprisonment of either description for a term which may extend to three years, with or without fine, if the person in confinement, or who ought to have been apprehended, was charged with, or liable to be apprehended for, an offence punishable with [^75][imprisonment] for life or imprisonment for a term which may extend to ten years; or
+with imprisonment of either description for a term which may extend to two years, with or without fine, if the person in confinement, or who ought to have been apprehended, was charged with, or liable to be apprehended for, an offence punishable with imprisonment for a term less than ten years.
+
+[^75]: The word “imprisonment” was substituted, for the word “transportation” by section 16 of the Penal Code (Amendment) Ordinance, 1985 (Ordinance No. XLI of 1985)

@@ -1,0 +1,2 @@
+# Refusing to answer public servant authorized to question
+179. Whoever, being legally bound to state the truth on any subject to any public servant, refuses to answer any question demanded of him touching that subject by such public servant in the exercise of the legal powers of such public servant, shall be punished with simple imprisonment for a term which may extend to six months, or with fine which may extend to one thousand taka, or with both.

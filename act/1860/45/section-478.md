@@ -1,0 +1,3 @@
+### Of Trade, Property and Other Marks
+# Trade mark
+478. A mark used for denoting that goods are the manufacture or merchandise of a particular person is called a trade mark, and for the purposes of this Code the expression "trade mark" includes any trade mark which is registered in the register of trade marks kept under the Patents, Designs and Trade Marks Act, 1883, and any trade mark which, either with or without registration, is protected by law in any British possession or Foreign State to which the provisions of the one hundred and third section of the Patents, Designs and Trade Marks Act, 1883, are, under Order-in-Council, for the time being applicable.

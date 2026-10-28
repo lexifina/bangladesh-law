@@ -1,0 +1,2 @@
+# When such right extends to causing any harm other than death
+104. If the offence, the committing of which, or the attempting to commit which, occasions the exercise of the right of private defence, be theft, mischief, or criminal trespass, not of any of the descriptions enumerated in the last preceding section, that right does not extend to the voluntary causing of death, but does extend, subject to the restrictions mentioned in section 99, to the voluntary causing to the wrong-doer of any harm other than death.

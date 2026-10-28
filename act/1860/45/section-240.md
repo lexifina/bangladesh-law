@@ -1,0 +1,2 @@
+# Delivery of Bangladesh coin, possessed with knowledge that it is counterfeit
+240. Whoever, having any counterfeit coin, which is a counterfeit of Bangladesh coin, and which, at the time when he became possessed of it, he knew to be a counterfeit of Bangladesh coin, fraudulently or with intent that fraud may be committed, delivers the same to any person, or attempts to induce any person to receive it, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.

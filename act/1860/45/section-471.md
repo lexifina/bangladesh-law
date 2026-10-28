@@ -1,0 +1,2 @@
+# Using as genuine a forged document
+471. Whoever fraudulently or dishonestly uses as genuine any document which he knows or has reason to believe to be a forged document, shall be punished in the same manner as if he had forged such document.

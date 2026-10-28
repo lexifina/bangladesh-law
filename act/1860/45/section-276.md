@@ -1,0 +1,2 @@
+# Sale of drug as a different drug or preparation
+276. Whoever knowingly sells, or offers or exposes for sale, or issues from a dispensary for medicinal purposes, any drug or medicinal preparation, as a different drug or medical preparation, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to one thousand taka, or with both.

@@ -1,0 +1,2 @@
+# Mischief by killing or maiming animal of the value of ten taka
+428. Whoever commits mischief by killing, poisoning, maiming or rendering useless any animal or animals of the value of ten taka or upwards, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.

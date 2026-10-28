@@ -1,0 +1,2 @@
+# Intentional insult or interruption to public servant sitting in judicial proceeding
+228. Whoever intentionally offers any insult, or causes any interruption to any public servant, while such public servant is sitting in any stage of a judicial proceeding, shall be punished with simple imprisonment for a term which may extend to six months, or with fine which may extend to one thousand taka, or with both.

@@ -1,0 +1,2 @@
+# Possession of Bangladesh coin by person who knew it to be counterfeit when he became possessed thereof
+243. Whoever, fraudulently or with intent that fraud may be committed, is in possession of counterfeit coin, which is a counterfeit of Bangladesh coin, having known at the time when he became possessed of it that it was counterfeit, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.

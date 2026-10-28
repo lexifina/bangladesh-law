@@ -1,0 +1,2 @@
+# Mischief by fire or explosive substance with intent to cause damage to amount of one hundred or (in case of agricultural produce) ten taka
+435. Whoever commits mischief by fire or any explosive substance, intending to cause, or knowing it to be likely that he will thereby cause, damage to any property to the amount of one hundred taka or upwards or (where the property is agricultural produce) ten taka or upwards, shall be punished with imprisonment of either description for a term which may extend to seven years and shall also be liable to fine.

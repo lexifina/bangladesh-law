@@ -1,0 +1,4 @@
+# Effect caused partly by act and partly by omission
+36. Wherever the causing of a certain effect, or an attempt to cause that effect, by an act or by an omission, is an offence, it is to be understood that the causing of that effect partly by an act and partly by an omission is the same offence.
+Illustration
+A intentionally causes Z's death, partly by illegally omitting to give Z food, and partly by beating Z. A has committed murder.
