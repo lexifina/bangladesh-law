@@ -1,0 +1,3 @@
+# Continuance of proceedings of Courts ceasing to have jurisdiction
+17. (1) Where any Civil Court under this Act has from any cause ceased to have jurisdiction with respect to any case, any proceedings in relation to that case which, if that Court had not ceased to have jurisdiction, might have been had therein may be had in the Court to which the business of the former Court has been transferred.
+(2) Nothing in this section applies to cases for which provision is made in sections 36, 37 and 114 of, and rule 1 of Order XLVII in Schedule I to the Code of Civil Procedure, 1908, or in any other enactment for the time being in force.

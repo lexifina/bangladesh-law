@@ -1,0 +1,2 @@
+# Subordination of Courts to District Court
+39. For the purposes of the last foregoing section the presiding officer of a Court subject to the administrative control of the District Judge shall be deemed to be immediately subordinate to the Court of the District Judge, and, for the purposes of the Code of Civil Procedure 1908, the Court of such an officer shall be deemed to be of a grade inferior to that of the Court of the District Judge.
