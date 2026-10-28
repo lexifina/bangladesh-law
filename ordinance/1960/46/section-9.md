@@ -1,0 +1,2 @@
+# Cognizance of offence
+9. No Court inferior to that of a Magistrate of the First Class shall take cognizance of any offence punishable under this Ordinance, and cognizance shall not be so taken save on a complaint made in writing by or under the authority of the Government.

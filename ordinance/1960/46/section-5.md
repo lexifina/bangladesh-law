@@ -1,0 +1,2 @@
+# Power to call for documents, etc.
+5. The Government may, in order to ensure proper compliance with the provisions of this Ordinance, call for any information, including any book, account, record or other document, from any such corporation, institution or undertaking as is referred to in section 3, or from any such director as is referred to in section 4.
