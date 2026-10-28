@@ -1,0 +1,1 @@
+3. In case of doubt as to whether a person is qualified to be deemed to be a citizen of Bangladesh under Article 2 of this Order, the question shall be decided by the Government, which decision shall be final.
