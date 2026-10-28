@@ -1,0 +1,2 @@
+# Indemnity
+11. No suit, prosecution or other legal proceedings shall lie in any Court against the Board or against any employee of the Board in respect of anything done or intended to be done, in good faith, under this Ordinance or rules made thereunder, or in respect of any alleged neglect or omission to perform any duty devolving upon the Board under this Ordinance, or in respect of the exercise of, or failure to exercise, any power conferred on it by this Ordinance.

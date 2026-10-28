@@ -1,0 +1,4 @@
+# Grounds of recovery of possession
+10. Where the Board is satisfied, after making such enquiry as it thinks fit and proper, that a lessee has wilfully defaulted in payment of rent or premium, as the case may be, or that a lessee has committed an act of breach of contract, the Board may terminate the lease, after giving the lessee an opportunity of being heard, and may, by order in writing, direct such lessee to vacate the land, building or part of a building in his occupation within such period as may be specified in the order and in case he fails to vacate, provisions of the [^22][* * *] Government Lands and Buildings (Recovery of Possession) Act, 1952 (East Bengal Act X of 1952) shall mutatis mutandis apply.
+
+[^22]: The words “East Bengal” were omitted by section 10 of the Eastern Railway Servants Benevolent Fund (Amendment) Act, 1991 (Act No. IV of 1991)
