@@ -1,0 +1,3 @@
+# Provisions of the Schedule to have the force of law
+2. (1) Notwithstanding anything to the contrary contained in any other law for the time being in force, the provisions set out in the Schedule to this Act, of the Convention on Declaration of Death of Missing Persons, adopted by the United Nations Conference on the Declaration of Death of Missing Persons, on the 6th Day of April, 1950, shall have the force of law in Bangladesh.
+(2) The Government may by notification in the official Gazette amend the said Schedule in conformity with any amendments duly made in the provisions of the said Convention.
