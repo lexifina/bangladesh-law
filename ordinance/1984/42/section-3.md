@@ -1,0 +1,3 @@
+# Amendment of Act II of 1899
+3. In the Stamp Act, 1899 (II of 1899), in section 28, after sub-section (2), the following new sub-section (2A) shall be inserted, namely:-
+“(2A) Notwithstanding anything contained in sub-sections (1) and (2), where any property mentioned in any of these sub-sections is conveyed to the same person in parts by separate instruments executed within twelve months, the conveyance of the last part shall be chargeable with such amount of duty as would make up the ad valorem duty with which the conveyance for the whole property would be chargeable had it been conveyed by one instrument.”.
