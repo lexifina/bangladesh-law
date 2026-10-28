@@ -1,0 +1,2 @@
+# Saving of existing modes of appointment and conveyance
+5. Nothing herein contained shall be deemed to invalidate any appointment of new trustees, or any conveyance of any property, which may hereafter be made as heretofore was by law required.
