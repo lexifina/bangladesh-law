@@ -1,0 +1,2 @@
+# Power to limit interest recoverable in certain cases
+4. Notwithstanding anything in any other Act, where in any suit in respect of any money lent by a money-lender before the commencement of this Act it is found that the arrears of interest amount to a sum greater than the principal of the loan, the Court, unless it is satisfied that the money lender had reasonable grounds for not enforcing his claim earlier, shall limit the amount of such interest recoverable in the suit to an amount equal to the principal of the loan.

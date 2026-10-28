@@ -1,0 +1,2 @@
+# Failure to supply particulars under section 7
+8. If a money-lender to whom a demand has been made in accordance with the provisions of sub-section (1) of section 7 fails without reasonable excuse to comply therewith within a month from the date of the service of the demand, interest shall not be chargeable in respect of the loan concerning which the demand was made for so long as the default continues.

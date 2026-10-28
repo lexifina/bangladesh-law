@@ -1,0 +1,4 @@
+# Money-lender to supply debtor with particulars of loan
+7.(1) Every money-lender, on demand made in the prescribed form by a debtor by registered post, shall supply such debtor with such particulars as may be prescribed concerning any loan made by him to the debtor on account of which any sum is due from the debtor.
+(2) A money-lender who sends by registered post to the debtor at the address mentioned in the form of demand the particulars referred to in sub-section (1) shall be presumed to have complied with the demand made under that sub-section.
+(3) Where a money-lender has complied with a demand made by a debtor under sub-section (1) the debtor shall not be entitled to make a further demand under the said sub-section in respect of the same loan within a period of six months from the date of such compliance.
