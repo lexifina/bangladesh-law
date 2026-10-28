@@ -1,0 +1,2 @@
+# Registration of Unani and Ayurvedic practitioners in Category B
+24. Any person who passes a written and practical examination to be held annually by the examining body to be appointed under sub section (3) of section 21 in the subjects containing basic principles of medicine, materia medica, medicine and practical diagnosis of the Unani or, as the case may be, Ayurvedic system of medicine may apply under section 22 for registration in category B of the Unani or, as the case may be, Ayurvedic register.

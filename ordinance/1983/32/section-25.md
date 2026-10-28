@@ -1,0 +1,3 @@
+# Removal from register, etc.
+25. The Board may direct that the name of a practitioner who has been convicted of a cognizable offence or who after due enquiry has been found guilty of misconduct shall be removed from the register, if the offence or misconduct in the opinion of the Board discloses moral turpitude such as to render him unfit to practise his profession:
+Provided that no action shall be taken by the Board under this section unless the person convicted of the cognizable offence or found guilty of misconduct has been given a reasonable opportunity to show cause against the punishment proposed to be inflicted on him.

@@ -1,0 +1,2 @@
+# Death of registered practitioners
+39. Every person-in-charge of registration of deaths shall, on receiving notice of the death of a registered practitioner, forthwith transmit by post to the Registrar a certificate under his own hand of such death with the particulars of time and place of death and may charge from the Registrar the cost of such certificate and transmission as an expense of his office.
