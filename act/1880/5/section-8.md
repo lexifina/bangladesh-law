@@ -1,0 +1,3 @@
+# No fee to be charged for vaccination at a public vaccine-station, or for certificates
+8. No fee or remuneration shall be charged by any Inspector to the parent or guardian of any child for any such certificate as aforesaid, nor by any public vaccinator for any vaccination done by him in pursuance of this Act at a public vaccine-station.
+But, when a public vaccinator attends at the request of the parent or guardian elsewhere than at a public vaccine-station for the purpose of vaccinating a child, he shall be paid a fee not exceeding fifty poisha; such fee to be devoted to the purposes in the next succeeding section mentioned.

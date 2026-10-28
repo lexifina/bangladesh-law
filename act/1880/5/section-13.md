@@ -1,0 +1,5 @@
+# Health Officer of Port may cause vaccination of unprotected persons on their arrival
+13. The powers conferred by sections 11 and 30 upon the said Superintendent of Vaccination may, in the case of unprotected persons arriving in the port of Chittagong, be exercised by the Health Officer of the said port immediately upon their arrival.
+# Health Officer may, in certain cases, require immediate vaccination of unprotected person on board
+If a vessel arrives in the said port of Chittagong having on board any person suffering from the disease of small-pox, the said Health Officer may, if he deem it expedient in order to prevent the risk of the contagion of small-pox being conveyed into the town or suburbs of Chittagong, require any unprotected person on board such vessel to submit himself forthwith to be vaccinated; and every such person shall, before leaving the vessel, submit himself to the said Health Officer, or any person duly authorized to act in this behalf, for vaccination:
+Provided that nothing herein contained shall apply to any vessel belonging to, or in the service of, the Government, or to any vessel belonging to any foreign Prince or State.

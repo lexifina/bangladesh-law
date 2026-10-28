@@ -1,0 +1,2 @@
+# and also a register of postponed vaccinations
+22. He shall also keep a register of postponed vaccinations in the form of Schedule F hereto annexed, in which he shall record the name of every child concerning whom he receives a duplicate certificate in the form of the said Schedule A, together with the date of such duplicate certificate, and of each such successive duplicate certificate if he receives more than one; and shall show the number and year of the entry, if any, in the register of births in which such child's birth has been registered.

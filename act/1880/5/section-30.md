@@ -1,0 +1,2 @@
+# Prosecutions to be instituted by Government or Superintendent of Vaccination
+30. All offences under this Act shall be cognizable by a Magistrate, subject to the provisions of any law for the time being in force for the trial of offences; but no complaint of any such offences shall be entertained unless the prosecution be instituted by order of, or under authority from, the Government or the Superintendent of Vaccination.

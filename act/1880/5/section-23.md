@@ -1,0 +1,2 @@
+# Transmission of returns to Superintendent
+23. Every Registrar shall transmit, on or before the fifteenth of every month, to the Superintendent of Vaccination, a return, in such form as may, from time to time, be prescribed by the rules made under section 33, of all cases in which duplicate certificates have not been duly received by him, in pursuance of the provisions of this Act, during the last preceding month.
