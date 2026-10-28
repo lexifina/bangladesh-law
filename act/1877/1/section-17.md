@@ -1,0 +1,2 @@
+# Bar in other cases of specific performance of part of contract
+17. The Court shall not direct the specific performance of a part of a contract except in cases coming under one or other of the three last preceding sections.

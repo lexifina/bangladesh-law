@@ -1,0 +1,2 @@
+# Specific performance of independent part of contract
+16. When a part of a contract which, taken by itself, can and ought to be specifically performed, stands on a separate and independent footing from another part of the same contract which cannot or ought not to be specifically performed, the Court may direct specific performance of the former part.
