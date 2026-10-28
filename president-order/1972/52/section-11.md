@@ -1,0 +1,2 @@
+# Validation of certain orders of Income-tax Officers, etc.
+11. Any order passed by an Income-tax Officer, Gift-tax Officer or Wealth-tax Officer in respect of the assessment of Income-tax, Gift-tax or Wealth-tax for the year 1971-72 and any order passed by a Sales-tax Officer in respect of the assessment of Sales-tax for the year 1970-71 during the period from the first day of July, 1971, to the date of commencement of this Order shall be deemed to have been passed under this Order.]

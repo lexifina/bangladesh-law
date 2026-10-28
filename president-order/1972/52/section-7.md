@@ -1,0 +1,28 @@
+# Amendment of Act XIV of 1963
+7. The following amendments shall be made in the Gift Tax Act, 1963 (XIV of 1963), namely:-
+(1) in section 2, after clause (XXIV), the following new clause shall be inserted and shall be deemed to have been so inserted with effect from the 26th day of March, 1971, namely:-
+“(XXIVA) “taxable territories” has the [^7][same] meaning assigned to that expression by clause (14AA) of section 2 of Income-tax Act, 1922;”;
+(2) after section 4, the following new section shall be added, namely:-
+“4A. Gift to include increase in dower-Where the dower money, as originally fixed at the time of marriage is subsequently increased, the amount by which such increase exceeds the amount of the original dower shall, for the purposes of this Act, be deemed to be a gift made by the husband to the wife.”;
+(3) in section 5-
+(a) in sub-section (1), [^8][in] clause (vi), for the words “one lakh” the words “fifty thousand” shall be substituted;
+(b) in sub-section (2), for the word “ten” the word “five” shall be substituted;
+(4) in section 26-
+(a) for sub-section (1), (2), (3), (4) and (5) the following shall be substituted, namely:-
+“(1) Within ninety days of the date upon which he is served with an order under section 23 or section 25, the assessee or the Commissioner may present an application in the prescribed form and, where the application is made by the assessee, accompanied by a fee of one hundred taka, to the High Court referring any question of law arising out of such order.
+(2) An application under sub-section (1) may be admitted after the expiry of the period of ninety days aforesaid if the High Court is satisfied that there was sufficient cause for not presenting it within the said period.
+(3) An application under sub-section (1) shall be in triplicate and shall be accompanied by the following documents, and where any such documents is in any language, other than English, also by a translation thereof in English, namely:-
+(a) Certified copy, in triplicate, of the order of the Appellate Tribunal out of which the question of law has arisen;
+(b) Certified copy, in triplicate, of the order of the Gift-Tax Officer, the Appellate Assistant Commissioner of Gift-Tax, the Inspecting Assistant Commissioner of Gift-Tax, as the case may be, which was subject matter of appeal before the appellate Tribunal; and
+(c) Certified copy, is triplicate, of any other document, the contents of which [^9][are] relevant to the question of law formulated in the application and which was produced before the Gift-Tax Officer, the Appellate Assistant Commissioner of Gift-Tax, the Inspecting Assistant Commissioner of Gift-Tax or the Appellate Tribunal, as the case may be, in the course of any proceedings relating to any order referred to in clause (a) or clause (b).
+(4) Where the assessee is the applicant, the Commissioner shall be made a respondent and where the Commissioner is the applicant, the assessee shall be made a respondent:
+Provided that where an assessee dies or is adjudicated insolvent or is succeeded by another person or is a company which is being wound up, the application shall not abate and may, if the assessee was the applicant, be continued by, and if he was the respondent, be continued against, the executor, administrator or successor or other legal representative of the assessee, or by or against the liquidator or receiver, as the case may be.
+(5) On receipt of the notice of the date of hearing of the application, the respondent shall, at least seven days before the date of hearing submit in writing a reply to the application and he shall therein specifically admit or deny whether the question of law formulated by the applicant arises out of the order of the Appellate Tribunal. If the question formulated by the applicant is, in the opinion of the respondent, defective, the reply shall state in what particular the question is defective and what is the exact question of law, if any, which arises out of the said order; and the reply shall be in triplicate and be accompanied by any documents (along with a translation in English of such documents as are not in English) which are relevant to the question of law formulated in the application and which were produced before the Gift-Tax Officer, the Appellate Assistant Commissioner of Gift-Tax, the Inspecting Assistant Commissioner of Gift-Tax or the Appellate Tribunal, as the case may be, in the course of any proceedings relating to any order referred to in clause (a) or clauses (b) of sub-section (1).”;
+(b) in sub-section (6), for the words “any such case” the words “ [^10][any such application]” shall be substituted; and
+(c) after sub-section (9), the following new sub-section shall be added, namely:-
+“(10) Any application made to the Appellate Tribunal or any question of law referred to the High Court by the Appellate Tribunal before the first day of July, 1971, shall be disposed of by the Appellate Tribunal or the High Court, as the case may be, as if the Finance (1971-72) Order, 1972, had not come into force.”;
+
+[^7]: The word “same” was inserted by Article 6 of the Finance (1971-72) (Amendment) Order, 1972 (President’s Order No. 75 of 1972)
+[^8]: The word “in” was substituted for the word “and” by Article 6 of the Finance (1971-72) (Amendment) Order, 1972 (President’s Order No. 75 of 1972)
+[^9]: The word “are” was substituted for the word “was” by Article 6 of the Finance (1971-72) (Amendment) Order, 1972 (President’s Order No. 75 of 1972)
+[^10]: The words “any such application” were substituted for the words “any application” by Article 6 of the Finance (1971-72) (Amendment) Order, 1972 (President’s Order No. 75 of 1972)

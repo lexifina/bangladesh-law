@@ -1,0 +1,2 @@
+28 (1) Sections 2, 3, 5, 6, 7, 9, 11 and 12 of the East Pakistan Finance Ordinance, 1970, are hereby repealed.
+(2) Notwithstanding such repeal, any direction issued or action taken or order passed or proceeding commenced or right accrued or liability incurred under any provision of the said Ordinance shall continue in force and shall be deemed to have been issued, taken, passed, commenced, accrued or incurred, as the case may be, under the corresponding provision of this Order.
