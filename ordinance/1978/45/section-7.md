@@ -1,0 +1,2 @@
+# Penalty
+7. If any person after the publication of any order in respect of a political party under the proviso to section 6(1) or the dissolution of a political party under section 6(2), holds himself out as a member or office bearer of that party, or acts for, or otherwise associates himself with, that party, he shall be punishable with imprisonment for a term which may extend to two years, or with fine, or with both.
