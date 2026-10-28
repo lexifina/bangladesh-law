@@ -1,0 +1,4 @@
+# Criminal Courts to evaluate property procured by scheduled offences
+13. (1) Where before judgment is pronounced in any criminal trial for a scheduled offence, it is represented to the Court that an order of attachment of property has been passed under this Act in connection with such offence, the Court shall, if it is convicting the accused, record a finding as to the amount of money or value of other property procured by the accused by means of the offence.
+(2) In any appeal or revisional proceedings against such conviction, the appellate or revisional Court shall, unless it sets aside the conviction, either confirm such finding or modify it in such manner as it thinks proper.
+(3) In any appeal or revisional proceedings against an order of acquittal passed in a trial such as is referred to in sub-section (1), the appellate or revisional Court, if it convicts the accused, shall record a finding such as is referred to in that sub-section.

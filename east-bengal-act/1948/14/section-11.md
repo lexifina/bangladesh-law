@@ -1,0 +1,4 @@
+# Duration of attachment
+11. An order of attachment of property under this Act shall, unless it is withdrawn earlier in accordance with the provisions of this Act, continue in force-
+(a) where no Court has taken cognizance of the alleged scheduled offence at the time when the order is applied for, for three months from the date of the order under sub-section (1) of section 5 or sub-section (2) of section 7, as the case may be, unless cognizance of such offence is in the mean time so taken, or unless the District Judge on application by the agent of the Government thinks it proper and just that the period should be extended and passes an order accordingly; or
+(b) where a Court has taken cognizance of the alleged scheduled offence whether before or after the time when the order was applied for until orders are passed by the District Judge in accordance with the provisions of this Act after the termination of the criminal proceedings.

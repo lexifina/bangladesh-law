@@ -1,0 +1,2 @@
+# Security in lieu of attachment
+9. Any person whose property has been or is about to be attached under this Act may at any time apply to the District Judge to be permitted to give security in lieu of such attachment, and where the security offered and given is in the opinion of the District Judge satisfactory and sufficient, he may withdraw or, as the case may be, refrain from passing the order of attachment.
