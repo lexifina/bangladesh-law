@@ -1,0 +1,56 @@
+{
+  "corpus": "bd/national/acts",
+  "name": "Laws of Bangladesh: the laws in force that the official site publishes in English",
+  "label": "Bangladesh",
+  "language": "en",
+  "history": "current-only",
+  "laws": {
+    "constitution": 1,
+    "acts": 347,
+    "ordinances": 138,
+    "president_orders": 67,
+    "regulations": 37
+  },
+  "not_included": {
+    "bengali_only": 760,
+    "list": "data/bengali-only.csv",
+    "note": "laws in force that the site has only in Bengali; whether to add them is not decided"
+  },
+  "history_from": "2026-10-28",
+  "record_to": "2026-10-28",
+  "record_note": "The Laws of Bangladesh site (bdlaws.minlaw.gov.bd) publishes only the current text of each law, so each law has one version here: the text as retrieved on 2026-10-28. There is no line-by-line history before that day. The amendment footnotes are kept in the files and parsed into data/amendments.csv. Only the laws the site has in English are included; the 760 laws in force that it has only in Bengali are listed in data/bengali-only.csv.",
+  "built": "2026-10-29",
+  "baseline_trailer": "Consolidated",
+  "in_force_trailer": "In-force",
+  "dates": {
+    "commit": "the day the pages were retrieved",
+    "baseline_trailer": "Consolidated",
+    "other_trailers": [
+      "Published"
+    ],
+    "time": "12:00 Asia/Dhaka (UTC+6)",
+    "before_1970": "not used: every commit is dated 2026-10-28"
+  },
+  "author": {
+    "consolidated": "Laws of Bangladesh (Legislative and Parliamentary Affairs Division)",
+    "amendment": "none yet",
+    "unexplained": "Laws of Bangladesh (Legislative and Parliamentary Affairs Division)"
+  },
+  "citation": {
+    "file": "(constitution|(?:(?:bengal|east-bengal|east-pakistan)-)?(?:act|ordinance|president-order|regulation)/[0-9]{4}/[0-9a-z]+(?:-[0-9]+)?)/(?:section|article)-([0-9]+[A-Za-z]*)(?:~[0-9]+)?\\.md",
+    "cites": "([Ss]ection|[Aa]rticle|[Ss]\\.|[Aa]rt\\.) ?{n}([^0-9A-Za-z]|$)"
+  },
+  "scope": {
+    "trailer": "Applies",
+    "groups": "any one line",
+    "conditions": "all of a line",
+    "when_absent": "not extracted for Bangladesh; savings and transitional rules are in the amending laws",
+    "default_reach": {
+      "rule": "presumption against retroactivity",
+      "meaning": "a repeal does not affect anything done, rights acquired or proceedings pending under the repealed law unless a different intention appears",
+      "authority": "General Clauses Act, 1897 (Act No. X of 1897), section 6 (effect of repeal)",
+      "decided_here": false
+    }
+  },
+  "tool": "tools/in_force_on.py"
+}
