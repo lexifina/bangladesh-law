@@ -1,0 +1,4 @@
+# Ordinance No. XXXVI of 1984 এর section 53D এর সংশোধন
+৩৪। উক্ত Ordinance এর section 53D এর পরিবর্তে নিম্নরূপ section 53D প্রতিস্থাপিত হইবে, যথা:-
+””53D. Deduction from payment to actors, actresses, producers, etc.- (1) A person responsible for making any part or full payment for purchasing a film, drama or television or radio programme shall deduct tax at the rate of ten percent of the amount paid or payable at the time of making payment or credit of such payment to the account of the payee.
+(2) A person responsible for making any part or full payment to another person for performing in a film, drama, advertisement or any television or radio programme shall deduct tax at the rate of ten percent of the amount paid or payable at the time of making payment or credit of such payment to the account of the payee.” ।

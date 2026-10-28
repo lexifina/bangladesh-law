@@ -1,0 +1,7 @@
+# Ordinance No. XXXVI of 1984 এর section 19 এর সংশোধন
+১৬। উক্ত Ordinance এর section 19 এর -
+(ক) sub-section (21A) এর পর নিম্নরূপ sub-section (21B) সন্নিবেশিত হইবে, যথা:-
+””(21B). Where any sum, shown as initial capital of business or profession in return of income filed under section 82BB, is transferred by a person partly or fully within the period of limitation stipulated in the said section, the sum so transferred shall be deemed to be his income of the year in which such sum was transferred and shall be classifiable under the head ””Income from other sources””.””;
+(খ) বিলুপ্ত sub-section (25) এর পর নিম্নরূপ দুইটি নূতন sub-sections যথাক্রমে (26) এবং (27) সংযোজিত হইবে, যথা :-
+””(26) Where an assessee, being a company, receives any amount as loan from any other company otherwise than by a crossed cheque or by bank transfer, the amount so received shall be deemed to be the income of such assessee for that income year in which such loan was taken and shall be classifiable under the head ””Income from other sources””.
+(27) Where an assessee, being a company, purchases directly or on hire one or more motor car or jeep and value of any motor car or jeep exceeds ten percent of its paid up capital, then fifty percent of the amount that exceeds such ten percent of the paid up capital shall be deemed to be the income of such assessee for that income year classifiable under the head ””Income from other sources””.”” ।

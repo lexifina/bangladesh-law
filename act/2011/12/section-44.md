@@ -1,0 +1,3 @@
+# Ordinance No. XXXVI of 1984 এ নূতন section 75C এর সংশোধন
+৪৪। উক্ত Ordinance এর প্রস্তাবিত section 75B এর পর নিম্নরূপ নূতন section 75C সংযোজিত হইবে, যথাঃ
+””75C. Concurrent jurisdiction.-Board may, by general or a special order in writing, direct that in respect of all or any proceedings relating to receiving of return of income and issuance of acknowledgement thereof in accordance with the provisions of section 75, 77, 78, 89(2), 91(3) or 93(1), the powers and functions of the Deputy Commissioner of Taxes shall be concurrently exercised by such other authority as may be specified by the Board.”
