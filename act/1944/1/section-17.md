@@ -1,0 +1,2 @@
+# Punishment for connivance at offences
+17. Any owner or occupier of land or any agent of such owner or occupier in charge of the management of that land, who wilfully connives at any offence against the provisions of this Act or of any rules made thereunder shall for every such offence be punishable with imprisonment for a term which may extend to six months, or with fine which may extend to five hundred Taka, or with both.

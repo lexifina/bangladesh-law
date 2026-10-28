@@ -1,0 +1,2 @@
+# Penalties for resisting officer
+27. Any master of a vessel refusing or neglecting to bring to the vessel or to produce his papers when required to do so by an officer acting under section 26, and any person obstructing any such officer in the performance of his duty, may be arrested by such officer without a warrant, and shall be punishable with imprisonment for a term which may extend to six months or with fine which may extend to one thousand Taka, or with both.

@@ -1,0 +1,2 @@
+# Power of Courts to order forfeiture
+10. Any Court trying an offence under this Chapter may order the forfeiture to Government of any goods in respect of which the Court is satisfied that an offence under this Chapter has been committed, and may also order the forfeiture of any receptacles, packages or coverings in which such goods are contained and the animals, vehicles, vessels or other conveyances used in carrying the goods, and any implements or machinery used in the manufacture of the goods.

@@ -1,0 +1,5 @@
+# Relevancy of statements under certain circumstances
+9C. (1) A statement made and signed by a person before any Excise Officer not below the rank of Superintendent during the course of any inquiry or proceeding under this Act shall be relevant, for the purpose of proving, in any prosecution for an offence under this Act, the truth of the facts which it contains-
+(a) when the person who made the statement is dead or cannot be found or is incapable of giving evidence, or is kept out of the way by the adverse party, or whose presence cannot be obtained without an amount of delay or expenses which, under the circumstances of the case, the Court considers unreasonable; or
+(b) when the person who made the statement is examined as a witness in the case before the Court and the Court is of opinion that, having regard to the circumstances of the case, the statement should be admitted in evidence in the interests of justice.
+(2) The provisions of sub-section (1) shall, so far as may be, apply in relation to any proceedings under this Act, other than a proceeding before a Court, as they apply in relation to a proceeding before a Court.

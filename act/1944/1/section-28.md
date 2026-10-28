@@ -1,0 +1,5 @@
+# Confiscation of vessel and cargo
+28. (1) Every vessel (including all appurtenances) in which any excisable goods are carried so as to render the owner or master of such vessel liable to penalties imposed by section 24, the cargo on board such vessel and the excisable goods in respect of which an offence under this Act has been committed shall be liable to confiscation on the orders of the officer empowered in this behalf by the [^90][Board].
+(2) Whenever any Customs officer is satisfied that any article is liable to confiscation under this section he may seize such article, and shall at once report the seizure to his superior officer for the information of the officer empowered to order confiscation under sub section (1) and such officer may, if satisfied on such report or after making such inquiry as he thinks fit, that the article so seized is liable to confiscation, either declare it to be confiscated, or impose a fine in lieu thereof not exceeding the value of the article.
+
+[^90]: The word “Board” was substituted for the words “National Board of Revenue” by section 5 of the Finance Act, 1979 (Act No. V of 1979)

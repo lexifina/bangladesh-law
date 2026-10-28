@@ -1,0 +1,6 @@
+# Application of the provisions of Act IV of 1969 to [^40][* * *] excise duties
+12. The Government may, by notification in the official Gazette, declare that any of the provisions of the [^41][Customs Act, 1969 (IV of 1969), hereinafter referred to as the Customs Act], relating to the levy of and exemption from customs duties, draw back of duty, warehousing, offences and penalties, confiscation, and procedure relating to offences and appeals shall, with such modifications and alterations as it may consider necessary or desirable to adapt them to the circumstances, be applicable in regard to like matters in respect of the duties imposed by section 3 [^42][or section 3A].
+
+[^40]: The word “Central” was omitted by section 3 of the Excises and Salt (Amendment) Ordinance, 1978 (Ordinance No. XII of 1978)
+[^41]: The words, comma and fiure “Customs Act, 1969 (IV of 1969), hereinafter referred to as the Customs Act” were substituted for the words, comma and fiure “Customs Act, 1969 (IV of 1969)” by section 4 of the Finance Act, 1995 (Act No. XII of 1995)
+[^42]: The words, figure and letter “or section 3 A” were inserted by section 9 of the Finance Ordinance, 1977 (Ordinance No. XXIII of 1977)
