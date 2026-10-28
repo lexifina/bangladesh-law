@@ -1,0 +1,3 @@
+# Limitation of claims for compensation
+34. No person shall be entitled to claim any compensation under this or any other Act for any injury, damage or less caused by a damage or decayed river which has been revived as a result of an improvement work, or by any other rivers into which it flows or spills, unless the injury, damage or loss is such as would have rendered the Government liable to pay compensation had the river not been revived.
+Explanation.-A dead or decayed river is said to be revived when an increased volume of water is, by any means whatsoever, caused to flow freely into or along any part of such dead or decayed river.

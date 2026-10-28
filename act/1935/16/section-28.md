@@ -1,0 +1,3 @@
+# Supply of water and application of rules under the Irrigation Act, 1876
+28. (1) Within a notified area water may be supplied from a canal to any land not withstanding the fact that no application has been made under section 74 of the Irrigation Act, 1876.
+(2) In any notified area specified by the Government, by notification, in this behalf any person by whom an improvement levy is payable under section 10 shall, subject to the provisions of sub-section (1) of section 27, be bound by any rules made under the Irrigation Act, 1876, for the time being in force, as if he had presented an application under section 74 of the said Act and such application had been granted.

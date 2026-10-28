@@ -1,0 +1,3 @@
+# Collection of improvement levy
+21.(1) Subject to the provision of section 20, the Collector shall, in the prescribed manner, collect from any person whose name appears in a statement republished under sub-section (1) of section 15 the amount shown therein as due from him together with any interest payable under sub-section (2).
+(2) If any amount of improvement levy due from any person is not paid on or before the prescribed date, interest at such rate, not exceeding six and a quarter percent, per annum, as the Government may fix from time to time shall be payable thereon from the date of the default.

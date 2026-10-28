@@ -1,0 +1,6 @@
+# Additional improvement levy in certain cases
+11. (1) Notwithstanding anything contained in section 10, if in any notified area, any unculturable waste, swamp, or sand has, as a result of an improvement work, become culturable land, and such land is thereafter settled with any tenant, the person who settles the land shall be liable to pay, in one sum, an improvement levy of such amount as may be fixed by the Collector, in accordance with rules made under this Act, after considering any objection that may be made in the prescribed manner by such person.
+(2) The amount fixed under sub-section (1) shall not exceed one -half of the difference between-
+(a) the amount which the Collector estimates to be the usual salami for a like area of land, in the vicinity, similar in its description and its advantages to the land as it is at the time of the settlement, and
+(b) the amount which the Collector estimates to have been the usual salami before the commencement of the improvement work, for a like area of land, in the vicinity, similar in its description and its advantages to the land as it was at that time.
+Such levy shall be additional to the levy payable under section 10 by the occupier of the land.

@@ -1,0 +1,5 @@
+# Appeals in regard to improvement levy
+17.(1) Any person may appeal within thirty days from the date of service of the notice under section 14 or of a revised notice, if any, under sub-section (2) of section 15 or from the date of republication of a statement under sub-section (1) of section 15, whichever is later, to the Commissioner of the Division, on the ground that he has been wrongly shown in the statement as liable to pay the improvement levy or that the amount shown in such statement as payable by him is incorrect, and the decision of the Commissioner of the Division on such appeal shall, subject to the provision of sub-section (2), be final.
+(2) The [^9][Government] may, on application made within thirty days from the date of the order of the Commissioner of the Division, revise such order.
+
+[^9]: The word "Government" was substituted, for the words "Board of Revenue" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)

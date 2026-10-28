@@ -1,0 +1,3 @@
+# Supplementary statements
+16.(1) The Collector may from time to time, add to or alter in the prescribed manner any statement republished under sub-section (1) of section 15. In such case, the Collector shall publish in the prescribed form and manner a supplementary statement showing any addition or alteration so made, and the provisions of this Act shall apply to such supplementary statement as if it were a statement published under section 13.
+(2) Where any addition to or alteration in a statement is required as a result of a decision of an appellate or revisional authority, the Collector shall add to or alter the statement accordingly, and it shall not be necessary to publish any supplementary statement in respect thereof under sub-section (1).

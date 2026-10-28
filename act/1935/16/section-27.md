@@ -1,0 +1,3 @@
+# Dues payable under other Acts in respect of improvement work
+27. (1) Notwithstanding anything contained in any other Act, no person who has been declared liable to pay an improvement levy in respect of any land benefited by an improvement work shall be liable to pay any rates, dues or charges to the Government under any of the Acts mentioned in the schedule in return for any benefit derived by such land from the improvement work.
+(2) When an improvement levy is imposed under this Act in any area in respect of an irrigation work and an agreement exists for the supply of water under the Irrigation Act, 1876, to any land in that area, the improvement levy shall not be payable in respect of such land until the expiry of the agreement.
