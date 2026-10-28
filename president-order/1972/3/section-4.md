@@ -1,0 +1,1 @@
+4. Subject to the direction and control of the Government of Bangladesh the Administrator shall exercise his powers and perform his duties, as far as practicable, in accordance with the provisions of the law under which the financial institution concerned is established and the rules and regulations made thereunder.

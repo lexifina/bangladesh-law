@@ -1,0 +1,1 @@
+7. For the purpose of this Order, in all the laws mentioned in Article 2 and in all rules and regulations made thereunder, references to Central Government, Pakistan and East Pakistan shall, except where the context otherwise requires, be construed as references to the Government of Bangladesh and Bangladesh respectively.
