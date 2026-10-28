@@ -1,0 +1,125 @@
+# Amendments of Act XI of 1922
+2. The following amendments shall be made in the Income-tax Act, 1922 (XI of 1922), namely:-
+(1) in section 2, in clause (6C), after the word and figure “section 12”, the commas and words “, any winning from lotteries, crossword puzzles, races including horse races, card games and other games of any sort or from gambling or betting of any form or nature whatsoever” shall be inserted;
+(2) in section 4, in sub-section (3),-
+(a) after clause (vi), the following new clause (via) shall be inserted, namely:-
+“(via) any receipts which are of casual and non-recurring nature, not being winning from lotteries, to the extent such receipts do not exceed Taka two thousand in the aggregate:
+Provided that this clause shall not apply to-
+(i) capital gains chargeable under the provisions of section 12B; or
+(ii) receipts arising from business or the exercise of a profession, vocation or occupation; or
+(iii) receipts by way of addition to the remuneration of an employee;”;
+(b) clause (viii) shall be omitted;
+(c) in clause (xii), in sub-clause (f), for the full-stop at the end a semicolon shall be substituted;
+(d) after sub-clause (f) amended as aforesaid, the following new sub-clause (g) shall be added, namely:-
+“(g) in respect of a building the erection of which is begun and completed at any time between the first day of July, 1975 and the thirtieth day of June, 1980 (both days inclusive) and which is intended to be, and is actually, used for residential purposes only, for a period of five years from the date of such completion, subject to the following conditions, namely:-
+(i) the plinth area of the building is not more than two thousand square feet; and
+(ii) the cost of construction is not more than Taka two lakhs exclusive of the cost of land and registration charges.
+The exemption under this clause shall also apply in the case of housing companies, societies and estates where the construction comprises bungalows, flats, apartments or units (hereinafter referred to as units) each containing plinth area of not more than two thousand square feet and the cost of construction of each unit being not more than Taka two lakhs, exclusive of the cost of land and registration charges, provided the construction comprises not less than twenty-five units.”; and
+(e) in clause (xiiib), the words “over sixty years of age” shall be omitted;
+(3) in section 5,-
+(a) for sub-section (2) the following shall be substituted, namely:-
+“(2) The National Board of Revenue may appoint as many Commissioners of Taxes as it may deem fit and a Commissioner of Taxes so appointed shall perform such functions of a Commissioner of Taxes under this Act as the National Board of Revenue may assign to him and such functions may be assigned to the exclusion of, or concurrently with, any other Commissioners of Taxes with reference to any area, or any person or classes of persons, or any income or classes of incomes, or any case or classes of cases.”; and
+(b) for sub-section (3) the following shall be substituted and shall be deemed to have been so substituted on the first day of July, 1975, namely:-
+“(3) The National Board of Revenue may appoint as many Appellate or Inspecting Joint Commissioners of Taxes, Special Officers, Deputy Commissioners of Taxes, Assistant Commissioners of Taxes and Tax Recovery Officers as it thinks fit.”;
+(4) in section 6, after clause (iii), the following new clause (iiia) shall be inserted, namely:-
+“(iiia) Agricultural income.”;
+(5) in section 7, in sub-section (1), in the fourth proviso, for the words “one thousand and two hundred” the words “two thousand and four hundred”, for the words “six hundred” the words “one thousand and two hundred” and for the words “three hundred and sixty” the words “nine hundred” shall be substituted;
+(6) after section 9, the following new section 9A shall be inserted, namely:-
+“9A. Agricultural income.- (1) Subject to the provisions of this Act, the tax shall be payable by an assessee under the head 'Agricultural income' in respect of all rent and revenue, including any local cess or rates, derived from land and also in respect of any agricultural income derived from such land.
+(2) Subject to the provisions of this Act, such agricultural income shall be computed after making the following allowances, namely:-
+(i) any land revenue, rent or tax paid in respect of the land used for agricultural purposes the income of which is subject to tax under this section;
+(ii) any local rate or cess paid in respect of such land:
+Provided that nothing in clauses (i) and (ii) shall be deemed to authorise the allowance of any sum paid on account of tax, rate or cess levied on the income arising or accruing or deemed to arise or accrue from agricultural operations or assessed at a proportion of or otherwise on the basis of such income;
+(iii) any sum paid in respect of the cost of collection of rent or revenue including the cost of maintenance of any katchari or other capital assets and any expense of litigation, not in excess of fifteen per cent of the total amount of rent or revenue excluding cess and selami, if any, which accrued to the assessee in the previous year in respect of the land from which such rent or revenue is derived;
+(iv) when rent derived from such land is rent in kind the cost incurred by the assessee-
+(a) in performing any process contemplated in item (ii) of sub-clause (b) of clause (1) of section 2 for rendering the produce which comprises such rent in kind fit to be taken to market;
+(b) in transporting such produce to market;
+(c) in maintaining in good repair any agricultural implements or machinery and in providing for the upkeep of cattle for the purpose of such process or transport;
+(v) where the land is subject to a mortgage or other capital charge, the amount of any interest paid by the assessee in the previous year in respect of such mortgage or charge; and where such land has been acquired, re-claimed or improved by the use of borrowed capital, the amount of any interest paid by him in the previous year in respect of such capital:
+Provided that no allowance shall be made under this clause in any case for any interest chargeable under this Act which is payable without taxable territories except interest on which tax has been paid or from which tax has been deducted under section 18 or in
+respect of which there is an agent in taxable territories who may be assessed under section 43 or, in the case of a firm, for any interest paid to a partner of the firm;
+(vi) any sum paid in respect of the maintenance of any irrigation or protective work or other capital assets.
+Explanation. For the purpose of this clause, 'maintenance' includes current repairs and, in the case of protective dykes and embankments, all such work as may be necessary from year to year for repairing any damage or destruction caused by flood, or other natural causes;
+(vii) depreciation at the prescribed rate in respect of any irrigation or protective work or other capital asset, constructed or acquired for the benefit of the land from which such agricultural income is derived or for the purpose of deriving such agricultural income from such land, provided the required particulars have been duly furnished by the assessee;
+(viii) any sum paid as premium in order to effect any insurance against loss of, or damage to, such land or any crops to be raised or cattle to be reared thereon;
+(ix) any expenditure incurred in cultivating such land or raising livestock thereon;
+(x) any expenditure incurred in performing any process contemplated in item (ii) of sub-clause (b) of clause (1) of section 2 for rendering the produce of such land fit to be taken to market;
+(xi) any expenditure incurred in transporting such produce or livestock to market;
+(xii) any expenditure incurred in maintaining agricultural implements and machinery in good repair and in providing for the upkeep of cattle for the purpose of such cultivation, process, or transport:
+Provided that where no books of account have been maintained in respect of agricultural income derived from land, the allowances admissible under clauses (ix), (x), (xi) and (xii) shall, instead of such expenditure, be a sum equal to sixty per cent of the market value of the produce raised from such land:
+Provided further that where the agricultural income is derived according to the local 'barga' or 'bhag' system, no allowances under clauses (ix), (x), (xi) and (xii) shall be admissible and in all such cases the cost of production shall be limited to the share of 'bargadar' or 'bhagchasi' according to the local 'barga' or 'bhag' system, as the case may be;
+(xiii) in respect of any machinery or plant used exclusively for agricultural purposes which has been sold, transferred by way of exchange, or is compulsorily acquired by a competent authority under any law for the time being in force or discarded or demolished or destroyed in the previous year, the amount by which written down value thereof exceeds the amount for which the machinery or plant is actually sold, transferred or compulsorily acquired, as the case may be, or its scrap value:
+Provided that such amount is actually written off in the books of the assessee:
+Provided further that where the amount for which such machinery or plant is sold, transferred or compulsorily acquired exceeds the written down value, so much of the excess as does not exceed the difference between the original cost and the written down value shall be deemed to be the income of the previous year in which the sale, transfer or compulsory acquisition, as the case may be, took place:
+Provided further that where any insurance, salvage or compensation moneys are received in respect of any such machinery or plant which has been discarded or demolished or destroyed and the amount of such moneys does not exceed the written down value the amount allowable under this clause shall be the amount, if any, by which the difference between the written down value and the scrap value exceeds the amount of such moneys:
+Provided further that where any insurance, salvage or compensation moneys are received in respect of any such machinery or plant as aforesaid, and the amount of such moneys exceeds the difference between the written down value and the scrap value, no amount shall be allowable under this clause and so much of the excess as does not exceed the difference between the original cost and the written down value less the scrap value shall be deemed to be the income of the previous year in which such moneys were received;
+(xiv) any other expenditure not being in the nature of capital expenditure or personal expenditure, laid out wholly and exclusively for the purpose of deriving such income from such land.
+(3) In the case of income which is partially agricultural income and partially income chargeable under the head 'business' under section 10, the agricultural income shall be determined in respect of the market value of any agricultural produce which has been raised by the assessee or received by him as rent in kind and which has been utilised as raw materials in such business or the sale receipts of which are included in the accounts of the business subject to the allowances admissible under sub-section (2).
+Explanation. For the purposes of this sub-section, 'market value' shall be-
+(a) where agricultural produce is ordinarily sold in the market in its raw state or after application to it of any process ordinarily employed by a cultivator or receiver of rent in kind to render it fit to be taken to market, the value calculated according to the average price at which it has been so sold during the year previous to that in which the income first becomes assessable; and
+(b) where the agricultural produce is not ordinarily sold in the market in its raw state, the aggregate of-
+(i) the expenses of cultivation;
+(ii) the land revenue or rent paid for the lands in which it was grown; and
+(iii) such amount as the Deputy Commissioner of Taxes finds having regard to the circumstances in each case, to represent a reasonable rate of profit on the sale of the produce in question as agricultural produce.
+(4) The income derived from the sale of tea grown and manufactured by the assessee in the taxable territories shall be computed in the manner prescribed.
+(5) Written down value in respect of any irrigation or protective work, or any machinery, plant or other capital asset shall, for the purpose of this section, mean-
+(a) in the case of assets acquired in the previous year, the actual cost to the assessee;
+(b) in the case of assets acquired on or before the thirtieth day of June, 1976, the actual cost to the assessee less all depreciations which would have been allowable under the Agricultural Income-tax Act, 1944 (Ben. Act IV of 1944), in respect of such work, machinery, plant or other asset, as the case may be, but for the repeal of the said Act by the Finance Ordinance, 1976 (Ordinance No. XLV of 1976).
+(6) There shall be exempt from the tax payable under this Act so much of the agricultural income of an assessee, not being a company, computed under this section as does not exceed three thousand six hundred taka.”;
+(7) in section 10,-
+(a) in sub-section (2), in clause (iii), after the proviso the following new proviso shall be added, namely:-
+“Provided further that no allowance shall be made under this clause in any case for so much of the interest as relates to the capital borrowed to replenish the cash or any other asset or assets transferred to a newly set up industrial undertaking or to an expansion of an existing industrial undertaking whose income, profits and gains have been exempted under section 14A notwithstanding the fact that such newly set up industrial undertaking or such expansion of an existing industrial undertaking is a branch or a subsidiary;” and
+(b) in sub-section (5), in clause (b), in the third proviso, for the words “sixty thousand” the words “one lakh” shall be substituted;
+(8) in section 12B, in sub-section (3), for the word “third” the word “first” shall be substituted;
+(9) in section 14A,-
+(a) in sub-section (2A), for the figure “1976” the figure “1980” shall be substituted;
+(b) in sub-section (2B), in clause (a), in sub-section (ii) for the semicolon at the end a colon shall be substituted and thereafter the following proviso shall be added, namely:-
+“Provided that in the case of an industrial undertaking set up after the first day of January, 1976, this sub-clause shall have effect as if for the words “three crores” the words “ten crores” were substituted;”;
+(c) after sub-section (2B) amended as aforesaid, the following new sub-section (2C) and (2D) shall be inserted, namely:-
+“(2C) Subject to the provisions of this Act, the income, profits and gains of a tourist industry set up in taxable territories between the first day of January, 1976 and the thirtieth day of June, 1980 (both dates inclusive), shall be exempt form the income-tax and super-tax under this Act for a period of five years beginning with the month in which the industry is put into commercial service:
+Provided that in the case of a tourist industry set up in areas other than the cities of Dacca, Chittagong, Khulna and Rajshahi and the areas within a radius of fifteen miles of the municipal limits of these cities, this sub-section shall have effect as if for the words 'five years' the words 'seven years' were substituted.
+Explanation. In this sub-section and in sub-section (2D), the expression 'tourist industry' means a business, industry or undertaking which caters for the tourists, including setting up, establishment or running of hotels, motels, hunting lodges and private picnic spots of such standard as the National Board of Revenue may, by notification in the official Gazette, specify.
+(2D) The exemption under sub-section (2C) shall apply to a tourist industry which fulfils the following conditions, namely:-
+(a) that the tourist industry is owned and managed by a company formed and registered under the Companies Act, 1913 (VII of 1913), having-
+(i) its registered office or head office in the taxable territories; and
+(ii) a subscribed and paid-up capital of not less than one lakh taka and not more than ten crores taka;
+(b) that the tourist industry shall have such service facilities as may be specified by the National Board of Revenue for these purposes by notification in the official Gazette;
+(c) that as respects the tourist industry set up in areas comprising the cities of Dacca, Chittagong, Khulna and Rajshahi and the areas within a radius of fifteen miles of the municipal limits of these cities not less than sixty per cent of the income, profits and gains exempted under this sub-section are reinvested in the industrial establishment from which such income, profits and gains have been derived or are invested in the purchase of bond issued by the Government:
+Provided that in the case of a tourist industry set up in areas other than the areas specified above, this clause shall have effect as if for the words 'sixty per cent' the words 'thirty per cent' were substituted;
+(d) that an application for exemption in the prescribed form and verified in the prescribed manner has been made to the National Board of Revenue within four months of the month in which the tourist industry is put into commercial service;
+(e) that the tourist industry is approved by the National Board of Revenue for purposes of this sub-section:
+Provided that the tourist industry approved under this clause may, not later than six months from the date of approval, apply in writing to the National Board of Revenue for the cancellation of such approval and the National Board of Revenue may pass such orders thereon as it may deem fit:
+Provided further that where any exemption has been allowed under this sub-section and it is subsequently discovered by the Deputy Commissioner of Taxes that any one or more of the conditions specified in this sub-section was or were not fulfilled, as the case may be, the exemption originally allowed shall be deemed to have been wrongly allowed and Deputy Commissioner of Taxes may, notwithstanding anything contained in this Act, recompute the total income of the assessee for the relevant previous year and the provisions of section 34 shall, so far as may be, apply thereto, the period of four years specified under sub-section (2) of that section being reckoned from the end of the assessment year relevant to the previous year in which the infringement was discovered.”;
+(10) in section 15E,-
+(a) for the words “five hundred” the words “eight hundred” and for the words “fifteen hundred” the words “two thousand and four hundred” shall be substituted; and
+(b) in the second proviso, for the words “five hundred” the words “eight hundred”, for the words “one thousand” the words “one thousand and six hundred” and for the words “fifteen hundred” the words “two thousand and four hundred” shall be substituted;
+(11) in section 17, in sub-section (5), in clause (b), in sub-clause (ii), in paragraph (2), in sub-paragraph (iii),-
+(a) for the colon at the end a full stop shall be substituted; and
+(b) the proviso shall be omitted;
+(12) in section 18A, in sub-section (11), after the words and quotations “head 'Capital Gains' ”, the words and quotations “or under the head 'Agricultural income' ”, shall be inserted;
+(13) in section 26A, after sub-section (5), the following sub-section shall be added, namely:-
+“(6) As respects any assessment for any year beginning on or after the first day of July, 1976, the provisions of this section shall not apply to any firm other than a firm which derives income from the exercise of a profession and such income depends wholly or mainly on the personal qualifications of its partners who are prevented by any law for the time being in force or by convention or by rules or regulations of the professional association, society or similar body of which they are members to constitute themselves into a corporate body with a limited liability which can be registered as a company under the Companies Act, 1913 (VII of 1913) and such profession does not consist wholly or mainly in the making of contracts on behalf of other persons or the giving to other persons of advice of a commercial nature in connection with the making of contracts.”;
+(14) in section 30, in sub-section (1),-
+(a) after the words “Any assessee objecting to”, the words, figures and letter “the imposition of additional tax under section 18A or” shall be inserted; and
+(b) after the words and figure “or section 28” the words and figure “or section 35” shall be inserted;
+(15) in section 34, in sub-section (2), in the proviso, in clause (i),-
+(a) in sub-clause (c), the word “and” at the end shall be omitted;
+(b) in sub-clause (d), for the full stop at the end a semi-colon and word “; and” shall be substituted; and
+(c) after sub-clause (d) amended as aforesaid, the following new sub-clause (e) shall be added, namely:-
+“(e) in relation to the income, profits or gains which were first assessable in the year 1971-72, the words ÔÇÿfive years' were substituted.”;
+(16) after section 47, the following new section 47A shall be inserted, namely:-
+“47A. Registration of documents. (1) Notwithstanding anything contained in any other law for the time being in force, where any document required to be registered under the provisions of clauses (a), (b), (c) or (e) of sub-section (1) of section 17 of the Registration Act, 1908 (XVI of 1908), purports to transfer, assign, limit or extinguish the right, title or interest of any person to or any property valued at more than twenty thousand taka, no registering officer appointed under that Act shall register any such document, unless the Deputy Commissioner of Taxes certifies that such person is not liable to taxation under this Act or the Gift-tax Act, 1963 (XIV of 1963), or that he has either paid or, made satisfactory provision for the payment of all existing or anticipated liabilities under any of the said Acts:
+Provided that no such certificate shall be necessary in respect of sale by a Bank as a mortgagee empowered to sell.
+(2) If any right, title or interest in any property, whether movable or immovable, is or has been transferred, assigned, limited or extinguished after the 14th day of August, 1947, a Deputy Commissioner of Taxes, may, at any time, issue a notice to all or any of the parties to the transaction requiring them to produce within one month the certificate required under sub-section (1); and if such certificate is not produced he may forward a statement to the Tax Recovery Officer or the Deputy Commissioner of the District concerned, showing the amount of the existing and the anticipated liabilities of each or any of the said parties.
+(3) The Tax Recovery Officer shall, on receipt of such statement, proceed, in accordance with the rules made under section 46A to recover the amount specified therein as if it were an arrear of income-tax; and where a statement has been forwarded to the Deputy Commissioner, the Deputy Commissioner shall, proceed to recover the amount shown in the statement as if it were an arrear of land revenue.
+(4) For the purpose of the recovery proceedings, the aforesaid authorities may treat the said property as if it belonged to all or any of the persons named in the statement.
+(5) The application for the certificate required under sub-section (1) shall be made by the person referred to in that sub-section and shall be in such form and shall contain such particulars as may be prescribed by the National Board of Revenue.
+(6) The provisions of this section shall not apply in relation to agricultural land.”;
+(17) after section 51, the following new section 51A shall be inserted, namely:-
+“51A. Failure to furnish returns of income. If a person wilfully fails to furnish in due time the return of income which he is required to furnish under sub-section (1) of section 22 or by notice given under sub-section (2) of section 22 or under section 34, he shall be punishable with imprisonment for a term which may extend to one year, or with fine which may extend to one thousand Taka, or with both:
+Provided that no person shall be proceeded against under this section for failure to furnish in due time the return of income under sub-section (1) of section 22-
+(i) for any year of assessment commencing prior to the 1st day of July, 1977; or
+(ii) for any year of assessment commencing on or after the 1st day of July, 1977, if-
+(a) the return is furnished by him before the expiry of the assessment year; or
+(b) the tax payable by him on the total income determined on regular assessment, as reduced by the advance tax, if any, paid, and any tax deducted at source, does not exceed three thousand Taka.”;
+(18) in section 53, in sub-section (1), after the word, figure and comma “section 51,”, the word, figure and letter “section 51A” shall be inserted.
