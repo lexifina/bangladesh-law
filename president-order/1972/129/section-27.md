@@ -1,0 +1,2 @@
+27. (1) For the purpose of transacting any business under this Order with any industrial concern, the Bank may impose such conditions as it may consider necessary or expedient for protecting its interest and securing that its guarantee, under writing, loan, subscription or other aid is put to such use by the industrial concern as the Bank has agreed to.
+(2) Any condition imposed on an industrial concern under clause (1) shall be valid and shall be enforceable against such concern.

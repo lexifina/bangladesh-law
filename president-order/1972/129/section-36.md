@@ -1,0 +1,3 @@
+36. The Board may, for the purpose of ensuring efficient functioning of the Bank and facilitating transaction of its daily business, by a resolution, delegate to the [^37][Chairman, Managing Director] or any other Director or any officer of the Bank, subject to such conditions and limitations, if any, as may be specified therein, such of its powers and duties under this Order as it may deem necessary.
+
+[^37]: The words and comma “Chairman, Managing Director” were substituted for the words “Managing Director” by section 2 and the Schedule of the Banks and Financial Institutions Laws Amendment Act, 1980 (Act No. IX of 1980)

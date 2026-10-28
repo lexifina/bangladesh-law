@@ -1,0 +1,1 @@
+39. Any reference to the Development Bank or the Fund in any law, other than this Order, or in any contract, agreement, deed of trust or other instrument shall, in so far as it relates to the undertakings which have been transferred to the Bank under Article 20, be construed as a reference to the Bank.

@@ -1,0 +1,9 @@
+[^39][38A. (1) Notwithstanding anything contained in this Order, the Government may, if in the national interest, it deems expedient so to do, transfer, by agreement, the entire undertaking of the Bank to any company registered under the Companies Act, 1994 (Act XVIII of 1994), on such terms and conditions as may be settled with such company.
+(2) Where the entire undertaking of the Bank has been transferred under clause (1), the bank shall, on such date as the Government may, by an order notified in the official Gazette, specify, stand dissolved.
+Explanation: The "undertaking of the bank" includes its business, projects, schemes, assets, properties, movable and immovable, cash balance, reserve funds, investment, rights, powers, authorities and privileges including rights and interests in, or arising out of, such properties and all books of accounts, registers, records and all other documents of whatever nature relating thereto and its borrowings, liabilities and obligations of whatever nature.
+(3) Where the undertaking of the bank has been transferred under clause (1),-
+(a) all contracts entered into and all matters and things engaged to be done by, with or for, the bank shall be deemed to have been entered into or, as the case may be, engaged to be done by, with or for the company;
+(b) all suits and other legal proceedings instituted by or against the bank shall be deemed to be suits and other legal proceedings by or against the company.
+(4) The Government may, for the purpose of removing any difficulty in relation to the transfer of the undertaking of the bank under clause (1) or the dissolution of the bank under clause (2), make such order as it considers expedient and any such order shall be deemed to be, and given effect to as, part of the provisions of this Order.]
+
+[^39]: Section 38A was inserted by section 2 of Bangladesh Shilpa Bank (Amendment) Act, 2009 (Act. No. XIV of 2009) (with effect from 22th December, 2008).

@@ -1,0 +1,1 @@
+38. No provision of law relating to the winding up of companies, including Banking companies, shall apply to the Bank and the Bank shall not be wound up save by order of the Government and in such manner as it may direct.

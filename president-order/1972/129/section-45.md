@@ -1,0 +1,1 @@
+45. The Industrial Development Bank Ordinance, 1961 (Ord. No. XXXI of 1961), the Equity Participation Fund Ordinance, 1970 (Ord. No. I of 1970), and the Bangladesh (Industrial Development Bank) Order, 1971 (A. P. O. No. 4 of 1971), are hereby repealed.

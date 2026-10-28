@@ -1,0 +1,4 @@
+19. (1) The Bank shall not undertake or transact any kind of business other than those authorised by or under this Order and, in particular, it shall not discount or buy, or advance, lend or open cash credit on the security of, any negotiable instrument of any individual or partnership firm which does not carry on it the several responsibilities of at least two persons or firms not connected with each other in general partnership.
+(2) Notwithstanding anything contained in clause (1), the Bank may grant advances or loans or make ex gratia payments [^19][* * *] to its officers and staff for the purpose of providing amenities and facilities for their betterment.
+
+[^19]: The words “with prior approval of the Government” were omitted by section 12 of the Bangladesh Shilpa Bank (Amendment) Act, 1987 (Act No. XVIII of 1987)

@@ -1,0 +1,3 @@
+23. (1) Where any property has vested in the Bank under Article 20, every person, in whose possession and custody or under whose control the property may be, shall deliver the property to the Bank forthwith.
+(2) Any person who, on the commencement of this Order, has in his possession or custody or under his control any books, documents or other papers relating to any undertaking which has vested in the Bank under Article 20 shall deliver them to the Bank or to such person as the Bank may direct.
+(3) The Bank may take all necessary steps for securing possession of all properties which have vested in the Bank under Article 20.
