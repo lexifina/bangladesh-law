@@ -1,0 +1,14 @@
+# Daily allowance during halt
+10. (1) A Minister [^44][or Minister of State], while on tour, shall be entitled to a daily allowance at the rate of [^45][Taka [^46][2,000]] for each day of halt or a part of a day of absence from his headquarters, and such allowance shall be admissible at full rate for the first ten days of each continuous halt, at three-fourths of the full rate for the next twenty days and at half of the full rate thereafter.
+[^47][(2) A Deputy Minister, while on tour, shall be entitled to a daily allowance at the rate of [^48][Taka [^49][1,500]] for each day of halt or a part of a day of absence from the headquarters, and such allowance shall be admissible at full rate for the first ten days of each continuous halt, at three-fourths of the full rate for the next twenty days and at half of the full rate thereafter.]
+# Halt on tour
+(3) A halt on tour shall be treated as continuous halt unless terminated by an absence at a distance from the halting place exceeding [^50][8.00 kilometer] for a period of not less than seven nights.
+(4) While on tour, a Minister, Minister of State or Deputy Minister shall not pay any rent, rate, electricity charge, water charge or conservancy charge for the Circuit House or any other Government accommodation.
+
+[^44]: The words “Minister of State or” were inserted by section 7 of the Ministers, Ministers of State and Deputy Ministers (Remuneration and Privileges)(Amendment) Act, 1975 (Act No. XI of 1975)
+[^45]: The word and figure “Taka 750” were substituted for the word and figure “Taka 225” by section 5 of the Ministers, Ministers of State and Deputy Ministers (Remuneration and Privileges)(Amendment) Act, 2003 (Act No. XXII of 2003)
+[^46]: The figure and comma “2,000” were substituted for the figure “750” by section 6(a) of the Ministers, Ministers of State and Deputy Ministers (Remuneration and Privileges) (Amendment) Act, 2016 (Act No. XXII of 2016) (With effect from 1st July, 2016).
+[^47]: Sub-section (2) was substituted by section 7 of the Ministers, Ministers of State and Deputy Ministers (Remuneration and Privileges)(Amendment) Act, 1975 (Act No. XI of 1975)
+[^48]: The word and figure “Taka 600” were substituted for the word and figure “Taka 200” by section 5 of the Ministers, Ministers of State and Deputy Ministers (Remuneration and Privileges)(Amendment) Act, 2003 (Act No. XXII of 2003)
+[^49]: The figure and comma “1,500” were substituted for the figure “600” by section 6(b) of the Ministers, Ministers of State and Deputy Ministers (Remuneration and Privileges) (Amendment) Act, 2016 (Act No. XXII of 2016) (With effect from 1st July, 2016).
+[^50]: The figure and word “8.00 kilometer” were substituted for the words “five miles” by section 7 of the Ministers, Ministers of State and Deputy Ministers (Remuneration and Privileges) (Amendment) Act, 2010 (Act No. XIX of 2010) (with effect from 1st July, 2009).
