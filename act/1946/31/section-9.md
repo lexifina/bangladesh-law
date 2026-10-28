@@ -1,0 +1,2 @@
+# Burden of proof
+9. If in any case not falling under section 8 any question arises with reference to this Act or any order made or direction given thereunder, whether any person is or is not a foreigner or is or is not a foreigner of a particular class or description the onus of proving that such person is not a foreigner or is not a foreigner of such particular class or description, as the case may be, shall, notwithstanding anything contained in the Evidence Act, 1872, lie upon such person.

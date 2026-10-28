@@ -1,0 +1,2 @@
+# Penalties
+14. If any person contravenes the provisions of this Act or of any order made thereunder, or any direction given in pursuance of this Act or such order, he shall be punished with imprisonment for a term which may extend to five years and shall also be liable to fine; and if such person has entered into a bond in pursuance of clause (f) of sub section (2) of section 3, his bond shall be forfeited, and any person bound thereby shall pay the penalty thereof, or show cause to the satisfaction of the convicting Court why such penalty should not be paid.
