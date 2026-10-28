@@ -1,0 +1,2 @@
+# Act IV of 1969 এর section 46 এর সংশোধন
+১৭৷ Customs Act এর section 46 এর “time to time directs” শব্দগুলির পর “, and where the import manifest is transmitted electronically to the Customs computer system by a registered user, the import manifest shall be deemed to have been countersigned by the person authorised to receive such transmission and that person shall comply with direction of that Commissioner, if any, in this regard” শব্দগুরি সংযোজিত হইবে৷

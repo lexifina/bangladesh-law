@@ -1,0 +1,2 @@
+# Act IV of 1969 এর section 107 এর সংশোধন
+৩২৷ Customs Act এর section 107 এর sub-section (2) এর শর্তাংশে প্রথমবার উল্লিখিত “Commissioner of Customs” শব্দগুলির পরিবর্তে “Commissioner of Customs (Bond) or any other Commissioner of Customs authorised by the Board” শব্দগুলি ও বন্ধনী প্রতিস্থাপিত হইবে; এবং দ্বিতীয়বার উল্লিখিত “the Commissioner of Customs” শব্দগুলির পরিবর্তে “that Commissioner” শব্দগুলি প্রতিস্থাপিত হইবে৷

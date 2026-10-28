@@ -1,0 +1,2 @@
+# Act IV of 1969 এর section 43 এর সংশোধন
+১৪৷ Customs Act এর section 43 এর sub-section (1) এর “officer of customs or other person duly authorised to receive the same” শব্দগুলির পরিবর্তে “officer of customs, or other person duly authorised to receive the same, or as the case may be, until the manifest has been transmitted to the Customs computer system by a registered user” শব্দগুলি ও কমাগুলি প্রতিস্থাপিত হইবে৷

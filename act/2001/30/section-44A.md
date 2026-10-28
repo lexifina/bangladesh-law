@@ -1,0 +1,5 @@
+# Act IV of 1969 এ section 215A এর প্রতিস্থাপন
+৪৪ক৷ Customs Act এর section 215A এর পরিবর্তে নিম্নরূপ নূতন section 215A প্রতিস্থাপিত হইবে, যথা:-
+“215A. Supply of information and copy of decisions.- (1) Upon an application of a person directly interested in a decision taken by a customs officer under this Act, the Commissioner of Customs or an officer authorised by him shall, subject to payment by the applicant of a fee specified by the Board, deliver within 15 (fifteen) days of the application, a true copy of that decision with a certificate that it is a true copy:
+Provided that a copy or other copy or reproduction of the certified copy shall not be admissible as evidence or otherwise accepted in any court of law.
+(2) Upon an application of a person directly interested in a decision taken or omitted to have been taken by a customs officer, the Commissioner of Customs shall inform that person in writing within a period of 60 days of the application the reasons for such decision or omission.”৷
