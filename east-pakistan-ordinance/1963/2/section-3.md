@@ -1,0 +1,6 @@
+# Penalty
+3. (1) Notwithstanding anything contained in [^4][the Industrial Relations Ordinance, 1969 (Ord. No. XXIII of 1969)], or in any other law for the time being in force, any strike, preparation, propagation or organisation for strike or cessation of work or abandonment of work [^5][by any employee] during the period specified in section 2 shall be punishable with rigorous imprisonment for a term which may extend to one year or with fine of Taka one thousand or with both.
+(2) Any person who abets, instigates or incites others to take part in, or otherwise acts in furtherance of, a strike, shall be punishable with rigorous imprisonment for a term which may extend to one year, or with fine of Taka one thousand or with both.
+
+[^4]: The words, comma, brackets and figures “the Industrial Relations Ordinance, 1969 (XXIII of 1969)” were substituted for the words “the East Pakistan Trade Unions Act, 1965, or the East Pakistan Labour Disputes Act, 1965” by section 4 of the Essential Services Laws (Amendment) Act, 1974 (Act No. XXXVI of 1974)
+[^5]: The words “by any employee” were substituted for the words “in offices by any employee of the Government or of a local authority” by section 4 of the Essential Services Laws (Amendment) Act, 1974 (Act No. XXXVI of 1974)
