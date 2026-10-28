@@ -1,0 +1,4 @@
+# Punishment of offences
+9. When any person charged before a Special Judge with an offence triable under this Act is found guilty of the offence the Special Judge shall, notwithstanding anything contained in any other law, whether or not he imposes a sentence of imprisonment, impose a sentence of fine which shall not be less than the gain found to have been derived by the accused by the [^29][commission of the offence and may also order confiscation of the whole or any part of the property of the accused to the Government].
+
+[^29]: The words “commission of the offence and may also order confiscation of the whole or any part of the property of the accused to the Government” were substituted for the words “commission of the offence” by section 8 of the Criminal Law Amendment (Amendment) Ordinance, 1978 (Ordinance No. VI of 1978)
