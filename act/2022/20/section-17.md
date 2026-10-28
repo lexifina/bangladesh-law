@@ -1,0 +1,4 @@
+# Act No. I of 1872 এ নূতন section 88A এর সন্নিবেশ
+১৭। উক্ত Act এর section 88 এর পর নিম্নরূপ নূতন section 88A সন্নিবেশিত হইবে, যথা :-
+“88A. Presumption as to digital communication.- The Court may presume that a digital communication forwarded by the originator through a digital communication or message server to the addressee to whom the message purports to be addressed corresponds with the message as fed into his computer or fed into other forms of digital device for transmission; but the Court shall not make any presumption as to the persons by whom such message was sent.
+Explanation.- For the purposes of this section, the expressions “addressee” and “originator” shall have the same meanings respectively assigned to them in clauses (22) and (24) of section 2 of the Information and Communication Technology Act, 2006 (Act No. 39 of 2006).”।

@@ -1,0 +1,4 @@
+# Act No. I of 1872 এ নূতন section 81A এর সন্নিবেশ
+১৫। উক্ত Act এর বিলুপ্ত section 81 এর পর নিম্নরূপ নূতন section 81A সন্নিবেশিত হইবে, যথা :-
+“81A. Presumption as to Gazettes in digital forms.- The Court shall presume the genuineness of every digital record purporting to be the Official Gazette, or purporting to be digital record directed by any law to be kept by any person, if such digital record is kept substantially in the form required by law and is produced from proper custody.
+Explanation.- Digital records are said to be in proper custody if they are in the place in which, and under the care of the person with whom, they naturally be; but no custody is improper if it is proved to have had a legitimate origin, or the circumstances of the particular case are such as to render such an origin probable.’’।

@@ -1,0 +1,4 @@
+# Act No. I of 1872 এ নূতন section 90A এর সন্নিবেশ
+১৯। উক্ত Act এর section 90 এর পর নিম্নরূপ নূতন section 90A সন্নিবেশিত হইবে, যথা :-
+"90A. Presumption as to digital records five years old.- Where any digital record, purporting or proved to be five years old, is produced from any custody which the Court in the particular case considers proper, the Court may presume that the digital signature which purports to be the digital signature of any particular person was so affixed by him or any person authorized by him in this behalf.
+Explanation.- Digital records are said to be in proper custody if they are in the place in which, and under the care of the person with whom, they naturally be; but no custody is improper if it is proved to have had a legitimate origin, or the circumstances of the particular case are such as to render such an origin probable.’’।
