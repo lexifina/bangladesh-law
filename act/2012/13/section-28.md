@@ -1,0 +1,2 @@
+# কতিপয় আইনের অপ্রযোজ্যতা
+২৮। কাউন্সিল বা তৎকর্তৃক পরিচালিত কার্যক্রম এর ক্ষেত্রে বাংলাদেশ শ্রম আইন, ২০০৬ (২০০৬ সনের ৪২ নং আইন) দ্বারা রহিতকৃত Factories Act, 1965 (E.P. Act IV of 1965), Shops and Establishments Act, 1965 (E. P. Act VII of 1965), Employment of Labour (Standing Orders) Act, 1965 (E.P. Act VIII of 1965) অথবা Industrial Relations Ordinance, 1969 (Ord. XXIII of 1969) এর প্রাসংগিক বিধানাবলী, যাহা বাংলাদেশ শ্রম আইন, ২০০৬ এ অন্তর্ভুক্ত করা হইয়াছে এর বিধানাবলী প্রযোজ্য হইবে না।
