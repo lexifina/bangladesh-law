@@ -1,0 +1,10 @@
+# Constitution of Union Jute Committees
+6. (1) The Government shall, by notification, declare the local areas in which there shall be constituted Union Jute Committees, and thereupon the Collector shall, as soon as may be, cause to be constituted such a Committee for each such local area within his jurisdiction.
+(2) Each Committee shall consist of a Chairman and not more than six other members, of whom three shall be growers of jute within the area of the jurisdiction of the Committee.
+(3) The Chairman and other members of the Committee shall be appointed by the Collector or by such Government servant other than a Police officer as may, subject to the rules, be authorised by the Collector by general or special order in this behalf.
+(4) The Committee shall be subject to the control and supervision of the Collector and of any Government servant authorised by the Collector by general or special order in this behalf.
+(5) The Collector may, at any time and for reasons to be recorded by him in writing, dissolve a Committee and may thereupon either cause a fresh Committee to be constituted or, may, subject to the rules, authorise any Government servant other than a Police officer to perform all or any of the functions of the Committee.
+(6) The Collector may, at any time and for reasons to be recorded by him in writing, cancel the appointment of the Chairman or any other member of the Committee, and shall thereupon cause to be appointed a fresh Chairman or a fresh member as the case may be.
+(7) For any area in respect of which a Committee has not been constituted, the Government may, by notification, appoint any Government servant other than a Police officer to perform in such area all or any of such functions of a Committee as may be specified in the notification.
+(8) The procedure to be followed by, the quorum at a meeting of, and the manner of filling casual vacancies among members of a Committee shall be such as may be prescribed.
+(9) Subject to the provisions of sub sections (5) and (6), the term of a Committee constituted under this section shall be two years from the date on which it is constituted.

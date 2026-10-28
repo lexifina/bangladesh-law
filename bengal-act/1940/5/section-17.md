@@ -1,0 +1,3 @@
+# Destruction of jute grown without a licence
+17. (1) Any officer authorised by the Government in this behalf may, with such persons to assist him as he may require, enter upon and inspect any land and destroy any jute grown, without obtaining a licence in the prescribed form, or in contravention of any of the provisions of a licence, or in contravention of any notification under section 9A, and, for such entry, inspection destruction, may use such force as may be necessary.
+(2) Costs incurred for destruction of jute under sub-section (1) shall be recoverable from the person or persons in possession of the land as a public demand.

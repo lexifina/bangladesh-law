@@ -1,0 +1,2 @@
+# Notification of area on which jute may be grown
+9. The Government may, by notification, declare the proportion which the total area of land on which jute may be grown, in the whole of Bangladesh or in such part thereof as may for any special reason or purpose be specified in the notification and in such year as may be specified in the notification, shall bear to the total recorded area of land on which jute was grown in that locality in such previous year or years as may be specified in the notification.

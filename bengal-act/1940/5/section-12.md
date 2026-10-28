@@ -1,0 +1,3 @@
+# Appeals
+12. (1) A licensee or any person to whom a licence has been refused may, in such manner and on payment of such fee as may be prescribed, appeal to the Collector against an order made, or in respect of a licence issued or refused under section 10, on the ground that such order has not been made or that such licence has not been issued or refused in accordance with the provisions of that section, and the decision of the Collector in respect of any such appeal shall be final.
+(2). An appeal under sub section (1) shall be preferred within fifteen days of the date of the order or of the issue or refusal of the licence complained of, and pending the disposal of such appeal, no jute shall be grown on any land not originally specified in the licence.
