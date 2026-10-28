@@ -1,0 +1,1 @@
+4. Notwithstanding anything contained in any other law for time being in force, in computing the period of limitation prescribed for any legal proceeding by or under any law, the period between the 1st day of March, 1971 and the 1st day of March, 1972 (both days inclusive), shall be excluded.
