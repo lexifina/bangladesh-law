@@ -1,0 +1,2 @@
+# Transfer of Property Act, 1882, not to apply to Government grants
+2. Nothing in the Transfer of Property Act, 1882, contained shall apply or be deemed ever to have applied to any grant or other transfer of land or of any interest therein heretofore made or hereafter to be made by or on behalf of the Government to, or in favour of, any person whomsoever; but every such grant and transfer shall be construed and take effect as if the said Act had not been passed.
