@@ -1,0 +1,1 @@
+7. Nothing in this Order shall affect the right of any person to continue to use for a period of two months from the commencement of this Order any sign which it was not unlawful for him to use immediately before the commencement of this Order.

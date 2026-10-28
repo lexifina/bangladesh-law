@@ -1,0 +1,1 @@
+3. On the commencement of this Order, notwithstanding anything contained in any other law for the time being in force, all the assets and liabilities of the Pakistan Boy Scouts Association in Bangladesh shall stand transferred to the Bangladesh Scouts.
