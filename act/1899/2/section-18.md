@@ -1,0 +1,3 @@
+# Instruments other than bills, and notes executed out of Bangladesh.
+18.(1) Every instrument chargeable with duty executed only out of Bangladesh, and not being a bill of exchange, or promissory note, may be stamped within three months after it has been first received in Bangladesh.
+(2) Where any such instrument cannot, with reference to the description of stamp prescribed therefor, be duly stamped by a private person, it may be taken within the said period of three months to the Collector, who shall stamp the same, in such manner as the Government may by rule prescribe, with a stamp of such value as the person so taking such instrument may require and pay for.

@@ -1,0 +1,7 @@
+# Stamp where value of subject-matter is indeterminate.
+26. Where the amount or value of the subject-matter of any instrument chargeable with ad valorem duty cannot be, or (in the case of an instrument executed before the commencement of this Act) could not have been, ascertained at the date of its execution or first execution, nothing shall be claimable under such instrument more than the highest amount or value for which, if stated in an instrument of the same description, the stamp actually used would, at the date of such execution, have been sufficient:
+Provided that, in the case of the lease of a mine in which royalty or a share of the produce is received as the rent or part of the rent, it shall be sufficient to have estimated such royalty or the value of such share, for the purpose of stamp-duty,-
+(a) when the lease has been granted by or on behalf of Government, at such amount or value as the Collector may, having regard to all the circumstances of the case, have estimated as likely to be payable by way of royalty or share to Government under the lease, or,
+(b) when the lease has been granted by any other person, at twenty thousand Taka a year;
+and the whole amount of such royalty or share, whatever it may be, shall be claimable under such lease:
+Provided also that, where proceedings have been taken in respect of an instrument under section 31 or 41, the amount certified by the Collector shall be deemed to be the stamp actually used at the date of execution.

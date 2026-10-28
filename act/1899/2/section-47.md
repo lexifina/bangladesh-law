@@ -1,0 +1,3 @@
+# Power of payer to stamp bills and promissory notes received by him unstamped.
+47. When any bill of exchange or promissory note chargeable with the duty of five poisha is presented for payment unstamped, the person to whom it is so presented may affix thereto the necessary adhesive stamp, and, upon canceling the same in manner hereinbefore provided, may pay the sum payable upon such bill, or note, and may charge the duty against the person who ought to have paid the same, or deduct it from the sum payable as foresaid, and such bill, or note shall, so far as respects the duty, be deemed good and valid:
+Provided that nothing herein contained shall relieve any person from any penalty or proceeding to which he may be liable in relation to such bill, or note.

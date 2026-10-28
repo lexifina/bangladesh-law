@@ -1,0 +1,2 @@
+# Allowance in case of printed forms no longer required by Corporations.
+51. The Chief Revenue-authority or the Collector if empowered by the Chief Revenue-authority in this behalf may, without limit of time, make allowance for stamped papers used for printed forms of instruments by any banker or by any incorporated company or other body corporate, if for any sufficient reason such forms have ceased to be required by the said banker, company or body corporate, provided that such authority is satisfied that the duty in respect of such stamped papers has been duly paid.

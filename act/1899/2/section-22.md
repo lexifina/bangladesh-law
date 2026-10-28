@@ -1,0 +1,2 @@
+# Effect of statement of rate of exchange or average price.
+22. Where an instrument contains a statement of current rate of exchange, or average price, as the case may require, and is stamped in accordance with such statement, it shall, so far as regards the subject-matter of such statement, be presumed, until the contrary is proved, to be duly stamped.

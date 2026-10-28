@@ -1,0 +1,2 @@
+# Power of High Court Division, etc., to call for further particulars as to case stated.
+58. If the High Court Division is not satisfied that the statements contained in the case are sufficient to enable it to determine the questions raised thereby, the Court may refer the case back to the Revenue-authority by which it was stated, to make such additions thereto or alterations therein as the Court may direct in that behalf.

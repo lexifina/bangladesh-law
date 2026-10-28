@@ -1,0 +1,2 @@
+# Denoting duty
+16. Where the duty with which an instrument is chargeable, or its exemption from duty, depends in any manner upon the duty actually paid in respect of another instrument, the payment of such last-mentioned duty shall, if application is made in writing to the Collector for that purpose, and on production of both the instruments, be donated upon such first mentioned instrument, by endorsement under the hand of the Collector or in such other manner (if any) as the Government may by rule prescribe.
