@@ -1,0 +1,2 @@
+28. (1) Every Director, member of the Technical Advisory Committee, auditor or employee of the Bank shall, before entering upon his duties, make a declaration of fidelity and secrecy in the form set out in the schedule to this Order.
+(2) Whoever contravenes his declaration of fidelity and secrecy shall be punishable with imprisonment for a term which may extend to six months, or with fine which may extend to one thousand taka, or with both.

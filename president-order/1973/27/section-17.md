@@ -1,0 +1,1 @@
+17. In transacting the business of the Bank, the Board shall, as far as possible, give preference to credit needs of small agriculturists, including any such agriculturist who engages a crop sharer (bargader).

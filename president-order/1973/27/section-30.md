@@ -1,0 +1,2 @@
+30. (1) No information given by a person applying to the Bank for financial assistance, or based on data furnished by such person, shall be disclosed or used for a purpose not connected with the discharge of his duties by any Director, or member of the Technical Advisory Committee or of any Committee or by any employee of the Bank.
+(2) Whoever contravenes any of the provisions of clause (1) shall be punishable with imprisonment for a term which may extend to six months, or with fine which may extend to one thousand taka, or with both.

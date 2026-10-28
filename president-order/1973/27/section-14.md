@@ -1,0 +1,1 @@
+14. The Bank may appoint a Committee of experts to be called the Technical Advisory Committee to give it technical advice on schemes submitted to the Bank for financial assistance or on any point that may be referred to the Committee by the Board.

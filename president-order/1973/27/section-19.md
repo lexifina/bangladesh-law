@@ -1,0 +1,1 @@
+19. The Bank shall require, and, as far as possible, ensure that a loan is spent on the purpose for which it is made, and if this requirement is not complied with by the borrower, the Bank may require the repayment of the loan forthwith.

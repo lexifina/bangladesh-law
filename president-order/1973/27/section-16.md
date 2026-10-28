@@ -1,0 +1,3 @@
+16. The Bank may undertake, if necessary, in collaboration and consultation with official or non-official agencies,-
+(a) any research on agricultural credit, marketing or agricultural products, agricultural credit to co-operative societies, cottage industries and other allied industries in rural as well as urban areas, and other allied subject, and the establishment of research institutions in that connection; and
+(b) the provision of training facilities, including the establishment of training institutions, for the benefit of its personnel and that of co-operative societies and other bodies corporate which may have financial relations with the Bank.

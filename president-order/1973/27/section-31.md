@@ -1,0 +1,1 @@
+31. Whoever without the consent in writing of the Bank uses its name in any prospectus or advertisement shall be punishable with the imprisonment for a term which may extend to six months, or with fine which may extend to one thousand taka, or with both.

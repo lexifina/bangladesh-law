@@ -1,0 +1,8 @@
+12. (1) No business of the Board or of the Executive Committee shall be transacted except at a meeting at which a quorum of four Directors in the case of the Board and two members in the case of the Executive Committee is present.
+(2) The meetings of the Board and of the Executive Committee shall be held at such time and at such places as may be prescribed by regulations.
+(3) If a Director appointed under [^11][sub-clause (c) or sub-clause (d) of clause (1)] of Article 7 is unable to attend for unavoidable reasons a meeting of the Board or of the Executive Committee of which any such Director is a member, the Government may, by order in writing, appoint another person in his place for the purpose of such meeting.
+(4) All meetings of the Board or of the Executive Committee shall be presided over by the Chairman and in his absence by a Director or member chosen for that purpose by the Directors or members present from amongst their number.
+(5) At a meeting of the Board or of the Executive Committee, each Director or member of the Committee, as the case may be, shall have one vote and in the event of equality of votes, the Chairman shall have a second or casting vote.
+(6) No act or proceeding of the Board or of the Executive Committee shall be invalid merely on the ground of the existence of any vacancy in, or any defect in the constitution of, the Board or the Executive Committee.
+
+[^11]: The words, brackets, letters, and figure “sub-clause (c) or sub-clause (d) of clause (1)” were substituted for the words, brackets and figures “clause (ii) or clause (iii) ” by section 6 of the Bangladesh Krishi Bank (Second Amendment) Ordinance, 1983 (Ordinance No. XLIII of 1983)
