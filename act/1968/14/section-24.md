@@ -1,0 +1,4 @@
+# Regulation of mining and quarrying
+24. (1) If the Government is of the opinion that for the purpose of protecting or preserving any immovable antiquity it is necessary so to do, it may, by notification in the official Gazette, prohibit or restrict, within such area as may be specified therein, mining, quarrying, excavating, blasting and other operations of a like nature, or the movement of heavy vehicles, except under and in accordance with the terms of a licence granted and rules, if any, made in this behalf.
+(2) Any owner or occupier of land who sustains any loss by reason of any prohibition or restriction by a notification under sub-section (1) shall be paid reasonable compensation for such loss.
+(3) Whoever contravenes the provisions of sub-section (1) shall be punishable with imprisonment for a term which may extend to one year, or with fine, or with both.

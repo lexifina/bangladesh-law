@@ -1,0 +1,2 @@
+# Restriction on use of protected immovable antiquity
+18. A protected immovable antiquity in respect of which the Director has accepted guardianship in pursuance of an agreement under section 12 or the Government has acquired any right under this Act, shall not, except as otherwise provided in such agreement or in this Act, be used for any purpose other than that directly related to its administration or preservation.

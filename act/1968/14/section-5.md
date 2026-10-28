@@ -1,0 +1,2 @@
+# Custody, preservation, etc., of ownerless antiquity
+5. Where the Director receives any information or otherwise has the knowledge of the discovery or existence of an antiquity of which there is no owner, he shall, after satisfying himself as to the correctness of the information or knowledge, take such steps as he may consider necessary for the custody, preservation and protection of the antiquity.

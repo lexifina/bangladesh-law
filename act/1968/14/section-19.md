@@ -1,0 +1,4 @@
+# Prohibition of destruction, damage etc., of antiquities
+19. (1) Subject to the provisions of this Act or of any agreement under section 12, no person shall, except for carrying out the purposes of this Act, destroy, break, damage, alter, injure, deface or mutilate, or scribble, write or engrave any inscription or sign on, any antiquity in respect of which the Director has accepted guardianship or the Government has acquired any right.
+(2) Whoever contravenes the provisions of sub-section (1) shall be punishable with imprisonment for a term which may extend to one year, or with fine, or with both.
+(3) The Court trying an offence under sub-section (2) may direct that the whole or any part of the fine recovered shall be applied in defraying the expenses of restoring the antiquity to the condition in which it was before the commission of the offence.

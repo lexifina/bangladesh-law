@@ -1,0 +1,3 @@
+# Representation against declaration of protected antiquities
+11. (1) The owner of an antiquity to which a notification under section 10 relates, or any person having any right or interest in the antiquity, may, within three months of the service of a copy of the notification, make a representation in writing to the Government against the notification.
+(2) Upon the receipt of a representation under sub-section (1) against a notification, the Government, after giving the person making it an opportunity of being heard and after consultation with the Advisory Committee, may, if it is satisfied that there are good and sufficient reasons for objection to the notification, cancel it.
