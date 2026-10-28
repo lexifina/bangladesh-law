@@ -1,0 +1,4 @@
+# Power of Government to obtain information
+13. (1) Any person authorised in this behalf by the Government may, for the purpose of ascertaining whether the requirements of this Act and of the Scheme have been complied with, require any employer to submit to him such accounts, books or other documents or to furnish to him such information or to give such certificates as he may reasonably think necessary.
+(2) Whoever wilfully obstructs any person in the exercise of his powers under this section or fails without reasonable excuse to comply with any request made thereunder shall, in respect of each occasion on which any such obstruction or failure takes place, be punishable with fine which may extend to one thousand Taka.
+(3) Whoever in purporting to comply with his obligations under this section knowingly or recklessly makes a statement false in a material particular shall be punishable with fine which may extend to one thousand Taka.

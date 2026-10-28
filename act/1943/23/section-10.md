@@ -1,0 +1,4 @@
+# Prohibition of certain insurance business
+10. (1) After the date on which the Scheme is put into operation no person shall, except as a person authorised by the Government as its agent to issue policies in pursuance of the Scheme, carry on the business of insuring employers in Bangladesh against the liabilities for insurance against which the Scheme provides.
+(2) Nothing in sub section (1) applies to any policy of insurance entered into before the date on which the Scheme is put into operation and current after that date or to any policy of insurance covering liabilities undertaken in excess of the liabilities imposed by this Act.
+(3) Whoever contravenes the provisions of sub section (1) shall be punishable with fine which may extend to five thousand Taka and with a further fine which may extend to one thousand Taka for every day after the first on which the contravention continues.
