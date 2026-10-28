@@ -1,0 +1,2 @@
+# Penalty for counterfeiting grade designation mark
+5. Whoever counterfeits any grade designation mark or has in his possession any die, plate or other instrument for the purpose of counterfeiting a grade designation mark shall be punishable with imprisonment which may extend to two years, or with fine, or with both.
