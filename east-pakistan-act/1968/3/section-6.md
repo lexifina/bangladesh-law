@@ -1,0 +1,3 @@
+6. (1) The cost of demolition of structures under section 3, hereinafter in this section referred as the cost, shall be payable to the Conservator by the lessee, licensee or the unauthorised occupant evicted, as the case may be.
+(2) If the cost is not paid on demand, the Chairman, Inland Water Transport Authority may, on application by the Conservator and after giving the lessee, licensee or unauthorised occupant, as the case may be, an opportunity of being heard, cause the materials of structures demolished to be sold in auction in such manner as may be prescribed.
+(3) If the sale proceeds exceed the cost, the excess amount shall be paid to the lessee or the unauthorised occupant.
