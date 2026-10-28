@@ -1,0 +1,4 @@
+# Suspension of sentence of imprisonment or detention
+155. (1) Where a person subject to this Ordinance has been sentenced by a court-martial to imprisonment or detention, the Government or the Chief of Naval Staff, or any officer empowered to convene a general or summary general court-martial may suspend the sentence whether or not the offender has already been committed to prison or custody.
+(2) The authority or officer specified in sub-section (1) may in the case of an offender so sentenced direct that, until the orders of such authority or officer have been obtained, the offender shall not be committed to prison or custody.
+(3) The powers conferred by sub-sections (1) and (2) may be exercised in the case of any such sentence which has been confirmed, mitigated or commuted.

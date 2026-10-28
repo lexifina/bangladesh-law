@@ -1,0 +1,2 @@
+# Attempt to stir up disturbance
+38. Every person subject to this Ordinance who attempts to stir up any disturbance in a naval ship, naval vessel or naval establishment on the ground of unwholesomeness of food or upon any other ground, shall be liable to suffer long imprisonment.

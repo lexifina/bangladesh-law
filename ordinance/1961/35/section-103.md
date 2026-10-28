@@ -1,0 +1,2 @@
+# Powers of other authorities in respect of summary trial
+103. The Chief of Naval Staff or any prescribed officer empowered by him in this behalf may in the prescribed manner and to such extent as may be specified by the Chief of Naval Staff, summarily try an officer of the rank of lieutenant or below charged with an offence under this Ordinance and award any punishment authorised by this Ordinance not exceeding forfeiture of seniority in rank or forfeiture of time for promotion for a period of six months.

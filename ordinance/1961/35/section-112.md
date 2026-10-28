@@ -1,0 +1,2 @@
+# Power to convict of mitigated offence
+112. Where higher punishment for any offence under this Ordinance depends upon the intent with which or the circumstances in which the offender acts, and any person is charged with committing that offence with such intent or in such circumstances, he may be found guilty of committing that offence without such intent or circumstances and awarded lower punishment.

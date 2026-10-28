@@ -1,0 +1,2 @@
+# False answers on enrolment
+69. Every person having become subject to this Ordinance by enrolment who is discovered to have made at the time of his enrolment a wilfully false answer to any question set forth in the prescribed form of enrolment, shall be liable to suffer short imprisonment.

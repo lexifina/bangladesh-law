@@ -1,0 +1,2 @@
+# Conduct to the prejudice of naval discipline
+75. Every person subject to this Ordinance who is guilty of any act, disorder or neglect to the prejudice of good order and naval discipline not described in the foregoing provisions of this Ordinance, shall be liable to suffer short imprisonment.

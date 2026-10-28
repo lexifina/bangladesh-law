@@ -1,0 +1,2 @@
+# Obstruction of operations
+31. Every person subject to this Ordinance who wilfully delays or discourages upon any pretext whatsoever, any action or service which has been commanded on the part of any of the Bangladesh forces or of any forces co-operating therewith, be liable, if the offence is committed with intent to assist the enemy, to suffer death, and in any other case, to suffer long imprisonment.

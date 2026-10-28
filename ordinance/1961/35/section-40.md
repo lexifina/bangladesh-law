@@ -1,0 +1,2 @@
+# Disobedience
+40. Every person subject to this Ordinance who wilfully disobeys any lawful command of his superior officer (by whatever means communicated to him), shall be liable to suffer long imprisonment.
