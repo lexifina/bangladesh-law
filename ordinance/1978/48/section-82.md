@@ -1,0 +1,2 @@
+# Penalty for committing nuisance in or near street, etc.
+82. Whoever in or near to any street or public place commits a nuisance by casing himself, or suffers any child in his care or custody under seven years of age to commit such nuisance or spits or throws any litter, refuse or rubbish so as to cause annoyance to any passer-by shall be punishable with fine which may extend to two hundred Taka.

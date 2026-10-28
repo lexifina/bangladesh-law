@@ -1,0 +1,2 @@
+# Penalty for neglect or refusal to deliver up certificate of appointment, etc.
+52. Any police-officer who wilfully neglects or refuses to deliver up his certificate of appointment or the arms, accoutrements, clothing and other articles supplied to him for the performance of his duties immediately after he ceases to belong to the Force shall be punishable with imprisonment for a term which may extend to three months, or with fine, which may extend to five hundred Taka, or with both.

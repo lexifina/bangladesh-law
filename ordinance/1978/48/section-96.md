@@ -1,0 +1,2 @@
+# Penalty for selling admission tickets at higher price
+96. Whoever sells or offers for sale any ticket once issued for admission as spectator to any place of public amusement at a price higher than the price at which such ticket was originally issued shall be punishable with imprisonment for a term which may extend to three months, or with fine which may extend to five hundred Taka, or with both.

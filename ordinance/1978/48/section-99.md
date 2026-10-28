@@ -1,0 +1,2 @@
+# Penalty for lighting fires, discharging guns or letting off fire-works
+99. Whoever sets fire to or burns any straw or other matter, or lights any bonfire, or wantonly discharges any fire-arm or airgun, lets off or throws any fire-work, in or near any street or public place, except at such times and places as may, from time to time, be allowed by the Police Commissioner shall be punishable with fine which may extend to one hundred Taka.
