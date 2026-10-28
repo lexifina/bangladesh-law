@@ -1,0 +1,2 @@
+# Guarantee on contract that creditor shall not act on it until co-surety joins
+144. Where a person gives a guarantee upon a contract that the creditor shall not act upon it until another person has joined in it as co-surety, the guarantee is not valid if that other person does not join.

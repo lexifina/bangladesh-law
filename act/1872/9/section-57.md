@@ -1,0 +1,6 @@
+# Reciprocal promise to do things legal, and also other things illegal
+57. Where persons reciprocally promise, firstly, to do certain things which are legal, and, secondly, under specified circumstances, to do certain other things which are illegal, the first set of promises is a contract, but the second is a void agreement.
+Illustration
+A and B agree that A shall sell B a house for 10,000 Taka but that, if B uses it as a gambling house, he shall pay A 50,000 Taka for it.
+The first set of reciprocal promises, namely, to sell the house and to pay 10,000 Taka for it, is a contract.
+The second set is for an unlawful object, namely, that B may use the house as a gambling house, and is a void agreement.

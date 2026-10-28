@@ -1,0 +1,2 @@
+# Pawnee not to retain for debt or promise other than that for which goods pledged Presumption in case of subsequent advances
+174. The pawnee shall not, in the absence of a contract to that effect retain the goods pledged for any debt or promise other than the debt or promise for which they are pledged; but such contract, in the absence of anything to the contrary, shall be presumed in regard to subsequent advances made by the pawnee.

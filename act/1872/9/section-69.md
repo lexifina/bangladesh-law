@@ -1,0 +1,5 @@
+# Reimbursement of person paying money due by another in payment of which he is interested
+69. A person who is interested in the payment of money which another is bound by law to pay, and who therefore pays it, is entitled to be reimbursed by the other.
+Illustration
+B holds land in Bangladesh, on a lease granted by A, the zamindar. The revenue payable by A to the Government being in arrear, his lands is advertised for sale by the Government. Under the
+revenue law, the consequence of such sale will be the annulment of B's lease. B, to prevent the sale and the consequent annulment of his own lease, pays to the Government the sum due from A. A is bound to make good to B the amount so paid.

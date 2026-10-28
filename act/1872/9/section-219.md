@@ -1,0 +1,2 @@
+# When agent's remuneration becomes due
+219. In the absence of any special contract, payment for the performance of any act is not due to the agent until the completion of such act; but an agent may detain moneys received by him on account of goods sold, although the whole of the goods consigned to him for sale may not have been sold, or although the sale may not be actually complete.

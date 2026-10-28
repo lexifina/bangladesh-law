@@ -1,0 +1,5 @@
+# Guarantee obtained by concealment invalid
+143. Any guarantee which the creditor has obtained by means of keeping silence as to material circumstances is invalid.
+Illustrations
+(a) A engages B as clerk to collect money for him. B fails to account for some of his receipts, and A in consequence calls upon him to furnish security his duly accounting. C gives his guarantee for B's duly accounting. A does not acquaint C with B's previous conduct. B afterwards makes default. The guarantee is invalid.
+(b) A guarantees to C payment for iron to be supplied by him to B to the amount of 2,000 tons. B and C have privately agreed that B should pay five Taka per ton beyond the market price, such excess to be applied in liquidation of an old debt. This agreement is concealed from A. A is not liable as a surety.

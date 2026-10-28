@@ -1,0 +1,2 @@
+# Termination of sub-agent's authority
+210. The termination of the authority of an agent causes the termination (subject to the rules herein contained regarding the termination of an agent's authority) of the authority of all sub-agents appointed by him.

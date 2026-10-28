@@ -1,0 +1,2 @@
+# Defaulting pawnor's right to redeem
+177. If a time is stipulated for the payment of the debt, or performance of the promise, for which the pledge is made, and the pawnor makes default in payment of the debt or performance of the promise at the stipulated time, he may redeem the goods pledged at any subsequent time before the actual sale of them; but he must, in that case, pay, in addition, any expenses which have arisen from his default.

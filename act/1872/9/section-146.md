@@ -1,0 +1,5 @@
+# Co-sureties liable to contribute equally
+146. Where two or more persons are co-sureties for the same debt or duty, either jointly or severally, and whether under the same or different contracts, and whether with or without the knowledge of each other, the co-sureties, in the absence of any contract to the contrary, are liable, as between themselves, to pay each an equal share of the whole debt, or of that part of it which remains unpaid by the principal debtor.
+Illustrations
+(a) A, B and C are sureties to D for the sum of 3,000 Taka lent to E. E makes default in payment. A, B and C are liable, as between themselves, to pay 1,000 Taka each.
+(b) A, B and C are sureties to D for the sum of 1,000 Taka lent to E, and there is a contract between A, B and C that A is to be responsible to the extent of one-quarter, B to the extent of one-quarter and C to the extent of one-half. E makes default in payment. As between the sureties, A is liable to pay 250 Taka, B 250 Taka and C 500 Taka.

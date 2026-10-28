@@ -1,0 +1,2 @@
+# Application of payment where neither party appropriates
+61. Where neither party makes any appropriation the payment shall be applied in discharge of the debts in order of time, whether they are or are not barred by the law in force for the time being as to the limitation of suits. If the debts are of equal standing, the payment shall be applied in discharge of each proportionally.

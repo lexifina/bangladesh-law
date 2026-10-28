@@ -1,0 +1,2 @@
+# Pawnee's right of retainer
+173. The pawnee may retain the goods pledged, not only for payment of the debt or the performance of the promise, but for the interest of the debt, and all necessary expenses incurred by him in respect of the possession or for the preservation of the goods pledged.

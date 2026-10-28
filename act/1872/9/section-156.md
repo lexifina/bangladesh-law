@@ -1,0 +1,4 @@
+# Effect of mixture, without bailor's consent, when the goods can be separated
+156. If the bailee, without the consent of the bailor, mixes the goods of the bailor with his own goods, and the goods can be separated or divided, the property in the goods remains in the parties respectively; but the bailee is bound to bear the expense of separation or division, and any damage arising from the mixture.
+Illustration
+A bails 100 bales of cotton marked with a particular mark to B. B, without A's consent, mixes the 100 bales with other bales of his own, bearing a different mark. A is entitled to have his 100 bales returned, and B is bound to bear all the expense incurred in the separation of the bales, and any other incidental damage.

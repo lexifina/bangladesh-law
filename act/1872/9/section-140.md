@@ -1,0 +1,2 @@
+# Rights of surety on payment or performance
+140. Where a guaranteed debt has become due, or default of the principal debtor to perform a guaranteed duty has taken place, the surety, upon payment or performance of all that he is liable for, is invested with all the rights which the creditor had against the principal debtor.

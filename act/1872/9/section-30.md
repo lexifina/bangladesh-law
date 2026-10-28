@@ -1,0 +1,4 @@
+# Agreements by way of wager void Exceptions in favour of certain prizes for horse-racing. Section 294A of the Penal Code not affected
+30. Agreements by way of wager are void; and no suit shall be brought for recovering anything alleged to be own on any wager, or entrusted to any person to abide the result of any game or other uncertain event on which wager is made.
+This section shall not be deemed to render unlawful a subscription, or contribution, or agreement to subscribe or contribute, made or entered into for or toward any plate, prize or sum of money, of the value or amount of five hundred Taka or upwards, to be awarded to the winner or winners of any horse race.
+Nothing in this section shall be deemed to legalize any transaction connected with horse-racing, to which the provisions of section 294A of the Penal Code apply.

@@ -1,0 +1,3 @@
+### Revocation of Authority
+# Termination of agency
+201. An agency is terminated by the principal revoking his authority; or by the agent renouncing the business of the agency; or by the business of the agency being completed; or by either the principal or agent dying or becoming of unsound mind; or by the principal being adjudicated an insolvent under the provisions of any Act for the time being in force for the relief of insolvent debtors.

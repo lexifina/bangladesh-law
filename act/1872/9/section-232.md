@@ -1,0 +1,4 @@
+# Performance of contract with agent supposed to be principal
+232. Where one man makes a contract with another, neither knowing nor having reasonable ground to suspect that the other is an agent, the principal, if he requires the performance of the contract, can only obtain such performance subject to the rights and obligations subsisting between the agent and the other party to the contract.
+Illustration
+A, who owes 500 Taka to B, sells 1,000 Taka worth of rice to B. A is acting as agent for C in the transaction, but B has no knowledge nor reasonable ground of suspicion that such is the case. C cannot compel B to take the rice without allowing him to set off A's debt.

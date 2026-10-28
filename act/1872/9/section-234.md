@@ -1,0 +1,2 @@
+# Consequence of inducing agent or principal to act on belief that principal or agent will be held exclusively liable
+234. When a person who has made a contract with an agent induces the agent to act upon the belief that the principal only will be held liable, or induces the principal to act upon the belief that the agent only will be held liable, he cannot afterwards hold liable the agent or principal respectively.
