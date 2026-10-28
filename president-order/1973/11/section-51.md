@@ -1,0 +1,1 @@
+51. If, in the absence of any clear provisions in this Order, the Statutes or the University Ordinances, any question arises as to whether any person is entitled to be a member of any authority or of any other body of the University, the matter shall be referred to the Chancellor whose decision thereon shall be final.

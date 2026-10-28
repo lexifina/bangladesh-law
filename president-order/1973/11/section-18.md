@@ -1,0 +1,1 @@
+18. The powers of officers of the University other than the Chancellor, the Vice-Chancellor, the Pro-Vice-Chancellor, the Treasurer and the Registrar, shall be prescribed by the Statutes and the University Ordinances.

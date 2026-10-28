@@ -1,0 +1,2 @@
+3. (1) The University shall consist of the Chancellor, the Vice-Chancellor and member of the Senate, the Syndicate and the Academic Council.
+(2) The University shall be a body corporate by the name of the University of Dhaka having perpetual succession and a common seal with power, subject to the provisions of this Order, to acquire, hold and dispose of property, both movable and immovable, and shall by the said name sue and be sued.

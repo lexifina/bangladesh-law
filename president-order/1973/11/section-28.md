@@ -1,0 +1,2 @@
+28. (1) The Head of every teaching Department, hereinafter referred to as the Department, shall be called the Chairman who shall be appointed in such manner as may be prescribed by the Statutes.
+(2) The Chairman of a Department shall be responsible to plan, organise and co-ordinate the work of the Department and shall be responsible to the Dean for the organisation and teaching in his Department subject to such directions as may be given from time to time by the Vice-Chancellor.

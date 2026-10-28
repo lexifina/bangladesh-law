@@ -1,0 +1,1 @@
+53. Where any authority of the University is authorised by this Order or the Statutes to appoint a Committee, such Committee shall, unless otherwise provided, consist of one or more members of the authority concerned and of such other persons, if any, as the authority in each case may determine.
