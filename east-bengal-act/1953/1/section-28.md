@@ -1,0 +1,3 @@
+# Compensation for damages
+28. Subject to the provisions of section 5, whenever any land other than land required or taken by the Engineer, or any right of fishery, right of drainage, right to the use of water or other right of property, shall have been injuriously affected by any act done or any work executed under the due exercise of the powers or provisions of this Act, the person in whom such property or right is vested may prefer a claim by petition to the Deputy Commissioner for compensation:
+Provided that the refusal to execute any work for which application is made shall not be deemed to be an act on account of which a claim for compensation can be preferred under this section.

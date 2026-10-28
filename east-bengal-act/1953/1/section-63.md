@@ -1,0 +1,2 @@
+# General control of Engineers and Project Directors
+63. The powers conferred on the Engineer under this Act shall be exercised subject to the general control and orders of the Project Director of the Authority, to whom he is subordinate, and the powers of the Project Director of the Authority shall be exercised subject to the general control and orders of the Commissioner, Water Development of the Authority.

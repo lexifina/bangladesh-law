@@ -1,0 +1,3 @@
+# Removal of obstruction and repair of damage
+59. The Magistrate, while convicting any person of an offence under any of the three last preceding sections, may order that such person shall remove the embankment or obstruction, or repair the damage, in respect of which conviction is held, within a period fixed by such order.
+If such person neglects or refuses to obey such order within the period fixed, the Magistrate may cause such embankment or obstruction to be removed and such damage to be repaired by the Engineer; and the cost of such removal or repair shall be levied from such person, in addition to any other penalty, in manner provided in sections 386, 387 and 389 of the Code of Criminal Procedure, 1898.

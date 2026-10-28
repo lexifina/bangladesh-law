@@ -1,0 +1,2 @@
+# Appeals from orders
+62. Every order passed by the Engineer in respect of applications made under section 15 and every order passed by the Engineer under section 42, shall be appealable to the Project Director of the Authority concerned, and every order passed by the Deputy Commissioner under section 44 or section 53, shall be appealable to the Commissioner of the Division; but no appeal shall lie under this section against any order unless the same be presented within thirty days from the date of the order.

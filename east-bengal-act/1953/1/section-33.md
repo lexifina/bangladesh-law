@@ -1,0 +1,2 @@
+# Claims for compensation in case of acquisition of lands in emergency
+33. Whenever any land vests in the Government or the Authority under the provisions of the next preceding section, the Deputy Commissioner shall cause a general notice to be issued in the prescribed form at convenient places on or near the land so vested, stating that the Government or the Authority shall take possession of the land, and that claims to compensation for all interests in such lands shall be made to him.

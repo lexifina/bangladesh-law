@@ -1,0 +1,3 @@
+# Delegation of powers of Collector and Engineer
+66. (1) The Deputy Commissioner or Engineer may delegate any of his powers to any officer subordinate to him, but any order passed by such officer in exercise of any of the delegated powers shall, on the presentation of a petition by the aggrieved person within thirty days of such order, be subject to revision by the Deputy Commissioner or Engineer, as the case may be.
+(2) An order passed by the Deputy Commissioner or Engineer under sub section (1) shall be subject to the foregoing provisions of this Act as if it were an original order passed by them.

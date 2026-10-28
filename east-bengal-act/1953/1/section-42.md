@@ -1,0 +1,2 @@
+# General notice of receipt of estimates, etc., and objections
+42. A general notice of any such specifications and estimates shall be published in the prescribed manner, and in such general notice shall be specified all lands chargeable for, or likely to be affected by, the said works or repairs. Should any objection in regard to such specifications and estimates be preferred by any person within thirty days of publication of such notice, the Engineer shall pass such orders as may appear to him reasonable and proper.

@@ -1,0 +1,2 @@
+# Bar to impeachment of proceedings
+61. No proceedings under this Act shall be impeached or affected by reason of any mistake in the name of any person thereby rendered liable to pay any sum of money, or in the description of any land in respect of which such person is rendered liable to pay, provided the provisions of this Act and the rules made thereunder are in substance and effect complied with; and no proceedings under this Act shall, for want of form, be quashed or set aside in any Court of Justice.

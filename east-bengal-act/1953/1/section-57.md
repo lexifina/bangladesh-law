@@ -1,0 +1,2 @@
+# Penalty for injuring embankment, etc.
+57. Whoever, without due authority in this behalf, cuts through or attempts to cut through any public embankment, or destroys or attempts to destroy any such embankment, or opens or shuts or obstructs any sluice in any such embankment or any public water course, shall be liable to imprisonment of either description for a term which may extend to one month or to fine which may extend to two hundred rupees.

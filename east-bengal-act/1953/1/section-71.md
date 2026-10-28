@@ -1,0 +1,3 @@
+# Savings
+71. (1) The cost payable in respect of any act, work or repair which has, before the commencement of this Act, been completed under the provisions of the enactments repealed by section 2, shall, notwithstanding such repeal, be recoverable under the provisions of the enactments so repealed.
+(2) Any act or work of the nature referred to in section 7, or any repair commenced under the provisions of the enactments repealed by section 2, which remains pending on the date of the commencement of this Act, shall be deemed to have been commenced under the corresponding provision of this Act and shall be continued, so far as may be, in accordance with the provisions of this Act.

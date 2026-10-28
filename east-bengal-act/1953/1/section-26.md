@@ -1,0 +1,2 @@
+# Proceedings in case of lands in different Divisions under Water Wing of Authority
+26. If any portion of the land likely to be affected by any work to be undertaken under this Part lies within another Division under the Water Wing of the Authority, the Engineer who causes the work to be executed shall, when commencing upon it, give notice of the same to the Engineer of such other Division under the Water Wing of the Authority; and the provisions of section 17 shall be applicable to all proceedings connected with the work and the cost thereof.

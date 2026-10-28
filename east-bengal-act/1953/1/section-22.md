@@ -1,0 +1,2 @@
+# Power to take earth, etc., from land
+22. Whenever it is deemed requisite to repair any embankment or water course, or embanked tow path maintained by the Government or the Authority, it shall be lawful for the Engineer, or any person authorised in writing in that behalf, to enter in and upon the lands mentioned in section 5, and to take possession of, appropriate and remove any earth or other material from such lands, and to use the same for the purposes of such repairs.

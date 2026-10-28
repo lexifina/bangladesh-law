@@ -1,0 +1,6 @@
+# Preparation of accounts and Engineer's certificate
+43. As soon as possible after the completion of any works or repairs, the Engineer shall prepare accounts of the actual expenses incurred in executing any works or repairs or of any portion of the actual expenses which may be dealt with separately under this and the following sections, and transmit the same to the Deputy Commissioner.
+The Engineer shall sign a certificate stating the amount of all such expenses, and specifying the boundaries of the lands which are benefited or affected by the said works or repairs, and stating generally how and to what extent the lands so specified, or any part of them, are affected.
+Any such certificate may be amended at any time before the Deputy Commissioner has made an order charging or apportioning the amount under section 49.
+On receipt of such certificate or amended certificate, the Deputy Commissioner shall cause a statement to be prepared of the lands which are benefited or protected by such works and repairs, and, except as otherwise provided in this Act, the said amount shall be recoverable from the owners of such lands in the manner hereinafter provided.
+Copies of the said account, certificate and statement shall be deposited in the office of the Deputy Commissioner and may there be examined and copies taken by any person interested.

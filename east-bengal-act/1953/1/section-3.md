@@ -1,0 +1,13 @@
+# Definitions
+3. In this Act, unless there is anything repugnant in the subject or context,-
+(a) “Authority” means East Pakistan Water and Power Development Authority established under section 3 of the East Pakistan Water and Power Development Authority Ordinance, 1958;
+(b) “Deputy Commissioner” means the Chief Officer in-charge of revenue administration of a district and such other person as may be specially appointed by the Government to perform the functions of a Deputy Commissioner under this Act;
+(c) “embankment” includes every bank, dam, wall and dyke made or used for excluding water from or for retaining water upon any land; every sluice, spur, groyne, training wall, berm or other work annexed to, or portion of, any such embankment, every ban, dam, dyke, wall, groyne or spur made or executed for the protection of any such embankment or of any land from erosion or overflow by or of rivers, tides, waves or waters; and also all buildings, intended for purposes of inspection and supervision, but does not include any ail or ridge surrounding or dividing a field or any public or private road;
+(d) “Engineer” means the Engineer in-charge of a Division under Water Wing of the Authority or any Engineer specially appointed to perform the functions of an Engineer under this Act;
+(e) “land” includes interests in land and benefits arising out of land, and things attached to the earth or permanently fastened to anything attached to the earth;
+(f) “owner”, used in relation to a land, means a person who has a right, title or interest in that land, and is either in actual possession of it or has an immediate right to actual possession thereof, and include his trustee, heirs, assigns, transferees and legal representatives, but does not include a person who, under the system generally known as adhi, barga or bhag, cultivates such land:
+Provided that where any person is, under the terms of any contract between him and the Government or the Authority, liable to do any act or execute any work specified in Part II of this Act, for the benefit of any area, such person shall be deemed to be the owner in relation to any land in such area and shall be deemed to be in possession of such land;
+(g) “prescribed” means prescribed by rules made under this Act;
+(h) “public embankment” means an embankment vested in or maintained by the Government or the Authority;
+(i) “public water-course” means a water-course vested in or under the charge of the Government or the Authority; and
+(j) “water-course” includes a line of drainage, weir, culvert, pipe or other channel, whether natural or artificial, for the passage of water.

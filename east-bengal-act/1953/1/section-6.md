@@ -1,0 +1,2 @@
+# Notification
+6. The Government may, from time to time, by notification in the official Gazette, declare the limits of any tract within which the provisions of clause (b) of sub-section (1) of section 56 shall take effect. As soon as possible after the said notification, the Engineer shall cause a translation of the notification in the vernacular to be published in the prescribed manner; and the said provisions shall take effect one month after the publication of such translation.

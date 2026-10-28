@@ -1,0 +1,3 @@
+# Notice of receipt of accounts and objections
+44. General notice of the receipt and deposit of such accounts, certificates and statements in the office of the Deputy Commissioner shall be given in the manner prescribed.
+If, within thirty days of such general notice being given, any interested person objects to the accounts on the ground that the work charged for has not been performed, or that the whole sum charged has not been expended, or that the rates of charge are higher than those mentioned in the estimates, the Deputy Commissioner shall enquire into such objection and pass such orders thereon as may appear to him reasonable and proper.

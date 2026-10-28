@@ -1,0 +1,5 @@
+# Application for construction of sluice embankment, water courses, etc.
+15. (1) (a) If any person desires that a bridge, culvert, syphon or sluice be made in any public embankment for the purpose of drainage, or
+(b) if, within any area which has been included in a notification under section 6, any person desires that any new embankment be erected, that any existing embankment be lengthened, enlarged, repaired or removed, or that the line of any embankment be altered, or that any new water-course be made, or that any water course be obstructed or diverted, he may make an application in writing to the Engineer.
+(2) The application shall contain such particulars of the lands likely to be benefited or affected by the work as may enable the engineer to judge of the advantage which may be derived from the project.
+(3) If it should appear to the Engineer that the work applied for is one which may be executed with advantage, the procedure mentioned in the 7th and following sections of this Act shall be followed in respect of the proposed work.
