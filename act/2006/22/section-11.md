@@ -1,0 +1,6 @@
+# ১১৷ Ordinance No. XXXVI of 1984 এর section 19B এর সংশোধন
+১১৷ Income-tax Ordinance এর section 19B এর clauses (a) ও (b) এর পরিবর্তে নিম্নরূপ clauses (a), (b), (c) ও (d) প্রতিস্থাপিত হইবে, যথাঃ-
+“(a) taka three hundred per square meter in the case of a building or apartment the plinth area of which does not exceed two hundred square meter for the area of Gulshan Model Town, Banani, Baridhara, Defence Officers Housing Society (DOHS), Dhanmondi Residential Area, Lalmatia Housing Society, Uttara Model Town, Bashundhara Residential Area, Dhaka Cantonment, Motijheel Commercial Area, Dilkusha Commercial Area, Kawran Bazar Commercial Area of Dhaka and Khulshi Residential Area, Panchlaish Residential Area of Chittagong;
+(b) taka five hundred per square meter in the case of a building or apartment the plinth area of which exceeds two hundred square meter for the areas mentioned in clause (a);
+(c) taka two hundred per square meter in the case of a building or apartment the plinth area of which does not exceed two hundred square meter for the area other than the areas mentioned in clause (a);
+(d) taka three hundred per square meter in the case of a building or apartment the plinth area of which exceeds two hundred square meter for the area other than the areas mentioned in clause (a)."৷
