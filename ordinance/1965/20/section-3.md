@@ -1,0 +1,2 @@
+# Conferment of degrees on Cadet-entry Officers
+3. The Bangladesh Naval Academy shall have the power to confer the degree of the Bachelor of Science, abbreviation whereof shall be B.Sc. (N.A.), on any Cadet-entry Officer on his successful completion of the prescribed course in the Bangladesh Naval Academy appropriate to his branch, and such power shall include the power to confer that degree on any Cadet-entry Officer who at any time before the commencement of this Ordinance was commissioned on completion of a similar prescribed course.
