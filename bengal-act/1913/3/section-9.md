@@ -1,0 +1,3 @@
+# Filing of petition denying liability
+9. (1) The certificate-debtor may, within thirty days from the service of the notice required by section 7, or, where the notice has not been duly served, then within 30 days from the execution of any process for enforcing the certificate, present to the Certificate-officer in whose office the certificate is filed, or to the Certificate-officer who is executing the certificate, a petition, in the prescribed form, signed and verified in the prescribed manner, denying his liability, in whole or in part.
+(2) If any such petition is presented to a Certificate-officer other than the Certificate-officer in whose office the original certificate is filed, it shall be sent to the latter officer for disposal.

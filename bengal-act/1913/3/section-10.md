@@ -1,0 +1,3 @@
+# Hearing and determining of such petition
+10. The Certificate-officer in whose office the original certificate is filed shall hear the petition, take evidence (if necessary), and determine whether the certificate-debtor is liable for the whole or any part of the amount for which the certificate was signed; and may set aside, modify or vary the certificate accordingly:
+Provided that, if the Certificate-officer is not the Collector, and considers that the petition involves a bona fide claim of right to property, he shall refer the petition to the Collector for orders; and the Collector, if he is satisfied that a bona fide claim of right of property is involved, shall make an order canceling the certificate.

@@ -1,0 +1,2 @@
+# Application to set aside sale on ground that certificate-debtor had no saleable interest or that property did not exist
+24. The purchaser at any sale of immovable property in execution of a certificate may, at any time within sixty days from the date of the sale, apply to the Certificate-officer to set aside the sale on the ground that the certificate-debtor had no saleable interest in the property sold, or that the property did not exist at the time of the sale.

@@ -1,0 +1,3 @@
+# Signature of documents by ministerial officers
+59. (1) Any Certificate-officer may, by written order, authorize any ministerial officer to sign, on behalf of the Certificate-officer, any copy, issued by the Certificate-officer under this Act, of any document referred to therein.
+(2) The Government may, by notification in the official Gazette, empower Certificate-officers to authorize ministerial officers, by written order, to sign on behalf of Certificate-officers any classes of original notices, summonses or proclamations issued by Certificate-officers under this Act which are specified in such notification.

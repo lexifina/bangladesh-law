@@ -1,0 +1,2 @@
+# Filing of certificate on requisition
+6. On receipt of any such requisition, the Certificate-officer, if he is satisfied that the demand is recoverable and that recovery by suit is not barred by law, may sign a certificate, in the prescribed form, stating that the demand is due; and shall include in the certificate the fee (if any) paid under section 5, sub-section (2); and shall cause the certificate to be filed in his office.

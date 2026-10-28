@@ -1,0 +1,3 @@
+# Release from arrest and re-arrest
+30. (1) The Collector may order the release of a certificate-debtor who has been arrested in execution of a certificate, upon being satisfied that he has disclosed the whole of his property and has placed it at the disposal of the Certificate-officer and that he has not committed any act of bad faith.
+(2) If the Certificate-officer has ground for believing the disclosure made by a certificate-debtor under sub-section (1) to have been untrue, he may order the re-arrest of the certificate-debtor in execution of the certificate, but the period of his detention in the civil prison shall not in the aggregate exceed that authorized by section 31, sub-section (1).

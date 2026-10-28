@@ -1,0 +1,6 @@
+# Application to set aside sale of immovable property on ground of non-service of notice or irregularity
+23. (1) Where immovable property has been sold in execution of a certificate, the certificate-holder, the certificate-debtor, or any person whose interests are affected by the sale, may, at any time within sixty days from the date of the sale, apply to the Certificate-officer to set aside the sale on the ground that notice was not served under section 7 or on the ground of a material irregularity in the certificate proceedings or in publishing or conducting the sale:
+Provided as follows:-
+(a) no sale shall be set aside on any such ground unless the Certificate-officer is satisfied that the applicant has sustained substantial injury by reason of the non-service or irregularity; and
+(b) an application made by a certificate-debtor under this section shall be disallowed unless the applicant either deposits the amount recoverable from him in execution of the certificate or satisfies the Certificate-officer that he is not liable to pay such amount.
+(2) Notwithstanding anything contained in sub-section (1), the Certificate-officer may entertain an application made after the expiry of sixty days from the date of the sale if he is satisfied that there are reasonable grounds for so doing.

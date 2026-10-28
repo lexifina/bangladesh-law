@@ -1,0 +1,4 @@
+# Requisition for certificate in other cases
+5. (1) When any public demand payable to any person other than the Collector is due, such person may send to the Certificate-officer a written requisition in the prescribed form:
+Provided that no action shall be taken under this Act, on a requisition made by a land mortgage bank registered or deemed to be registered under the Co-operative Societies Act, 1940, or an assignee of such bank, unless the requisition be countersigned by the Registrar of Co-operative Societies, Bangladesh.
+(2) Every such requisition shall be signed and verified in the prescribed manner, and, except in such cases as may be prescribed, shall be chargeable with the fee of the amount which would be payable under the Court-fees Act, 1870, in respect of a plaint for the recovery of a sum of money equal to that stated in the requisition as being due.

@@ -1,0 +1,3 @@
+# General bar to jurisdiction of Civil Courts, save where fraud alleged
+37. Except as otherwise expressly provided in this Act every question arising between the certificate-holder and the certificate-debtor, or their representatives, relating to the making, execution, discharge or satisfaction of a certificate duly filed under this Act, or relating to the confirmation or setting aside by an order under this Act of a sale held in execution of such certificate, shall be determined, not by suit, but by order of the Certificate-officer before whom such question arises, or of such other Certificate-officer as he may determine:
+Provided that a suit may be brought in a Civil Court in respect of any such question upon the ground of fraud.
