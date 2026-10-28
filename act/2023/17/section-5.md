@@ -1,0 +1,12 @@
+# P O No 155 of 1972 এর Article 25 এর প্রতিস্থাপন
+৫। উক্ত Order এর Article 25 এর পরিবর্তে নিম্নরূপ Article 25 প্রতিস্থাপিত হইবে, যথা :-
+"25. (1) If the Presiding Officer finds at any stage of polling that-
+(a) the poll is so interrupted or obstructed for reason beyond the control of the Presiding Officer that it cannot be resumed during the polling hours fixed under Article 24; or
+(b) any ballot box used at the polling station is unlawfully and forcibly taken out of the custody of the Presiding Officer, or is accidentally or intentionally destroyed or lost, or is damaged or tampered to such extent that the result of the poll at the polling station cannot be ascertained; or
+(c) a person or persons legally or illegally entering into the polling station, prevent the Presiding Officer or other polling officers from performing their usual electoral duties by showing arms or applying physical force,
+he shall then forthwith stop polling, and inform the nearest members of law enforcing agencies about the incidents and shall ask for assistance to remove and arrest the said person or persons.
+(2) The members of law enforcing agencies shall at once remove and arrest the said person or persons and restore law and order inside the polling station.
+(3) If the members of law enforcing agencies fail to remove and arrest the said person or persons and restore law and order inside the polling station, the Presiding Officer shall stop the poll and leave the polling station with all his officers and report to the Returning Officer of the matter.
+(4) Where a poll has been stopped under clause (3), the Returning Officer shall immediately report the circumstances to the Commission and the Commission shall direct a fresh poll at that polling station, unless it is satisfied that the result of the election has been determined by the polling station, taken with the results of the polling at other polling stations in the same constituency.
+(5) Where the Commission orders a fresh poll under clause (4), the Returning Officer shall, with the approval of the Commission, fix a date and place for such fresh poll and shall give public notice thereof.
+(6) When a fresh poll to be taken under clause (5) at a polling station, all electors entitled to vote of that polling station shall be allowed to vote and no vote cast at the poll stopped under clause (3) shall be counted; and the provisions of this Order and the rules and orders made thereunder shall apply to such fresh poll."
