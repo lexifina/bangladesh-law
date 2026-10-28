@@ -1,0 +1,9 @@
+# Order for possession of lands adjoining a derelict tank for carrying out improvements in such tank
+[^8][6A. (1) If any authorised person considers it necessary for the purpose of carrying out the improvements in a derelict tank to take possession of any land adjoining such tank, he may,-
+(a) if he is the Collector, take possession of such land by order in writing; and
+(b) if he is not the Collector, apply in the prescribed manner to the Collector to be empowered to take possession of such land and the Collector may, if he is satisfied after considering the application that such land is required for carrying out the improvements, empower the authorised person by order in writing to take possession of such land:
+Provided that the Collector shall not take possession or empower any authorised person to take possession of such land without giving in the prescribed manner the person in possession of such land reasonable opportunity of making any representation he may like to make and without considering any representation so made.
+(2) Every order made under sub-section (1) shall specify the boundaries of the land to which it relates or the number entered in the record-of-rights finally published [^9][under Chapter IV of the State Acquisition and Tenancy Act, 1950] of the survey plot comprising such land and shall be in such form as may be prescribed.]
+
+[^8]: Section 6A was inserted by section 3 and the Second Schedule of the East Bengal Laws (Amendment and Repeal) Act, 1949 (East Bengal Act No. V of 1950)
+[^9]: The words, comma and figure “under Chapter IV of the State Acquisition and Tenancy Act, 1950” were substituted for the words, comma and figure “under Chapter X of the Bengal Tenancy Act, 1885 or under chapter IX of the Sylhet Tenancy Act, 1936 as the case may be” by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)

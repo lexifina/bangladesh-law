@@ -1,0 +1,4 @@
+# Order for possession of, and improvements in, a derelict tank
+6. (1) Any local authority or co-operative society, or any other person who, in the opinion of the Collector, has an interest in a derelict tank, may, if authorised by the Collector by an order in writing in this behalf, take possession of such tank and carry out the improvements specified in the notice under section 3.
+(2) In making an order under sub-section (1) the Collector shall, except for sufficient reason to be recorded in writing, give preference to the sole owner or any co-sharer owner of the tank who has submitted an application stating that he is willing to carry out the said improvements or he may make an order in favour of more than one such co-sharer owner jointly.
+(3) An order under sub-section (1) shall be in such form and shall contain such particulars and conditions as may be prescribed.

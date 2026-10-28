@@ -1,0 +1,2 @@
+# Bar to transfer of tank except as provided in this Act
+19. Except as provided in this Act, no transfer by sale, gift, will, mortgage, lease or any contract or agreement of any right acquired by an authorised person under the provisions of this Act in respect of a derelict tank or in respect of any land of which possession is taken under section 6A or retaken under section (3) of section 9B shall be valid.

@@ -1,0 +1,2 @@
+# Requisition by Collector to carry out improvements in certain tanks
+3. If the Collector is of opinion that any tank has fallen into disrepair or disuse, he may serve a notice in the prescribed form and manner on the person having control over the tank requiring him to carry out within a period specified in the notice such improvements of the tank as the Collector considers necessary for the proper utilisation of the tank for purposes of irrigation and pisciculture.

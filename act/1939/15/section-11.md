@@ -1,0 +1,3 @@
+# Possession by an authorised person not to affect the rights or liabilities of other persons
+11. Save as otherwise expressly provided in this Act, the possession of a derelict tank or of any land adjoining a derelict tank under this Act by an authorised person shall not affect the right or liability of any other person to receive or pay rent in respect of the said tank or land or in respect of any right or interest therein:
+Provided that where rent in respect of the tank was, at the time when possession was first taken of the tank under this Act, payable by any person solely in respect of a right to use the water of the tank for irrigation purposes the liability to pay such rent shall cease and determine from the date on which such possession was taken.

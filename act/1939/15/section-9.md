@@ -1,0 +1,5 @@
+# Owner to be restored to possession on certain conditions
+9. Notwithstanding anything contained in section 8, the Collector in his discretion may, at any time within the period determined under the said section, restore to possession of the tank the person recorded as entitled to possession thereof in the record-of-rights referred to in section 22 or his successors-in-interest, provided that-
+(a) such person pays to the Collector so much of the costs incurred up to that time both by the authorised person in carrying out the required improvements in the tank and by the Collector in carrying out the purposes of this Act
+in respect of the tank as remains unrecovered after realisation by the authorised person under this Act of the fees referred to in section 17 or of any sum under any lease referred to in section 18, together with interest on the costs so remaining unrecovered at the rate of [fifteen] per centum per annum, and
+(b) he undertakes to the satisfaction of the Collector to carry out any remaining improvements specified in the notice under section 3 within such period as the Collector may determine.

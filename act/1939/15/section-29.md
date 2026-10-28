@@ -1,0 +1,2 @@
+# Order of Civil Court not to operate during period of possession
+29. No decree nor order of a Civil Court shall operate to disturb, curtail or otherwise modify the possession under this Act of a tank or of any land adjoining such tank by the authorised person, or, during the period of possession of such tank or during the period for which any such land remains in the possession of an authorised person, to annual or alter any order or decision of the Collector or any other Revenue authority made or purporting to have been made under the provisions of this Act.

@@ -1,0 +1,5 @@
+# Bar to acquisition of occupancy rights in lands leased out under section 18
+[^19][19A. Notwithstanding anything contained in the [^20][State Acquisition and Tenancy Act, 1950] no person shall acquire any occupancy right in any part of the banks of, or in any land adjoining, a tank leased out to such person under section 18 and no person who has held any part of the banks of any tank under a lease under section 18 at any time since the commencement of this Act shall be deemed to have acquired any occupancy right therein.]
+
+[^19]: Section 19A was inserted by section 3 and the Second Schedule of the East Bengal Laws (Amendment and Repeal) Act, 1949 (East Bengal Act No. V of 1950)
+[^20]: The words, comma and figure “State Acquisition and Tenancy Act, 1950” were substituted for the words, comma and figure “Bengal Tenancy Act, 1885 or under chapter IX of the Sylhet Tenancy Act, 1936 as the case may be” by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
