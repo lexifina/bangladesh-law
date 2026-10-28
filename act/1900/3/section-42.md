@@ -1,0 +1,2 @@
+# Power to Government to exempt certain prisoners from operation of this Part.
+42. The Government may by notification in the Official Gazette, direct that any person or any class of persons shall not be removed from the prison in which he or they may be confined; and thereupon, and so long as such notification remains in force, the provisions of this Part, other than those contained in sections 44 to 46, shall not apply to such person or class of persons.

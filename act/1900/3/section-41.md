@@ -1,0 +1,2 @@
+# Prisoner to be brought up.
+41. Upon delivery of any order under this Part to the officer in charge of the prison in which the person named therein in confined, that officer shall cause him to be taken to the Court in which his attendance is required, so as to be present in the Court at the time in such order mentioned, and shall cause him to be detained in custody in or near the Court until he has been examined or until the Judge or presiding officer of the Court authorizes him to be taken back to the prison in which he was confined.
