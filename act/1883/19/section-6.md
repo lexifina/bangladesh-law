@@ -1,0 +1,4 @@
+# Period for repayment of loans
+6. (1) Every loan granted under this Act shall be made repayable by instalments (in the form of an annuity or otherwise), within such period from the date of the actual advance of the loan, or, when the loan is advanced in instalments, from the date of the advance of the last instalment actually paid as may, from time to time, be fixed by the rules made under this Act.
+(2) The period fixed as aforesaid shall not ordinarily exceed thirty-five years.
+(3) The Government in making the rules fixing the period, shall, in considering whether the period should extend to thirty-five years, or whether it should extend beyond thirty-five years, have regard to the durability of the work for the purpose of which the loan is granted, and to the expediency of the cost of the work being paid by the generation of persons who will immediately benefit by the work.
