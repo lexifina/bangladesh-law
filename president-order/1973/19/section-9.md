@@ -1,0 +1,1 @@
+9. No suit, prosecution or other legal proceeding shall lie against the Government or the Registrar or any person acting under his direction for anything in good faith done or intended to be done under this Order or any rule made thereunder.

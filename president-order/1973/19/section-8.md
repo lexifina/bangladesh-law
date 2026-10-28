@@ -1,0 +1,1 @@
+8. Nothing in this Order or in the rules made thereunder shall derogate from the provisions of the Act or the Trade Marks Rules, 1963, save where any provisions of this Order or the rules made thereunder is repugnant to any provisions of the Act or the rules made thereunder, in which case the provisions of this Order or the rules made thereunder shall prevail.

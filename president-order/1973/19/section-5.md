@@ -1,0 +1,4 @@
+5. (1) Every application under Article 4 shall be made in writing in the forms prescribed in the Second Schedule to the Trade Marks Rules, 1963, which shall be accompanied by original Certificate of Registration in Pakistan with a photocopy thereof:
+Provided that, if any such Trade Mark has been renewed before the 26th day of March, 1971, the last renewal certificate shall also accompany the application.
+(2) Nothing in section 15 or section 55 of the Act, shall apply in respect of any application made under Article 4 of this Order.
+(3) On such application being made, the Registrar shall register the trade mark and the registration so made shall be deemed to have been made under the Act, with effect from the date of registration of the mark in Pakistan under sub-section (1) of section 16 of the Act.
