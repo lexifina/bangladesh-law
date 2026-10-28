@@ -1,0 +1,4 @@
+# Agents to ascertain and report particulars of endowments, etc.
+10. Under the provisions of the present Regulation it will of course be the duty of the agents to obtain full information from the public records, and by personal inquiries, respecting all endowments, establishments and buildings of the nature of those above-described, and of all nazul property or escheats, and to report to the [^14][Deputy Commissioner] any instances in which they may have reason to believe that the lands or buildings are improperly appropriated; being in all cases careful not to infringe any private rights, or to occasion unnecessary trouble or vexation to individuals.
+
+[^14]: The word "Deputy Commissioner" was substituted for the words "Board of Revenue" or "Board" by Article 3, Schedule of the Bangladesh Laws (Repealing and Amending) Order, 1973 (President's Order No. 12 of 1973).

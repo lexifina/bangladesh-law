@@ -1,0 +1,2 @@
+# Saving of private rights
+15. Nothing contained in this Regulation shall be construed to preclude any individual who may conceive that he has just grounds of complaint on account of any orders which may be passed by any of the above-mentioned authorities, with respect to the appropriation of any lands or buildings of the nature of those above-described, from suing for the recovery thereof in the regular course of law, or for compensation in damages for any loss or injury supposed to have been unduly sustained by him.

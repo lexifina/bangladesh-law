@@ -1,0 +1,3 @@
+# Object of Regulation
+16. It is to be clearly understood that the object of the present Regulation is solely to provide for the due appropriation of lands granted for public purpose agreeably to the intent of the grantor, and not to resume any part of the produce of them for the benefit of the Government.
+In like manner it is fully intended that all buildings erected by the former or present Government or by individuals for the convenience of the public should be exclusively appropriated to that purpose, with the exception of such as have fallen to decay and cannot from that or any other cause be conveniently repaired, or which, under existing circumstances, can no longer contribute to the accommodation of the community.
