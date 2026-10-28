@@ -1,0 +1,4 @@
+# Ordinance No. XXXVI of 1984 এর section 53FF এর সংশোধন
+২৭। উক্ত Ordinance এর section 53FF এর clause (b) নিম্নরূপে প্রতিস্থাপিত হইবে, যথা :-
+(b) (i) in case of land situated in any City Corporation, Paurashava or Cantonment Board to which the document relates and on which stamp duty is chargeable under the Stamp Act, 1899 (Act No. II of 1899) at the rate of five percent upto August 31, 2009 and two percent from September 1, 2009 on the deed value of the property:
+(ii) in case of non-agricultural land valued at a sum exceeding one lakh taka situated out side the jurisdiction of any City Corporation, Paurashava or Cantonment Board to which the document relates, tax shall be payable at the rate of five percent upto August 31, 2009 and one percent from September 1, 2009 on the deed value of the property.

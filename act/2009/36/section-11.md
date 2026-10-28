@@ -1,0 +1,3 @@
+# Ordinance No. XXXVI of 1984 এর section 19AA এর প্রতিস্থাপন
+১১। উক্ত Ordinance এর section 19AA এর পরিবর্তে নিম্নরূপ section 19AA প্রতিস্থাপিত হইবে, যথাঃ
+“19AA. Special tax treatment in certain cases of investment.- Notwithstanding anything contained in this Ordinance, no question as to the source of any sum invested by any person in the expansion or balancing, modernization, renovation and extension of an existing industry during the period between the first day of July 2009 and the thirtieth day of June, 2010 (both days inclusive), shall be raised if the assessee pays, before the filing of return of income tax at the fate of ten percent on such sum invested.”

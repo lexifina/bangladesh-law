@@ -1,0 +1,5 @@
+# Ordinance No. XXXVI of 1984 এর section 19AAA এর প্রতিস্থাপন
+১২। উক্ত () এর () এর পরিবর্তে নিম্নরূপ () প্রতিস্থাপিত হইবে, যথা :
+“19AAA. Special tax treatment in respect of investment in the purchase of stocks and shares.-Notwithstanding anything contained in this Ordinance, no question shall be raised as to the source of any sum invested by an assessee, being an individual, firm, association of persons or a private limited company between the first day of July 2009 and the thirtieth day of June, 2010 (both days inclusive) in the purchase of stocks and shares of a company listed with any stack exchange in Bangladesh if the assessee pays, before the filing of return of income tax at the rate of ten percent on such sum invested :
+Provided that the provisions of this section shall not apply if money so invested is withdrawn or transferred for any other purpose within two years from the date of purchase :
+Provided further that the provisions of this section shall not apply in case where a concealment of income has been detected and proceedings under section 93 have been initiated prior to payment of tax under this section.”

@@ -1,0 +1,3 @@
+# Ordinance No. XXXVI of 1984 এর section 46B এর সংশোধন
+১৮। উক্ত Ordinance এর section 46B এর sub-section (4) এর clause (b) এর proviso এর প্রাস্তিস্থিত ফুলস্টপ এর পরিবর্তে কোলন প্রতিস্থাপিত হইবে এবং অতঃপর নিম্নরূপ নূতন proviso সংযোজিত হইবে, যথা :-
+“Provided further that, the provision for purchase of shares of a company listed with any stock exchange referred to in this clause shall not be applicable to ready made garments industry, if it re-invested forty percent of the income exempted under sub-section (1) in the said undertaking or in any new industrial undertaking during the period of exemption or within one year from the end of the period to which the exemption under that sub-section relates.”
