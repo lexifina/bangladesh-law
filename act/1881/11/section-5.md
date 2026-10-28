@@ -1,0 +1,2 @@
+# Payments to be made in lieu of taxes referred to in section 3A
+5. So long as any order made under section 3A prohibiting the levy of any tax payable by the Government, remains in force, the said Government shall be liable to pay to the Municipal Committee, in lieu of such tax, such sums (if any) as an officer from time to time appointed in this behalf by the Government may, having regard to all the circumstances of the case, from time to time determine to be fair and reasonable.
