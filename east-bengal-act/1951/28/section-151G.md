@@ -1,0 +1,2 @@
+# Compulsory submission of statement by head of the family acquiring land in certain cases
+151G. A head of a family, who, or any of the members of whose family, acquires agricultural land making the entire quantity of agricultural land held by such family liable to the payment of land revenue under section 151F, shall, within ninety days of the date of such acquisition, submit to the Revenue-officer a statement of all agricultural lands held by him and the other members of his family in such form and manner as may be prescribed.

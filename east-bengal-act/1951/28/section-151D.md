@@ -1,0 +1,6 @@
+# Compulsory filing of statements by heads of families holding more than twenty-five bighas of agricultural land
+151D. [^109][By the 31st day of January, 1973] all heads of families, who either individually or with other members of their families held or hold more than twenty-five standard bighas of agricultural lands in Bangladesh on the 16th day of December, 1971, or on the date of submission of the statement, shall submit to the Revenue-officer a statement of all such lands in such form and manner as may be prescribed [^110][:
+Provided that the Government may extend the time for submission of such statements in all cases or in any particulars case or class of cases or in respect of any area up to such date as it thinks fit.]
+
+[^109]: The words, figures and comma “By the 31st day of January 1973” were substituted for the words, brackets, figures, and comma “Within ninety days from the date of commencement of the State Acquisition and Tenancy (Third Amendment) Order, 1972” by Article 2 of the State Acquisition and Tenancy (Seventh Amendment) Order, 1972 (President’s Order No. 157 of 1972)
+[^110]: The colon (:) was substituted for the full-stop (.) and the proviso was added by Article 2 of the State Acquisition and Tenancy (Amendment) Order, 1973 (President’s Order No. 5 of 1973)

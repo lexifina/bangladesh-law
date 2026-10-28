@@ -1,0 +1,9 @@
+# Service of notice for furnishing return before notification
+[^14][3A. For the purpose of acquisition, under section 3, of the interest of any rent-receiver in any estate, taluk, tenure, holding or tenancy or of the lands in his khas possession the Revenue-officer may, at any time before the publication of a notification under sub-section (1) or sub-section (2) of that section in respect of such interest or lands, cause a notice to be served on such rent-receiver in the prescribed manner, directing him to furnish, within such time, not being less than sixty days from the date of service of the notice, as may be specified therein, a return in the prescribed form showing all or any of the following particulars, as may be required by such notice:-
+(i) the total area and description of all estates, taluks, tenures, holdings and tenancies held by him and the annual revenue or rent and cesses payable by him in respect thereof to the Government or to his immediate superior landlord, as the case may be;
+(ii) the names of the villages, thanas and districts in which the lands of the estates, taluks, tenures, holdings and tenancies are situated, together with a list of collection papers relating thereto, for a period not exceeding five years immediately preceding;
+(iii) the area, description and classification of all lands in his khas possession with the names of villages and thanas in which they are situated;
+(iv) the names of all co-sharers having joint collection with him, with their respective shares in such estates, taluks, tenures, holdings and tenancies; and
+(v) such other information as the Revenue-officer may deem necessary.]
+
+[^14]: Section 3A was inserted by section 5 of the East Bengal State Acquisition and Tenancy (Second Amendment) Act, 1952 (East Bengal Act No. VI of 1952)

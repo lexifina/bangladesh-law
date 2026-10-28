@@ -1,0 +1,2 @@
+# Power to abolish Tribunals, etc.
+145G. The Government may, by notification in the official Gazette, at any time, abolish any Land Survey Tribunal established under section 145A and any Land Survey Appellate Tribunal established under section 145B, and while so abolishing, the Government shall, in the same notification, specify the courts where the suits, appeals and other proceedings pending in such Tribunals at the time of such abolition shall be transferred to and be disposed of.

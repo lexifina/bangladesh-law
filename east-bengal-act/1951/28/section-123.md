@@ -1,0 +1,4 @@
+# Draft publication of the scheme and hearing of objections
+123. (1) When a scheme for consolidation of holdings has been prepared, the Revenue-officer shall cause a draft of the scheme to be published in the prescribed manner and for the prescribed period and shall receive and consider any objections made in regard to any entry therein or omission therefrom during the period of publication and shall dispose of such objections according to such rules as the Government may make in this behalf.
+(2) If no objection is made within the said period or, where objections are made, such objections are disposed of, the Revenue-officer shall pass an order confirming the scheme with or without modification.
+(3) Omitted by section 22 of the East Bengal State Acquisition and Tenancy (Third Amendment) Ordinance, 1961 (E. P. Ord. XV of 1961).

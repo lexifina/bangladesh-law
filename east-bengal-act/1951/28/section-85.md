@@ -1,0 +1,2 @@
+# Ground for eviction of raiyats
+85. A raiyat shall not be ejected from his holding or from any part of his holding, except in execution of a decree for ejectment from the whole holding or from any part of the holding, as the case may be, passed by a Civil Court, on the ground that he has done any act in contravention of the provisions of this Act with respect to the whole holding or the Part concerned.

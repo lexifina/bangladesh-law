@@ -1,0 +1,2 @@
+# Bar to raising of certain issues
+56. No party to a suit, appeal or proceeding in a Civil Court or High Court in respect of any land shall, notwithstanding anything elsewhere contained in this Act, be entitled to raise before a Revenue-officer, Revenue Authority, Special Judge or the Commissioner or any other officer under section 19, 40, 41, 49, 51, 53 or 60 any issue in respect of such land, which is substantially in issue in such suit, appeal or proceeding.

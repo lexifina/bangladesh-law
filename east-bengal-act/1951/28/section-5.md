@@ -1,0 +1,2 @@
+# Determination of rent khas lands of rent-receivers
+5. As soon as may be after the publication of a notification under sub-section (1) of section 3, the Revenue-officer shall determine, according to the principles laid down in sections 23, 24, 25, 25A, 26, 27 and 28, the rent of every parcel of lands in the khas possession of all rent-receivers specified in such notification and comprised in the estates, taluks, tenures, holdings or tenancies to which such notification relates.

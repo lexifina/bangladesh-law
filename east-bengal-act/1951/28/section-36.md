@@ -1,0 +1,2 @@
+# Net income of a recusant proprietor
+36. Notwithstanding anything contained in section 35, in the case of a recusant proprietor of a temporarily settled private estate, the malikana payable to such proprietor in the agricultural year referred to in sub-clause (i) or sub-clause (ii) of clause (a) of sub-section (1) of section 35, as the case may be, shall be deemed to be the net income of such proprietor computed under section 35.

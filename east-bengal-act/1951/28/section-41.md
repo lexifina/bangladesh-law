@@ -1,0 +1,2 @@
+# Appeal to superior Revenue Authority
+41. An appeal, if presented within two months from the date of the order appealed against, shall lie from every order passed by a Revenue-officer under sub-section (1) of section 40 to the prescribed superior Revenue Authority; and such superior Revenue Authority shall consider and dispose of such appeals in accordance with rules made in this behalf by the Government.

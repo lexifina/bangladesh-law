@@ -1,0 +1,2 @@
+# Penalty for non-submission of statement or wilful suppression of land
+151H. A head of a family, who fails to submit a statement under section 151G within the specified time or wilfully makes any omission from, or incorrect declaration in, the statement submitted by him under the said section, shall be liable to a fine which may extend to taka one thousand and the land for which no statement has been filed or which has been omitted from the statement or in respect of which the incorrect declaration is made shall stand forfeited to the Government.

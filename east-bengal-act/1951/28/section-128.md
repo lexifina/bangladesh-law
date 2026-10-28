@@ -1,0 +1,5 @@
+# Effect of final confirmation of scheme for consolidation and the rights of raiyats thereunder
+128. (1) On the final confirmation of a scheme under section 125, it shall be binding on all the raiyats to which such scheme relates.
+(2) [Omitted by section 24 of the East Bengal State Acquisition and Tenancy (Third Amendment) Ordinance, 1961 (East Pakistan Ord. XV of 1961).]
+(3) Every raiyat affected by any scheme for the consolidation of holdings finally confirmed under section 125 shall be entitled to the possession of the holdings allotted to him under the scheme with effect from the date on which the scheme takes effect; and the Revenue-officer may, on application made in this behalf by such raiyat, cause such steps to be taken as he may consider necessary for putting such raiyat in possession of the holding so allotted to him.
+(4) A raiyat shall have the same right in the holding allotted to him under a scheme for the consolidation of holdings finally confirmed under section 125 as he had in his original holding before such consolidation.

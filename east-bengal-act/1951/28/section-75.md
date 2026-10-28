@@ -1,0 +1,2 @@
+# Power to enforce attendance of witnesses and production of documents
+75. For the purposes of any enquiry under this Act, a Revenue-officer shall have power to summon and enforce the attendance of witnesses or of any person having an interest in any estate, tenure, holding or land and to compel the production of documents by the same means and so far as may be, in the same manner as is provided in the case of Civil Court under the Code of Civil Procedure, 1908.

@@ -1,0 +1,6 @@
+## Part III
+## Chapter III
+## SPECIAL PROVISIONS REGARDING LANDS HELD IN LIEU OF SERVICE.
+# Acquisition of occupancy rights
+11. (1) Notwithstanding anything contained in any other law for the time being in force or in any contract, any person who holds under another person any land, for agricultural or horticultural purposes or for the purposes of his homestead, free of rent in consideration of some service to be rendered under the system locally known as Nankar, Chakran or the like shall, on and from the date of commencement of this Act, acquire a right of occupancy in all such lands so held by him subject to the payment of a fair and equitable rent to the person under whom he holds such lands and the provisions of the Bengal Tenancy Act, 1885, or the Sylhet Tenancy Act, 1936, as the case may be, so far as they apply to occupancy raiyats, shall apply to him.
+(2) The fair and equitable rent, referred to in sub-section (1), shall mean such rent not exceeding the prevailing rate of rent paid by the occupancy raiyats for lands of a similar description and with similar advantages in the same village or in the neighbouring villages as may be agreed upon between such tenant and his landlord or, in the absence of such agreement, as may be determined by the Collector on the application of such tenant or the landlord.

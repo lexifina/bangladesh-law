@@ -1,0 +1,2 @@
+# Computation of the period of limitation
+68E. Notwithstanding anything contained in any other law for the time being in force, in computing the period of limitation for the recovery of any such arrears or for the execution of any decree in respect of such arrears, a period of forty-eight months on and from the date of acquisition under this Act of the rent-receiving interests to which such arrears relate shall be excluded.]

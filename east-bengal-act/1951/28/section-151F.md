@@ -1,0 +1,4 @@
+# Liability of exempted holdings for re-assessment in certain cases
+151F. If any person who is exempted from payment of land revenue under section 151C subsequently acquires at any time agricultural land by inheritance, purchase, gift, heba or otherwise which, added to the total quantity of agricultural land already held by him and other members of his family, exceeds twenty-five standard bigahs in the aggregate, the entire quantity of agricultural land held by him and the other members of his family shall be liable to the payment of land revenue with effect from the following dates, namely:-
+(i) in case of acquisition before the first day of Kartik of the Bengali year, with effect from the first day of Kartik of that year; and
+(ii) in case of acquisition on or after the first day of Kartik of the Bengali year, from the first day of the Bengali year next following the date of such acquisition.

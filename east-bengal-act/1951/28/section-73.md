@@ -1,0 +1,2 @@
+# Power to enter upon land, to make survey, etc.
+73. A Revenue-officer, subject to any rules made under this Act, may at any time between the hours of sunrise and sunset enter upon any land with such officers or servants as he considers necessary, and make a survey or take measurements thereof or do any other acts which he considers to be necessary for carrying out any of his duties under this Act.

@@ -1,0 +1,4 @@
+# Preliminary publication and amendment of settlement rent-roll
+108. (1) When a settlement rent-roll has been prepared, the Revenue-officer shall cause a draft of it to be published in the prescribed manner and for the prescribed period and shall receive and consider any objection made to an entry therein or omission therefrom during the period of publication and shall dispose of such objections according to such rules as the Government may make.
+(2) The Revenue-officer may, of his own motion or on application of any party aggrieved, at any time before a settlement rent-roll is submitted to the confirming authority under section 109, revise any rent entered therein:
+Provided that no such entries shall be revised until reasonable notice has been given to the tenant concerned to appear and be heard in the matter.

@@ -1,0 +1,2 @@
+# Bar to jurisdiction of Civil Court
+46B. After an order has been made under section 46A, no Civil Court shall entertain any suit or application for the alteration or determination of rent of any land for which fair and equitable rent is required to be settled under sub-section (2) of that section; and if any such suit or application is pending before a Civil Court on the date of such order, it shall not be further proceeded with and shall abate.

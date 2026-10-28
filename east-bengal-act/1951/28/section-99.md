@@ -1,0 +1,5 @@
+# Order for determination of rent-rates and preparation of settlement rent-roll
+99. (1) The Government may make an order directing the Revenue-officer-
+(a) to determine the rent-rates for any district or part of a district or local area in accordance with the provisions of this Chapter and of such rules as may be made in this behalf by the Government and to prepare in the prescribed form and manner a table of rent-rates in which the rent-rates so determined, together with such other particulars as may be prescribed, shall be specified; and
+(b) after the table of rent-rates in respect of any district, part of a district or local areas has been prepared and confirmed under this Chapter to, settle fair and equitable rents for all tenants in such district or part or area and to prepare in the prescribed form and manner a settlement rent-roll in which the rent so settled, together with such other particulars as may be prescribed, shall be specified.
+(2) A notification in the official Gazette of an order under this section shall be conclusive evidence that the order has been duly made.

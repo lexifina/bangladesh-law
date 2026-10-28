@@ -1,0 +1,7 @@
+## Chapter X
+## PROVISIONS RELATING TO INDEBTED RENT-RECEIVERS
+# Bar to execution of certain decrees and orders for the recovery of certain debts of rent-receivers
+69. (1) After the commencement of this Act, no Civil Court shall entertain any suit or execute any decree or order against any property of any rent-receiver, for the recovery of any debt which is liable to be scaled down under section 70, until all the interests of such rent-receiver which are liable to be acquired under this Act have been so acquired and compensation in respect of the acquisition of all such interests have been paid or deposited under section 58:
+Provided that if any rent-receiver fails to apply for the scaling down of his debts within the period mentioned in sub-section (1) of section 70, the provision of this sub-section shall cease to apply to his debts on the expiry of the said period.
+(2) Notwithstanding anything contained in any other law for the time being in force, in calculating the period of limitation applicable to a suit or an application for the execution of a decree or order, the time during which the institution of such suit or the execution of such decree or order is barred under sub-section (1) shall be excluded.
+(3) The amount of any debt recoverable under any decree or order the execution of which is barred under sub-section (1) shall be deemed to be reduced, if any such debt has been scaled down under section 70, by the amount by which such debt has been so scaled down.

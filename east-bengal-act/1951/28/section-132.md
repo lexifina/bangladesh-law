@@ -1,0 +1,4 @@
+# Recovery of the cost of consolidation proceedings
+132. (1) The costs of proceedings of the consolidation of holdings under this Chapter shall, on the final confirmation under section 125 of the scheme for such consolidation, be assessed in the prescribed manner and be, subject to such rules as may be made by the Government in this behalf, recovered from the raiyats whose holdings are affected by such scheme:
+Provided that no costs shall be recoverable in respect of any proceedings arising out of an application under sub-section (1) of section 119 where the applicants have submitted an agreed scheme for consolidation of their holdings or in respect of any proceedings arising out of an agreed scheme produced under sub-section (1a) of section 122.
+(2) The portion of the aforesaid costs which any raiyats is liable to pay shall be recoverable by the Government as an arrear of rent due in respect of the holding of the raiyats affected by the said scheme.

@@ -1,0 +1,5 @@
+# Bar to jurisdiction of Civil Court
+30. (1) After an order has been made under section 17 directing the preparation or revision of a record-of-rights in respect of any area, no Civil Court shall entertain any suit or application for the alteration of rent or determination of the status of any tenant or the incidents of any holding or tenancy in such area; and if any such suit or application relating to such area is pending before a Civil Court on the date of such order, it shall not be further proceeded with and shall abate.
+Explanation.- Suit in this sub-section includes an appeal.
+(2) No suit shall be brought in any Civil Court in respect of any order directing the preparation or revision of record-of-rights under this Chapter or in respect of framing, publication, signing or attestation of such record or any part of it.
+(3) No suit, appeal or proceeding in a Civil Court or High Court in respect of any land, nor any order passed in such suit, appeal or proceeding, shall operate as a bar in any way to the preparation or revision of record-of-rights or of Compensation Assessment-rolls in accordance with the provisions of this Act.

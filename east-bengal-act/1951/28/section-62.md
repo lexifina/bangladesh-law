@@ -1,0 +1,3 @@
+# Payment and realisation of arrears
+62. (1) All arrears of rent and all cesses and interest, which have vested in the Government under clause (c) of sub-section (4) of section 3 or under clause (7) of section 44, shall be payable to the Government and not to anybody else; and no payment made in contravention of this sub-section shall be valid.
+(2) Subject to the provisions of sections 63, 64 and 65, all such arrears of rent and cesses and interest and all arrears of revenue and all cesses and interest referred to in clause (b) of sub-section (4) of section 3 or in clause (5) of section 44 may, without prejudice to any other mode of recovery, be recoverable by the Revenue-officer under the provisions of the Bengal Public Demands Recovery Act, 1913.

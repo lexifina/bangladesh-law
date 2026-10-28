@@ -1,0 +1,6 @@
+# Settlement and use of land vested in the Government
+76. (1) Except as otherwise expressly provided in this Act, any land which vests in the Government under any of the provisions of this Act shall be absolutely at the disposal of the Government; and the Government shall be competent to make settlement of such land in accordance with such rules as it may make in this behalf or to use or otherwise deal with such land in such manner as it thinks fit:
+Provided that no land shall be settled with a person unless he is a person to whom transfer of land can be made under section 90:
+Provided further that in making settlement of any cultivable land preference shall be given to an applicant for settlement who cultivates land by himself or by the members of his family and holds a quantity of cultivable land which, added to the quantity of cultivable land, if any, held by the other members of his family, is less than three acres.
+(2) No Civil Court shall entertain any application or suit concerning any matter relating to the settlement, by any officer of the Government, of any land under sub-section (1).
+Explanation.- For the purposes of this section, the definition of “family” as given in the explanation under section 20 shall apply mutatis mutandis.

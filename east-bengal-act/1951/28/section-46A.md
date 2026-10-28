@@ -1,0 +1,6 @@
+## Chapter VA
+## SPECIAL PROVISIONS FOR PREPARATION OF COMPENSATION ASSESSMENT-ROLLS IN RESPECT OF PROPERTIES ACQUIRED UNDER CHAPTER II
+# Preparation of Compensation Assessment-roll in special cases
+46A. (1) The Government may, instead of proceeding under section 17 or section 31, by notification in the official Gazette, order that a Compensation Assessment-roll be prepared in respect of the properties of any rent-receiver acquired under section 3 on the basis of the returns, papers and documents furnished or taken possession of under sections 3A and 4.
+(2) When an order is made under sub-section (1), the Revenue-officer shall verify such returns, papers and documents in the prescribed manner and make such corrections therein as may be necessary, and settle fair and equitable rents of all tenants immediately subordinate to such rent-receiver according to the principles laid down in sections 24, 25, 25A, 26 and 28.
+(3) The Revenue-officer shall, after taking action under sub-section (2) prepare in the prescribed form and in the prescribed manner a Compensation Assessment-roll in which the gross assets and the net income of such rent-receiver and the Compensation to be paid to him in accordance with the provisions of this Act, together with such other particulars as may be prescribed, shall be specified.

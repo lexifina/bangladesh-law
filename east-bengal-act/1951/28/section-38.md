@@ -1,0 +1,2 @@
+# Preparation of Compensation Assessment-roll in respect of a rent-receiver having interests in more than one area
+38. If a rent-receiver holds rent-receiving interests in more than one area, the amount of compensation payable for the acquisition of such interests shall be calculated and the Compensation Assessment-rolls in respect of such interests shall be prepared in accordance with such rules as may be made in this behalf by the Government.

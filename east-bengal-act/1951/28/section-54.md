@@ -1,0 +1,2 @@
+# Correction of the Compensation Assessment-roll
+54. The Revenue-officer shall make such alterations in the records-of-rights or the Compensation Assessment-roll as may be necessary to give effect to any directions issued by the Commissioner or other officer under section 49 or an order made by a Special Judge under section 51 or section 53 or under sub-section (4) of section 52 or to any final order or decree of a Civil Court or High Court passed in any suit, appeal or proceeding declaring title to and, or possession of any land.

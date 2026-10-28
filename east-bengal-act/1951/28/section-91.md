@@ -1,0 +1,2 @@
+# Power of acquiring excess land devolved by inheritance
+91. Notwithstanding anything contained in any other law for the time being in force, when any area of land which has devolved on a person by inheritance added to the total area of land already in his possession exceeds the limit laid down in section 90, it shall be lawful for the Government to acquire an area of such land, equivalent to such excess, to be selected according to the choice of such person, on payment of compensation at the rates laid down in sub-section (1) of section 39.

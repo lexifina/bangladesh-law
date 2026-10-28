@@ -1,0 +1,3 @@
+# Persons entitled to apply for consolidation of holding
+119. (1) Any two or more raiyats having lands in the same or contiguous villages may apply in the prescribed form to the Revenue-officer for consolidation of their holdings and submit along with such application a scheme for such consolidation.
+(2) If not less than two-thirds of the raiyats in a village or a block of villages, which form one contiguous area, holding not less than three-fourths of the total cultivable area in such village or block of villages, make an application under sub-section (1) for consolidation of their holdings, such application shall be deemed to be an application on behalf of all the raiyats of such villages or block of villages.

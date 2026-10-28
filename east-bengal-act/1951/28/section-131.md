@@ -1,0 +1,3 @@
+# Transfer of holding during the pendency of the proceedings for consolidation
+131. (1) During the pendency of any proceedings under this Chapter, no person shall transfer any land to which such proceedings relate, without the previous permission of the Revenue-officer and where any such land is transferred with such permission, the transferee shall be deemed to be a party to such proceedings and shall be substituted in place of the transferor of the land.
+(2) On and from the date of final confirmation of a scheme for consolidation of holdings under section 125, no co-sharer shall acquire by continued possession any title in a part of the holding to the exclusion of the other co-sharers.

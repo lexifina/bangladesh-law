@@ -1,0 +1,3 @@
+# Computation of the period of limitation for appeals, applications for revision and review under this Act
+151. (1) Sections 6, 7, 8 and 9 and sub-section (2) of section 29 of the Limitation Act, 1908, shall not and, subject to the provisions of Part V of this Act, the remaining provisions of the former Act, shall, so far as applicable, apply to all suits, appeals and applications arising under the said Part.
+(2) All suits, appeals and applications referred to in Part V shall be instituted and made within the time prescribed therefore; and every such suit instituted, appeal preferred, and application made, after the prescribed period of limitation shall be dismissed, although limitation has not been pleaded.

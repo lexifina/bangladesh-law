@@ -1,0 +1,7 @@
+# Treatment of certain transaction as usufructuary mortgage
+[^51][95A. Notwithstanding anything contained in any other law for the time being in force, any transfer of a holding or of portion or share thereof, [^52][either by way of an out and out sale
+with an agreement to reconvey,] [^53][or] where the transferor receives from the transferee any consideration and the transferee acquires the right to possess, and to enjoy the usufruct of, such holding or portion or share thereof for a specified period in lieu of such consideration, shall notwithstanding anything contained in the document relating to the transfer, be deemed to be a complete usufructuary mortgage for a period not exceeding seven years and the provisions of section 95 shall apply to such transfer whether made before or after the date of commencement of the State Acquisition and Tenancy (Second Amendment) Order, 1972 (P.O. No. 88 of 1972.]
+
+[^51]: Section 95A was inserted by Article 3 of the State Acquisition and Tenancy (Second Amendment) Order, 1972 (President’s Order No. 88 of 1972)
+[^52]: The words and comma “either by way of an out and out sale with an agreement to reconvey,” were inserted by Article 2 of the State Acquisition and Tenancy (Fifth Amendment) Order, 1972 (President’s Order No. 136 of 1972)
+[^53]: The word “or” was inserted by Article 3 of the State Acquisition and Tenancy (Second Amendment) Order, 1973 (President’s Order No. 24 of 1973)

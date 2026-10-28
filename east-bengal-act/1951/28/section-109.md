@@ -1,0 +1,5 @@
+# Sanctioning final public of the settlement rent-roll and in corporation of the same in the record-of-rights
+109. (1) When all objections have been disposed of under section 108, the Revenue-officer shall submit the settlement rent-roll to the prescribed confirming authority with a full statement of the grounds for his proposals and a summary of the objections (if any) which he has received.
+(2) The confirming authority may sanction the settlement rent-roll with or without amendment or may return it for revision:
+Provided that no entry shall be amended or omission supplied until reasonable notice has been given to the tenant concerned to appear and be heard in the matter.
+(3) After sanction by the confirming authority the Revenue-office shall finally frame the settlement rent-roll and publish it in such manner as may be prescribed and shall incorporate it in the record-of-rights for the area, to which such settlement rent-roll relates, maintained under this Part; and such publication shall be conclusive evidence that the settlement rent-roll has been duly made under this Chapter.

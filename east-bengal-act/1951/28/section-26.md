@@ -1,0 +1,3 @@
+# Assessment of rent for rent-free land
+26. (1) Where any land is held by a raiyat or an under-raiyat free of rent the rent for such land shall be determined at a rate which the Revenue-officer may deem fair and equitable having regard to the rates of rent generally paid by the occupancy raiyats for lands of a similar description and with similar advantages in the same village or in the neighbouring villages.
+(2) Where any non-agricultural land is held by a tenant free of rent, the rent for such land shall be determined in accordance with the provisions of section 23 so far as they apply to non-agricultural lands.
