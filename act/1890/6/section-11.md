@@ -1,0 +1,2 @@
+# Provisions for continuance of office of Treasurer in certain contingencies
+11. If the office held by an officer of the Government who has been appointed to be the Treasurer of Charitable Endowments is abolished or its name is changed, the Government may appoint the same or another officer of the Government by the name of his office to be such Treasurer, and thereupon the holder of the latter office shall be deemed for the purposes of this Act to be the successor in office of the holder of the former office.
