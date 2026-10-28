@@ -1,0 +1,5 @@
+# Penalty for breach of rules made under section 41
+42. (1) The Government may be such rules prescribe as penalties for the contravention thereof imprisonment for a term which may extend to [^34][three years and shall not be less than two months and shall also be laible to fine which may extend to ten thousand Taka and shall not be less than two thousand Taka].
+(2) Such rules may provide there penalties which are double of those mentioned in sub-section (1) may be inflicted in cases where the offence is committed after sunset and before sunrise, or after preparation for resistance to lawful authority, or where the offender has been previously convicted of a like offence.
+
+[^34]: The words "three years and shall not be less than two months and shall also be laible to fine which may extend to ten thousand Taka and shall not be less than two thousand Taka" were substituted, for the words and commas "six months, or fine which may extend to five hundred Taka, or both" by section 12 of the Forest (Amendment) Act, 1990 (Act No. VIII of 1990)

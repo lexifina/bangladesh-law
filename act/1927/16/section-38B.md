@@ -1,0 +1,3 @@
+# Notice of forest management activities
+38B. (1) The Government may make rules for the purpose of issuing notice to owners or occupiers of neighbouring lands at least 30 days before understanding specified forest management activities that may pose a threat of harm to the environment or private or Government property or that the Government may wish to track for statistical purposes.
+(2) Within 20 days after receiving notice of a proposed activity under this section, upon finding that the proposed activity is likely to cause unreasonable damage to the environment or private or Government property, the Government may issue a written order to the owner or occupier of a land to alter or to refrain from the proposed activity to prevent or minimize such damage.

@@ -1,0 +1,2 @@
+# Bar of accrual of forest rights
+5. After the issue of a notification under section 4, no right shall be acquired in or over the land comprised in such notification, except by succession or under a grant or contract in writing made or entered into by or on behalf of the Government or some person in whom such right was vested when the notification was issued; and no fresh clearings for cultivation or for any other purpose shall be made in such land except in accordance with such rules as may be made by the Government in this behalf.

@@ -1,0 +1,2 @@
+# Recovery of money due to Government
+82. All money payable to the Government under this Act, or under any rule made under this Act, or on account of the price of any forest-produce, or of expenses incurred in the execution of this Act in respect of such produce, may, if not paid when due, be recovered under the law for the time being in force as if it were an arrear of land-revenue.

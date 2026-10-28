@@ -1,0 +1,2 @@
+# Presumption that forest produce belongs to Government
+69. When in any proceedings taken under this Act, or in consequence of anything done under this Act, a question arises as to whether any forest-produce is the property of the Government, such produce shall be presumed to be the property of the Government until the contrary is proved.

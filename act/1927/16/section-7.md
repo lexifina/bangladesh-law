@@ -1,0 +1,2 @@
+# Inquiry by Forest Settlement officer
+7. The forest settlement-officer shall take down in writing all statements made under section 6, and shall at some convenient place inquire into all claims duly preferred under that section, and the existence of any rights mentioned in section 4 or section 5 and not claimed under section 6 so far as the same may be as certainable from the records of Government and the evidence of any persons likely to be acquainted with the same.

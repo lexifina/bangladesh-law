@@ -1,0 +1,5 @@
+# Management of forests the joint property of Government and other persons
+80. (1) If the Government and any person be jointly interested in any forest or waste-land, or in the whole or any part of the produce thereof, the Government may either
+(a) undertake the management of such forest, waste-land or produce, accounting to such person for his interest in the same; or
+(b) issue such regulations for the management of the forest, waste-land or produce by the person so jointly interested as it deems necessary for the management thereof and the interests of all parties therein.
+(2) When the Government undertakes under clause (a) of sub-section (1) the management of any forest, waste-land or produce, it may, by notification in the official Gazette, declare that any of the provisions contained in Chapters II and IV shall apply to such forest, waste-land or produce, and thereupon such provisions shall apply accordingly.

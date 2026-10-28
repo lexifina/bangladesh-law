@@ -1,0 +1,4 @@
+# Indemnity for acts done in good faith
+74. No suit shall lie against any public servant for anything done by him in good faith under this Act [^58][and no court may try such a public servant for a crime stemming from actions related to the public servant's official duty under this Act and occurring within the public servant's assigned geographical jurisdiction, unless the court first conducts a preliminary inquiry and verifies that there is credible evidence to support the basic elements of the complaint].
+
+[^58]: The words "and no court may try such a public servant for a crime stemming from actions related to the public servant's official duty under this Act and occurring within the public servant's assigned geographical jurisdiction, unless the court first conducts a preliminary inquiry and verifies that there is credible evidence to support the basic elements of the complaint" were added by section 15 of the Forest (Amendment) Act, 2000 (Act No. X of 2000)

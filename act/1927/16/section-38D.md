@@ -1,0 +1,4 @@
+# Abetment of forest nuisances
+38D. (1) Upon a finding that conditions on a land pose a risk of disease, insect outbreak fire or other harm to nearby renewable natural resources, the Government may issue a written order to the owner or occupier of the land to abate such a nuisance within 30 days, or sooner as may be specified in the notice, if the protection of renewable natural resources demands.
+(2) To be effective, an order under sub-section (1) must be delivered personally to the owner or occupier of the land or sent to him by registered post with acknowledgement receipt due, or if the address of the person is unknown, affixed conspicuously at least two locations on the property.
+(3) If the owner or the occupier fails to comply with an order under this section, the Government may enter the land, remove the nuisance and realize compensation as a public demand.]
