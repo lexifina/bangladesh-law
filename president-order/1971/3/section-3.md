@@ -1,0 +1,1 @@
+3. An Administrator shall exercise his powers and discharge his duties under the direct supervision and control of the Government of Bangladesh and shall submit to the Government of Bangladesh such statements and furnish such information as the Government of Bangladesh may direct or require from time to time.
