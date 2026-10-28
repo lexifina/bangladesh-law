@@ -1,0 +1,2 @@
+# Short title
+1. This Regulation may be called THE CHITTAGONG HILL-TRACTS (PREVENTION OF CORRUPTION) REGULATION, 1953.
