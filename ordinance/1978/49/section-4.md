@@ -1,0 +1,8 @@
+# Savings
+4. (1) Notwithstanding any amendment made by this Ordinance in the Code of Criminal Procedure, 1898 (Act V of 1898), hereinafter referred to as the said Code, any appeal, application, trial, inquiry or investigation which was pending immediately before such amendment takes effect shall be continued, held, made or disposed of in accordance with the provisions of the said Code as was in force before such amendment as if no such amendment had been made:
+Provided that an inquiry under Chapter XVIII of the said Code which was so pending shall be held, conducted and disposed of in accordance with the provisions of the said Code as amended by this Ordinance [^1][:
+Provided further that it shall not be necessary for a Court of Session to hold trials with the aid of assessors.]
+(2) Notwithstanding any amendment made by this Ordinance in the Code of Civil Procedure, 1908 (Act V of 1908), an appeal from an appellate decree, or an application for revision under section 115, which was pending before the High Court Division immediately before such amendment takes effect shall be continued and disposed of in accordance with the provisions of that Code as was in force before such amendment, as if no such amendment had been made.
+(3) Notwithstanding the repeal of the Letters Patent, all proceedings under the Letters Patent pending before the High Court Division immediately before such repeal shall be continued and disposed of, as if the repeal had not taken effect.
+
+[^1]: The colon (:) was substituted for the full-stop (.) and the proviso was added thereafter by section 19 of the Code of Criminal Procedure (Third Amendment) Ordinance, 1982 (Ordinance No. LX of 1982)
