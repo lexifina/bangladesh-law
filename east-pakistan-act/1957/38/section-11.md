@@ -1,0 +1,4 @@
+# Recording of evidence
+11. (1) For the purpose of making any order which it is empowered to make under this Act, the Bank may request a District Magistrate to record or to have recorded the whole or any part of such evidence as any person whose evidence the Bank requires may produce. The District Magistrate so requested may himself record or may direct any Magistrate subordinate to him to record the evidence and shall forward a copy thereof to the Bank.
+(2) For the purpose of making a vesting order under this Act, the Bank may direct one of its officers to record the evidence of any person whose evidence the Bank requires or may receive evidence upon affidavit.
+(3) A Magistrate or an officer of the Bank acting in pursuance of this Act may administer an oath to any witness examined by him.

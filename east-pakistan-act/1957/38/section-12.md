@@ -1,0 +1,2 @@
+# Suspension of payment and postponement of order and registration
+12. Where the Bank contemplates making an order under this Act to vest a Bond in any person, the Bank may suspend payment of instalments due on the Bond or postpone the renewal of the Bond or the issue of any duplicate Bond or of any new Bond or Bonds in lieu thereof or the registration of any transfer of the Bond, until the vesting order has been made.
