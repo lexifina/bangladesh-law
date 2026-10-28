@@ -1,0 +1,2 @@
+# Encroachments on beds of navigable rivers and other obstructions
+5. Nothing in this Regulation shall be construed to justify any encroachments by individuals on the beds or channels of navigable rivers, or to prevent Zila Magistrate or any other officers of the Government who may be duly empowered for that purpose from removing obstacles which appear to interfere with the safe and customary navigation of such rivers, or which shall in any respect obstruct the passage of boats by tracking on the banks of such rivers, or otherwise.
