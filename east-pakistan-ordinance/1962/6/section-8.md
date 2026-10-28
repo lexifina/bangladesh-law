@@ -1,0 +1,5 @@
+# Powers of Inspectors to take preventive measures and to recover expenses incurred in connection therewith
+8. (1) If an occupier on whom a notice has been served under sub-section (1) of section 7 does not comply with such notice within the time specified therein or where an appeal has been preferred by him under sub-section (2) of that section, does not comply with the order passed on such appeal within seven days, the Inspector may carry out or cause to be carried out the preventive measures not undertaken, at the cost of the occupier and for such purpose may take with him or depute or employ such subordinates or other persons as he deems fit.
+(2) Where an Inspector has taken any action under this Ordinance in respect of any property at the expenses of a person bound to take such action, he may record a certificate indicating the amount of the cost and the person from whom such amount is recoverable and such amount shall be recoverable as a public demand under the [^5][* * *] Public Demands Recovery Act, 1913.
+
+[^5]: The word “Bengal” was omitted by Article 6 of the Bangladesh (Adaptation of Existing Laws) Order, 1972 (President’s Order No. 48 of 1972)
