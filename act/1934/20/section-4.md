@@ -1,0 +1,2 @@
+# Application of Act to carriage by air which is not international
+4. The Government may, by notification in the official Gazette, apply the rules contained in the First Schedule and any provision of section 2 to such carriage by air, not being international carriage by air as defined in the First Schedule, as may by specified in the notification, subject however to such exceptions, adaptations and modifications, if any, as may be so specified.
