@@ -1,0 +1,2 @@
+# Penalty
+6. Whoever contravenes any of the provisions of section 3 or section 5 or any order issued thereunder shall be punishable with imprisonment of either description for a term which may extend to six months, or with fine which may extend to one thousand rupees, or with both, and in the case of a continued contravention with a further fine which may extend to one hundred rupees for every day during which the contravention is continued after conviction therefore.
