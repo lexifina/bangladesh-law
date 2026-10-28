@@ -1,0 +1,3 @@
+# Prohibition of transfer of post Office 5-year Cash Certificates without the consent of an authorized officer
+2.(1) Notwithstanding any provision in any enactment or any rule of law for the time being in force to the contrary, no transfer (whether made before or after the commencement of this Act) of a Post Office 5-year Cash Certificate shall be valid without the previous consent in writing of an officer of the Post Office authorized by general or special order of the Government in that behalf.
+(2) In this section "transfer" means a transfer inter vivos and does not include a transfer by operation of law.
