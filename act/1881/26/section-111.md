@@ -1,0 +1,3 @@
+# Liability of acceptor for honour
+111. An acceptor for honour binds himself to all parties subsequent to the party for whose honour he accepts to pay the amount of the bill if the drawee do not: and such party and all prior parties are liable in their respective capacities to compensate the acceptor for honour for all loss or damage sustained by him in consequence of such acceptance.
+But an acceptor for honour is not liable to the holder of the bill unless it is presented, or (in case the address given by such acceptor on the bill is a place other than the place where the bill is made payable) forwarded for presentment, not later than the day next after the day of its maturity.

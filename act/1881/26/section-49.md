@@ -1,0 +1,2 @@
+# Conversion of indorsement in blank into indorsement in full
+49. When a negotiable instrument has been indorsed in blank, any holder may, without signing his own name, convert the blank indorsement into an indorsement in full by writing above the indorser's signature a direction to pay the amount to or to the order of himself or some other person; and the holder does not thereby incur the responsibility of an indorser.

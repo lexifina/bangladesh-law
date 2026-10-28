@@ -1,0 +1,2 @@
+# Only drawee can be acceptor except in need or for honour
+33. No person except the drawee of a bill of exchange, or all or some of several drawees, or a person named therein as a drawee in case of need, or an acceptor for honour, can bind himself by an acceptance.

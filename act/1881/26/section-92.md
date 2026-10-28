@@ -1,0 +1,2 @@
+# Dishonour by non-payment
+92. A promissory note, bill of exchange or cheque is said to be dishonoured by non-payment when the maker of the note, acceptor of the bill or drawee of the cheque makes default in payment upon being duly required to pay the same.

@@ -1,0 +1,2 @@
+# Partial failure of consideration not consisting of money
+45. Where a part of the consideration for which a person signed a promissory note, bill of exchange or cheque, though not consisting of money, is ascertainable in money without collateral inquiry, and there has been a failure of that part, the sum which a holder standing in immediate relation with such signer is entitled to receive from him is proportionally reduced.

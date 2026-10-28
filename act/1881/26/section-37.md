@@ -1,0 +1,2 @@
+# Maker, drawer and accept or principals
+37. The maker of a promissory note or cheque, the drawer of a bill of exchange until acceptance, and the acceptor are, in the absence of a contract to the contrary, respectively liable thereon as principal debtors, and the other parties thereto are liable thereon as sureties for the maker, drawer or acceptor, as the case may be.

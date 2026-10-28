@@ -1,0 +1,2 @@
+# Delivery of instrument on payment, or indemnity in case of loss
+81. Any person liable to pay, and called upon by the holder thereof to pay, the amount due on a promissory note, bill of exchange or cheque is before payment entitled to have it shown, and is on payment entitled to have it delivered up, to him, or, if the instrument is lost or cannot be produced, to be indemnified against any further claim thereon against him.

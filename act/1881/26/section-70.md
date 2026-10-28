@@ -1,0 +1,2 @@
+# Presentment where no exclusive place specified
+70. A promissory note or bill of exchange, not made payable as mentioned in sections 68 and 69, must be presented for payment at the address of the maker, acceptor or drawee given in the instrument, and if no such address is given at the place of business if known, or at the ordinary residence (if known), of the maker, drawee or acceptor thereof, as the case may be.

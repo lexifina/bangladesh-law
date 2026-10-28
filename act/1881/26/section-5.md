@@ -1,0 +1,9 @@
+# “Bill of exchange”
+5. A “bill of exchange” is an instrument in writing containing an unconditional order, signed by the maker, directing a certain person to pay on demand or at fixed or determinable future time a certain sum of money only to, or to the order of, a certain person or to the bearer of the instrument.
+A promise or order to pay is not “conditional”, within the meaning of this section and section 4, by reason of the time for payment of the amount or any instalment thereof being expressed to be on the lapse of a certain period after the occurrence of a specified event which, according to the ordinary expectation of mankind, is certain to happen, although the time of its happening may be uncertain.
+The sum payable may be “certain,” within the meaning of this section and section 4, although it includes future interest or is payable at an indicated rate of exchange, or is payable at the current rate of exchange, and although it is to be paid in stated instalments and contains a provision that on default of payment of one or more instalments or interest, the whole or the unpaid balance shall become due.
+Where the person intended can reasonably be ascertained from the promissory note or the bill of exchange, he is a “certain person” within the meaning of this section and section 4, although he is misnamed or designated by description only.
+An order to pay out of a particular fund is not unconditional within the meaning of this section; but an unqualified order to pay, coupled with-
+(a) an indication of a particular fund out of which the drawee is to reimburse himself or a particular account to be debited to the amount, or
+(b) a statement of the transaction which gives rise to the note or bill, is unconditional.
+Where the payee is a fictitious or non-existing person the bill of exchange may be treated as payable to bearer.

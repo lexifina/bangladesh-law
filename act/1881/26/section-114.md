@@ -1,0 +1,2 @@
+# Right of payer for honour
+114. Any person so paying is entitled to all the rights, in respect of the bill, of the holder at the time of such payment, and may recover from the party for whose honour he pays all sums so paid, with interest thereon and with all expenses properly incurred in making such payment.

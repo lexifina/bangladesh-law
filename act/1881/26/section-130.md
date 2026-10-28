@@ -1,0 +1,2 @@
+# Cheque bearing “not negotiable”
+130. A person taking a cheque crossed generally or specially, bearing in either case the words “not negotiable,” shall not have, and shall not be capable of giving, a better title to the cheque than that which the person from whom he took it had.

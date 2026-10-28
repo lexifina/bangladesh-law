@@ -1,0 +1,2 @@
+# Liability of legal representative signing
+29. A legal representative of a deceased person who signs his name to a promissory note, bill of exchange or cheque is liable personally thereon unless he expressly limits his liability to the extent of the assets received by him as such.

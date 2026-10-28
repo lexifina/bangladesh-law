@@ -1,0 +1,2 @@
+# Acceptance by several drawees not partners
+34. Where there are several drawees of a bill of exchange who are not partners, each of them can accept it for himself, but none of them can accept it for another without his authority.

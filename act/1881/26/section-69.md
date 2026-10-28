@@ -1,0 +1,2 @@
+# Instrument payable at specified place
+69. A promissory note or bill of exchange made, drawn or accepted payable at a specified place must, in order to charge the maker or drawer thereof, be presented for payment at that place.

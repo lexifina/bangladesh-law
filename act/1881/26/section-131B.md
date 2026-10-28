@@ -1,0 +1,4 @@
+# Protection to banker crediting cheque crossed “account- payee”
+[^20][131B. Where a cheque is delivered for collection to a banker which does not at the time of such delivery appear to be crossed “account payee” or to have had a crossing “account payee” which has been obliterated or altered, the banker, in good faith and without negligence collecting payment of the cheque and crediting the proceeds thereof to a customer, shall not incur any liability by reason of the cheque having been crossed “account payee”, or of such crossing having been obliterated or altered, and of the proceeds of the cheque having been credited to a person who is not the payee thereof.
+
+[^20]: Sections 131B, 131C, 131D, 131E, 131F, 131G, 131H and 131I were inserted by the Negotiable Instruments (Amendment) Ordinance, 1962 (Ordinance No. XLIX of 1962)

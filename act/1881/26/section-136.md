@@ -1,0 +1,2 @@
+# Instrument made, etc., outside Bangladesh, but in accordance with their law
+136. If a negotiable instrument is made, drawn, accepted or indorsed outside Bangladesh, but in accordance with the law of Bangladesh, the circumstance that any agreement evidenced by such instrument is invalid according to the law of the country wherein it was entered into does not invalidate any subsequent acceptance or indorsement made thereon within Bangladesh.

@@ -1,0 +1,3 @@
+# Interest when no rate specified
+80. When no rate of interest is specified in the instrument, interest on the amount due thereon shall, not-withstanding any agreement relating to interest between any parties to the instrument, be calculated at the rate of six per centum per annum from the date at which the same ought to have been paid by the party charged until tender or realisation of the amount due thereon, or until such date after the institution of a suit to recover such amount as the Court directs.
+Explanation - When the party charged is the indorser of an instrument dishonoured by non-payment, he is liable to pay interest only from the time that he receives notice of the dishonour.

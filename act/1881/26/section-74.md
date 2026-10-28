@@ -1,0 +1,2 @@
+# Presentment of instrument payable on demand
+74. Subject to the provisions of section 31, a negotiable instrument payable on demand must be presented for payment within a reasonable time after it is received by the holder.

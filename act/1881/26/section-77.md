@@ -1,0 +1,2 @@
+# Liability of banker for negligently dealing with bill presented for payment
+77. When a bill of exchange accepted payable at a specified bank has been duly presented there for payment and dishonoured, if the banker so negligently or improperly keeps, deals with or delivers back such bill as to cause loss to the holder, he must compensate the holder for such loss.

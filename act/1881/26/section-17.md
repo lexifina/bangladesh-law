@@ -1,0 +1,2 @@
+# Ambiguous instruments
+17. Where an instrument may be construed either as a promissory note or bill of exchange, the holder may at his election treat it as either, and the instrument shall be thenceforward treated accordingly.
