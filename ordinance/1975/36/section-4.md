@@ -1,0 +1,2 @@
+# Shares of jute companies to vest in Government
+4. On the commencement of this Ordinance, the shares in every jute company, which have not already vested in the Government by or under any law for the time being in force, shall, by virtue of this section, stand vested in, and allotted to, the Government free of any trust, mortgage, charge, lien, interest or other encumbrance whatsoever, and the Government shall, as from such commencement, be the sole shareholder of such jute company.

@@ -1,0 +1,2 @@
+# Provisions of certain law, etc. not to have any effect
+6. Every provision in any law or in any memorandum or articles of association of any jute company providing for any consequence to follow, or requiring any act or thing to be done, or entitling any person to do any act or thing or to take any action whatsoever, as a result of a reduction in the number of the members of such jute company below a certain number, shall be of no effect in relation to such jute company.
