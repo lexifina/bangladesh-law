@@ -1,0 +1,4 @@
+# Act No. IV of 1969 এর section 215B এর সন্নিবেশ
+৬। উক্ত Act এর section 215A এর পর নিম্নরূপ নূতন section 215B সন্নিবেশিত হইবে, যথা:-
+“215B. Enquiries and Enquiry Points.– (1) The Board may, establish or maintain one or more enquiry points at the Board or the customs stations to answer reasonable enquiries on information pertaining to the Act and rules made thereunder and to provide copies of notifications, circulars, orders and other instruments issued for general use under this Act, and to provide required forms and documents pertaining to importation, exportation and transit procedures.
+(2) On an application, including in electronic format, by an interested person, the enquiry point shall answer the enquiries and provide the forms and documents within a reasonable period and, in relevant cases, in electronic format.”|

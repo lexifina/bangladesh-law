@@ -1,0 +1,2 @@
+# Ordinance No. XXXVI of 1984 এর section 159 এর সংশোধন
+৪৩। উক্ত Ordinance এর section 159 এর sub-section (6) এর “appeal was filed” শব্দগুলির পর “, and where a case is heard by two members and an additional member is appointed for hearing the case because of the difference of decision of the two members, the period shall be eight months from the end of the month in which the appeal was filed” কমা ও শব্দগুলি সন্নিবেশিত হইবে।
