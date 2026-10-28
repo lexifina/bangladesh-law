@@ -1,0 +1,2 @@
+# Failure to deliver returns or statements
+23. If any person fails, without reasonable cause or excuse, to furnish in due time any return or statement, or to produce or cause to be produced, any accounts or documents required to be produced under section 13, he shall on conviction by a Magistrate be punishable with fine which may extend to five hundred Taka, and with a further fine which may extend to fifty Taka for every day during which the default continues.

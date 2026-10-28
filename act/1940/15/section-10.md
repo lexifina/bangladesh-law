@@ -1,0 +1,3 @@
+# Artificial transactions
+10. (l) In computing profits for the purposes of this Act no deduction shall be made in respect of any transaction or operation of any nature if and so far as it appears that the transaction or operation has artificially reduced or would artificially reduce the profits.
+(2) If the Excess Profits Tax Officer is satisfied that any person has entered into or carried out any transaction or operation by which the profits have been or would be artificially reduced, he may, with the previous approval of the Inspecting Assistant Commissioner, direct that such person shall pay, in addition to any excess profits tax for which he is or, but for such transaction or operation, would be liable, a penalty not exceeding the tax evaded or sought to be evaded.

@@ -1,0 +1,3 @@
+# Rectification of mistakes
+20. The Commissioner may, at any time within four years from the date of any order passed whether by himself or by any Appellate Assistant Commissioner or Excess Profits Tax Officer under this Act, rectify any mistake in any evidence recorded during assessment or appellate proceedings, or any mistake apparent from the record and shall within the like period rectify any mistake apparent from the record which has been brought to his notice by a person to whose business this Act applies:
+Provided that no such rectification shall be made having the effect of enhancing the liability of any person unless that person has been given a reasonable opportunity of being heard.
