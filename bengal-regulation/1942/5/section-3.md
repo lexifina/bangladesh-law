@@ -1,0 +1,2 @@
+# Validation of certain notifications rules and action
+3. Any notification purporting to have been issued or any rule or order purporting to have been made or any other action purporting to have been taken under the said Act before the Commencement of this Regulation shall be deemed to be as valid as if it had been issued, made or taken under the said Act as applied to the said tracts by this Regulation.
