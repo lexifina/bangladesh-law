@@ -1,0 +1,7 @@
+# Repeal and savings
+2. (1) The Institute of Islamic Education and Research Act, 1980 (XXXI of 1980), hereinafter referred to as the said Act, is hereby repealed.
+(2) Upon the repeal under sub-section (1),-
+(a) the Board of Governors constituted under the said Act shall stand dissolved;
+(b) all assets, rights, powers, authorities and privileges, and all properties, movable and immovable, cash and bank balances of the Institute established under the said Act, hereinafter referred to as the said Institute, and all other interests and rights in, or arising out of, such property, shall stand transferred to, and vested in, the Islamic University established under the Islamic University Act, 1980 (XXXVII of 1980), hereinafter referred to as the said University;
+(c) all debts, liabilities and obligations of whatever kind of the said Institute subsisting immediately before the repeal of the said Act shall be debts, liabilities and obligations of the said University;
+(d) services of all teachers, officers and employees of the said Institute shall, notwithstanding anything contained in any contract or agreement or in the terms and conditions of service, stand transferred to the said University and they shall be deemed to be teachers, officers and employees of the University appointed by it on the same terms and conditions of service as were applicable to them in the said Institute unless such terms and conditions are altered, not being to their disadvantage, by the said University
