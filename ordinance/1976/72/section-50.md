@@ -1,0 +1,3 @@
+# Arrest of witnesses
+50. (1) If a Court conducting any trial under this Chapter issues a warrant of arrest to compel the attendance of any person whose evidence is in its opinion necessary, it may, for the purpose of effecting the arrest, authorise any police officer to enter any inland ship or other vessel or any premises.
+(2) The police officer authorised to enter any inland ship or vessel or premises under sub-section (1) may, for the purpose of enforcing the entry, call to his aid any officer of police or customs or any other person and may seize and detain the vessel for such time, not exceeding forty-eight hours, as may be reasonably necessary for effecting the arrest.

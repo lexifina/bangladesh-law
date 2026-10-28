@@ -1,0 +1,3 @@
+# Trial of offences
+73. (1) Save as otherwise provided in this Ordinance, an offence punishable under this Ordinance , not being an offence made punishable by rules made under this Ordinance, shall not be tried by any Court other than a Court of Magistrate of the first class or the Marine Court.
+(2) Unless in any case the Government, by notification in the official Gazette, appoints any other place for the purpose, an offence punishable under this Ordinance may be tried, subject to the provisions of sub-section (1) by a Court within the local limits of whose jurisdiction it was committed or the accused may be found.

@@ -1,0 +1,2 @@
+# Recovery of fine by distraint
+74. Where the owner or the master of an inland ship is sentenced to pay a fine for an offence punishable under this Ordinance, the Court passing the sentence may also direct that, in case of failure to immediately pay the fine, the amount of the fine may be recovered by distraint and sale of the ship or the tackle, apparel or furniture of the ship, or so much thereof as may be necessary for the recovery of the fine.

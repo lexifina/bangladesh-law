@@ -1,0 +1,2 @@
+# Assistance from law enforcing agencies and other authorities
+81C. The Director-General or a person authorised by him or an officer appointed under the provisions of this Ordinance may, for the purpose of exercising any power or performing any function under this Ordinance, request any law enforcing agency, or any other Government or statutory authority to render necessary assistance, and upon such request that agency or authority shall render the assistance.

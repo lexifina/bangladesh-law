@@ -1,0 +1,2 @@
+# Certificate of survey to be affixed in conspicuous part of inland ship
+10. The owner or master of every inland ship for which a certificate of survey has been granted shall, immediately on receipt of the certificate, cause one of the duplicates thereof to be affixed on some conspicuous part of the ship where it may be easily read by all persons on board and shall be kept so affixed for so long as the certificate is in force and the ship is in use.

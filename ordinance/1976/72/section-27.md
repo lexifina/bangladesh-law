@@ -1,0 +1,4 @@
+# Registration of ship transferred to Bangladesh national
+27. (1) Where an inland ship not registered under this Ordinance is transferred to a citizen of Bangladesh or to such a company as is described in sub-section (2) of section 3, the ship shall be registered under this Ordinance.
+(2) Before registering an inland ship as required by sub-section (1), the registrar shall, for the purpose of satisfying himself as to the validity of the transfer and the identity of the transferor and the transferee, require the production of the bill of sale, the certificate of transfer and the certificate of the registry of the ship.
+(3) Where an inland ship is registered as required by sub-section (1), the registrar shall enter in the register book the description of the ship contained in her original certificate of registry.

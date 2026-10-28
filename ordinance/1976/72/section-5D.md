@@ -1,0 +1,4 @@
+# Marking of Ship
+5D. (1) Every inland ship in respect of which an application for registration is made under section 17 shall, before grant of certificate of registration under section 18, be marked, in such manner as may be prescribed, permanently and conspicuously and to the satisfaction of the registrar.
+(2) The marks required by this section shall not be altered or otherwise modified without the prior written permission of the registrar.
+(3) If an owner or master of an inland ship neglects to cause his ship to be marked as required by this section, or to keep her so marked, or if any person conceals, removes, alters, defaces, or obliterates any of the said mark, he shall, for such offence, be punishable with fine which may extend to Taka twenty thousand, and on a report from a surveyor that an inland ship is insufficiently or inaccurately marked, the inland ship may be detained until the insufficiency or inaccuracy has been remedied.]

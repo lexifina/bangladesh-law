@@ -1,0 +1,9 @@
+# Offences by companies, etc.
+[^90][72A. (1) If the person committing an offence under this Ordinance is a company, every person who, at the time the offence was committed, was incharge of, and was responsible to, the company for the conduct of the business of the company, as well as the company, shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly:
+Provided that nothing in this sub-section shall render any such person liable to any punishment under this Ordinance if he proves that the offence was committed without his knowledge or that he exercised all due diligence to prevent the commission of such offence.
+(2) Notwithstanding anything contained in sub-section (1), where an offence under this Ordinance has been committed by a company and it is proved that the offence was committed with the consent or connivance of, or is attributable to any neglect on the part of, any director, manager, secretary or other officer of the company, such director, manager, secretary or other officer shall also be deemed to be guilty of that offence, and shall be liable to be proceeded against and punished accordingly.
+Explanation.- For the purposes of this section-
+(a) “Company” means any body corporate and includes a firm or other association of individual, and
+(b) “director” in relation to a firm, means a partner in the firm.]
+
+[^90]: Section 72A was inserted by section 7 of the Inland Shipping (Amendment) Act, 1990 (I of 1990)

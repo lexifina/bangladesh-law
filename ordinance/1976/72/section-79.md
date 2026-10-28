@@ -1,0 +1,5 @@
+# Power to regulate movement of goods, etc.
+79. (1) If the Government is of opinion that an emergent necessity has arisen rendering it essential to regulate the movement of goods and passengers and to provide for allocation of specific routes to inland ships, the Government or any authority authorised by it in this behalf, may regulate the movement of goods and passengers in such manner as may be prescribed and requisition, for the purpose of movement of goods and passengers any inland ship on such terms and conditions as the Government may determine or direct, by order in writing, the owner or master of an inland ship-
+(a) that the ship shall ply on a route or routes specified in the order; and
+(b) that the ship shall be used for such traffic purposes as may be specified in the order.
+(2) Whoever fails to abide by regulation, or comply with requisition or direction, if any, under sub-section (1), shall be punishable with imprisonment for a term which may extend to two years, or with fine which may extend to Taka ten thousand, or with both.
