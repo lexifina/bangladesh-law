@@ -1,0 +1,2 @@
+# Duty of Board
+16. It shall be the duty of the Board to receive, and, after such inquiry, if any, as it deems necessary or may be required by this Act to report to the Government upon applications for State aid, to frame complete schemes and programmes for such State action as the Board considers necessary for the steady and progressive development of industries for the consideration of the Government and to advice the Government on any other matter that may be referred to it.

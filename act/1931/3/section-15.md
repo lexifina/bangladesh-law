@@ -1,0 +1,3 @@
+# Suppression of Board
+15.(1) If at any time it appears to the Government that the Board is not properly performing the duties imposed upon it by or under this Act, the Government may, after considering any explanation offered by the Board, by an order in writing specifying the reasons for so doing, remove all appointed and elected members of such Board and direct that the vacancies shall thereupon be filled by election in respect of elected members and by appointment in respect of appointed members or that all the vacancies shall be filled by appointment.
+(2) From the date of an order under sub-section (1) until the vacancies are filled, all powers and duties of the Board shall be exercised and performed by such person, in such manner, as the Government may direct.

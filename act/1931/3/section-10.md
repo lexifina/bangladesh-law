@@ -1,0 +1,2 @@
+# Allowances and fees
+10. The members and staff of the Board and the members of Committees appointed by the Board shall be paid travelling and daily allowances of the prescribed amount and on the prescribed conditions for attending meetings of the Board, and may also be paid fees of the prescribed amount and on the prescribed conditions for attending meetings of the Board, or for performing any duty assigned to them by the Board for the purposes of this Act.
