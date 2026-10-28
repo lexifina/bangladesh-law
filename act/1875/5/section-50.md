@@ -1,0 +1,2 @@
+# Power of Collector to enforce attendance of witnesses
+50. For the purpose of any inquiry under this Act the Collector shall, in addition to every power conferred specially by this Act, have power to summon and enforce the attendance of witnesses and compel the production of documents by the same means (as far as may be), and in the same manner, as is provided in the case of a Court under the Code of Civil Procedure1908.

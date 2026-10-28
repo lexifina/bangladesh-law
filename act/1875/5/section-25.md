@@ -1,0 +1,10 @@
+# Notice to be served
+25. So soon as the provisional apportionment shall have been made as required by the last preceding section, the Collector shall cause a notice to be served on the zamindar of every estate on which the expenses have been apportioned–
+(a) specifying the sum which has been apportioned on his state, and, as far as can be calculated the sum
+which he will be required to pay on account of the service of notices on him under this section and section 29;
+(b) informing him that the said statement is open to inspection in the office of the Collector;
+(c) calling on him to appear in person, or by agent properly authorised, at the office of the Collector on a date to be specified in the notice (not being less than two months after the issue of the notice), on which date the Collector will proceed to consider any objections which may be made to the provisional apportionment of expenses;
+(d) warning him that if he does not appear on the date fixed in pursuance of the notice, he will be deemed to have waived all objections, to the share of the expenses apportioned to his estate;
+and (unless as otherwise hereinafter provided in sections 31, 32 and 33);
+(e) informing him that, under this Act, he is entitled to recover a portion of the amount which shall be finally made payable in respect of his estate under section 26, from such tenure-holders on his estate as are made liable to bear a portion of such expenses by sections 16 and 17 (of which sections a copy shall be annexed to the notice); and that in order to enable the collector to apportion the said amount among the said tenure-holders, he may give in a list of all such tenures, as defined in this Act, held directly from him, with a specification of the number of boundary-marks of each description which are erected within or on the boundary of each tenure;
+(f) and warning him that if he fails to give in a list of tenures as aforesaid on or before the said date, he will be deemed to have given up all claim to recover from the tenure-holders any part of the amount for which he may be held liable under section 26.

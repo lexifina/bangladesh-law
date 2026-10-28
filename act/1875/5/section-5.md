@@ -1,0 +1,7 @@
+# Collector to publish proclamation before entering on lands
+5. Before entering on any lands for the purpose of a survey the Collector shall cause to be published a proclamation addressed to the occupants of the lands which are about to be surveyed and of the conterminous lands, and to all persons employed on or connected with the management of, or otherwise interested in, such lands, calling upon them to attend, either personally or by agent, before the Collector or any officer authorized by the Collector in that behalf, at such places and at such times as shall be stated in such proclamation, during the demarcation and survey of the land, for the purpose of pointing out the boundaries and of rendering such aid as may be necessary in setting up or repairing such boundary marks as may be required, and of affording such assistance and information as may be needed for the purposes of this Act.
+Such proclamation shall be published by posting a copy thereof-
+at the Court of the Judge and at the office of the Collector of every district within which any portion of the lands about to be surveyed may be known to be situated;
+at every subdivisional office, police-station, Munsif's Court and sub-registrar's office within the jurisdiction of which any portion of the land about to be surveyed may be known to be situated;
+at one or more mal-cutcheries on each estates;
+and at such other place or places as to the Collector may seem fit.

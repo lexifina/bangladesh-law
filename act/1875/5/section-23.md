@@ -1,0 +1,2 @@
+# Contents of statement
+23. Such statement shall show the total number of marks of each description which have been erected on such tract or portion of such tract, the aggregate cost of erecting all the mark of each description, the names of the estates and mouzas within, or on the boundaries of, which any marks been erected, and the total number of marks of each description erected within or on the boundary of each estate.

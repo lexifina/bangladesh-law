@@ -1,0 +1,2 @@
+# Collector not to issue notices to tenure-holders until zamindars have deposited costs
+36. Notwithstanding anything contained in section 35, the Collector shall not issue the notices therein mentioned to the tenure-holders until the zamindars concerned shall have deposited with the Collector the full amount of the costs of serving all the notices, and of publishing the lists as required by that section.

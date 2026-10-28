@@ -1,0 +1,4 @@
+# Apportionment between tenure-holder and holder of subordinate tenure
+37. The provisions of sections 25, 26, 27, 28, 29, 30, 34 and 35 shall be applicable, as far as possible, to every case in which any tenure-holder who has been made liable for the payment of any share of expenses under this Act may apply to the Collector to apportion the amount for which he has been made liable between himself and the holders of subordinate tenures direct from himself;
+and the provisions of sections 31, 32 and 33, regarding the procedure for making a provisional apportionment in a summary way between a zamindar and the tenure-holder on his estate, shall be applicable, as far as possible, to the provisional apportionment of expenses between the holder of a tenure and the holders of under-tenures within his tenure:
+Provided always that no such apportionment shall be made in respect of raiyats who have a right of occupancy only, and whose rent is not fixed in perpetuity.

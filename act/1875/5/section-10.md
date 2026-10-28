@@ -1,0 +1,4 @@
+# Compensation
+10. If any demand for compensation be made in respect of the clearance of any line in accordance with a requisition under the last preceding section, the Collector shall ascertain and record the nature and estimated value of any trees, jungle, fences or standing crops which may have been cut down or removed, and shall offer adequate compensation to the owners thereof, together with payment for all expenses incurred in carrying out the said requisition.
+# Statement of objections
+Any person so called upon who may object to sign the maps and papers as aforesaid shall be required to state his objections in writing, and such statement shall be attached to the record of the demarcation of the village or tract and shall be submitted to the Collector together with the maps and papers.

@@ -1,0 +1,2 @@
+# When person removing boundary-mark cannot be found, Collector may repair
+56. Whenever the person erasing, removing or damaging any boundary-mark cannot be discovered, or if for any other reason it is found impracticable to recover from him the sum which he has been so ordered to pay, the boundary-mark shall be restored or repaired by the Collector, and the expenses thereby incurred shall be recovered from the occupants, of such of the conterminous lands and in such proportions, as to the Collector may seem fit.

@@ -1,0 +1,2 @@
+# Procedure on provisional apportionment
+33. As soon as a provisional apportionment between the zamindar and the tenure-holders shall have been made summarily as provided in section 31, the Collector shall proceed to serve notices on the tenure-holders concerned in the manner provided in section 30, and to do all other things as if the said provisional apportionment upon tenure-holders had been made on a list given in by the zamindar under section 30.

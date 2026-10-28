@@ -1,0 +1,3 @@
+# Collector to make final apportionment
+26. On the date fixed in such notice the Collector shall proceed to consider all objections which may be made to the provisional apportionment, and to make such final apportionment of the expenses shall seem to him fit.
+In making such final apportionment the costs of serving all notices under section 25 shall be distributed rateably among the estates concerned, in proportion to the share of the expenses of erecting boundary-marks which may be apportioned to each estate; and the amount so finally apportioned as payable in respect of each estate, together with the costs of serving notices, rateably distributed as aforesaid, shall be due to the Collector from the zamindars of such estates.

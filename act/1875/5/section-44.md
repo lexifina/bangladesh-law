@@ -1,0 +1,9 @@
+# Relaying boundary previously determined by Court or by revenue-survey
+44. If the boundary regarding which the dispute exists as mentioned in section 40 shall at any previous time have been determined by any Court of competent jurisdiction, or shall have been laid down and shown on a map in the course of any previous revenue-survey or settlement, and no objection to the boundary as than laid down and mapped shall have been preferred before any authority competent to decide on such objection:
+whenever the dispute relates to the boundary of an estate which is liable for revenue, or to any other boundary by which the interests of the Government may be affected, the Collector shall,
+and whenever the disputes relates to any other boundary, the Collector may, if he thinks fit,
+relay, as nearly as may be possible, the boundary as previously determined or laid down and shown on the map, and cause such boundary to be shown on the survey-map, with an explanatory note to the same:
+Provided that the relaying and record of a boundary by the Collector under this section shall not affect the possession of any land by any party, and shall be in addition to the determination and record of the boundary according to actual possession required by section 41.
+# Collector may deviate from boundary if parties agree
+Nothing contained in the section shall be held to prohibit the Collector from deviating from a boundary as held by actual possession or as shown on a former map, and laying down a new boundary, if all the parties concerned agree to such new boundary, on the ground that the boundary held by actual possession, or as shown on the former map, was incorrect, and if it appears to the Collector that there is no objection to the adoption of such new boundary.
+The reason for every such deviation shall be recorded in the Collector's proceedings.

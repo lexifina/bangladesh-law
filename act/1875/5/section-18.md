@@ -1,0 +1,2 @@
+# Procedure when occupant fails to maintain boundary-mark
+18. If any occupant on whom a requisition has been made under section 14 fails to maintain or keep in repair any temporary boundary-mark, the Collector may maintain, keep in repair or restore any such boundary-mark, and the expenses thereby incurred shall be recovered as provided in section 57 from the person so failing to maintain or keep in repair any such boundary-mark.

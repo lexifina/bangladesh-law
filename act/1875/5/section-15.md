@@ -1,0 +1,4 @@
+# Collector may erect permanent boundary-marks
+15. The Collector may at any time cause to be erected on any land which is to be, or which has been, surveyed under this Act, permanent boundary-marks of such materials, and in such number and manner, as he may determine to be sufficient to distinguish the boundaries of the estates, tenures, mouzas or fields for which the same are to be erected:
+# Specification of marks and estimate of cost to be posted
+Provided that, seven days before he proceeds to the erection of any permanent boundary-marks, the Collector shall, for the information of all concerned, cause to be posted in his office, and in the mal-cutcharry or at some other convenient place on every estate concerned, a specification of the number and character of the marks which he proposes to erect on the estate and an estimate of their cost.

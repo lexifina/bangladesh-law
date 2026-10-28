@@ -1,0 +1,2 @@
+# No suit to be brought unless appeal first preferred
+62. No suit shall be brought to set aside an order of a Superintendent of Survey, Collector, Assistant Superintendent or Deputy Collector deciding a boundary-dispute, unless an appeal shall have been first preferred under section 59 or section 60, or unless the person suing was at the time when such order was passed a minor, or insane or an idiot.

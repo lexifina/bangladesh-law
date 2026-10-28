@@ -1,0 +1,7 @@
+# Amin or survey-officer to call upon persons to sign maps or papers
+11. When the demarcation of a village or other convenient tract has been completed, the amin or other survey-officer shall, before sending in to the Collector the maps and papers relating thereto,
+by a general notice, in which the names of all persons required to appear shall be specified, and which shall be posted up at a convenient place in the village or tract,
+call upon all persons who have pointed out any boundaries in such village or tract on behalf of those interested to attend before him within three days of the publications of the said notice for the purpose of inspecting the maps, field books and similar papers in which any boundary pointed out by any such person has been represented, and, by signing such maps and papers, to certify that the boundaries have been laid down in accordance with the boundaries pointed out by them;
+and every person so called upon shall be legally bound to attend before such amin or survey-officer, and to inspect the papers, in accordance with such requisition.
+# Effect of signature
+The signature affixed to any maps or papers under this section shall be in attestation of the fact that the boundaries thereon represented or any of them have been represented in accordance with those pointed out by the person signing ; and the affixing of such signature shall not be held to prejudice the right of any person interested to make any objection to such boundaries on any other ground before the Collector under the next succeeding section.

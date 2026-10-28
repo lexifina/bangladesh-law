@@ -1,0 +1,6 @@
+# Service of notice
+48. Every notice in and by this Act required to be served on any person may be served-
+(1) by delivering the same to the person to whom it is directed, or, on failure of such service, by posting the same on some conspicuous part of the house in which the said person resides, or by delivering the said notice to a general agent of the person to whom such notice is directed; or
+(2) by sending a registered letter containing such notice directed to the said person at his usual place of abode, or to the place where he may be known to reside; or
+(3) by posting a copy of the notice at any mal-cutchery of the estate or tenure of the person to whom the notice is directed; or if no such mal-cutchery be found, on some conspicuous place on the said estate or tenure to which such notice relates, and by delivering, in the case of estates paying their annual revenue by four instalments, another copy thereof to any agent who shall have paid an instalment of revenue next after the preparation of such notice.
+In all cases where two or more persons are holders of an estate or tenure, service of notice under this clause shall be deemed to be good and sufficient service on each and all of such persons.

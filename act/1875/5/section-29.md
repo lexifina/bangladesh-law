@@ -1,0 +1,3 @@
+# Collector to issue notice specifying amount finally apportioned
+29. So soon as the expenses shall have been finally apportioned under section 26 among the estates concerned as hereinbefore provided, the Collector shall issue a notice in respect of every estate, specifying the amount finally apportioned as payable in respect of the estate, and requiring the zamindars to pay such amount to the Collector, together with the costs of serving such notice, within one month of the issue of the notice.
+If such amount be not paid to the Collector within such period, the same, with interest, at such rate, not exceeding six per centum per annum, as the Government may from time to time determine, may be levied as provided in section 57.
