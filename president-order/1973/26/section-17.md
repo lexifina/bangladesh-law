@@ -1,0 +1,11 @@
+17. (1) On the commencement of this Order :
+(a) all assets of the Pakistan Red Cross Society in Bangladesh and of the former East Pakistan Provincial Branch and other branches thereof shall stand transferred to and vested in the Society.
+Explanation.- The expression “assets” includes rights, privileges, authorities, powers and properties, both movable and immovable, including buildings, vehicles, vessels, cash balance, bank deposits, reserve funds, investments, stocks and shares and all interests arising out of such rights, privileges, authorities, powers and properties, and all books of account, registers, records and all other documents;
+(b) all debts and liabilities incurred, all obligations undertaken, all contracts entered into and all agreements made by or with the Pakistan Red Cross Society or the former East Pakistan Provincial Branch thereof for the sole benefit of the former East Pakistan Provincial Branch or the territories constituting Bangladesh shall stand transferred to, and be deemed to have been incurred, undertaken, entered into and made by or with the Society;
+(c) all suits and other legal proceedings instituted in Bangladesh before the commencement of this Order by or against the Pakistan Red Cross Society or the former East Pakistan Provincial Branch thereof shall be deemed to have been instituted by or against the Society and may be continued or proceeded with accordingly;
+(d) all officers and other employees of the Pakistan Red Cross Society and of the former East Pakistan Provincial Branch thereof in Bangladesh shall stand transferred to the Society on such terms and conditions as the Society may determine :
+Provided that an officer or an employee so transferred shall have the option not to continue in the service of the Society.
+(2) The following properties shall vest in the Society :
+(a) all monies and properties which may be allotted to the Society out of the share of the Pakistan Red Cross Society in the assets of the Indian Red Cross Society as specified in the Second Schedule;
+(b) all monies and properties in the share of the former East Pakistan Provincial Branch of the Pakistan Red Cross Society which may be received by the Society out of the assets of the Pakistan Red Cross Society; and
+(c) all gifts made to the Society for the purposes of the Society.

@@ -1,0 +1,1 @@
+21. The Society may appoint such officers and other employees as it considers necessary for the efficient management of its affairs and business on such terms and conditions as it may determine from time to time.

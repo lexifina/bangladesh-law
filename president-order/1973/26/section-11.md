@@ -1,0 +1,3 @@
+11. (1) The Chairman shall be the Chief Executive of the Society, and in the absence of the Chairman, the Vice-Chairman shall perform the functions of the Chairman.
+(2) The Treasurer shall control the funds and finances of the Society and shall ensure maintenance of proper accounts for purposes of audit.
+(3) The accounts of the Society shall be audited annually by an auditor being a Chartered Accountant within the meaning of the Bangladesh Chartered Accountants Order, 1973 (P. O. No. 2 of 1973) appointed by the Managing Board for the purpose, and shall be maintained, and presented for audit, in such form and manner as may be prescribed.

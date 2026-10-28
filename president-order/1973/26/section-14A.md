@@ -1,0 +1,3 @@
+[^31][14A. Notwithstanding anything contained in this Order or rules made thereunder, an election to fill a casual vacancy in the office of Vice-Chairman or Treasurer of the Society or of a member of the Managing Board as mentioned in clause (2) of Article 9A or a general election to the elective offices of the Managing Board as mentioned in clause (3) of Article 9B or as mentioned in clause (4) of Article 9C may, if necessary, be held in any meeting of the General Body.]
+
+[^31]: Article 14A was inserted by section 8 of the Bangladesh Red Crescent Society (Amendment) Act, 1989 (Act No. XIV of 1989)

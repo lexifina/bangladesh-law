@@ -1,0 +1,5 @@
+18. Notwithstanding anything contained in any appeal for subscriptions or gifts to or for the purposes of the Joint War Committee, Indian Branch, of the Order of St. John of Jerusalem in England and the British Red Cross Society made during the World War, the Society may in its discretion apply:
+(a) either the corpus or the income or any part of such corpus or income of any property vested in it under sub-clause (a) of clause (2) of Article 17 for the relief of sickness, suffering or distress caused by any War in Bangladesh or in any other country in which armed forces from Bangladesh may be employed and for purposes cognate to those subjects and in maintaining [^34][Red Crescent Depots] for Military purposes in and outside Bangladesh;
+(b) the income only of any such property but not the corpus or any part thereof for the relief of sickness of suffering in Bangladesh or in pursuance of any of the objects set forth in the First Schedule.
+
+[^34]: The words “Red Crescent Depots” were substituted for the words “Red Cross Depots” by section 9 of the Bangladesh Red Cross Society (Amendment) Act, 1988 (Act No. XXV of 1988)

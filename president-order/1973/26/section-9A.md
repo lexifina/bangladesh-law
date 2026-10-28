@@ -1,0 +1,8 @@
+[^21][9A. (1) The term of an Executive Committee or Managing Board shall be three years commencing from the first day of
+January of the year following the year in which general election to the elective offices of the Executive Committee or Managing Board, as the case may be, is held.
+[^22][(1A) Notwithstanding anything contained in clause (1), the Chairman of the Society, in the case of an Executive Committee, or the President, in the case of the Managing Board, may, if he considers necessary in the public interest so to do, extend the term of an Executive Committee or the Managing Board, as the case may be, by one year.]
+(2) A casual vacancy in the office of Vice-Chairman, Secretary or member of an Executive Committee or Vice-Chairman or [^23][Treasurer or member of the Managing Board] shall be filled by election or nomination, as the case may be, in accordance with the provisions of this Order and rules made thereunder, and a person so elected or nominated shall hold office for the residue of the term of the Executive Committee or Managing Board, as the case may be.
+
+[^21]: Article 9A, 9B, 9C, 9D, and 9E was substituted for Article 9A by section 7 of the Bangladesh Red Cross Society (Amendment) Ordinance, 1985 (Ordinance No. IX of 1985)
+[^22]: Clause (1A) was inserted by section 7 of the Bangladesh Red Crescent Society (Amendment) Act, 1988 (Act No. XXV of 1988)
+[^23]: The words “Treasurer or member of the Managing Board” were substituted for the words “member of the Managing Board” by section 4 of the Bangladesh Red Crescent Society (Amendment) Act, 1989 (Ordinance No. XIV of 1989)

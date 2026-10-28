@@ -1,0 +1,1 @@
+9D. Notwithstanding anything contained in Articles 9A and 9B, no election to fill a casual vacancy in an Executive Committee or Managing Board shall be held, if the residue of the term of such Committee or Board is less than one year.

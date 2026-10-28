@@ -1,0 +1,5 @@
+3. (1) There shall be constituted a Society to be called the [^5][Bangladesh Red Crescent Society], the first members of which shall be such persons as were the life members or members of any other grade of the Pakistan Red Cross Society immediately before the commencement of this Order and are resident in Bangladesh.
+(2) The first members of the Society and all persons who may become members thereof, so long as they continue to be such members are hereby constituted a body corporate under the name of the [^6][Bangladesh Red Crescent Society], and the said body shall have perpetual succession and a common seal with power to acquire, hold and dispose of property, both movable and immovable, and shall by the said name sue and be sued.
+
+[^5]: The words “Bangladesh Red Crescent Society” were substituted for the words “Bangladesh Red Cross Society” by section 5 of the Bangladesh Red Cross Society (Amendment) Act, 1988 (Act No. XXV of 1988)
+[^6]: The words “Bangladesh Red Crescent Society” were substituted for the words “Bangladesh Red Cross Society” by section 5 of the Bangladesh Red Cross Society (Amendment) Act, 1988 (Act No. XXV of 1988)

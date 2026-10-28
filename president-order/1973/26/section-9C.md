@@ -1,0 +1,8 @@
+9C. (1) If the Chairman of the Society, in the case of an Executive Committee, or the President, in the case of the Managing Board, is of opinion that the Executive Committee or the Managing Board, as the case may be, is not discharging its functions properly or is acting in a manner prejudicial to the interest of the society, he may, by order in writing, declare the Executive Committee or Managing Board, as the case may be, to be superseded for such period as may be specified in the order.
+(2) On the making of an order under clause (1), -
+(a) all persons holding any office in the Executive Committee or Managing Board, as the case may be, shall cease to hold such office;
+(b) all powers and functions of the Executive Committee or Managing Board, as the case may be, shall, during the period of supersession, be exercised and performed by an ad hoc Executive Committee or Managing Board, as the case may be, appointed in such manner as is specified in [^26][Article 9B].
+(3) On the expiry of the period of supersession, the Executive Committee or Managing Board, as the case may be, shall be reconstituted in accordance with the provisions of this Order and the rules made thereunder.
+(4) Notwithstanding anything contained in clause (1) of Article 9A, the term of the Executive Committee or Managing Board, as the case may be, reconstituted under clause (3), shall be counted from the first day of January of the year in which the general election to the elective offices of the reconstituted Executive Committee or Managing Board, as the case may be, is held.
+
+[^26]: The word, figure and letter “Article 9B” were substituted for the word, figure and letter “Article 7B” by section 8 of the Bangladesh Red Cross Society (Amendment) Act, 1988 (Act No. XXV of 1988)
