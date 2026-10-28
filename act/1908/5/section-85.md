@@ -1,0 +1,4 @@
+# Persons specially appointed by Government to prosecute or defend for Rules of foreign States.
+85.(1) Persons specially appointed by order of the Government at the request of the Ruler of any foreign State, or at the request of any person competent, in the opinion of the Government, to act on behalf of such Ruler, to prosecute or defend any suit on his behalf, shall be deemed to be the recognized agents by whom appearances, acts and applications under this Code may be made or done on behalf of such Ruler.
+(2) An appointment under this section may be made for the purpose of a specified suit or of several specified suits, or for the purpose of all such suits as it may from time to time be necessary to prosecute or defend on behalf of the Ruler.
+(3) A person appointed under this section may authorise or appoint persons to make appearances and applications and do acts in any such suit or suits as if he were himself a party thereto.

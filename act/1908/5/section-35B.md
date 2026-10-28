@@ -1,0 +1,5 @@
+# Cost for delay in making applications, etc., in respect of interlocutory matters.
+[^29][35B.(1) If at any stage of a suit or proceeding, an application or written objection is not filed within the time fixed by the Court, such application or written objection, as the case may be, shall not be admitted for hearing without payment by that party of such cost to the other party not exceeding two thousand taka.
+(2) If after filing of written statement, any party to the suit makes an application in respect of any matter which, in the opinion of the Court, could and ought to have been made earlier, and is likely to delay the main proceeding of the suit, the Court may admit, but shall not hear and dispose of the application, without payment by that party of such cost to the other party not exceeding three thousand taka, as it shall determine and direct, and upon failure to pay the cost, the application shall stand rejected.]
+
+[^29]: Section 35B was inserted by section 3 of the Code of Civil Procedure (Third Amendment) Act, 2003 (Act No. XL of 2003)

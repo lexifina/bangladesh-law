@@ -1,0 +1,2 @@
+# Appeal from final decree where no appeal from preliminary decree.
+97. Where any party aggrieved by a preliminary decree passed after the commencement of this Code does not appeal from such decree, he shall be precluded from disputing its correctness in any appeal which may be preferred from the final decree.

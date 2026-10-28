@@ -1,0 +1,7 @@
+# Compensatory costs in respect of false or vexatious claims or defences.
+[^27][35A.(1) If in any suit or other proceeding, including an execution proceeding, not being an appeal, any party objects to the claim or defence on the ground that the claim or defence, or any part of it, is false or vexatious, and if, thereafter, such claim or defence is disallowed, in whole or in part, the Court shall, after recording its reasons for holding such claim or defence to be false or vexatious, make an order for the payment to the objector, such cost by way of compensation which may, without exceeding the limit of the Court's pecuniary jurisdiction, extend upto [^28][fifty] thousand taka.
+(2) No person against whom an order has been made under this section shall, by reason thereof, be exempted from any criminal liability in respect of any claim or defence made by him.
+(3) The amount of any cost awarded under this section in respect of a false or vexatious claim or defence shall be taken into account in any subsequent suit for damages or compensation in respect of such claim or defence.]
+
+[^27]: Section 35A was substituted, by section 2 of the Code of Civil Procedure (Third Amendment) Act, 2003 (Act No. XL of 2003)
+[^28]: The word “fifty” was substituted for the word “twenty” by section 3 of the Code of Civil Procedure (Amendment) Act, 2026 (Act No. XXXVI of 2026). (With effect from 08th May 2025).

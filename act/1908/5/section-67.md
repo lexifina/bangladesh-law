@@ -1,0 +1,4 @@
+# Power for Government to make rules as to sales of land in execution of decrees for payment of money.
+67.(1) The Government may, by notification in the official Gazette, make rules for any local area imposing conditions in respect of the sale of any class of interests in land in execution of decrees for the payment of money, where such interests are so uncertain or undermined as, in the opinion of the Government, to make it impossible to fix their value.
+(2) When on the date on which this Code came into operation in any local area, any special rules as to sale of land in execution of decrees were in force therein, the Government may, by notification in the official Gazette, declare such rules to be in force, or may, by a like notification, modify the same.
+Every notification issued in the exercise of the powers conferred by this sub-section shall set out the rules so continued or modified.

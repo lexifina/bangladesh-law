@@ -1,0 +1,2 @@
+# Liability of ancestral property.
+53. For the purposes of section 50 and section 52, property in the hands of a son or other descendant which is liable under Hindu law for the payment of the debt of a deceased ancestor, in respect of which a decree has been passed, shall be deemed to be property of the deceased which has come to the hands of the son or other descendant as his legal representative.

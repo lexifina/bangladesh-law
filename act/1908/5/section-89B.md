@@ -1,0 +1,4 @@
+# Arbitration
+89B.(1) If the parties to a suit, at any stage of the proceeding, apply to the Court for withdrawal of the suit on ground that they will refer the dispute or disputes in the suit to arbitration for settlement, the Court shall allow the application and permit the suit to be withdrawn; and the dispute or disputes, thereafter, shall be settled in accordance with Salish Ain, 2001 (Act No. 1 of 2001) so far as may be applicable:
+Provided that, if, for any reason, the arbitration proceeding referred to above does not take place or an arbitral award is not given, the parties shall be entitled to re-institute the suit permitted to be withdrawn under this sub-section.
+(2) An application under sub-section (1) shall be deemed to be an arbitration agreement under section 9 of the Salish Ain, 2001 (Act No. 1 of 2001).]

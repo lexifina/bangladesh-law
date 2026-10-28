@@ -1,0 +1,3 @@
+# Power of High Court Division to require evidence to be recorded in English.
+138.(1) The High Court Division may, by notification in the official Gazette, direct with respect to any Judge specified in the notification, or falling under a description set forth therein, that evidence in cases in which an appeal is allowed shall be taken down by him in the English language and in manner prescribed.
+(2) Where a Judge is prevented by any sufficient reason from complying with a direction under sub-section (1), he shall record the reason and cause the evidence to be taken down in writing from his dictation in open Court.

@@ -1,0 +1,3 @@
+# Where Court may authorise Collector to stay public sale of land.
+72.(1) Where in any local area in which no declaration under section 68 is in force the property attached consists of land or of a share in land, and the Collector represents to the Court that the public sale of the land or share is objectionable and that satisfaction of the decree may be made within a reasonable period by a temporary alienation of the land or share, the Court may authorise the Collector to provide for such satisfaction in the manner recommended by him instead of proceeding to a sale of the land or share.
+(2) In every such case the provisions of sections 69 to 71 and of any rules made in pursuance thereof shall apply so far as they are applicable.

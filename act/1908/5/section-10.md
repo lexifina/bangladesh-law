@@ -1,0 +1,3 @@
+# Stay of suit.
+10. No Court shall proceed with the trial of any suit in which the matter in issue is also directly and substantially in issue in a previously instituted suit between the same parties, or between parties under whom they or any of them claim litigating under the same title where such suit is pending in the same or any other Court in Bangladesh having jurisdiction to grant the relief claimed, or in any Court beyond the limits of Bangladesh established or continued by the Government and having like jurisdiction, or before the Supreme Court.
+Explanation.-The pendency of a suit in a foreign Court does not preclude the Court in Bangladesh from trying a suit founded on the same cause of action.

@@ -1,0 +1,5 @@
+# Application of the Code of Revenue Courts.
+5.(1) Where any Revenue Courts are governed by the provisions of this Code in those matters of procedure upon which any special enactment applicable to them is silent, the Government may, by notification in the official Gazette, declare that any portions of those provisions which are not expressly made applicable by this Code shall not apply to those Courts, or shall only apply to them with such notifications as the Government may prescribe.
+(2) "Revenue Court" in sub-section (1) means a Court having jurisdiction under any [^7][* * *] law to entertain suits or other proceedings relating to the rent, revenue or profits of land used for agricultural purposes, but does not include a Civil Court having original jurisdiction under this Code to try such suits or proceedings as being suits or proceedings of a civil nature.
+
+[^7]: The word "local" was omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
