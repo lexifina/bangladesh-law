@@ -1,0 +1,2 @@
+# Punishment for causing explosion with intent to commit offence
+3A. Any person who causes by any explosion substance an explosion with intent to commit or, to enable any other person to commit, an offence punishable under any law for the time being in force shall, whether any offence has been actually committed or not, be punishable with imprisonment for a term which may extend to seven years and shall not be less than three years, to which fine may be added.]
