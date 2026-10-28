@@ -1,0 +1,5 @@
+# Notice of suit against Kartripakkha, etc.
+169. No suit shall be instituted against the Kartripakkha, or any [^119][member], or any employee of the Kartripakkha, or any person acting under the direction of the Kartripakkha or of the Chairman or of any employee of the Kartripakkha, in respect of any act purporting to be done under this Act or any [^120][rule or regulation] made hereunder, until the expiration of one month next after written notice has been delivered or left at the Kartripakkha's office or the place of abode of such employee or person, stating the cause of action, the name and place of abode of the intending plaintiff, and the relief which he claims; and the plaint must contain a statement that such notice has been so delivered or left.
+
+[^119]: The word “member” was substituted for the word “Trustee” by section 2 of the Town Improvement (Amendment) Act, 1987 (Act No. XXIX of 1987)
+[^120]: The words “rule or regulation” were substituted for the word “rule” by section 57 of the Town Improvement (Amendment) Act, 1987 (Act No. XXIX of 1987)

@@ -1,0 +1,6 @@
+# Assessment of betterment fee by Kartripakkha
+95. (1) When it appears to the Kartripakkha that an improvement scheme or re-housing scheme is sufficiently advanced to enable the amount of the betterment fee to be determined, the Kartripakkha shall, by a resolution passed in this behalf, declare that for the purpose of determining such fee the execution of the scheme shall be deemed to have been completed and shall thereupon give notice in writing to every person on whom a notice in respect of the land to be assessed has been served under clause (a) of sub-section (1) of section 48 that the Kartripakkha propose to assess the amount of the betterment fee payable in respect of such land under section 94.
+[^51][(2) The Kartripakkha shall then assess the amount of betterment fee payable by each person concerned after giving such person an opportunity to be heard.
+(3) Any person aggrieved by the assessment made by the Kartripakkha under sub-section (2) may, within thirty days from the date of such assessment, appeal to the Government whose decision thereon shall be final.]
+
+[^51]: Sub-sections (2) and (3) were substituted by section 24 of the Town Improvement (Amendment) Act, 1987 (Act No. XXIX of 1987)

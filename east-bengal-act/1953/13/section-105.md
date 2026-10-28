@@ -1,0 +1,2 @@
+# Loans from Banks
+105. Whenever the borrowing of any sum has been approved under section 104, the Kartripakkha may, instead of borrowing such sum or any part thereof from the public, take credit from any Bank, on a cash account to be kept in the name of the Kartripakkha, to the extent of such sum or part; and, with the previous sanction of the Government may grant mortgages of all or any property vested in the Kartripakkha by way of securring the payment of the amount of such credit or of the sums from time to time advanced on such cash account with interest.

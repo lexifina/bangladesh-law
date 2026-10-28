@@ -1,0 +1,3 @@
+# Establishment and maintenance of sinking funds
+113. (1) Whenever the Government have approved the repayment of a loan from a sinking fund, the Kartripakkha shall establish such a fund and shall pay into it in every year, until the loan is repaid, a sum so calculated that, if regularly paid throughout the period approved by the Government under section 104, it would, with accumulations in the way of compound interest, be sufficient, after payment of all expenses, to pay off the loan at the end of that period.
+(2) The rate of interest, on the basis of which the sum referred to in sub-section (1) shall be calculated, shall be such as may be prescribed by the Government.

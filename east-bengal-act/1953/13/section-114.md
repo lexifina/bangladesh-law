@@ -1,0 +1,2 @@
+# Power o discontinue payments into sinking funds
+114. Notwithstanding anything contained in section 113, if at any time the sum standing at the credit of the sinking fund established for the repayment of any loan, is of such amount that, if allowed to accumulate at the rate of interest prescribed under sub-section (2) of that section, it will be sufficient to repay the loan at the end of the period approved by the Government under section 104, then, with the permission of the Government, further annual payments into such funds may be discontinued.

@@ -1,0 +1,5 @@
+# Publication of Master Plan
+74. (1) When the Government approves the Master Plan submitted under section 73, it shall announce the fact by notification and the publication of such notification shall be conclusive evidence that the Master Plan has been duly made and approved, and thereafter it shall be unlawful for any person to use any land for any purposes other than that laid down in the Master Plan, unless he has been permitted to do so under section 75.
+(2) The Kartripakkha may, from time to time, with the approval of the Government and the Government may at any time, amend or alter any specific provision of the Master Plan. Any such amendment or alteration shall be published in the official Gazette.
+(3) All future developments and construction, both public and private, shall be in confirmity with the Master Plan or with the amendment thereof.
+(4) The Master Plan, or an amendment thereof, shall neither before nor after it has been approved, be questioned in any legal proceedings whatsoever and shall become operative on the day it is approved by the Government and published in the official Gazette.

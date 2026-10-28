@@ -1,0 +1,5 @@
+# Provision of drain or water-work to replace another situated on land vested in the Kartripakkha under section 55 or section 56
+57. (1) When any building or any street, square or other land or any part thereof has vested in the Kartripakkha under section 55 or section 56, no drain or water-work therein shall vest in the Kartripakkha until another drain or water-work (as the case may be), if required, has been provided by the Kartripakkha to the satisfaction of the Corporation or Paurashava or the [^41][Zilla Parishad, Upazila Parishad or Union Parishad] in whose area the drain or water-work is situated, in place of the former drain or water-work.
+(2) If any question or dispute arises as to whether another drain or water-work is required, or as to the sufficiency of any drain or water-work provided by the Kartripakkha, under sub-section (1), the matter shall be referred to the Government whose decision shall be final.
+
+[^41]: The words and comma “Zilla Parishad, Upazila Parishad or Union Parishad ” were substituted for the words “District or Union Council” by section 2 of the Town Improvement (Amendment) Act, 1987 (Act No. XXIX of 1987)
