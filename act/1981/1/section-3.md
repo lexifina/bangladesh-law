@@ -1,0 +1,2 @@
+# Reference of disputes under Article 66(4)
+3. The Speaker shall within thirty days after a dispute has arisen, prepare a statement containing the facts relating to the dispute, the name and address of the Member of Parliament in respect of whom or in respect of whose seat the dispute has arisen and the name and address of the person who has raised the dispute, hereinafter referred to as the parties to the dispute, and send the statement to the Election Commission to hear and determine the dispute.
