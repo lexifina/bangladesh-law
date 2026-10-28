@@ -1,0 +1,5 @@
+# Penalty for causing disaffection, etc
+3. Whoever intentionally causes or attempts to cause, or does any act which he knows is likely to cause, disaffection towards Bangladesh or the Government established by law in Bangladesh amongst the members of a police-force, or induces or attempts to induce, or does any act which he knows is likely to induce, any member of a police-force to withhold his services or to commit a breach of discipline shall be punished with imprisonment which may extend to six months, or with fine which may extend to two hundred [^4][Taka], or with both.
+Explanation- Expressions of disapprobation of the measures of the Government with a view to obtain their alteration by lawful means, or of disapprobation of the administrative or other action of the Government, do not constitute an offence under this section unless they cause or are made for the purpose of causing or are likely to cause disaffection.
+
+[^4]: The word "Taka" was substituted, for the word "rupees" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
