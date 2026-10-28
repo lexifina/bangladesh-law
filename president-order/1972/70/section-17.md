@@ -1,0 +1,1 @@
+17. All Census officers, and all persons performing the duties of a Census Officer, or giving assistance towards the taking of the census, while acting in pursuance of an order made under this Order shall be deemed to be public servants within the meaning of section 21 of the Penal Code, 1860 (XLV of 1860).
