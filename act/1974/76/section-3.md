@@ -1,0 +1,4 @@
+# Preparation of record, etc.
+3. (1) The Government may, by notification in the official Gazette, direct that there shall be prepared, in respect of such year as may be specified in the notification, a record of all growers of jute in the border area or in such part thereof as may be specified in the notification, in which shall be entered the lands on which such growers of jute have grown, or intend to grow, jute in that year:
+Provided that, for the purpose of such record, the border area may be divided into separate zones and a separate record may be prepared for each such zone.
+(2) Upon the issue of a notification under sub-section (1), the Director shall prepare, or cause to be prepared, within such period and in such manner and form as the Government may direct, the record referred to in sub-section (1).

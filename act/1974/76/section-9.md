@@ -1,0 +1,6 @@
+# Power to seize jute stock, etc.
+9. Any person authorised by the Director in writing in this behalf may, if he has reasons to believe that a contravention of the provisions of this Act or any order or direction made or issued thereunder has been committed or is likely to be committed,-
+(a) seize, with the previous sanction in writing of such authority as may be specified in the rules, stocks of jute in respect of which such contravention is believed to have been committed or is likely to be committed;
+(b) direct the person from whose possession or custody such stocks of jute have been seized to sell the same to such dealer, in such manner, at such price and within such period as may be specified by the Director;
+(c) on failure of the person mentioned in clause (b) to sell the seized stocks of jute in accordance with his directive under that clause, sell such stocks of jute to such dealer and at such price as may be specified by the Director and to hand over the sale proceeds to such person after deduction of cost incidental to sale; and
+(d) require any person reasonably suspected of being concerned in such contravention to cause his stocks of jute to be shifted to such place as he may specify and to sell the same to such dealer and at such price as may be specified by the Director.
