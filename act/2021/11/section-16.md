@@ -1,0 +1,4 @@
+# Ordinance No. XXXVI of 1984 এর section 52N এর প্রতিস্থাপন
+১৬। উক্ত Ordinance এর section 52N এর পরিবর্তে নিম্নরূপ section 52N প্রতিস্থাপিত হইবে, যথা:-
+“52N. Collection of tax on account of purchase of power.-(1) Notwithstanding anything contained in this Ordinance, Bangladesh Power Development Board or any other person engaged in power distribution, at the time of payment to any person on account of purchase of power, shall collect, deduct or pay tax on the said payment at the rate of six percent.
+(2) Where a person is exempted from tax or is subject to a reduced tax rate in an income year, the Board may, on an application made in this behalf, give a certificate in writing that the payment for that income year shall be made without any deduction or with deduction at a proportionately reduced rate, as the case may be.”।
