@@ -1,0 +1,1 @@
+9. Nothing contained in the said Act No. V of 1861 shall be deemed to prevent the 1[Government] from investing any police officer with the powers of a Magistrate for the purpose of inquiring into or trying any offence committed by a police officer and punishable under the said Act or this Regulation.

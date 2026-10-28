@@ -1,0 +1,2 @@
+# Where person sentenced to imprisonment to be confined
+7. Any person sentenced under this Regulation to imprisonment for a period not exceeding three months shall, when also dismissed the service, be imprisoned in the nearest jail; but, when not also dismissed the service, he may, at the discretion of the convicting officer, subject to revision by the Superintendent, be confined in the quarter-guard or such other place as such officer may consider suitable.
