@@ -1,0 +1,3 @@
+# Penalty
+9. (1) Whoever contravenes any provision of this Act or the rules made thereunder shall be punishable with imprisonment for a term which may extend to one year, or with fine, or with both.
+(2) Where an offence punishable under sub-section (1) is committed by a firm, company or other body corporate, every partner, director, manager, secretary or other officer or agent thereof shall, if actively concerned in the conduct of the business of such firm, company or body corporate, be deemed to have committed the offence unless he proves that the offence was committed without his knowledge or that he exercised all due diligence to prevent the commission of the offence.
