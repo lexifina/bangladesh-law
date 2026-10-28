@@ -1,0 +1,7 @@
+# Emergency duties of Armed Forces
+2. (1) The [^2][Government] may, by notification in the official Gazette, declare any specified service to be a service of vital importance to the community:
+Provided that such notification shall remain in force for one month in the first instance, but may be extended, from time to time, by a like notification.
+(2) Upon a declaration being made under sub-section (1) and until it is rescinded, it shall be the duty of every person subject to the [^3][Army Act, 1952, or the Air Force Act, 1953, or the Navy Ordinance, 1961], to obey any command given by any superior officer in relation to employment upon or in connection with the service specified in the declaration; and every such command shall be deemed to be a lawful command within the meaning and for the purposes of the said Acts or Ordinance.
+
+[^2]: The word “Government” was substituted for the words “Central Government” by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+[^3]: The words, commas and figure “Army Act, 1952, or the Air Force Act, 1953, or the Navy Ordinance, 1961” were substituted for the words, commas and figure “Indian Army Act, 1911 or the Pakistan Army Act, 1952, or the Indian Air Force Act, 1932 or the Pakistan Air Force Act, 1953, or the Pakistan Navy Ordinance, 1961” by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
