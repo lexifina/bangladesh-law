@@ -1,0 +1,2 @@
+# Transfer of officers, employees, etc.
+14. Notwithstanding anything contained in any terms and conditions of service or in any contract or in any rules, regulations or bye-laws relating to any terms and conditions of service, a public corporation may, if it considers expedient in the interest of better administration of the affairs and business of itself or its enterprises, transfer its officers and other employees to an enterprise or transfer the officers and other employees, including workers, of one enterprise to another enterprise or to itself.

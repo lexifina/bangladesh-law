@@ -1,0 +1,4 @@
+# Production target and profit and performance criteria
+8. (1) Every public corporation shall, for every financial year, prepare a statement indicating the production target and profit and performance criteria in respect of itself and its enterprises and submit it to the Ministry or Division which has administrative control over it at least three months prior to the commencement of such financial year and the Ministry or Division to which the statement has been submitted shall, in its turn, forward it to the Council, together with its comments thereon, for approval.
+(2) The Council shall, after examining the statement forwarded to it under sub-section (1), give its approval to the production target and profit and performance criteria, subject to
+such modifications as it deems fit to make, and inform the Ministry or Division and the public corporation of such approval and send a copy thereof to each of them.

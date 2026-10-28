@@ -1,0 +1,5 @@
+# Management objectives
+7. (1) The Council shall formulate, at least six months prior to the commencement of every financial year, general guidelines for preparation of management objectives by public corporations for that year.
+(2) A public corporation shall prepare management objectives for itself and its enterprises in the manner laid down in the guidelines and shall submit the same to the Ministry or Division which has administrative control over it within such time as may be specified by the Council.
+(3) The Ministry or Division to which the management objectives have been submitted shall examine the objectives and make such modifications therein as it deems fit and forward the same to the Council for approval within such time as may be specified by the Council.
+(4) The Council shall, after co-ordinating the management objectives of the different public corporations, give its approval to the management objectives submitted to it, subject to such modifications as it deems fit to make, and inform the Ministry or Division and the public corporation of such approval at least one month before the commencement of the financial year concerned.
