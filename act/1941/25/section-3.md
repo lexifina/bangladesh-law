@@ -1,0 +1,5 @@
+# Liability of railways to taxation by local authorities
+3. (1) In respect of property vested in the Government, being property of the railway, the railway administration shall be liable to pay any tax in aid of the funds of any local authority, if the Government, by notification in the official Gazette, declares it to be so liable.
+(2) While a notification under sub-section (1) is in force, the railway administration shall be liable to pay to the local authority either the tax mentioned in the notification or in lieu thereof such sum, if any, as a person appointed in this behalf by the Government may, having regard to the services rendered to the railway and all the relevant circumstances of the case, from time to time determine to be fair and reasonable. The person so appointed shall be a person who is or has been a Judge of [^2][the Supreme Court] or a District Judge.
+
+[^2]: The words “the Supreme Court” were substituted for the words “a High Court” by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)

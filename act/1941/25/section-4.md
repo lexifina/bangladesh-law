@@ -1,0 +1,2 @@
+# Modification of existing liability to taxation
+4. The Government may, by notification in the official Gazette, revoke or vary and notification issued under clause (1) of section 135 of the Railways Act, 1890; and where a notification is so revoked any liability arising out of the notification to pay any tax to any local authority shall cease, and where a notification is so varied the liability arising out of the notification shall be varied accordingly.
