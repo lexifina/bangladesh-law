@@ -1,0 +1,2 @@
+# Procedure and powers of the Court
+20. References under this Act shall be deemed to be proceedings within the meaning of section 141 of the Code of Civil Procedure, 1908, and in the trial thereof the Court may exercise any of its powers under that Code.

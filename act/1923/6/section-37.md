@@ -1,0 +1,2 @@
+# Inapplicability of section 556 of the Code of Criminal Procedure, 1898, to trials of offences
+37. No Judge or Magistrate shall be deemed, within the meaning of section 556 of the Code of Criminal Procedure, 1898, to be a party to, or personally interested in, any prosecution for an offence constituted by or under this Act merely because he is a member of the Cantonment Board or has ordered or approved the prosecution.

@@ -1,0 +1,7 @@
+# Further provisions respecting rules
+36.(1) The power to make rules under section 35 shall be subject to the condition of the rules being made after previous publication and of their not taking effect until they have been published in the official Gazette and in such other manner (if any) as the Government may direct.
+(2) Any rule under section 35 may be general for all cantonments or parts of cantonments in Bangladesh in which this Act is for the time being operative, or may be special for any of such cantonment or parts as the Government may direct.
+(3) A copy of the rules under section 35 for the time being in force in a cantonment shall be kept open to inspection free of charge at all reasonable times in the office of the Cantonment Board.
+(4) In making any rule under clause (b) of sub-section (2) of section 35, the Government may direct that whoever obstructs any person, not being a public servant within the meaning of section 21 of the [^11][Penal Code], in making any entry, inspection, measurement or survey, shall be punishable with fine which may extend to fifty Taka, and, in the case of a continuing offence, with fine which, in addition to such fine as aforesaid, may extend to five Taka for every day after the first during which such offence continues
+
+[^11]: The words "Penal Code" were substituted, for the words "Pakistan Penal Code" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)

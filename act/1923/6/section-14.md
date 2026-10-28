@@ -1,0 +1,6 @@
+# Provision where house is held on long lease by a tenant
+14.(1) If a house, in respect of which a notice is issued under section 7, is occupied by a tenant holding in good faith and for valuable consideration under a registered lease for any term exceeding one year, the Government shall, for the term of one year from the date on which the house in vacated in pursuance of the notice, or for the unexpired term of the lease whichever is the shorter, be liable to the owner for the rent fixed by the registered lease instead of for the rent payable under this Act if the rent so fixed exceeds the rent so payable.
+(2) If a house, in respect of which a notice is issued under section 7, is occupied by a tenant holding in good faith and for valuable consideration under a registered lease from year to year, the Government shall be liable as aforesaid for the term of six months from the date on which the house is vacated in pursuance of the notice.
+(3) Nothing in this section shall be deemed-
+(a) to render the Government so liable unless an application in writing in this behalf is made by the owner to the Officer Commanding the station within fifteen days from the service of the notice; or
+(b) to limit or otherwise after any agreement between the Government and the owner.
