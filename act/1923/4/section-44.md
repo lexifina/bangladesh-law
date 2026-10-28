@@ -1,0 +1,3 @@
+# Reference to Mining Board or Committee in lieu of prosecution in certain cases
+44.(1) If the Court trying any case instituted at the instance of the Chief Inspector or of the District Magistrate or of an Inspector under this Act is of opinion that the case is one which should, in lieu of a prosecution, be referred to a Mining Board or a Committee, it may stay the criminal proceedings, and report the matter to the Government with a view to such reference being made.
+(2) On receipt of report under sub-section (1), the Government may refer the case to a Mining Board or a Committee, or may direct the court to proceed with the trial.

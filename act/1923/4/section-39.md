@@ -1,0 +1,2 @@
+# Disobedience of orders
+39. Whoever contravenes any provision of this Act or of any regulation, rule or bye-law or of any order made thereunder for the contravention of which no penalty is hereinbefore provided shall be punishable with fine which may extend to one thousand taka, and, in the case of a continuing contravention, with a further fine which may extend to one hundred taka for every day on which the offender is proved to have persisted in the contravention after the date of the first conviction.

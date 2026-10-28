@@ -1,0 +1,2 @@
+# Children
+26. No child shall be employed in a mine, or be allowed to be present in any part of a mine which is below ground.

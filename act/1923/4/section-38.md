@@ -1,0 +1,3 @@
+# Notice of accidents
+38.(1) Whoever, in contravention of the provisions of sub-section (1) of section 20, fails to give notice of any accidental occurrence shall, if the occurrence results in serious bodily injury, be punishable with fine which may extend to five hundred taka, or, if the occurrence results in loss of life, be punishable with imprisonment which may extend to three months or with fine which may extend to five hundred taka, or with both.
+(2) Whoever in contravention of a direction made by the Government under sub-section (2) of section 20 fails to record in the prescribed register or to give notice of any accidental occurrence shall be punishable with fine which may extend to five hundred taka.

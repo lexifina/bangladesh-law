@@ -1,0 +1,3 @@
+# Exemption from provisions regarding employment
+25. In case of an emergency involving serious risk to the safety of the mine or of persons employed therein, the manager may, subject to the provisions of section 19, permit persons to be employed in contravention of section 22A, section 22B, section 22C, section 23 or sub-section (4) of section 23B on such work as may be necessary to protect the safety of the mine or of the persons employed therein:
+Provided that, where such occasion arises, a record of the fact shall immediately be made by the manager and shall be placed before the Chief Inspector or the Inspector at his next inspection of the mine.
