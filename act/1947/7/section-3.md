@@ -1,0 +1,13 @@
+# Authorised dealers in foreign exchange
+3. (1) The Bangladesh Bank may, on application made to it in this behalf, authorise any person to deal in foreign exchange.
+(2) An authorisation under this section-
+(i) may authorise dealings in all foreign currencies or may be restricted to authorising dealings in specified foreign currencies only;
+(ii) may authorise transactions of all descriptions in foreign currencies or may be restricted to authorising specified transactions only;
+(iii) may be granted to be effective for a specified period, or within specified amounts, and may in all cases be revoked for reasons appearing to it sufficient by the Bangladesh Bank [^12][ after giving the authorized dealer a reasonable opportunity of explaining its position].
+(3) An authorised dealer shall in all his dealings, in foreign exchange, comply with such general or special directions or instructions as the Bangladesh Bank may from time to time think fit to give, and, except with the previous permission of the Bangladesh Bank, an authorised dealer shall not engage in any transaction involving any foreign exchange which is not in conformity with the terms of his authorisation under this section.
+(4) An authorised dealer shall, before undertaking any transaction in foreign exchange on behalf of any person, require that person to make such declarations and to give such information as will reasonably satisfy him that the transaction will not involve, and is not designed for the purpose of, any contravention or evasion of the provisions of this Act or of any rules, directions or orders made thereunder, and where the said person refuses to comply with any such requirement or makes only unsatisfactory compliance therewith, the authorised dealer shall refuse to undertake the transaction and shall, if he has reason to believe that any such contravention or evasion as aforesaid is contemplated by the person, report the matter to the Bangladesh Bank.
+[^13][ (5) Without prejudice to the provision of clause (iii) of sub-section (2) of section 3 or section 23, Bangladesh Bank may, after giving reasonable opportunity of being heard, impose such
+amount of fine and in such manner as may be prescribed by rules, on an authorised dealer for violation of terms of authorization or of general or special directions or instructions.]
+
+[^12]: The comma and words ‘‘, after giving the authorized dealer a reasonable opportunity of explaining its position’’ were added after the words “Bangladesh Bank” by section 4(a) of the Foreign Exchange Regulation (Amendment) Act, 2015 (Act No. XVII of 2015).
+[^13]: Sub-section (5) was added by section 4(b) of the Foreign Exchange Regulation (Amendment) Act, 2015 (Act No. XVII of 2015).

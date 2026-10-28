@@ -1,0 +1,3 @@
+# Burden of proof in certain cases
+24. (1) Where any person is tried for contravening any provision of this Act or of any rule, direction or order made thereunder which prohibits him from doing an act without permission, the burden of proving that he had the requisite permission shall be on him.
+(2) If in a case in which the proof of complicity of a person resident in Bangladesh with a person outside Bangladesh is essential to prove an offence under this Act, then after proof of the circumstances otherwise sufficient to establish the commission of the offence, it shall be presumed that there was such complicity, and the burden of proving that there was no such complicity shall be on the person accused of the offence.

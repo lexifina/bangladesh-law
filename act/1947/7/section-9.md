@@ -1,0 +1,6 @@
+# Acquisition by Government of foreign exchange
+9. The Government may, by notification in the official Gazette, order every person in, or resident in, Bangladesh-
+(a) who owns such foreign exchange as may be specified in the notification, to offer it, or cause it to be offered for sale to the Bangladesh Bank on behalf of the Government or to such person, as the Bangladesh Bank may authorise for the purpose, at such price as the Government may fix, being a price which is in the opinion of the Government not less than the market rate of the foreign exchange when it is offered for sale;
+(b) who is entitled to assign any right to receive such foreign exchange as may be specified in the notification, to transfer that right to the Bangladesh Bank on behalf of the Government on payment of such consideration therefore as the Government may fix:
+Provided that the Government may by the said notification or another order exempt any persons or class of persons from the operation of such order:
+Provided further that nothing in this section shall apply to any foreign exchange acquired by a person from an authorised dealer and retained by him with the permission of the Bangladesh Bank for any purpose.
