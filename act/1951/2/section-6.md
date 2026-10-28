@@ -1,0 +1,4 @@
+# Citizenship by migration
+6. (1) The Government may, upon his obtaining a certificate of domicile under this Act, register as a citizen of Bangladesh by migration any person who after the commencement of this Act and before the first day of January, 1952, has migrated to the territories now included in Bangladesh from any territory in the Indo-Pakistan sub-continent outside those territories, with the intention of residing permanently in those territories:
+Provided that the Government may, by general or special order, exempt any person or class of persons from obtaining a certificate of domicile required under this sub-section.
+(2) Registration granted under the preceding sub-section shall include, besides the person himself, his wife, if any, unless his marriage with her has been dissolved, and any minor child of his dependent whether wholly or partially upon him.

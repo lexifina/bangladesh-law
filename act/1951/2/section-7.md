@@ -1,0 +1,3 @@
+# Persons migrating from the territories of Bangladesh
+7. Notwithstanding anything in sections 3, 4 and 6, a person who has after the first day of March, 1947, migrated from the territories now included in Bangladesh to the territories now included in India shall not be a citizen of Bangladesh under the provisions of these sections:
+Provided that nothing in this section shall apply to a person who, after having so migrated to the territories now included in India has returned to the territories now included in Bangladesh under a permit for resettlement or permanent return issued by or under the authority of any law for the time being in force.
