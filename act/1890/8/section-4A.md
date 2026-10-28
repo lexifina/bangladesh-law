@@ -1,0 +1,7 @@
+# Power to confer jurisdiction on subordinate, judicial officers and to transfer proceedings to such officers
+[^4][4A.(1) The High Court Division may, by general or special order, empower any officer exercising original civil jurisdiction subordinate to a District Court, or authorise the Judge of any District Court to empower any such officer subordinate to him, to dispose of any proceedings under this Act transferred to such officer under the provisions of this section.
+(2) The Judge of a District Court may, by order in writing, transfer at any stage any proceeding under this Act pending in his Court for disposal to any officer subordinate to him empowered under sub-section (1).
+(3) The Judge of a District Court may at any stage transfer to his own Court or to any officer subordinate to him empowered under sub-section (1) any proceeding under this Act pending in the Court of any other such officer.
+(4) When any proceedings are transferred under this section in any case in which a guardian has been appointed or declared, the Judge of the District Court may, by order in writing, declare that the Court of the Judge or officer to whom they are transferred shall, for all or any of the purposes of this Act, be deemed to be the Court which appointed or declared the guardian.]
+
+[^4]: Section 4A was inserted by section 8 of the Guardians and Wards (Amendment) Act, 1926 (Act No. IV of 1926)

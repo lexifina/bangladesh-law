@@ -1,0 +1,3 @@
+# Reports by Collectors and Subordinate Courts
+46. (1) The Court may call upon the Collector, or upon any Court subordinate to the Court, for a report on any matter arising in any proceeding under this Act and treat the report as evidence.
+(2) For the purpose of preparing the report the Collector or the Judge of the Subordinate Court, as the case may be, shall make such inquiry as he deems necessary, and may for the purposes of the inquiry exercise any power of compelling the attendance of a witness to give evidence or produce a document which is conferred on a Court by the Code of Civil Procedure.

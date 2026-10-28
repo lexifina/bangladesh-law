@@ -1,0 +1,3 @@
+### Guardian of Property
+# Duties of guardian of property
+27. A guardian of the property of a ward is bound to deal therewith as carefully as a man of ordinary prudence would deal with it if it were his own, and, subject to the provisions of this Chapter, he may do all acts which are reasonable and proper for the realisation, protection or benefit of the property.
