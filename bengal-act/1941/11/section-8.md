@@ -1,0 +1,4 @@
+# Payment of tax and receipt for such payment
+8. Before submitting in each period the return referred to in clause (b) of sections 6 and 7 the occupier of a jute-mill or shipper of jute, as the case may be, shall pay into a Government Treasury or the [^8][Bangladesh Bank] the full amount of the tax due under this Act in respect of the raw jute purchased by him, or purchased and despatched outside areas to which this Act extends by any means of transit by him, as the case may be, according to such return, and shall furnish along with the return a receipt from such treasury or bank showing payment of such amount.
+
+[^8]: The words “Bangladesh Bank” were substituted for the words “State Bank of Pakistan” by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)

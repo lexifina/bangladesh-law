@@ -1,0 +1,2 @@
+# Refunds
+10. The authority referred to in clause (b) of sections 6 and 7 shall, in the prescribed manner, refund to the occupier of a jute-mill or a shipper of jute applying in this behalf any amount of the tax paid by such occupier or shipper of jute in excess of the amount due from him under this Act either by cash payment or, at the option of such occupier or shipper of jute, by deduction of such excess from the amount of the tax due in respect of any other period.
