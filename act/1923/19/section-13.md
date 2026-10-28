@@ -1,0 +1,10 @@
+# Restriction on trial of offences
+13.(1) No Court (other than that of a Magistrate of the first class specially empowered in this behalf by the Government which is inferior to that of a District Magistrate shall try any offence under this Act.
+(2) If any person under trial before a Magistrate for an offence under this Act at any time before a charge is framed claims to be tried by the Court of Session, the Magistrate shall, if he does not discharge the accused, commit the case for trial by that Court, notwithstanding that it is not a case exclusively triable by that Court.
+(3) No Court shall take cognizance of any offence under this Act unless upon complaint made by order of, or under authority from, the Government or some officer empowered by the Government in this behalf:
+Provided that a person charged with such an offence may be arrested, or a warrant for his arrest may be issued an executed, and any such person may be remanded in custody or on bail, notwithstanding that such complaint has not been made, but no further or other proceedings shall be taken until such complaint has been made.
+(4) For the purposes of the trial of a person for an offence under this Act the offence may be deemed to have been committed either at the place in which the same actually was committed or at any place in Bangladesh in which the offender may be found.
+(5) [Omitted by Article 2 and Schedule of the Central Adaptation of Laws Order, 1964.]
+(6) The Government may, if it thinks fit, by general or special order direct that the procedure for the trial of an offence under section 3, or under section 3 read with section 9, or under clause (a) or clause (b) of sub-section (1) of section 5, or under clause (a) of sub-section (1) of section 6 shall be that prescribed for offences under the Enemy Agents Ordinance, 1943, or under the [^15][* * *] Criminal Law Amendment Act, 1958.
+
+[^15]: The word "Pakistan" was omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
