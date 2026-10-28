@@ -1,0 +1,7 @@
+# Power to arrest
+6. (1) Any police officer, customs officer, or other officer empowered in this behalf by a general or special order of the Government [^8][* * *] or under a rule made under this Act, may arrest without a warrant any person whom such officer reasonably suspects of having contravened [^9][the provision] of section 3.
+(2) An officer making an arrest under this section shall, without unnecessary delay, take the person arrested or cause him to be taken before a competent Magistrate having jurisdiction in the place where the arrest is made, or to the officer-in-charge of a police station within whose jurisdiction the arrest is made; and the provisions of the Code of Criminal Procedure, 1898 [^10][* * *] shall, so far as may be, apply in respect of such arrested person.
+
+[^8]: The words “or of a Provincial Government or of the Government of an Acceding State” were omitted by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+[^9]: The words “the provision” were substituted for the words “any of the provisions” by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+[^10]: The commas and words “, or, when the arrest is made in a State, of the corresponding law for the time being in force in that State,” were omitted by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
