@@ -1,0 +1,2 @@
+# হেফাজত
+৫০। এই আইনের অধীন পেমেন্ট এন্ড সেটেলমেন্ট সিস্টেম এবং ইলেক্সনিক ফান্ড ট্রান্সফার সংক্রান্ত বিধি বা প্রবিধান প্রণীত না হওয়া পর্যন্ত Bangladesh Bank Order, 1972 (President’s Order No. 127 of 1972) এর অধীন প্রণীত Bangladesh Payment and Settlement Systems Regulations, 2014 এবং Regulations on Electronic Fund Transfer, 2014 এর বিধান, এই আইনের সহিত সামঞ্জস্যপূর্ণ হওয়া সাপেক্ষে, প্রয়োজনীয় অভিযোজনসহ, বলবৎ থাকিবে।
