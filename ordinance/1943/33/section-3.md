@@ -1,0 +1,2 @@
+# Unlawful possession of military stores
+3. Whoever is found or is proved to have been in possession of any article of military stores shall, if the Court sees reasonable grounds for believing such article to be or to have been the property of Government or of a foreign Power allied with Bangladesh, as the case may be, unless he proves that the article came into his possession lawfully, be punishable with imprisonment for a term which may extend to five years or with fine or with both.
