@@ -1,0 +1,8 @@
+# The International Financial Organisations Order, 1972 (President's Order)
+( PRESIDENT'S ORDER NO. 86 OF 1972 )
+[ 31st July, 1972 ]
+WHEREAS pursuant to the Articles of Agreement drawn up at the United Nations Monetary and Financial Conference held in the month of July in the year nineteen hundred and forty four at Bretton Woods in New Hampshire in the United States of America, two International bodies known as the International Monetary Fund and the International Bank for Reconstruction and Development were established;
+AND WHEREAS pursuant to the Articles of Agreement approved by the Directors of the said International Bank for Reconstruction and Development in the year nineteen hundred and sixty an international body known as the International Development Association was established;
+AND WHEREAS in pursuance of the said several Articles of Agreement the said international bodies have each prescribed the terms and conditions set out in the First Schedule to this Order as the terms and conditions, upon which the People’s Republic of Bangladesh may be admitted to the membership of each such body and on which the Articles of Agreement relating to each such body may be signed and accepted on behalf of the Government of the People’s Republic of Bangladesh;
+AND WHEREAS it is expedient that the People’s Republic of Bangladesh may be a member of the said international bodies, and to make certain provisions in that behalf;
+NOW, THEREFORE, in pursuance of the Proclamation of Independence of Bangladesh read with the Provisional Constitution of Bangladesh Order, 1972 and in exercise of all powers enabling him in that behalf, the President is pleased to make and promulgate the following Order:-

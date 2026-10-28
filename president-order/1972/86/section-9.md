@@ -1,0 +1,1 @@
+9. Nothing in this Order shall prejudice or derogate from the right of the People's Republic of Bangladesh to claim, receive or recover from Pakistan any assets, including gold subscription to the Fund.
