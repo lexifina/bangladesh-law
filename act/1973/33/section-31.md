@@ -1,0 +1,2 @@
+# Departments
+31. The University Departments shall consist of the teachers of the relevant subjects at the University and the constituent colleges or institutes. The Chairman of a department shall be appointed in such manner as may be prescribed by the Statutes. The departments shall have the responsibility to plan and coordinate the work of the departments under the leadership of the Chairman of the department. The Chairman of the department shall exercise such powers and perform such duties as may be prescribed by the Statutes and the University Ordinances.

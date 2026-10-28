@@ -1,0 +1,2 @@
+# Filling of casual vacancies
+63. All casual vacancies among the members other than ex-officio members of any Authority or other body of the University shall be filled, as soon as may be, by the person or body who appointed, elected or nominated the members whose place has become vacant, and the person appointed, elected or nominated to a casual vacancy, shall be a member of such Authority or body for the residue of the terms for which the person whose place he fills would have been a member.

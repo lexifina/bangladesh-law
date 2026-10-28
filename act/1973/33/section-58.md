@@ -1,0 +1,2 @@
+# Interpretation
+58. If any question arises regarding the interpretation of any provision of this Act or any Statutes, University Ordinances, or Regulations or as to whether any person has been duly nominated as, or is entitled to be a member of any Authority or other body of the University, the matter shall be referred to the Attorney-General of Bangladesh for his opinion and the Syndicate shall decide accordingly.
