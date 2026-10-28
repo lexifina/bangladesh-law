@@ -1,0 +1,2 @@
+# Ordinance to apply to Inquiry Commissions set up before the promulgation of the Ordinance
+11. Where any Commission has been appointed under any Resolution of the Government for the purpose of making an inquiry into any definite matter of public importance before the coming into force of this Ordinance, such Commission shall be deemed to be a Commission appointed under section 3 and the provision of this Ordinance shall apply accordingly.

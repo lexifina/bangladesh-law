@@ -1,0 +1,6 @@
+# Powers of Commission
+4. The Commission shall have the powers of a Civil Court, while trying a suit under the Code of Civil Procedure, 1908, in respect of the following matters, namely:-
+(a) summoning and enforcing the attendance of any person and examining him on oath;
+(b) requiring the discovery and production of any documents;
+(c) receiving evidence on affidavits;
+(d) issuing commissions for the examination of witnesses or documents.
