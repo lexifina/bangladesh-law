@@ -1,0 +1,2 @@
+# Lessee and persons appointed by lessee deemed to be appointed to collect tolls
+10. When the right to collect tolls on any public road or bridge has been duly leased, the lessee and the persons employed by the lessee as his agent for collecting tolls shall be deemed to be persons appointed to collect tolls under this Act, and shall exercise all the powers and be subject to all the responsibilities attaching to persons so appointed.
