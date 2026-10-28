@@ -1,0 +1,4 @@
+# Procedure for declaring area to be a mining settlement
+4. (1) The Government may, of its own motion, or after considering any report submitted to it by a Mines Board of Health, publish a notice in the official Gazette and in such other manner (if any) as it may think fit, intimating its intention to declare any area (not being or forming part of a mine) to be a mining settlement for the purposes of this Act.
+(2) The Government shall consider any objections to the intended declaration which may be submitted to it in writing within such period as may be specified in this behalf in the said notice,
+and may then, by notification in the official Gazette declare that any area or portion of an area referred to in the said notice shall, for the purposes of this Act, be a mining settlement and be subject to the authority of such Mines Board of Health as the Government may designate.
