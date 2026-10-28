@@ -1,0 +1,3 @@
+# Power of search
+7. (1) A Magistrate of the first class or a Magistrate of the second class specially empowered by the Government in this behalf, may issue a warrant for the search, at any time between sunrise and sunset, of any building, vessel or place in which he has reason to believe that any wireless telegraphy apparatus, in respect of which an offence punishable under section 6 has been committed, is kept or concealed.
+(2) The Officer to whom a search warrant under sub-section (1) is addressed may enter into any building, vessel or place mentioned in the warrant and seize any wireless telegraphy apparatus in respect of which he had reason to believe an offence under section 6 has been committed.

@@ -1,0 +1,3 @@
+# Licences
+5.(1) The Director-General, Bangladesh Post Office, or an officer authorized by him in this behalf, shall be the authority competent to issue licences to possess wireless telegraphy apparatus under this Act, and may issue licenses in such manner, on such conditions and subject to such payments as may be prescribed:
+(2) Notwithstanding anything contained in section 4 of the Telegraph Act, 1885 (XIII of 1885), no licence under that Act shall be necessary for the possession of a television receiving apparatus for possessing which a licence issued under this Act is for the time being in force.
