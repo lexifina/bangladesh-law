@@ -1,0 +1,2 @@
+# Refusal to serve as special police-officers
+19. If any person being appointed a special police-officer as aforesaid shall without sufficient excuse, neglect or refuse to serve as such, or to obey such lawful order or direction as may be given to him for the performance of his duties, he shall be liable, upon conviction before a Magistrate, to a fine not exceeding fifty taka for every such neglect, refusal or disobedience.

@@ -1,0 +1,2 @@
+# Penalty for disobeying orders issued under last three sections, etc.
+32. Every person opposing or not obeying the orders issued under the last three preceding sections, or violating the conditions of any license granted by the District Superintendent or Assistant District Superintendent of Police for the use of music, or for the conduct of assemblies and processions, shall be liable, on conviction before a Magistrate, to a fine not exceeding two hundred taka.

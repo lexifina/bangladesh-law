@@ -1,0 +1,2 @@
+# Police to keep order in public roads, etc.
+31. It shall be the duty of the police to keep order on the public roads, and in the public streets, thoroughfares, ghats and landing-places, and at all other places of public resort, and to prevent obstructions on the occasions of assemblies and processions on the public roads and in the public streets, or in the neighbourhood of places of worship, during the time of public worship, and in any case when any road, street, thoroughfare, ghat or landing-place may be thronged or may be liable to be obstructed.

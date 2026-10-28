@@ -1,0 +1,2 @@
+# Persons refusing to deliver up certificate, etc., on ceasing to be police-officers
+28. Every person, having ceased to be an enrolled police-officer under this Act, who shall not forthwith deliver up his certificate, and the clothing, accoutrements, appointments and other necessaries which shall have been supplied to him for the execution of his duty, shall be liable, on conviction before a Magistrate, to a penalty not exceeding two hundred taka, or to imprisonment with or without hard labour, for a period not exceeding six months, or to both.

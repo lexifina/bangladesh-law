@@ -1,0 +1,2 @@
+# Members enrolled or appointed to one general police-district may be employed to other general police-district
+2D. It shall be lawful for the Government to employ members of the police-force who have been enrolled in, or appointed to, any one general police-district, in any other general police-district in Bangladesh and the powers conferred on police-officers by the Code of Criminal Procedure, 1898, may be by them exercised in any portion of Bangladesh without reference to the local limits of the general police-district to which they may respectively belong.]

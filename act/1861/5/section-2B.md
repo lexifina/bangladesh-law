@@ -1,0 +1,2 @@
+# Appointing persons to exercise powers of Inspector General
+2B. It shall be lawful for the Government in each such general police-district to appoint some person to exercise in such district the powers of an Inspector-General of Police, whether such person shall or shall not hold any other office under the Government; and the administration of the police throughout such general police-district, and all powers and authorities by this Act or any other Act conferred on an Inspector-General of Police, shall be vested in such person.
