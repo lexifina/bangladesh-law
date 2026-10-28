@@ -1,0 +1,1 @@
+5. Whoever contravenes the provisions of Article 3 shall without prejudice to any punishment imposed under Article 3 be liable to disciplinary action by the employer including suspension, discharge or dismissal.
