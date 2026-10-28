@@ -1,0 +1,1 @@
+9. On the revocation of a passport or travel document under this Order the holder thereof shall, without delay, surrender the passport or travel document, if the same has not already been impounded, to the authority by whom it has been revoked or to such other authority as may be specified in the order of revocation.

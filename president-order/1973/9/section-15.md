@@ -1,0 +1,1 @@
+15. Notwithstanding anything contained in the foregoing provisions relating to issue of a passport or travel document, the Government may issue, or cause to be issued, a passport or travel document to a person who is not a citizen of Bangladesh if the Government is of the opinion that it is necessary so to do in the public interest.
