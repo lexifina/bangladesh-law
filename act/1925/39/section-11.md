@@ -1,0 +1,2 @@
+# Special mode of acquiring domicile in Bangladesh
+11. Any person may acquire a domicile in Bangladesh, by making and depositing in some office in Bangladesh, appointed in this behalf by the Government, a declaration in writing under his hand of his desire to acquire such domicile; provided that he has been resident in Bangladesh for one year immediately preceding the time of his making such declaration.

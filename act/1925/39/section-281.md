@@ -1,0 +1,3 @@
+# Verification of petition for probate by one witness to will
+281. Where the application is for probate, the petition shall also be verified by at least one of the witnesses to the will (when procurable) in the manner or to the effect following, namely:
+"I (C. D.), one of the witnesses to the last will and testament of the testator mentioned in the above petition, declare that I was present and saw the said testator affix his signature (or mark) thereto (or that the said testator acknowledged the writing annexed to the above petition to be his last will and testament in my presence)."

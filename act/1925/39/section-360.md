@@ -1,0 +1,5 @@
+# Distribution of assets
+360. Where an executor or administrator has given such notices as the [^40][Supreme Court] may, by any general rule, prescribe or, if no such rule has been made, as the High Court Division would give in an administration suit, for creditors and others to send in to him their claims against the estate of the deceased, he shall, at the expiration of the time therein named for sending in claims, be at liberty to distribute the assets, or any part thereof, in discharge of such lawful claims as he knows of, and shall not be liable for the assets so distributed to any person of whose claims he shall not have had notice at the time of such distribution:
+Provided that nothing herein contained shall prejudice the right of any creditor or claimant to follow the assets, or any part thereof, in the hands of the persons who may have received the same respectively.
+
+[^40]: The words "Supreme Court" were substituted, for the words "High Court" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)

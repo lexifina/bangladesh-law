@@ -1,0 +1,2 @@
+# When enumerated articles not deemed specifically bequeathed
+146. Where a will contains a bequest of the residue of the testator's property along with an enumeration of some items of property not previously bequeathed, the articles enumerated shall not be deemed to be specifically bequeathed.

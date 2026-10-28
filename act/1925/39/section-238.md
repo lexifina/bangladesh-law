@@ -1,0 +1,2 @@
+# Probate of contents of lost or destroyed will
+238. When a will has been lost or destroyed and no copy has been made nor the draft preserved, probate may be granted of its contents if they can be established by evidence.

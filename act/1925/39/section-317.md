@@ -1,0 +1,7 @@
+# Inventory and account
+317. (1) An executor or administrator shall, within six months from the grant of probate or letters of administration, or within such further time as the Court which granted the probate or letters may appoint, exhibit in that Court an inventory containing a full and true estimate of all the property in possession, and all the credits, and also all the debts owing by any person to which the executor or administrator is entitled in that character; and shall in like manner, within one year from the grant or within such further time as the said Court may appoint, exhibit an account of the estate, showing the assets which have come to his hands and the manner in which they have been applied or disposed of.
+(2) The [^34][Supreme Court] may prescribe the form in which an inventory or account under this section is to be exhibited.
+(3) If an executor or administrator, on being required by the Court to exhibit an inventory or account under this section, intentionally omits to comply with the requisition, he shall be deemed to have committed an offence under section 176 of the Penal Code.
+(4) The exhibition of an intentionally false inventory or account under this section shall be deemed to be an offence under section 193 of that Code.
+
+[^34]: The words "Supreme Court" were substituted, for the words "High Court" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)

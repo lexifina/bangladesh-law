@@ -1,0 +1,2 @@
+# As to property of, and debts owing to, deceased
+319. The executor or administrator shall collect, with reasonable diligence, the property of the deceased and the debts that were due to him at the time of his death.

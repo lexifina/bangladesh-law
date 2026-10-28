@@ -1,0 +1,2 @@
+# When each legatee compellable to refund in proportion
+359. When the executor or administrator has paid away the assets in legacies, and he is afterwards obliged to discharge a debt of which he had no previous notice, he is entitled to call upon each legatee to refund in proportion.

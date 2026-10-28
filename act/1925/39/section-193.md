@@ -1,0 +1,2 @@
+# Inquiry made by Judge
+193. The District Judge to whom such application is made shall, in the first place, examine the applicant on oath, and may make such further inquiry, if any, as he thinks necessary as to whether there is sufficient ground for believing that the party in possession or taking forcible means for seizing possession has no lawful title, and that the applicant, or the person on whose behalf he applied, is really entitled and is likely to be materially prejudiced if left to the ordinary remedy of a suit, and that the application is made bona fide.

@@ -1,0 +1,2 @@
+# Bequest to class of persons under general description only
+98. Where a bequest is made to a class of persons under a general description only, no one to whom the words of the description are not in their ordinary sense applicable shall take the legacy.

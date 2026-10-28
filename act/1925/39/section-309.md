@@ -1,0 +1,2 @@
+# Commission or agency charges
+309. An executor or administrator shall not be entitled to receive or retain any commission or agency charges at a higher rate than that for the time being fixed in respect of the Administrator General by or under the Administrator General's Act, 1913.

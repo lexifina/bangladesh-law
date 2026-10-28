@@ -1,0 +1,2 @@
+# Effect of certificate
+381. Subject to the provisions of this Part, the certificate of the District Judge shall, with respect to the debts and securities specified therein, be conclusive as against the persons owing such debts or liable on such securities, and shall, notwithstan-ding any contravention of section 370, or other defect, afford full indemnity to all such persons as regards all payments made, or dealings had, in good faith in respect of such debts or securities to or with the person to whom the certificate was granted.

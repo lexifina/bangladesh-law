@@ -1,0 +1,2 @@
+# Devolution of interest relinquished by owner
+181. An interest relinquished in the circumstances stated in section 180 shall devolve as if it had not been disposed of by the will in favour of the legatee, subject, nevertheless, to the charge of making good to the disappointed legatee the amount or value of the gift attempted to be given to him by the will.

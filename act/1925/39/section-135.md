@@ -1,0 +1,2 @@
+# Such condition must not be invalid under section 120
+135. In order that a condition that a bequest shall cease to have effect may be valid, it is necessary that the event to which it relates be one which could legally constitute the condition of a bequest as contemplated by section 120.

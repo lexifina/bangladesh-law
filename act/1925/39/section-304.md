@@ -1,0 +1,2 @@
+# Liability of executor of his own wrong
+304. When a person has so acted as to become an executor of his own wrong, he is answerable to the rightful executor or administrator, or to any creditor or legatee of the deceased, to the extent of the assets which may have come to his hands after deducting payments made to the rightful executor or administra-tor, and payments made in due course of administration.

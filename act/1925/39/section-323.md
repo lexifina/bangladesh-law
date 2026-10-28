@@ -1,0 +1,2 @@
+# Save as aforesaid, all debts to be paid equally and rateably
+323. Save as aforesaid, no creditor shall have a right of priority over another; but the executor or administrator shall pay all such debts as he knows of, including his own, equally and rateably as far as the assets of the deceased will extend.

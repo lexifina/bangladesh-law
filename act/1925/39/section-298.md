@@ -1,0 +1,2 @@
+# Power to refuse letters of administration
+298. Notwithstanding anything hereinbefore contained, it shall, where the deceased was a Muslim, Buddhist or exempted person, or a Hindu, Sikh or Jaina to whom section 57 does not apply, be in the discretion of the Court to make an order refusing, for reasons to be recorded by it in writing, to grant any application for letters of administration made under this Act.

@@ -1,0 +1,4 @@
+# Child prima facie entitled to legacy as well as portion
+178. Where a parent, who is under obligation by contract to provide a portion for a child, fails to do so, and afterwards bequeaths a legacy to the child, and does not intimate by his will that the legacy is meant as a satisfaction of the portion, the child shall be entitled to receive the legacy, as well as the portion.
+Illustration
+A, by articles entered into in contemplation of his marriage with B, covenanted that he would pay to each of the daughters of the intended marriage a portion of 20,000 Taka on her marriage. This covenant having been broken, A bequeaths 20,000 Taka to each of the married daughter of himself and B. The legatees are entitle to the benefit of this bequest in addition to their portions.

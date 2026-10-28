@@ -1,0 +1,3 @@
+# Devolution of such property
+32. The property of an intestate devolves upon the wife or husband, or upon those who are of the kindred of the deceased, in the order and according to the rules hereinafter contained in this chapter.
+Explanation.-A widow is not entitled to the provision hereby made for her if, by a valid contract made before her marriage, she has been excluded from her distributive share of her husband's estate.

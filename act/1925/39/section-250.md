@@ -1,0 +1,2 @@
+# Administration limited to property in which person has beneficial interest
+250. Where a person dies, leaving property of which he was the sole or surviving trustee, or in which he had no beneficial interest on his own account, and leaves no general representative, or one who is unable or unwilling to at as such, letters of administration, limited to such property, may be granted to the beneficiary, or to some other person on his behalf.

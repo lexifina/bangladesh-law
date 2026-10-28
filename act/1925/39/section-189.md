@@ -1,0 +1,2 @@
+# When testator's representatives may call upon legatee to elect
+189. If the legatee does not, within one year after the death of the testator, signify to the testator's representatives his intention to confirm or to dissent from the will, the representatives shall, upon the expiration of that period, require him to make his election; and, if he does not comply with such requisition within a reasonable time after he has received it, he shall be deemed to have elected to confirm the will.

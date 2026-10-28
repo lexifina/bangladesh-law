@@ -1,0 +1,2 @@
+# When annuity, to be paid quarterly or monthly first falls due
+339. Where there is a direction that the annuity shall be paid quarterly or monthly, the first payment shall be due at the end of the first quarter or first month, as the case may be, after the testator's death; and shall, if the executor or administrator thinks fit, be paid when due, but the executor or administrator shall not be bound to pay it till the end of the year.

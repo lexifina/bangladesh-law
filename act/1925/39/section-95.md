@@ -1,0 +1,2 @@
+# Bequest without words of limitation
+95. Where property is bequeathed to any person, he is entitled to the whole interest of the testator therein, unless it appears from the will that only a restricted interest was intended for him.

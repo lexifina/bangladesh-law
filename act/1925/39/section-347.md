@@ -1,0 +1,3 @@
+# Time and manner of conversion and investment
+347. Such conversion and investment as are contemplated by sections 345 and 346 shall be made at such times and in such manner as the executor or administrator thinks fit; and, until such conversion and investment are completed, the person who would be for the time being entitled to the income of the fund when so invested shall receive interest at the rate of four percent. per annum upon the market-value (to be computed as at the date of the testator's death) of such part of the fund as has not been so invested:
+Provided that the rate of interest prior to completion of investment shall be six per cent. per annum when the testator was a Hindu, Muslim, Buddhist, Sikh or Jaina or an exempted person.

@@ -1,0 +1,5 @@
+# Effect of certificate granted or extended by Bangladesh representative in Foreign State
+382. Where a certificate in the form, as nearly as circumstances admit, of Schedule VIII has been granted [^46][* * *] to a resident within a Foreign State by the Bangladsh representative accredited to the State, or where a certificate so granted has been extended in such form by such [^47][* * *] representative, the certificate shall, when stamped in accordance with the provisions of the Court-fees Act, 1870, with respect to certificates under this Part, have the same effect in Bangladesh as a certificate granted or extended under this Part.
+
+[^46]: The words and commas "to a resident within an Acceding State by a District Judge of that State, or," were omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+[^47]: The words "Judge or" were omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)

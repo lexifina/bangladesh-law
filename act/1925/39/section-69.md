@@ -1,0 +1,3 @@
+# Revocation of will by testator's marriage
+69. Every will shall be revoked by the marriage of the maker, except a will make in exercise of a power of appointment, when the property over which the power of appointment is exercised would not, in default of such appointment, pass to his or her executor or administrator, or to the person entitled in case of intestacy.
+Explanation.-Where a man is invested with power to determine the disposition of property of which he is not the owner, he is said to have power to appoint such property.

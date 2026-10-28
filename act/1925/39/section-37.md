@@ -1,0 +1,2 @@
+# Where intestate has left child or children only
+37. Where the intestate has left surviving him a child or children, but no more remote lineal descendant through a deceased child, the property shall belong to his surviving child, if there is only one, or shall be equally divided among all his surviving children.

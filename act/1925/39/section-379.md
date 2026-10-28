@@ -1,0 +1,10 @@
+# Mode of collecting Court-fees on certificates
+[^44][ 379. (1) Every application for a certificate or for the extension of a certificate shall, subject to the provisions of sub-section (2), be accompanied by a deposit of a sum equal to the fee payable under the Court-fees Act, 1870 (VII of 1870), hereinafter referred in this section as the Court-fees Act, in respect of the certificate or extension applied for.
+(2) Where an application for a certificate or for the extension of a certificate is made by a successor or an heir of the deceased the fee payable under the Court-fees Act, in respect of the certificate or the extension applied for, shall be deposited in the manner specified in sub-section (3).
+(3) If the application is allowed,-
+(a) in the case of an application made by a person other than a successor or an heir of the deceased, the sum deposited by the applicant shall be expended, under the direction of the Judge, in the purchase of the stamp to be used for denoting the fee payable under the Court-fees Act; and
+(b) in the case of an application made by a successor or an heir of the deceased, the Judge shall direct that a sum equal to the fee payable under the Court-fees Act, in respect of the certificate or extension applied for, be deposited in the Government Treasury in cash, notwithstanding anything contained in section 25 of the said Act, out of the money or actionable claim which any bank, financial institution, post office or any other person or institution holds for or on behalf of the deceased and such bank, financial institution, post office or other person or institution shall deposit the sum accordingly under intimation to the Judge.
+(4) Any sum received under sub-section (1) and not expended under sub-section (3) (a), shall be refunded to the person who deposited it.
+Explanation.-For the purpose of this section, "financial institution" means a "আর্থিক প্রতিষ্ঠান" as defined in ২ (ক) ড়ভ অর্থ ঋণ আদালত আইন, ১৯৯০ (১৯৯০ সনের ৪নং আইন)।]
+
+[^44]: Section 379 was substituted, for section 379 by section 1 of the Finance Act, 1996 (Act No. XVIII of 1996)

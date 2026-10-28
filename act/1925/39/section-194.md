@@ -1,0 +1,3 @@
+# Procedure
+194. If the District Judge is satisfied that there is sufficient ground for believing as aforesaid but not otherwise, he shall summon the party complained of, and give notice of vacant or disturbed possession by publication, and, after the expiration of a reasonable line, shall determine summarily the right to possession (subject to a suit as hereinafter provided) and shall deliver possession accordingly:
+Provided that the judge shall have the power to appoint an officer who shall take an inventory of effects, and seal or otherwise secure the same, upon being applied to for the purpose, without delay, whether he shall have concluded the inquiry necessary for summoning the party complained of or not.

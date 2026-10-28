@@ -1,0 +1,4 @@
+# Inventory to include property in any part of Bangladesh in certain cases
+318. In all cases where a grant has been made of probate or letters of administration intended to have effect throughout Bangladesh, the executor or administrator shall include in the inventory of the effects of the deceased all his moveable and immoveable property situate in Bangladesh, and the value of such property [^35][* * *] shall be separately stated in such inventory, and the probate or letters of administration shall be chargeable with a fee corresponding to the entire amount or value of the property affected thereby wheresoever situate within Bangladesh.
+
+[^35]: The words "situate in each Province" were omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)

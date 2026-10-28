@@ -1,0 +1,2 @@
+# Legacies treated as general for purpose of abatement
+331. For the purpose of abatement, a legacy for life, a sum appropriated by the will to produce an annuity, and the value of an annuity when no sum has been appropriated to produce it, shall be treated as general legacies.

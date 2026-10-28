@@ -1,0 +1,2 @@
+# Non-ademption of demonstrative legacy
+153. A demonstrative legacy is not adeemed by reason that the property on which it is charged by the will does not exist at the time of the death of the testator, or has been converted into property of a different kind, but it shall in such case be paid out of the general assets of the testator.

@@ -1,0 +1,2 @@
+# Effect of marriage between person domiciled and one not domiciled in Bangladesh
+21. If a person whose domicile is not in Bangladesh marries in Bangladesh, a person whose domicile is in Bangladesh, neither party acquires by the marriage any rights in respect of any property of the other party not comprised in a settlement made previous to the marriage, which he or she would not acquire thereby if both were domiciled in Bangladesh at the time of the marriage.
