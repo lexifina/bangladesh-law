@@ -1,0 +1,1 @@
+4. For removal of doubt it is declared that a person who ceases to be a member of the Constituent Assembly under the provisions of this Order shall not be disqualified from being a candidate in any election to fill a seat in such Assembly provided that he is not disqualified from doing so under any other law.
