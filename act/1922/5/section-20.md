@@ -1,0 +1,3 @@
+# Accounts of betting tax
+20.(1) The stewards of a race-meeting shall, at such times and in such manner as may be prescribed, forward to the prescribed officer returns setting out the names of the bookmakers licensed or permitted by them to carry on the business or vocation of a bookmaker at that meeting.
+(2) All licensed bookmakers shall keep accounts of all sums paid or agreed to be paid by them to backers in satisfaction of bets, in such manner as may be prescribed, and shall, when required in writing by an officer empowered in this behalf by the Government, permit such officer, or an officer authorized in writing by him in this behalf, to inspect and take copies of such accounts.

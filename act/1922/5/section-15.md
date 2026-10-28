@@ -1,0 +1,2 @@
+# Tax on totalisators and payment thereof
+15. There shall be charged, levied and paid to the Government out of all monies paid into any totalisator by way of stakes or bets, a tax on backers hereinafter referred to as the totalisator tax, amounting to twenty per cent. of every sum so paid; and twenty per cent. of every sum so paid into a totalisator shall be deemed to have been paid by the backer on account of the totalisator tax, and shall be received by the stewards of the race-meeting on behalf of the Government.
