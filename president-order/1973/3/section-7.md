@@ -1,0 +1,1 @@
+7. The Government shall designate, by a notification in the official Gazette, the officer who shall be authorised on behalf of the People's Republic of Bangladesh to sign the Instrument of Acceptance of the Articles of Agreement and Resolution No. 54 of the Board of Governors of the Bank adopted on 11th November, 1972, and deposit it with the Bank.
