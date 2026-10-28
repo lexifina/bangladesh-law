@@ -1,0 +1,2 @@
+9. First.- [Powers of Commissioners of Arakan and Assam.] Rep. by the Amending Act, 1903 (I of 1903).
+Second.- [Conferment of powers on the Commissioner for the districts of the Northern Doab, etc.] Rep. (except in certain Scheduled areas) by the North-Western Provinces Land- Revenue Act, 1873 (XIX of 1873). (Conferment of powers on the Resident at Delhi.) Rep. in part by Ben. Reg. VI of 1831; residue Rep. by Ben. Reg. X of 1831.

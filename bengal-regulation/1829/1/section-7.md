@@ -1,0 +1,1 @@
+7. [Offices of Superintendents of Police abolished; Commissoners to perform duties of Superintendents; tender of pardon to accomplices; Powers of Commissioners of Cuttack and Midnapore.] Rep. by the Amending Act, 1903 (I of 1903).
