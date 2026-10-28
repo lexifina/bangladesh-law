@@ -1,0 +1,3 @@
+# Notification of changes in enrolled waqfs
+51. (1) In the case of any change in the management of an enrolled waqf due to the death, retirement or removal of the mutawalli, the prospective mutawalli who is eligible or who considers himself to be eligible to succeed to the office of mutawalli in terms of the waqf deed or according to the custom or usage of the waqf, shall forthwith, and any other person may, notify the change to the Administrator.
+(2) In the case of any other change in any of the particulars mentioned in section 47, the mutawalli shall, within six months from the occurrence of the change, notify such change to the Administrator.

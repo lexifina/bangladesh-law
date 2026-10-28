@@ -1,0 +1,2 @@
+# Creation of Reserve Fund
+41. For the purpose of making provision for the payment of rent, rates and taxes due to Government or to any local authority and for the discharge of the expenses of repairs of the waqf property and for the preservation of the waqf property, Administrator may direct the creation and maintenance, in such manner as it may think fit, of a reserve fund from the income of a waqf.

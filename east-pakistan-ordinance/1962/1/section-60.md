@@ -1,0 +1,2 @@
+# Mutawalli entitled to pay certain costs from waqf property fund
+60. Notwithstanding anything contained in the waqf-deed, every mutawalli may pay from the income of the waqf property any expenses properly incurred by him for the purpose of enabling him to furnish any particulars, documents or copies under section 47, or any accounts under section 52, or any information or documents required by the Administrator or a person authorised by the Administrator, and for the preservation or benefit of the waqf property.

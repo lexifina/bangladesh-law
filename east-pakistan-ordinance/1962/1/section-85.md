@@ -1,0 +1,4 @@
+# Compensation for acquisition of waqf property to be paid to the Administrator
+85. Where any waqf property is acquired under the [^26][Acquisition and Requisition of Immovable Property Ordinance, 1982 (Ord. No. II of 1982)], or any other law for the time being in force, the compensation money payable for such property shall be paid to the Administrator and shall be kept in deposit in the Waqf Fund till it is invested for the purposes stated in sub section (3) of section 74.
+
+[^26]: The words, comma, figures and brackets “Acquisition and Requisition of Immovable Property Ordinance, 1982 (Ord. No. II of 1982)” were substituted for the words, comma, figures and brackets “Land Acquisition Act, 1894 (I of 1894)” by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)

@@ -1,0 +1,2 @@
+# Powers and duties of the Deputy Administrators and Assistant Administrators
+31. The Deputy Administrator and the Assistant Administrator shall, subject to the control of the Government and of the Administrator, be competent to discharge such duties and exercise such powers of the Administrator under this Ordinance or the rules made thereunder as may be assigned and delegated to him by the Administrator by notification in the official Gazette with the prior approval of the Government.

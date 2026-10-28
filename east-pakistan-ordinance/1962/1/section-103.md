@@ -1,0 +1,2 @@
+# Effect of orders, etc., inconsistent with this Ordinance
+103. Except as otherwise expressly provided in this Ordinance, every order made and every action taken under this Ordinance shall have effect notwithstanding anything inconsistent therewith contained in any document, decree or order of any Court, deed, enactment or any instrument having effect by virtue of any such enactment other than this Ordinance.

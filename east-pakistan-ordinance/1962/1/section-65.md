@@ -1,0 +1,3 @@
+# Resignation, retirement or discharge of a mutawalli
+65. (1) A mutawalli shall not resign or retire from his service except with the permission of the Administrator.
+(2) If a mutawalli proposes to retire or tenders resignation or applies for discharge from the office of the mutawalli, he shall not be permitted to retire or his resignation shall not be accepted and he shall not be discharged unless he has submitted the statement of accounts up to the date of his retirement, resignation or discharge and the same has been audited and unless he has paid the contribution payable under section 71 up to the said date.

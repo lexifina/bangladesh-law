@@ -1,0 +1,3 @@
+# Application for enquiry or audit of accounts
+37. Any person interested in a waqf may make an application, supported by an affidavit, to the Administrator to institute an enquiry relating to the administration of a waqf or for examination and audit of the accounts of a waqf; and the Administrator, on receipt of such application and on being satisfied from facts set forth in the affidavit that there are reasonable grounds for believing that the affairs of the waqf are being mismanaged, shall take such action thereon as he thinks fit:
+Provided that an application for the examination and audit of accounts shall not be made in respect of accounts relating to a period more than three years prior to the date of such application.

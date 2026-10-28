@@ -1,0 +1,7 @@
+# Magistarial powers of Administator and others.
+[^8][31A. (1). The Adminidtrator shall have such powers of an Executive Magistrate as may be necessary for due administration, management, maintenance and protection of properties of a waqf estate.
+(2) The Administrator may, with prior approval of the government, by notification in the official Gazette, delegate to any Deputy Administrator and Assistant Administrator such of his powers of an Executive Magistrate as he may deem necessary for due administraton, management, maintenance and protection of properties of waqf estate.
+(3) The magistarial powers of the Administrator, Deputy Administrator and Assistant Administrator may extend all over the country, and while exercising the powers of an Executive Magistrate under this section within the territorial jurisdiction of a particular district, the Administrator shall be deemed to be a District Magistrate of that District and a Deputy Administrator or Assistant Administrator shall be deemed to be an Executive Magistrate of that District.
+(4) While exercising the powers of Executive Magistrate under this section within the territorial jurisdiction of a particular district or metropilitian area the Administrator, Deputy Administrator and Assistant Administrator, may, if necessary, ask for assistance of police and district Administration of that district or metropolition area, as the case may be, and, if so asked for, such assistance shall be provided.]
+
+[^8]: Section 31A was inserted by section 4 of the Waqfs (Amendment) Act, 2013 (Act No. XVIII of 2013).

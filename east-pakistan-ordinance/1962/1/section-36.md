@@ -1,0 +1,2 @@
+# Exercise of powers through Deputy Commissioners, or others
+36. Subject to any rules made in this behalf, the Administrator may exercise any of the powers conferred on him by this Ordinance through the Deputy Commissioners of the districts in which the waqf property concerned is situated or through any other person whom he may appoint for such purpose and may, from time to time, delegate any of his powers to such Deputy Commissioners or other persons as aforesaid and may, at any time, revoke such delegation.

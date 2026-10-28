@@ -1,0 +1,3 @@
+# Power of Administrator to grant sanction to transfer
+57. A mutawalli or a Receiver may apply to the Administrator for sanction to transfer waqf property under sub section (1) of section 56, and the Administrator, after making such enquiry and giving notice to such persons in such manner as he thinks fit and hearing them, if they desire to be heard, may accord sanction to such transfer on such terms and conditions as he may, in his discretion, impose:
+Provided that where such transfer is to be made under an express power conferred by the waqf deed, the Administrator shall not refuse to accord sanction.

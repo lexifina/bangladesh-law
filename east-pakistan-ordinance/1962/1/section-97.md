@@ -1,0 +1,2 @@
+# Administrator and every officer and servant to maintain secrecy about particulars of waqfs
+97. Subject to the provisions of this Ordinance, the Administrator and every officer and servant of his office shall maintain secrecy about the particulars and all other information relating to a waqf which comes into his possession in his capacity as Administrator or as an officer or servant of his office.

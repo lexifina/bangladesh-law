@@ -1,0 +1,3 @@
+# Casual vacancies
+24. When the place of a member of the Committee is declared vacant under sub section (3) of section 21 or becomes vacant by his removal under section 22 or resignation under section 23, or by death, a new member shall be appointed in the manner provided in section 20 and shall hold office so long as the member whose place he fills would have been entitled to hold office if such vacancy had not occurred:
+Provided that no act of the Committee shall be deemed to be invalid by reason only that the number of members of the Committee at the time of the performance of such act was less than the number provided in section 20.

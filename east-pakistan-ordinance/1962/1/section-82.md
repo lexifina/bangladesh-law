@@ -1,0 +1,2 @@
+# Administrator may be made a party to a suit or proceeding regarding a waqf on his application
+82. In any suit or proceeding in respect of a waqf or any waqf property, whether instituted or preferred before or after the commencement of this Ordinance, the Administrator may intervene and shall, on his application, be added as a party and shall be entitled to conduct or defend such suit or proceeding on behalf of and in the interest of the waqf.

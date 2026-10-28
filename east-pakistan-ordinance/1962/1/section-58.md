@@ -1,0 +1,3 @@
+# Bar to any debt, compromise and other transactions by mutawalli
+58. (1) No debt incurred by a mutawalli shall be binding on a waqf property unless it is for the benefit of the waqf and previous written permission has been obtained from the Administrator authorising the incurring of such debt.
+(2) No mutawalli shall compromise, compound, abandon, submit to arbitration or otherwise settle any debt, account or claim relating to a waqf or for any of these purposes enter into and execute any agreement or instrument of compromise or arrangement, without the previous permission of the Administrator.

@@ -1,0 +1,2 @@
+# Power to cause enrolment of waqf and to amend register
+49. The Administrator, on his own motion or on the petition of any person interested, verified in the manner referred to in sub section (8) of section 47, may direct a mutawalli to apply for the enrolment of a waqf or to supply any information regarding a waqf, or may himself collect such information, and may cause any waqf to be enrolled, or may at any time amend the register of waqfs.

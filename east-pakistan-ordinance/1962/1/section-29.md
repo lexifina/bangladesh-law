@@ -1,0 +1,3 @@
+# The Administrator and the Committee to carry out purposes of waqfs but Administrator may revise inoperative provisions
+29. The Administrator and the Committee, in exercising their powers and functions under this Ordinance in respect of the waqf, shall act in conformity with the directions of the waqif, the purposes of the waqf, and any custom or usage relating to waqfs under the Muslim Law:
+Provided that, in furtherance of the objects of the waqf or in the interest of the beneficiaries, the Committee may revise any provision in the waqf deed which has become inoperative or impossible of execution owing to the efflux of time or changed conditions.

@@ -1,0 +1,2 @@
+# Power of the Administrator to transfer waqf property
+33. Notwithstanding anything contained elsewhere in this Ordinance or in any other law for the time being in force or in any waqf deed or in any contract, the Administrator may, with the previous sanction of the Government, transfer any part of a waqf property by sale, mortgage, exchange or lease if he considers it necessary for the improvement and benefit of the waqf.

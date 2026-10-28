@@ -1,0 +1,3 @@
+# Survey of waqf properties
+6. (1) The Administrator shall cause a survey to be made of all waqf properties existing at the date of the commencement of this Ordinance in such manner as may be prescribed by the rules, and, for this purpose, may appoint such persons as may be necessary, who shall, on completion of the survey, submit to the Administrator a report containing such particulars as may be prescribed by the rules.
+(2) On receipt of the report under sub section (1), the Administrator shall take such action as he may deem necessary under Chapter IV of this Ordinance for the enrolment of the waqfs.

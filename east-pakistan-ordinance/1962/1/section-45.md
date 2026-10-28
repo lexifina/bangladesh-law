@@ -1,0 +1,4 @@
+# Inspection of records and granting of copies
+45. (1) The Administrator may grant inspection and copies of proceedings or other records of his office on payment of such fees as may be prescribed by him and subject to such conditions as he may determine. Copies shall be certified by the Administrator or by such officer as may be authorised in that behalf by the Administrator in the manner provided in section 76 of the Evidence Act, 1872.
+(2) Any beneficiary or other person interested in a waqf shall be entitled, with the permission of the Administrator, to inspect and obtain copies of such proceedings or other records relating to the waqf.
+(3) The Administrator at his discretion may allow a stranger to a waqf to inspect and obtain copies of such proceedings or other records relating to the waqf.

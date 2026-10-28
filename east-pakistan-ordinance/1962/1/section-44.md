@@ -1,0 +1,2 @@
+# Appointment of official mutawalli
+44. Notwithstanding anything contained in this Ordinance or in any other law for the time being in force or in any deed or instrument, the Administrator may, where considered necessary, appoint an official mutawalli on such terms and conditions as to remuneration and other matters as the Administrator thinks fit for the Administration and management of a waqf property and institution attached thereto.

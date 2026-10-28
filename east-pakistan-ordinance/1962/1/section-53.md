@@ -1,0 +1,8 @@
+# Audit of accounts of waqfs
+53. (1) The accounts of waqfs submitted to the Administrator under section 52 shall be audited and examined annually or at such other intervals as the Administrator may determine by an auditor appointed by the Administrator.
+(2) The auditor may, by written notice, require the production before him of any document, or require the attendance before him of any person responsible for the preparation of the account, to enable the auditor to obtain such information as he may consider necessary for the proper conduct of his audit.
+(3) After completing the audit, the auditor shall submit a report to the Administrator:
+Provided that the auditor may submit an interim report at any time if he thinks fit.
+(4) The report of the auditor shall, among other things, specify the cases of irregular, illegal or improper expenditure or of failure to recover money or other property lost by neglect or misconduct, loss of any property or money, and any other matter which the auditor considers it necessary to report. The report shall also contain the name of any person who, in the opinion of the auditor, is responsible for such expenditure or failure and the auditor shall, in every case, certify the amount of such expenditure or loss as due from such person.
+(5) The cost of the audit of the accounts of a waqf including the travelling allowance of the auditor shall be paid from the Waqf Fund.
+Explanation.- For the purposes of this section and sections 54 and 55, an “auditor” shall include an Inspector and any other person or officer authorised by the Administrator to audit and examine the accounts of a waqf.

@@ -1,0 +1,6 @@
+# Audit of accounts of Waqf Fund
+76. (1) The Accounts of the Waqf Fund shall be audited and examined annually by such auditor as may be appointed by the Government.
+(2) The auditor may, by written notice, require the production before him of any document, or require the attendance before him of any person responsible for the preparation of the account, to enable the auditor to obtain such information as he may consider necessary for the proper conduct of his audit.
+(3) After completing the audit, the auditor shall submit a report to the Government:
+Provided that the auditor may submit an interim report at any time if he thinks fit.
+(4) The report of the auditor shall, among other things, specify all cases of irregular, illegal or improper expenditure or of failure to recover monies or other property due or of loss or waste of money or other property caused by neglect or misconduct and any other matter which the auditor considers it necessary to report. The report shall also contain the name of any person who, in the opinion of the auditor, is responsible for such expenditure or failure, and the auditor shall, in every such case, certify the amount of such expenditure or loss as due from such person.

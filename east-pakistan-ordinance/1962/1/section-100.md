@@ -1,0 +1,2 @@
+# Attendance before Administrator may be either in person or by an agent
+100. Any mutawalli or other person who is entitled to attend before the Administrator or any other officer subordinate to him in connection with any proceedings under this Ordinance may, with the permission of the Administrator or such other officer, as the case may be, attend either in person or through any person authorised by him in writing in that behalf.
