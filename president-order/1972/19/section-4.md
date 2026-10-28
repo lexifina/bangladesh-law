@@ -1,0 +1,1 @@
+4. In the said Act, reference to “Pakistan” or “Province” shall, except where the reference occurs in any citation or description of any law and except where the context otherwise requires, be construed as reference to “Bangladesh”.

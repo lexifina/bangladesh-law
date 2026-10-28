@@ -1,0 +1,1 @@
+2. The Insurance Act, 1938 (Act IV of 1938), hereinafter referred to as the said Act, shall, until repealed, altered or amended by the Legislature of Bangladesh or by any other competent authority, be subject to the adaptation specified in the following Articles.
