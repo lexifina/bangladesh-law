@@ -1,0 +1,1 @@
+5. For the purposes of this Order, references in any law to “Central Government”, “Provincial Government”, “Pakistan” and “East Pakistan”, shall, unless the context otherwise requires, be construed as references to “Government of Bangladesh” and “Bangladesh” respectively.

@@ -1,0 +1,1 @@
+3. To avoid any doubt, it is declared that land revenue shall be reviewed by the Government of Bangladesh and shall not be collected until such time as the Government of Bangladesh may, by notification in the official Gazette, direct otherwise.
