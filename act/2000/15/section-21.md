@@ -1,0 +1,21 @@
+# ২১৷ Act No. IV of 1969 এ নূতন section 79B, 79C, 79D, 79E, 79F এবং 79G এর সন্নিবেশ
+২১৷ Customs Act এর section 79A এর পর নিম্নরূপ নূতন section 79B, 79C, 79D, 79E, 79F এবং 79G সন্নিবেশিত হইবে, যথা:-
+“79B. Access to Customs computerised entry processing systems.- No person shall transmit to, or receive information from, a Customs computerised entry processing system unless that person is registered by the Commissioner of Customs as a user of that Customs computerised entry processing system.
+79C. Registered users.- (1) A person who wishes to be registered as a user of a Customs computerised entry processing system may apply in writing to the Commissioner of Customs in the prescribed form and shall provided such information in relation to the application as required by the Commissioner.
+(2) The said Commissioner may require an applicant for registration to give such additional information as the said Commissioner considers necessary for the purpose of the application.
+(3) The said Commissioner may-
+(a) grant the application subject to such conditions and limitations as the said Commissioner thinks fit; or
+(b) refuse the application.
+(4) The said Commissioner shall give notice in writing to the applicant of his decision.
+79D. Registered users to be allocated unique user identifier-(1) A person who is registered as a user of a Customs computerised entry processing system shall be allocated a unique user identifier for use in relation to that Customs computerised entry processing system by the Commissioner of Customs, in such form or of such a nature as the Commissioner of Customs may determine.
+(2) The unique user identifier allocated pursuant to sub-section (1) of this section shall be used by the registered user for the purpose of transmitting information to or receiving information from that Customs computerised entry processing system.
+(3) The Commissioner of Customs may, by notice in writing, impose conditions and limitations on a particular registered user, or on registered users generally, relating to the use and security of unique user identifiers.
+79E. Use of unique user identifier.- (1) Where information is transmitted to a Customs computerised entry processing system using a unique user identifier issued to a registered user by the Commissioner of Customs for that purpose, the transmission of that information shall, in the absence of proof to the contrary, be sufficient evidence that the registered user to whom the unique user identifier has been issued has transmitted that information.
+(2) Where a unique user identifier is used by an individual who is not entitled to use it, sub-section (1) of this section does not apply if the registered user to whom the unique user identifier was issued has, prior to the unauthorised use of the unique user identifier, notified the Commissioner of Customs in writing that the unique user identifier is no longer secure.
+79F. Cancellation of registration of registered user.- (1) Where at any time the Commissioner of Customs having jurisdiction is satisfied that a person who is a registered user of a Customs computerised entry processing system has-
+(a) failed to comply with a condition of registration imposed by the said Commissioner under section 79C (3) of this Act; or
+(b) failed to comply with, or acted in contravention of, any conditions imposed by the said Commissioner under section 79D(3) of this Act in relation to the use and security of the registered user's unique user identifier; or
+(c) has been convicted of an offence under this Act in relation to improper access to or interference with a Customs computerised entry processing system,-
+the said Commissioner may cancel the registration of that individual as a registered user by giving notice in writing to that person setting out the reasons for the cancellation.
+79G. Customs to keep records of transmission.- (1) The Customs must keep a record of every transmission sent to or received from a registered user using a Customs computerised entry processing system.
+(2) The record described in sub-section (1) of this section must be kept for a period of five years from the date of the sending of or the receipt of the transmission, or for such other period as may be prescribed.”|

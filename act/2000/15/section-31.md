@@ -1,0 +1,3 @@
+# ৩১৷ Act No. IV of 1969 এর section 112 এর সংশোধন
+৩১৷ Customs Act এর section 112 এর sub-section (1) এর পরিবর্তে নিম্নরূপ নূতন sub-section (1) প্রতিস্থাপিত হইবে:-
+“(1) If any owner fails to pay any sum demanded under section 111, the appropriate officer may either proceed upon the bond executed under 86 or as prescribed by rules made under this Act or cause such portion of the owners goods in the warehouse or any plant or machinery or equipment used for the manufacture of goods or any other goods and properties belonging to such persons to be detained as he may consider adequate to recover the demand, and the notice in writing for such detention, shall immediately be given to the owner.”|

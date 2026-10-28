@@ -1,0 +1,4 @@
+# ৩৬৷ Act No. IV of 1969 এর section 156 এর সংশোধন
+৩৬৷ Customs Act এর section 156 এর sub-section (2) এর পরে নিম্নরূপ নূতন sub-section (3) ও (4) সংযোজিত হইবে, যথা:-
+“(3) Where there is provision in sub-section (1) for conviction and sentence by a Court for any offence, the Customs Authorities shall be competent to dispose of the goods as per the provisions of the Act, and the jurisdiction of the Court shall be limited only to the criminal proceedings instituted in relation to the goods.
+(4) The Customs Authorities may sell or otherwise dispose of the seized goods during pendency of the Court proceedings, if any, after keeping samples where practicable, with proper identification marks, and if it is decided by the Court that no offence was committed, the Customs Authorities shall, where the owner or proper claimant is available, return the goods or the sale proceeds of the goods or the proceeds if they are not otherwise liable to be confiscated.”|

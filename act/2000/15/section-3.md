@@ -1,0 +1,3 @@
+# ৩৷ Act No. II of 1899 এ নূতন section 11A এর সন্নিবেশ
+৩৷ The Stamp Act এর section 11 এর নিম্নরূপ নূতন section 11A সন্নিবেশিত হইবে, যথা:-
+“11A. Payment of stamp duties on insurance policy in certain cases by challan, pay order or bank draft.- Notwithstanding the other provisions of this Act or any other law for the time being in force, the Government may, by notification in the official gazette, direct that where the stamp duty payable on an insurance policy exceeds the amount specified in the notification, the entire stamp duty shall be paid only by treasury challan or account-payee pay order or account-payee bank draft in the manner prescribed by such notification or by rules.”৷

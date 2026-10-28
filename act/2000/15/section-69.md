@@ -1,0 +1,5 @@
+# ৬৯৷ Ordinance No. XXXVI of 1984 এর section 82 এর সংশোধন
+৬৯৷ Income-tax Ordinance এর section 82 এর-
+(ক) বিদ্যমান বিধানটি উক্ত section এর sub-section (1) রূপে সংখ্যায়িত হইবে এবং উক্তরূপে সংখ্যায়িত sub-section (1) এর দ্বিতীয় proviso এর clause (b) এর প্রান্ত্মস্থিত সেমিকোলনের পরিবর্তে ফুলষ্টপ প্রতিস্থাপিত হইবে এবং বিদ্যমান clause (c) বিলুপ্ত হইবে;
+(খ) সংখ্যায়িত sub-section (1) এর পর নিম্নরূপ নূতন sub-section (2) সংযোজিত হইবে, যথা:-
+“(2) Notwithstanding anything contained in sub-section (1) and section 93, the Board or any authority subordinate to the Board, if so authorised by the Board in this behalf, may select, in the manner to be determined by the Board, a portion, not exceeding ten per cent of the return filed under first proviso in sub-section (1) showing loss or lesser income than the last assessed income or assessment on the basis of which result in refund, and refer the returns so selected to the Deputy Commissioner of Taxes for the purpose of audit and the Deputy Commissioner of Taxes shall thereupon proceed, if so required, to make the assessment under section 83 or section 84 as the case may be.”|

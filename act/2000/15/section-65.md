@@ -1,0 +1,3 @@
+# ৬৫৷ Ordinance No. XXXVI of 1984 এর section 53EE এর সন্নিবেশ
+৬৫৷ Income-tax Ordinance এর section 53E এর পর নিম্নরূপ নূতন section 53EE সন্নিবেশিত হইবে, যথা:-
+“53EE. Deduction of tax from commission or remuneration paid to agent of foreign buyer.- Where, in accordance with the terms of the letter of credit or under any other instruction, a bank, through which an exporter receives payment for export of goods, pays any amount out of the export proceeds to the credit of any person being an agent or a representative of the foreign buyer, as commission, charges or remuneration by whatever name it may be called, the bank shall deduct or collect tax in advance at the rate of two and half per cent on the commission, charges or remuneration so paid at the time of such payment.”|

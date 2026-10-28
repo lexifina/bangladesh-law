@@ -1,0 +1,4 @@
+# ৯৷ Act No. IV of 1969 এর section 17 এর সংশোধন
+৯৷ Customs Act এর section 17 এর বিদ্যমান বিধান উক্ত section এর sub-section (1) রূপে সংখ্যায়িত হইবে, এবং উক্তরূপে সংখ্যায়িত sub-section (1) এর পর নিম্নরূপ নূতন sub-section (2) সংযোজিত হইবে, যথা:-
+“(2) Where any goods are detained under sub-section (1) and, within thirty days of such detention, a criminal case is not instituted nor a show cause notice in respect of the goods is issued under section 180, the appropriate officer shall assess the customs duty, if any, leviable on the goods as if the goods were lawfully imported or as the case may be, attempted to be exported, and on payment of such duty, if any, the officer shall release the goods:
+Provided that the Commissioner of Customs may, on the application of the appropriate officer and for reasons to be recorded in writing, extend the said period of thirty days by a period not exceeding fifteen days.”৷
