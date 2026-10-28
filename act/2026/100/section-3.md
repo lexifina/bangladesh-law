@@ -1,0 +1,3 @@
+# Act No. XLII of 1980 এ নূতন section 3A এর সন্নিবেশ
+৩। উক্ত Act এর section 3 এর পর নিম্নরূপ নূতন section 3A সন্নিবেশিত হইবে, যথা:-
+"3A. Entrance with electronic devices and violation of directions.- Whoever, without lawful authority, enters or attempts to enter an examination hall or examination center while in possession of any electronic device prohibited by the authority concerned in connection with the conduct of public examination, or willfully violates any lawful direction, instruction or regulation issued by such authority, shall be punishable with imprisonment for a term which may extened to five years, and shall also be liable to fine."।
