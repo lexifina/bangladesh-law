@@ -1,0 +1,2 @@
+# Penalty for misconduct on part of drivers
+12. If any driver of any stage-carriage, or any other person having the care thereof, shall, through intoxication, neglect or by wanton or furious driving or by any other misconduct, endanger the safety of any passenger or other person, or shall injure or endanger the property of the proprietor of such stage-carriage or of any other person, every such person so offending shall be liable to a fine not exceeding one hundred taka.
