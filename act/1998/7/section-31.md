@@ -1,0 +1,2 @@
+# ব্যাংক দোকান ইত্যাদি বলিয়া গণ্য হইবে না
+৩১৷ আপাততঃ বলবত্ অন্য কোন আইনে যাহা কিছুই থাকুক না কেন ব্যাংক Factories Act, 1965 (E.P. Act IV of 1965), Shops and Establishments Act, 1965 (E.P. Act VII of 1965) এবং Industrial Relations Ordinance, 1969 (XXIII of 1969)-এর মর্মানুসারে “কারখানা (factory)” “দোকান (shop)” বাণিজ্যিক প্রতিষ্ঠান “(commercial establishment)” বা “শিল্প প্রতিষ্ঠান (Industry)” বলিয়া গণ্য হইবে না৷
