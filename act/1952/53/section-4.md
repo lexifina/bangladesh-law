@@ -1,0 +1,3 @@
+# Power to order persons engaged in certain employments to remain in specified areas
+4. (1) In respect of any employment under the Government and in respect of any employment or class of employment declared under section 3 to be an employment or class of employment to which this Act applies, the Government, or an officer authorised in this behalf by that Government may, by general or special order, direct that any person or persons engaged in such employment shall not depart out of such area or areas as may be specified in such order.
+(2) An order made under sub-section (1) shall be published in such manner as the Government or the officer making the order considers best calculated to bring it to the notice of the persons affected by the order.

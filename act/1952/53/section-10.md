@@ -1,0 +1,3 @@
+# Repeal of Ordinance XI of 1941 and savings
+10. (1) The Essential Services (Maintenance) Ordinance, 1941, is hereby repealed.
+(2) Notwithstanding such repeal, any order passed or any notification issued or anything done or any action taken or any proceedings commenced under any of the provisions of the aforesaid Ordinance, in so far as such provisions were in force immediately before the commencement of this Act, shall continue in force and be deemed to have been passed, issued, done, taken or commenced, as the case may be, under the corresponding provision of this Act, as if this Act had been in force on the day on which such order was passed, notification issued, thing done, action taken or proceedings commenced.
