@@ -1,0 +1,3 @@
+# Appointment and duties of Inspectors
+11.(1) The Government may appoint such persons as they deem fit to be Inspectors of aerial ropeways for the public carriage of passengers, animals or goods, and may fix the fees to be charged to promoters for the performance by Inspectors of their duties under this Act.
+(2) It shall be the duty of any such Inspector from time to time to inspect such ropeways, and to determine whether they are maintained in a fit condition and worked with due regard to the convenience and safety of the persons using them and of the general public, and consistently with the provisions of this Act.

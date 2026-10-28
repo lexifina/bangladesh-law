@@ -1,0 +1,3 @@
+### Discontinuance of Aerial Ropeways for Public Traffic
+# Cessation of powers of promoter on discontinuance of aerial ropeway
+22. If, at any time after the opening of an aerial ropeway for public traffic, it is proved to the satisfaction of the Government that the promoter has, for three months, discontinued the working of the ropeway or of any part thereof, without a reason sufficient, in the opinion of the Government, to warrant such discontinuance, the Government, if they think fit, may declare that the powers of the promoter in respect of such aerial ropeway or part thereof shall be at an end; and thereupon the said powers shall cease and determine.

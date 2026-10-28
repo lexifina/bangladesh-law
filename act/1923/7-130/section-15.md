@@ -1,0 +1,3 @@
+# Temporary entry upon land for repairing or preventing accident
+15.(1) Subject to the rules made under this Act a promoter may, at any time, for the purpose of examining, repairing or altering an aerial ropeway for public traffic or of preventing any accident, enter upon any immovable property adjoining such ropeway, and may do all such works as may be necessary for such purpose.
+(2) In the exercise of the powers conferred by sub-section (1), the promoter shall cause as little damage as possible and compensation shall be paid by him for any damage so caused; and, in a case of dispute as to the amount of such compensation, or the person to whom it shall be paid, the matter shall be referred to the decision of the Collector.

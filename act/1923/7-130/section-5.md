@@ -1,0 +1,3 @@
+# Preliminary investigations
+5. Subject to the provisions of this Act, and of section 4 of the Land Acquisition Act, 1894, the Government may at their discretion, accord sanction to the intending promoter to make such surveys as may be necessary, and require him to submit such detailed estimates, plans, sections and specifications and such further information as they may deem necessary for the full consideration of the proposal.
+The intending promoter shall not be entitled to claim any compensation from Government for any expense incurred under this section in the event of his application being ultimately refused.

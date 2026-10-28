@@ -1,0 +1,2 @@
+# Protection of roads, railways, tramways, and waterways
+37. No promoter of an aerial ropeway shall, in the course of the construction, repair, working or management of such ropeway, cause any permanent injury to any public road, railway, tramway or waterway, or obstruct or interfere with, otherwise than temporarily, as may be necessary, the traffic on any public road, railway, tramway or waterway.

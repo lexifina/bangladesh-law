@@ -1,0 +1,2 @@
+# Limitation of claims for damage to animals or goods
+39. No person shall be entitled to a refund of an over charge in respect of animals or goods carried by an aerial ropeway for public traffic or to compensation for the loss, destruction or deterioration of animals or goods delivered to be so carried, unless his claim to the refund or compensation has been preferred in writing by him or in his behalf to the promoter within six months from the date of the delivery of the animals or goods for carriage by the ropeway.

@@ -1,0 +1,3 @@
+# Final order
+7.(1) If, after considering any objections or suggestions which may have been made in respect to the draft on or before the specified date, the Government are of opinion that the application should be granted with or without modifications, or subject or not to any restrictions or conditions, they shall make an order accordingly.
+(2) Every order authorising the construction of an aerial ropeway for the public carriage of passengers, animals or goods shall be published in the official Gazette, and such publication shall be conclusive proof that order has been made as required by this section.

@@ -1,0 +1,2 @@
+# Unlawfully obstructing promoter in exercise of his powers
+32. If any person without lawful excuse, the burden of proving which shall be upon him, wilfully obstructs any person acting under the authority of the promoter in the lawful exercise of his powers in constructing, maintaining, altering, repairing or working an aerial ropeway, or injures or destroys any mark made for the purpose of setting out the line or route of such ropeway, he shall be punished with fine which may extend to two hundred taka.

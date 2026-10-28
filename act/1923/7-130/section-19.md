@@ -1,0 +1,2 @@
+# Duty of promoter to work aerial ropeway without partiality
+19. No promoter shall, for the purposes of working an aerial ropeway for public traffic, make or give any undue or unreasonable preference or advantage to, or in favour of, any particular person or any particular description of traffic in any respect whatsoever, or subject any particular person or any particular description of traffic to any undue or unreasonable prejudice or disadvantage in any respect whatsoever.

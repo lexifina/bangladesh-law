@@ -1,0 +1,5 @@
+# Power to close and re-open aerial ropeway
+21.(1) If, after inspecting any aerial ropeway opened to public traffic, an Inspector is of opinion that the ropeway or any specified part thereof cannot be used without danger to the public, or is no longer in a fit state for the carriage of any specified class of traffic, he shall state that opinion, together with the grounds therefor, to the Government;
+and the Government, after such further inquiry, if any, as they may think fit, may thereupon order that, for reasons to be set forth in the order, the aerial ropeway, or the part thereof so specified, be closed to all traffic or to any specified class of traffic:
+Provided that, in any case of extreme urgency, the Inspector may order the suspension of the working of the ropeway or any part thereof which he considers necessary, pending the orders of the Government on the case.
+(2) When, under sub-section (1), an aerial ropeway or any part thereof has been closed to any traffic, it shall not be reopened to such traffic until it has been inspected, and its reopening sanctioned, in the prescribed manner.

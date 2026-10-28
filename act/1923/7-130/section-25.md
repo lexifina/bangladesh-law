@@ -1,0 +1,2 @@
+# Power to promoter to sell when option to purchase not exercised and order revoked by consent
+25. Where, on the expiration of any of the periods referred to in section 24, neither the Government nor a local authority purchases the undertaking, and the order published under section 7 is, on the application or with the consent of the promoter, revoked, the promoter shall have the option of disposing of all lands, buildings, works, materials, plant and apparatus belonging to the undertaking in such manner as he may think fit.

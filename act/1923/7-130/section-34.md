@@ -1,0 +1,2 @@
+# Maliciously doing, abetting or attempting to do, act endangering safety of persons travelling or being upon aerial ropeway
+34. If any person does anything mentioned in clauses (a), (b) or (c) of section 33 or does, attempts to do, or abets, within the meaning of the [Penal Code], the doing of any other act or thing in relation to an aerial ropeway with intent or with knowledge that he is likely to endanger the safety of any person travelling or being upon the aerial ropeway, he shall be punished with imprisonment for a term which may extend to fourteen years.

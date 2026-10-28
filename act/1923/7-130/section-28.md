@@ -1,0 +1,5 @@
+## Chapter III
+## PRIVATE AERIAL ROPEWAYS FOR CERTAIN PURPOSES
+# Application for acquisition of land in case of certain private aerial ropeways
+28.(1) Where the Government are satisfied that the construction, extension, working or management of an aerial ropeway for private traffic is likely to prove useful to the public by reason of its facilitating the transport of commodities in general use or is required for the conservation or service of undertakings supplying those commodities, and where the intending promoter of such aerial ropeway is desirous of obtaining any land for the purpose of such construction, extension, working or management, the Government may, on the application of such promoter, acquire on his behalf such land under the provisions of Part VII of the Land Acquisition Act, 1894, or procure the temporary occupation of the same under the provisions of Part VI of that Act, whether the said intending promoter is or is not a company as defined in that Act.
+(2) The Government shall by notification in the official Gazette declare the commodities which shall be deemed to be commodities in general use for the purposes of sub-section (1).

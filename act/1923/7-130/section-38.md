@@ -1,0 +1,2 @@
+# Acquisition of land by a promoter
+38. The Government may, if they think fit, on the application of any promoter of an aerial ropeway for public traffic desirous of obtaining any land for the purpose of constructing, working or managing such ropeway, direct that he may, subject to the provisions of this Act, acquire such land under the provisions of the Land Acquisition Act, 1894, in the same manner and on the same conditions as it might be acquired if the promoter were a company.
