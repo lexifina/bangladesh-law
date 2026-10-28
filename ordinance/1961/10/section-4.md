@@ -1,0 +1,11 @@
+# Entry of names in Register
+4. (1) Any of the following persons shall be entitled to have his name entered in the Register, namely,-
+(i) any person who is a registered accountant at the commencement of this Ordinance;
+(ii) any person who has passed such examination and completed such training as may be prescribed;
+(iii) any person who has passed such other examination and completed such other training outside Bangladesh as is recognised by the Government or the Council with the approval of the Government as being equivalent to the examination and training prescribed for members of the Institute:
+Provided that in the case of any person who is not permanently residing in Bangladesh, the Government or the Council, with the approval of the Government, as the case may be, may impose such further conditions as it may deem fit;
+(iv) any person domiciled in Bangladesh, who at the commencement of this Ordinance is studying for any foreign examination and is at the same time undergoing training, whether within or without Bangladesh, or, who, having passed such foreign examination, is at the commencement of this Ordinance undergoing training whether within or without Bangladesh:
+Provided that any such examination or training was recognised before the commencement of this Ordinance for the purpose of conferring the right to be registered as an accountant under the Auditors' Certificates Rules, 1950, and provided further that such person passes the examination or completes the training.
+(2) The name of every person belonging to the class mentioned in clause (i) of sub-section (1) shall be entered in the Register without the payment of any entrance fee or any application being made in that behalf and shall, for the purpose of sub-section (1) of section 3, be deemed to have been so entered at the commencement of this Ordinance.
+(3) Every person belonging to any of the classes mentioned in clauses (ii), (iii) and (iv) of sub-section (1) shall have his name entered in the Register on application being made and granted in the prescribed manner and on payment of the prescribed fee, which shall not exceed rupees five hundred in any case.
+(4) The Government shall take such steps as may be necessary for the purpose of having the names of all persons belonging to the class mentioned in clause (i) of sub-section (1) entered in the Register.

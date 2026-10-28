@@ -1,0 +1,3 @@
+# Unqualified persons not to sign documents
+24. (1) No person other than a member of the Institute shall sign any document on behalf of a chartered accountant in practice or a firm of such chartered accountants in his or its professional capacity.
+(2) Any person contravening the provisions of sub-section (1) shall, without prejudice to any other proceedings which may be taken against him, be punishable with fine which may extend of first conviction to one thousand rupees, and on any subsequent conviction with imprisonment which may extend to six months, or with fine which may extend to five thousand rupees, or with both.

@@ -1,0 +1,3 @@
+# Companies not to engage in accountancy
+23. (1) No company, limiting the liability of its members, whether incorporated in Bangladesh or elsewhere, shall practise as chartered accountants.
+(2) If any company contravenes the provisions of sub-section (1), then, without prejudice to any other proceedings which may be taken against the company, every director, manager, secretary and any other officer thereof, who is knowingly a party to such contravention, shall be punishable with fine which may extend on first conviction to one thousand rupees and on any subsequent conviction to five thousand rupees.
