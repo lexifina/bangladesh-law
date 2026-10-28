@@ -1,0 +1,3 @@
+# Penalty for causing obstruction to line of navigation
+16. Any person who shall wilfully cause or shall aid in causing any obstruction to any line of navigation, or any damage to the banks or works of such line of navigation,
+or who shall wilfully omit to remove such obstruction after being lawfully required so to do, shall be punished on conviction before a Magistrate with simple imprisonment which may be extend to one month, or with fine which may extend to fifty taka, or with both, and shall also be liable to pay such fine as may be sufficient to meet all reasonable expenses incurred in abating or removing such obstruction, or in repairing such damage.

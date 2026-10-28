@@ -1,0 +1,2 @@
+# Appointment of supervisor with power to remove obstruction
+13. It shall be lawful for the Government to appoint any person to be the supervisor of any line of navigation subject to the provisions of this Act; and such person shall be empowered to cut down and remove any tree which may have fallen or may be likely to fall into such line of navigation, and to remove any sunken vessel, and to prevent or remove any other nuisance or obstruction to navigation, of whatever description, whenever he may think it necessary.

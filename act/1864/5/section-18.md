@@ -1,0 +1,4 @@
+# Offences by whom punishable
+18. If any person shall be guilty of an offence against the provisions of this Act on any line of navigation subject to this Act, such offence shall be punishable by any Magistrate having jurisdiction over any district or place adjoining such line of navigation, or adjoining either side of that part of the line of navigation in which such offence shall be committed;
+and, such Magistrate may exercise all the powers of a Magistrate under this Act, in the same manner, and to the same extent, as if such offence had been committed locally within the limits of his jurisdiction, notwithstanding the offence may not have been committed locally within such limits;
+and, in case any such Magistrate shall exercise the jurisdiction hereby vested in him, the offence shall be deemed, for all purposes, to have been committed locally within the limits of his jurisdiction.
