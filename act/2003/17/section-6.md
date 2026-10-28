@@ -1,0 +1,3 @@
+# Act IV of 1969 এর section 17 এর সংশোধন
+৬৷ Customs Act এর section 17 এর পরিবর্তে নিম্নরূপ section 17 প্রতিস্থাপিত হইবে, যথা:-
+“17. Detention and confiscation of goods imported in breach of section 15 or section 16.- Where any goods are imported into or attempted to be exported out of Bangladesh in violation of the provisions of the section 15 or of a notification under section 16, such goods shall, without prejudice to any other penalty to which the offender may be liable under this Act, or any other law, be liable to be detained and confiscated and shall be disposed of in such a manner as may be prescribed.”|

@@ -1,0 +1,3 @@
+# Act IV of 1969 এর THIRD SCHEDULE এর সংশোধন
+১৪৷ Customs Act এর THIRD SCHEDULE এর এন্ট্রি “22A” এর পর নিম্নরূপ নূতন এন্ট্রি “22B” সন্নিবেশিত হইবে, যথা:-
+“22B. Definition of Privileged Person; goods imported, or purchased from duty-free bonded warehouse or acquired otherwise by privileged persons; declaration, examination, assessment, clearance, custody and disposal of such goods; transit and transhipment of such goods; circumstances, conditions, limitations and restrictions under which such goods would be exempted from Customs duties; extent of such exemption; issuance of Customs Passbooks in favour of privileged persons.”৷
