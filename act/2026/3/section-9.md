@@ -1,0 +1,3 @@
+# P.O. No. 155 of 1972 এর Article 20 এর সংশোধন
+৯। উক্ত Order এর Article 20 এর clause (1) এ উল্লিখিত "more" শব্দের পরিবর্তে "one or more" শব্দগুলি প্রতিস্থাপিত হইবে এবং অত:পর উহার sub-clause (a) এর শর্তাংশের পরিবর্তে নিম্নরূপ শর্তাংশ প্রতিস্থাপিত হইবে, যথা:-
+"Provided that the Commission, on an application made to it in this behalf within 3 (three) days after the publication of the notification under clause (1) of Article 11, may in case of a combination of two or more registered political parties who have agreed to set up joint candidates for election, allot the symbol reserved for the political party to which the candidate belongs;"।

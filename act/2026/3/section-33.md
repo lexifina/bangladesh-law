@@ -1,0 +1,5 @@
+# P.O. No. 155 of 1972 এর Article 89A এর সংশোধন
+৩৩। উক্ত Order এর Article 89A এর-
+(১) বিদ্যমান বিধান clause (1) হিসেবে সংখ্যায়িত হইবে এবং উক্তরূপ সংখ্যায়িত clause (1) এর sub-clause (a) তে উল্লিখিত "and Article 82" শব্দগুলি ও সংখ্যার পরিবর্তে, "Article 82, Article 91B(3)" কমাগুলি, শব্দগুলি, সংখ্যাগুলি, চিহ্নগুলি ও বর্ণ প্রতিস্থাপিত হইবে এবং অতঃপর নিম্নরূপ নূতন clause (2) ও (3) সংযোজিত হইবে, যথা:-
+“(2) The Superintendent of Police, Police Commissioner, the Officer-in-Charge of the local police station and the commander or any officer in-charge of any force engaged in election duty, shall provide striking force and render such other assistance as may be required by the person performing duties under this Article for the due discharge of his functions under this Order; and if any of the aforesaid persons fails, refuses, or neglects to comply, without any reasonable cause, he may be deemed to be guilty of inefficiency or misconduct.
+(3) The Returning Officer and the Assistant Returning Officer shall provide all necessary assistance as may be required by the person performing duties under this Article for the due discharge of his functions under this Order.”।

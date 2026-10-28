@@ -1,0 +1,3 @@
+# P.O. No. 155 of 1972 এর Article 44A এর সংশোধন
+২৫। উক্ত Order এর Article 44A এর পরিবর্তে নিম্নরূপ Article 44A প্রতিস্থাপিত হইবে, যথা:-
+"44A. In this Chapter, "election expenses" means any expenditure incurred or payment made, whether by way of gift, loan, advance, deposit or otherwise, for the arrangement, conduct or benefit of, or in connection with, or incidental to, the election of any candidate or any political party, including the expenditure on account of issuing circulars or publications or otherwise presenting to the electors the candidate's or party's views, aims or objects, but does not include the deposit made under Article 13."।
