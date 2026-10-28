@@ -1,0 +1,3 @@
+# Transfer of assets
+3. Notwithstanding anything contained in any other law, on the commencement of this Act, all assets of the Pakistan Girl Guides Association in Bangladesh shall stand transferred to and vested in the Association.
+Explanation.- The expression “assets” includes all rights, powers, authorities and privileges, all property, movable and immovable, including lands, buildings, cash balances, bank deposits, reserve funds, investments and all other rights and interests in, or arising out of, such property and all books of accounts, registers, records and all other documents of whatever nature relating thereto.

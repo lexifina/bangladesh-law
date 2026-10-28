@@ -1,0 +1,2 @@
+# Constitution, Power and functions of Association
+4. The constitution, powers and functions of the Association shall be such as may be prescribed by rules to be made by the Association, with the previous approval of the Government, and until such rules are made, the rules applicable to the erstwhile East Pakistan Branch of the Pakistan Girl Guides Association, and in force immediately before the commencement of this Act, shall mutatis mutandis, continue in force and be deemed to have been made under this section.
