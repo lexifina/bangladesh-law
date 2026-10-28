@@ -1,0 +1,2 @@
+# Appeal
+7. If the Registering Authority refuses to grant a certificate under sub section (3) of section 4, or suspends or cancels under section 6, a certificate so granted, the applicant or the holder of the certificate may, within thirty days from the date of order of the Registering Authority, prefer an appeal to the Appellate Authority, and the Order passed by the Appellate Authority shall be final and given effect to by the Registering Authority.

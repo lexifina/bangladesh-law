@@ -1,0 +1,5 @@
+# Establishment and continuance of private schools
+5. (1) A private school, not already in existence, shall be established only after a certificate has been granted under sub section (3) of section 4:
+Provided that such school may be established and run after an application for registration under sub-section (1) of section 4 has been made till the disposal of such application, but shall be closed down immediately if the certificate under sub section (3) of that section is refused.
+(2) A private school already in existence in respect of which an application under sub section (1) of section 4 has been made within sixty days of the coming into force of this Ordinance may continue pending the disposal of the application, but shall close down immediately if the certificate under sub section (3) of that section is refused.
+(3) A private school, already in existence, in respect of which no application under sub section (1) of section 4 has been made within a period of sixty days next after the coming into force of this Ordinance, shall not continue after the expiry of that period.
