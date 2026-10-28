@@ -1,0 +1,4 @@
+# Ordinance No. XXXVI of 1984 এ নূতন section 53HH এর সন্নিবেশ
+৩১। উক্ত Ordinance এর section 53H এর পর নিম্নরূপ নূতন section 53HH সন্নিবেশিত হইবে, যথা:-
+"53HH. Collection of tax from lease of property. - Any registering officer responsible for registering under the Registration Act, 1908 (XVI of 1908) any document in relation to any lease of immovable property for not less than ten years from any authority formed or established under any law shall not register such document unless tax is paid at a rate of four per cent by the lessor on the lease amount of such property.
+Explanation:-For the purpose of this section, "any authority" shall mean Rajdhani Unnayan Kartripakkha (RAJUK), Chittagong Development Authority (CDA), Rajshahi Development Authority (RDA), Khulna Development Authority (KDA) or National Housing Authority."।

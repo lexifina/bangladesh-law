@@ -1,0 +1,3 @@
+# Ordinance No. XXXVI of 1984 এ নূতন section 52JJ এর সন্নিবেশ
+২২। উক্ত Ordinance এর বিলুপ্ত section 52J এর পর নিম্নরুপ নূতন section 52JJ সন্নিবেশিত হইবে, যথা:-
+"52JJ". Collection of tax from travel agent.- Any person responsible for paying to a resident, any sum by way of commission or discount or incentive bonus or any other benefits convertible into money, called by whatever name, for selling tickets of an airline, or for carrying cargo by air, shall deduct or collect advance tax at the rate of three per cent at the time of paying such commission or incentive bonus or any other benefits or allowing discount."।

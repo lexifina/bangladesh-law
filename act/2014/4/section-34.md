@@ -1,0 +1,2 @@
+# Ordinance No. XXXVI of 1984 এর section 54 এর সংশোধন
+৩৪। উক্ত Ordinance এর section 54 এর sub-section (1) এর clause (b) এর sub-clause (ii) এর "at the rate of ten per cent" শব্দগুলির পরিবর্তে "at the rate of ten per cent where the person receiving such dividend furnishes his twelve-digit Taxpayer's Identification Number (TIN) to the payer or fifteen per cent where the person receiving such dividend fails to furnish his twelve-digit Taxpayer's Identification Number (TIN) to the payer" শব্দগুলি, শব্দসংক্ষেপসমূহ ও বন্ধনীগুলি প্রতিস্থাপিত হইবে।
