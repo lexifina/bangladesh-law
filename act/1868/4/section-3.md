@@ -1,0 +1,5 @@
+# Newly thrown up islands to be assessed
+3. Whenever it shall appear to the local revenue-authorities that an island has been thrown up in a large and navigable river liable to be taken possession of by Government (under clause 3, section 4, of Regulation XI of 1825), the local revenue-authorities shall take immediate possession of the same for Government, and shall assess and settle the land according to rules in force in that behalf, reporting their proceedings forthwith [^1][for the approval of the Board of Land Administration], whose order thereupon, in regard to the assessment, shall be final:
+Provided, however, that any party aggrieved by the act of the revenue-authorities in taking possession of any island as aforesaid shall be at liberty to contest the same by a regular suit in the Civil Court.
+
+[^1]: The words “for the approval of the Board of Land Administration” were substituted, for the words “for the approval of the Government” by Schedule of the Laws (Amendment) Ordinance, 1982 (Ordinance No. XLI of 1982).

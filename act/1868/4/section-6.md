@@ -1,0 +1,2 @@
+# Applicant for ways to deposit money, and ways to be made
+6. Thereupon the Collector may require the applicant to make such deposit of money as to the Collector shall seem sufficient, and, on such deposit being made, the Collector shall proceed to lay out and construct such ways, paths and roads in and through the island as he may deem necessary for securing access to the river or sea from the land to which the island may have become attached.

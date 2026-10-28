@@ -1,0 +1,2 @@
+# .Accessions to island considered increment thereto
+2. It is hereby declared that when any islands shall, under the provisions of clause 3, section 4, of Regulation XI of 1825, be at the disposal of Government, all lands gained by gradual accession to such island, whether from a recess of the river or of the sea, shall be considered an increment to such island, and shall be equally at the disposal of Government.
