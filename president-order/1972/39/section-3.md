@@ -1,0 +1,1 @@
+3. In all matters relating to the Bangladesh Industrial Development Corporation, the provisions of the Provincial Industrial Development Corporation (East Pakistan) Ordinance, 1962 (Ord. No. XXXVII of 1962) and the rules and regulations made thereunder shall, subject to the provisions of this Order and the amendments specified in the schedule to this Order, apply.
