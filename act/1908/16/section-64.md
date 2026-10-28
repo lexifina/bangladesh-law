@@ -1,0 +1,3 @@
+### (c) Special Duties of Sub-Registrar
+# Procedure where document relates to land in several sub-districts
+64. Every Sub-Registrar on registering a non-testamentary document relating to immoveable property not wholly situate in his own sub-district shall make a memorandum thereof and of the endorsement and certificate (if any) thereon, and send the same to every other Sub-Registrar subordinate to the same Registrar as himself in whose sub-district any part of such property in situate, and such Sub-Registrar shall file the memorandum in his Book No. 1.

@@ -1,0 +1,2 @@
+# Inspection and copies of such documents
+91. Subject to such rules and the previous payment of such fees as the Government prescribes in this behalf, all documents and maps mentioned in section 90, clauses (a), (b), (c) and (e), and all registers of the documents mentioned in clause (d), shall be open to the inspection of any person applying to inspect the same, and, subject as aforesaid, copies of such documents shall be given to all persons applying for such copies.

@@ -1,0 +1,2 @@
+# Documents in language not understood by registering officer
+19. If any document duly presented for registration be in a language which the registering officer does not understand, and which is not commonly used in the district, he shall refuse to register the document, unless it be accompanied by a true translation into a language commonly used in the district and also by a true copy.

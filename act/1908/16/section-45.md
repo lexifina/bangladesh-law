@@ -1,0 +1,3 @@
+# Proceedings on death of depositor
+45. (1) If, on the death of a testator who has deposited a sealed cover under section 42, application be made to the Registrar who holds it in deposit to open the same, and if the Registrar is satisfied that the testator is dead, he shall, in the applicant's presence, upon the cover, and, at the applicant's expense, cause the contents thereof to be copied in to his book No. 3 and then deliver the deposited will to the nominee of the testator or his representative.
+(2) If, in respect of any will deposited no steps are taken by the testator or other person under section 44 or sub-section (1) of this section, the Registrar shall follow the procedure hereinafter provided for the disposal of such will or sealed cover.

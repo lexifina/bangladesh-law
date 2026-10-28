@@ -1,0 +1,6 @@
+# Appeal to Registrar from orders of Sub-Registrar refusing registration on ground other than denial of execution
+72. (1) Except where the refusal is made on the ground of denial of execution, an appeal shall lie against an order of a Sub-Registrar refusing to admit a document to registration (whether the registration of such document is compulsory or optional) to the Registrar to whom such Sub-Registrar is subordinate, if presented to such Registrar within thirty days from the date of the order; and the Registrar may reverse or alter such order.
+[^40][(1A) An appeal filed under sub-section (1) shall be disposed of by the Registrar within forty-five days from the date on which it is filed.]
+(2) If the order of the Registrar directs the document to be registered and the document is duly presented for registration within thirty days after the making of such order, the Sub-Registrar shall obey the same, and thereupon shall, so far as may be practicable, follow the procedure prescribed in sections 58, 59 and 60; and such registration shall take effect as if the document had been registered when it was first duly presented for registration.
+
+[^40]: Sub-section (1A) was inserted by section 6 of the Registration (Amendment) Act, 2026 (Act No. 14 of 2026). (০১ জানুয়ারি, ২০২৬ খ্রিষ্টাব্দ তারিখে কার্যকর হইয়াছে)
