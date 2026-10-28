@@ -1,0 +1,2 @@
+# Special powers of the Chairman
+6. The affairs of the Board shall generally be conducted in accordance with the decision of the majority of its members but the Chairman may, where he considers it necessary in the interest of efficient management of the affairs of the telegraphs and telephones so to do, with the prior approval of the Government, over-rule such decision and, where he so over-rules, his decision shall be deemed to be the decision of the Board.

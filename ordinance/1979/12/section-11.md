@@ -1,0 +1,2 @@
+# Board to review and revalue assets
+11. The Board shall, as soon as possible, initiate a review and revaluation of the assets of the Government in respect of telegraphs and telephones in accordance with sound financial principles and reconstruct the capital structure and financial obligations of the assets in accordance with the same principles and shall carry out such revaluation not often than every five years.

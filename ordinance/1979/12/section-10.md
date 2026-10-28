@@ -1,0 +1,4 @@
+# Telegraph and telephone finance
+10. (1) The telegraph and telephone finance shall be administered separately from the general revenues of the Government and, for this purpose, separate accounts shall be maintained for the Board by the Bangladesh Bank and drawals from the accounts shall be made by the officers authorised by the Board.
+(2) For the purpose of separate administration of telegraph and telephone finance under sub-section (1), the provisions of the Second Schedule shall apply and the Government may, by notification in the official Gazette, amend or repeal any of the provisions of that Schedule.
+(3) The Board shall provide for all administrative and operating expenses, depreciation of assets, interests on all loans and also build up a reserve fund by depositing a percentage of the surplus revenue after meeting the obligatory expenses.

@@ -1,0 +1,2 @@
+# Transfer of undertaking of the Board related to the submarine cable.
+5B. Notwithstanding anything contained to the contrary in this Ordinance, before the dissolution of the Board under section 5A, the government may, by agreement, transfer such undertaking of the Board as is related to the submarine cable, including landing station (SEA-ME-WE 4), to a public limited company registered under the Companies Act, 1994, on such terms and conditions as may be specified in the agreement.]

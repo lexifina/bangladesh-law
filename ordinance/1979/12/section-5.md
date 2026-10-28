@@ -1,0 +1,3 @@
+# Control, management and operation of the telegraphs and telephones
+5. (1) The general control and supervision of the affairs of the telegraphs and telephones in Bangladesh shall vest in the Board which may exercise all such powers and do all acts and things as may be necessary for the efficient management, operation and development of the telegraphs and telephones.
+(2) The Board shall, in the discharge of its functions, act on commercial considerations with due regard to the public interest and shall be guided on the questions of policy by such general and special instructions as may, from time to time, be given by the Government.
