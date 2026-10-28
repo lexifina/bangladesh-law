@@ -1,0 +1,7 @@
+# Savings
+3. Notwithstanding the repeal of the said Order and anything contained in any other law for the time being in force or in any contract or legal instrument, upon such repeal,-
+(a) all assets and liabilities of the Bangladesh Consumer Supplies Corporation established by the said Order, hereinafter referred to as the said Corporation, shall, in accordance with such arrangement as the Government may determine, stand transferred to the Bangladesh Consumer Supplies Company Limited, hereinafter referred to as the Company;
+Explanation.- The expression “assets” includes all rights, powers, authorities and privileges and all property, movable and immovable, including lands, buildings, works, vehicles, cash balance, reserve funds, bank deposits, investments and all other rights and interests in, or arising out of, such property and all books of accounts, registers, records and all other documents of whatever nature relating thereto;
+(b) all suits and other legal proceedings instituted by or against the said Corporation shall be deemed to have been instituted by or against the Company and may be continued or proceeded with accordingly;
+(c) all Officers and other employees of the said Corporation shall stand transferred to the Company and shall hold office or service in the Company on such terms and conditions as the Company may determine:
+Provided that an Officer or other employee so transferred shall have the option not to continue in the service of the Company.
