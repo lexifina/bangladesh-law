@@ -1,0 +1,21 @@
+# Act No. XXVI of 1974 এ নূতন section 3A, 3B এবং 3C এর সন্নিবেশ
+৫। উক্ত Act এর section 3 এর পর নিম্নরূপ নূতন section 3A, 3B এবং 3C সন্নিবেশিত হইবে, যথা :-
+“3A. Rights of Innocent Passage in the Territorial Sea. (1) A foreign warship including a submarine and any other underwater warship may enter or pass through the Territorial Sea after giving prior notice to the Government.
+(2) A submarine or any other underwater vehicle, like Remotely Operated Underwater Vehicle, Autonomous Underwater Vehicle and Unmanned Underwater Vehicle, etc., whether or not a warship, exercising the rights of Innocent Passage through the Territorial Sea shall navigate on the surface and show its flag while passing through the Territorial Sea.
+(3) No aircraft shall enjoy the rights of Innocent Passage without the prior express consent of the Government.
+(4) The Government may make rules and regulations relating to Innocent Passage through in the Territorial Sea in relation to safety of navigation, preservation of the environment and prevention of infringement of customs, fiscal, immigration and sanitary laws among others.
+Explanation.- For the purpose of this section,-
+(a) “Innocent Passage” means continuous and expeditious navigation through the Territorial Sea for the purpose of traversing that sea without entering the Internal Waters or proceeding to or from Internal Waters to call at roadstead or port facilities of Bangladesh so far as it is not prejudicial to the peace, good order, security and the laws of Bangladesh;
+(b) “Remotely Operated Underwater Vehicle (ROV)” means non-autonomous remotely operated sub-aquatic vehicle, which is controlled and powered from the surface by an operator or pilot via an umbilical or using a remote control;
+(c) “Autonomous Underwater Vehicle (AUV)” means a robot that travels underwater without requiring input from an operator; and
+(d) “Unmanned Underwater Vehicle (UUV)” means any underwater vehicles that are able to operate without a human occupant and includes ROV and AUV.
+3B. Criminal jurisdiction over a foreign ship in the Territorial Sea, etc.- (1) Bangladesh shall have criminal jurisdiction on board a foreign ship passing through the Territorial Sea to arrest any person or to conduct any investigation and prosecute any person in connection with any crime committed on board the ship during its passage in the following cases, namely:-
+if the consequences of the crime extend to Bangladesh;
+if the crime is of a kind which disturbs the peace of Bangladesh, is contrary to laws of Bangladesh or the good order of its Territorial Sea;
+if the assistance of the local authorities has been requested by the master of the ship or by a diplomatic agent or consular officer of the flag State; or
+if such measures are necessary for the suppression of human trafficking, arms trafficking and illicit trafficking in narcotic drugs or psychotropic substances.
+(2) Nothing contained in sub-section (1) shall prejudice the rights of Bangladesh to take any steps authorized by its laws for the purpose of arrest or investigation on board a foreign ship within the Internal Waters or passing through the Territorial Sea after leaving Internal Waters.
+(3) The Government may make rules for the passage of vessels carrying nuclear and radioactive substances and hazardous waste passing through all or any part of the Internal Waters and Territorial Sea.
+3C. Civil jurisdiction over a foreign ship in the Territorial Sea, etc.- (1) The Government shall not stop or divert a foreign ship passing through the Territorial Sea for the purpose of exercising civil jurisdiction in relation to a person on board the ship.
+(2) The Government may not levy execution against or arrest the ship for the purpose of any civil proceedings, save only in respect of obligations or liabilities assumed or incurred by the ship itself in the course or for the purpose of its voyage through the Territorial Sea.
+(3) Nothing in sub-section (1) shall prejudice the right of Bangladesh, in accordance with its laws, to levy execution against or to arrest, for the purpose of any civil proceedings, a foreign ship lying within the Internal Waters or in the Territorial Sea, or passing through the Territorial Sea after leaving Internal Waters.”।
