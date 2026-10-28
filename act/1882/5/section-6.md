@@ -1,0 +1,2 @@
+# Easement for limited time or on condition
+6. An easement may be permanent, or for a term of years or other limited period, or subject to periodical interruption, or exercisable only at a certain place, or at certain times, or between certain hours, or for a particular purpose, or on condition that it shall commence or become void or voidable on the happening of a specified event or the performance or non-performance of a specified act.
