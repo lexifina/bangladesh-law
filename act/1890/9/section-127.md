@@ -1,0 +1,2 @@
+# Maliciously hurting or attempting to hurt persons travelling by the railway
+127. If a person unlawfully throws or causes to fall or strike at, against, into or upon any rolling-stock forming part of a train any wood, stone or other matter or thing with intent, or with knowledge that he is likely, to endanger the safety of any person being in or upon such rolling-stock or in or upon any other rolling-stock forming part of the same train, he shall be punished with transportation for life or with imprisonment for a term which may extend to ten years.

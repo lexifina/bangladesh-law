@@ -1,0 +1,3 @@
+# Provisions with respect to rules
+143. (1) A rule under section 22, section 34 or section 84, or the cancellation, rescission or variation of a rule under any of those sections or under section 47, sub-section (4), shall not take effect until it has been published in the official Gazette.
+(2) Where any rule made under this Act, or the cancellation, rescission or variation of any such rule, is required by this Act to be published in the official Gazette, it shall, besides being so published, be further notified to persons affected thereby in such manner as the authority making, cancelling, rescinding or varying the rule, by general or special order, directs.

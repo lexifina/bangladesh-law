@@ -1,0 +1,5 @@
+# Settlement of compensation for injuries to officers, soldiers, airmen and followers on duty
+79. Where an officer, soldier, sailor, airman or follower, while being or travelling as such on duty upon the railway
+[^31][* * *], loses his life or receives any personal injury in such circumstances that, if he were not an officer, soldier, sailor, airman or follower being or travelling as such on duty upon the railway, compensation would be payable under Act No. XIII of 1855 or to him, as the case may be, the form and amount of the compensation to be made in respect of the loss of his life or his injury shall, where there is any provision in this behalf in the military, naval or air-force regulations to which he was immediately before his death, or is, subject, be determined in accordance with those regulations, and not otherwise.
+
+[^31]: The words and commas “belonging to, and worked by, the Government or an Acceding State” were omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)

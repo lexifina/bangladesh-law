@@ -1,0 +1,2 @@
+# Transferring any half of return ticket
+114. If a person sells or attempts to sell, or parts or attempts to part with the possession of, any half of a return ticket in order to enable any other person to travel therewith, or purchase such half of a return ticket, he shall be punished with fine which may extend to fifty Taka, and, if the purchaser of such half of a return ticket travels or attempts to travel therewith, he shall be punished with an additional fine which may extend to the amount of the single fare for the journey authorised by the ticket.

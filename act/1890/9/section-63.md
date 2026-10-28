@@ -1,0 +1,4 @@
+# Maximum number of passengers for each compartment
+63. The railway administration shall fix, subject to the approval of the Government, the maximum number of passengers which may be carried in each compartment of every description of carriage, and shall exhibit the number so fixed in a conspicuous manner inside or outside each compartment, in English or in [^24][Bengali].
+
+[^24]: The word “Bangali” was substituted, for the words and commas “one or more of the vernacular languages in common use in the territory traversed by the railway, or both in English and in one or more of such vernacular languages as the Provincial Government, after consultation with the railway administration, may determine” by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)

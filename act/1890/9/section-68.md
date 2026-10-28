@@ -1,0 +1,3 @@
+# Prohibition against travelling without pass or ticket
+68. (1) No person shall, without the permission of the railway servant, enter or remain in any carriage on the railway for the purpose of travelling therein as a passenger unless he has with him a proper pass or ticket.
+(2) The railway servant when granting the permission referred to in sub-section (1) shall ordinarily, if empowered in this behalf by the railway administration, grant to the passenger a certificate that the passenger has been permitted to travel in such carriage upon condition that he subsequently pays the fare payable for the distance to be travelled.

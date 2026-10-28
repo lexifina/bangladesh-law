@@ -1,0 +1,2 @@
+# Presumption where notice is served by post
+142. Where a notice or other document is served by post, it shall be deemed to have been served at the time when the letter containing it would be delivered in the ordinary course of post, and in proving such service it shall be sufficient to prove that the letter containing the notice or other document was properly addressed and registered.

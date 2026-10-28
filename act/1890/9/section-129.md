@@ -1,0 +1,2 @@
+# Endangering safety or persons travelling by the railway by rash or negligent act or omission
+129. If a person rashly or negligently does any act, or omits to do what he is legally bound to do, and the act or omission is likely to endanger the safety of any person travelling or being upon the railway, he shall be punished with imprisonment for a term which may extend to one year, or with fine, or with both.

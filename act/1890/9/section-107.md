@@ -1,0 +1,2 @@
+# Unlawfully bringing dangerous or offensive goods upon the railway
+107. If in contravention of section 59 a person takes with him any dangerous or offensive goods upon the railway, or tenders or delivers any such goods for carriage upon the railway, he shall be punished with fine which may extend to five hundred Taka and shall also be responsible for any loss, injury or damage which may be caused by reason of such goods having been so brought upon the railway.

@@ -1,0 +1,2 @@
+# Endangering safety of persons travelling by the railway by wilful act or omission
+128. If a person, by any unlawful act or by any wilful omission or neglect, endangers or causes to be endangered the safety of any person travelling or being upon any railway, or obstructs or causes to be obstructed or attempts to obstruct any rolling-stock upon any railway, he shall be punished with imprisonment for a term which may extend to two years.

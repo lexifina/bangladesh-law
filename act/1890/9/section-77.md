@@ -1,0 +1,2 @@
+# Notification of claims to refunds of overcharges and to compensation for losses
+77. A person shall not be entitled to a refund of an over charge in respect of animals or goods carried by the railway or to compensation for the loss, destruction or deterioration of animals or goods delivered to be so carried, unless his claim to the refund or compensation has been preferred in writing by him or on his behalf to the railway administration within six months from the date of the delivery of the animals or goods for carriage by the railway.

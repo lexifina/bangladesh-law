@@ -1,0 +1,2 @@
+# Exhibition to the public of authority for quoted rates
+60. At every station at which the railway administration quotes a rate to any other station for the carriage of traffic other than passengers and their luggage, the railway servant appointed by the administration to quote the rate shall, at the request of any person, show to him at all reasonable times, and without payment of any fee, the rate books or other documents in which the rate is authorised by the administration or administrations concerned.

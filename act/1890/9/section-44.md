@@ -1,0 +1,2 @@
+# Provision for facilities and equal treatment where ships or boats are used which are not parts of the railway
+44. Where the railway administration is a party to an agreement for procuring the traffic of the railway to be carried on any inland water by any ferry, ship, boat or raft which does not belong to or is not hired or worked by the railway administration, the provisions of the two last foregoing sections applicable to the railway shall extend to the ferry, ship, boat or raft in so far as it is used for the purposes of the traffic of the railway.

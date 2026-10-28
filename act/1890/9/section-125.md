@@ -1,0 +1,6 @@
+# Cattle-trespass
+125. (1) The owner or person in charge of any cattle straying on the railway provided with fences suitable for the exclusion of cattle shall be punished with fine which may extend to five Taka for each head of cattle, in addition to any amount which may have been recovered or may be recoverable under the Cattle-trespass Act, 1871.
+(2) If any cattle are wilfully driven, or knowingly permitted to be, on any railway otherwise than for the purpose of lawfully crossing the railway or for any other lawful purpose, the person in charge of the cattle or, at the option of the railway administration, the owner of the cattle shall be punished with fine which may extend to ten Taka for each head of cattle, in addition to any amount which may have been recovered or may be recoverable under the Cattle-trespass Act, 1871.
+(3) Any fine imposed under this section may, if the Court so directs, be recovered in manner provided by section 25 of the Cattle-trespass Act, 1871.
+(4) The expression “public road” in section 11 and 26 of the Cattle-trespass Act, 1871, shall be deemed to include the railway, and any railway servant may exercise the powers conferred on officers of police by the former of those sections.
+(5) The word “cattle” has the same meaning in this section as in the Cattle-trespass Act, 1871.

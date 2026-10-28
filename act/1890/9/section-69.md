@@ -1,0 +1,2 @@
+# Exhibition and surrender of passes and tickets
+69. Every passenger by the railway, shall, on the requisition of any railway servant appointed by the railway administration in this behalf, present his pass or ticket to the railway servant for examination, and at or near the end of the journey for which the pass or ticket was issued, or, in the case of a season pass or ticket, at the expiration of the period for which it is current, deliver up the pass or ticket to the railway servant.

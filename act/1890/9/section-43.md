@@ -1,0 +1,6 @@
+# Undue preference in case of unequal rates for like traffic for services
+43. (1) Whenever it is shown that the railway administration charges one trade or class of traders or the traders in any [^18][* * *] area lower rates for the same or similar animals or goods, or lower rates for the same or similar services, than it charges to other traders or classes of traders or to the traders in another [^19][* * *] area, the burden of proving that such lower charge does not amount to an undue preference shall lie on the railway administration.
+(2) In deciding whether a lower charge does or does not amount to an undue preference, the Government may, so far as it thinks reasonable, in addition to any other considerations affecting the case, take into consideration whether such lower charge is necessary for the purpose of securing, in the interests of the public, the traffic in respect of which it is made.
+
+[^18]: The word “Local” was omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).
+[^19]: The word “Local” was omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).
