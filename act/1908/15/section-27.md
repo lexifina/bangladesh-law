@@ -1,0 +1,2 @@
+# Discharge of fire-arms in port
+27. If any person, without lawful excuse, discharges any fire-arm in any port subject to this Act, or on or from any pier, landing-place, wharf or quay thereof, except a gun loaded only with gunpowder for the purpose of making a signal of distress, or for such other purpose as may be allowed by the Government, he shall for every such offence be punishable with fine which may extend to fifty taka.

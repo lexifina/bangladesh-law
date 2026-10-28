@@ -1,0 +1,3 @@
+# Variation of port-dues by Government
+34. The Government may, after consulting the authority appointed under section 36, exempt, subject to such conditions, if any, as it thinks fit to impose, any vessel or class of vessels entering a port subject to this Act from payment of port-dues and cancel the exemption, or may vary the rates at which port-dues are to be levied in the port, in such manner as, having regard to the receipts and charges on account of the port, it thinks expedient, by reducing or raising the dues, or any of them or may extend the periods for which any vessel or class of vessels entering a port shall be exempt from liability to pay port-dues:
+Provided that the rates shall not in any case exceed the amount authorized to be taken by or under this Act.

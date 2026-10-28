@@ -1,0 +1,7 @@
+# Power to impose hospital port-dues
+49. (1) The Government may, by notification in the official Gazette, order that there shall be paid in respect of every vessel entering any port subject to this Act, within a reasonable distance of which there is a public hospital or dispensary suitable for the reception or relief of seamen requiring medical aid, such further port-dues not exceeding [^14][six poisha] per ton as the Government thinks fit.
+(2) Such port-dues shall be called hospital port-dues, and the Government shall, in making any order under sub-section (1), have regard to any contributions made under section 36, sub-section (5), clause (d).
+(3) An order imposing of increasing hospital port-dues shall not take effect till the expiration of sixty days from the day on which the order was published in the official Gazette.
+(4) Whenever the Government is satisfied that proper provision has been made by the owners or agents of any class of vessels for giving medical aid to the seamen employed on board such class of vessels, or that such provision is unnecessary in the case of any class of vessels, it may, by notification in the official Gazette, exempt such class of vessels from any payment under this section.
+
+[^14]: The words "six poisha" were substituted, for the words "one anna" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).

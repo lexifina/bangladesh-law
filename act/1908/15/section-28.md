@@ -1,0 +1,2 @@
+# Penalty on master omitting to take order to extinguish fire
+28. If the master of any vessel in which fire takes place while lying if any such port wilfully omits to take order to extinguish the fire or obstructs the conservator or the port-officer, or any person acting under the authority of the conservator or port-officer, in extinguishing or attempting to extinguish the fire, he shall be punishable with imprisonment which may extend to six months, or with fine which may extend to one thousand taka, or with both.

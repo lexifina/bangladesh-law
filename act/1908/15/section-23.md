@@ -1,0 +1,2 @@
+# Boiling pitch on board vessel within prohibited limits
+23. If any person boils or heats any pitch, tar, resin, dammer, turpentine, oil or other such combustible matter on board any vessel within any such port, or at any place within its limits where such act is prohibited by the Government, or contrary to the directions of the conservator, he and the master of the vessel shall for every such offence be punishable with fine which may extend to two hundred taka each.

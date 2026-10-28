@@ -1,0 +1,2 @@
+# Publication of orders of Government
+68. Every declaration, order and rule of a Government made in pursuance of this Act shall be published in the official Gazette, and a copy thereof shall be kept in the office of the conservator and at the custom-house, if any, of every port to which the declaration, order or rule relates, and shall there be open at all reasonable times to the inspection of any person without payment of any fee.

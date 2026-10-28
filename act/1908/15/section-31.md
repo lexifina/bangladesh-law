@@ -1,0 +1,10 @@
+### Special Rules
+# Moving of vessels without pilot or permission of harbour-master
+31. (1) No vessel of the measurement of two hundred tons or upwards shall enter, leave or be moved in any port to which this section has been specially extended without having a pilot, harbour-master or assistant of the port-officer or harbour-master on board;
+and no vessel of any measurement less than two hundred tons and exceeding one hundred tons shall enter, leave or be moved in any such port without having a pilot, harbour-master or assistant of the port-officer or harbour-master on board, unless authority in writing so to do has been obtained from the conservator or some officer empowered by him to give such authority:
+Provided that the Government may, by notification in the official Gazette, direct that in any port specified in such notification the provisions of this sub-section shall not apply to sailing vessels of any measurement not exceeding a measurement so specified.
+(2) Notwithstanding anything in sub-section (1), the owner or master of a vessel which is by that sub-section required to have a pilot, harbour-master or assistant of the port-officer or harbour-master on board, shall be answerable for any loss or damage caused by the vessel or by any fault of the navigation of the vessel, in the same manner as he would have been if he had not been so required by that sub-section:
+[^9][* * *]
+(3) If any vessel, except in case of urgent necessity, enters, leaves or is moved in the port contrary to the provisions of sub-section (1), the master of the vessel shall for every such offence be punishable with fine which may extend to two hundred taka, unless upon application to the proper officer the master was unable to procure a pilot, harbour-master or assistant of the port-officer or harbour-master or assistant of the port-officer or harbour-master to go on board the vessel.
+
+[^9]: Proviso was omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)

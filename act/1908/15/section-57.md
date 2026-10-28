@@ -1,0 +1,3 @@
+# Ascertainment and recovery of expenses and damages payable under this Act
+57. (1) If any dispute arises as to the sum to be paid in any case as expenses or damages under this Act, it shall be determined by a Magistrate upon application made to him for that purpose by either of the disputing parties.
+(2) Whenever any person is liable to pay any sum, not exceeding one thousand taka, as expenses or damages under this Act, any Magistrate, upon application made to him by the authority to whom the sum is payable, may, in addition to or instead of any other means for enforcing payment, recover the sum as if it were a fine.

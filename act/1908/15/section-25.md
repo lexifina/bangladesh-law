@@ -1,0 +1,3 @@
+# Warping
+25. (1) Every master of a vessel in any port subject to this Act shall, when required so to do by the conservator, permit warps or hawsers to be made fast to the vessel for the purpose of warping any other vessel in the port, and shall not allow any such warp or hawser to be let go until required so to do.
+(2) A master offending against sub-section (1) shall be punishable for every such offence with fine which may extend to two hundred taka.
