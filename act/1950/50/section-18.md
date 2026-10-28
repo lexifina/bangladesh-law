@@ -1,0 +1,2 @@
+# Certain persons subject to this Act to be deemed part of Bangladesh Army for certain purposes
+18. For the purposes of sections 128, 130 and 131 of the Code of Criminal Procedure, 1898, all officers, non-commissioned officers and men of the Bangladesh Territorial Force who have been appointed to a corps or unit shall be deemed to be officers, non-commissioned officers and soldiers, respectively, of Bangladesh Army.

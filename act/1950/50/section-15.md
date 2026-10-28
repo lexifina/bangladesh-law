@@ -1,0 +1,2 @@
+# Presumption as to certain documents
+15. Where a junior commissioned officer, non-commissioned officer or man of the Bangladesh Territorial Force is required by or in pursuance of any rule, regulation or order made under this Act to attend at any place, a certificate purporting to be signed by the prescribed officer, stating that the person so required to attend failed to do so in accordance with such requirement, shall without proof of the signature or appointment of such officer, be evidence of the matters stated therein.
