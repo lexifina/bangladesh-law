@@ -1,0 +1,3 @@
+# Leave of chairman and members
+7. (1) A person who is, at the time of his appointment as chairman or member, in the service of the Republic or of a statutory body or nationalised enterprise shall, until he retires from that service, be entitled to such leave as would have been admissible to him had he not been so appointed, and, after his retirement from that service, be entitled to such leave as is admissible to a temporary Government servant.
+(2) A person who is not, at the time of his appointment as chairman or member, in the service of the Republic or of a statutory body or nationalised enterprise shall be entitled to such leave as is admissible to a temporary Government servant.

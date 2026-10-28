@@ -1,0 +1,3 @@
+# Provident fund
+9. (1) Where a person appointed as chairman or member is, at the time of his appointment, a subscriber to any contributory provident fund and continues to be such subscriber after his appointment, the Government shall contribute to such fund the amount which would have been required to be contributed by his employer had he not been so appointed.
+(2) Where a person is not, at the time of his appointment as chairman or member, in the service of the Republic or of a statutory body or nationalised enterprise, he shall be eligible to be a subscriber to a general provident fund on the same conditions as are applicable to a temporary Government servant.
