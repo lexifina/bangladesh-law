@@ -1,0 +1,2 @@
+# Special proof of relevant facts
+10. If, in any triall, appeal or other proceeding under the foregoing provisions of this Act, any question arises as to whether a ship is a vessel of war or whether any alteration, arming or equipping of a ship is such as to adapt it for use as a vessel of war, the question shall be referred to and determined by the Government, whose decision shall be final and shall not be questioned in any court.
