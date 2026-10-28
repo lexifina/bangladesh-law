@@ -1,0 +1,2 @@
+# Conducting public examinations or examining answer scripts by unauthorised persons
+10. Whoever, not being appointed or authorised by a University or Board, conducts any public examination in an examination hall or examines any answer script relating to a public examination, or whoever conducts any public examination in an examination hall or examines any answer script relating to a public examination in the name of any other person or in a fictitious name, shall be punishable with imprisonment for a term which may extend to two years, or with fine, or with both.

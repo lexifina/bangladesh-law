@@ -1,0 +1,2 @@
+# Possession of blank form of mark sheet, certificate, diploma or degree
+7. Whoever, without lawful excuse, has in his possession any blank form of mark sheet, certificate, diploma or degree relating to any public examination which has not been issued or delivered to him by or under the authority of the University or Board, shall be punishable with imprisonment for a term which may extend to two years, or with fine, or with both.
