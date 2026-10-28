@@ -1,0 +1,3 @@
+# Repeal and savings
+6. (1) The University Laws Amendment Ordinance, 1979 (XXIX of 1979), is hereby repealed.
+(2) Notwithstanding such repeal anything done or any action taken, including any authorisation made, notification issued or direction given under any provision of the Dacca University Order, 1973 (P.O. No. 11 of 1973), Rajshahi University Act, 1973 (XXVI of 1973), Chittagong University Act, 1973 (XXXIII of 1973), and the Jahangirnagar University Act, 1973 (XXXIV of 1973), as amended by the said Ordinance, shall be deemed to have done, taken, made, issued or given, as the case may be, under the corresponding provisions of the said P.O. and Acts, as amended by this Act.
