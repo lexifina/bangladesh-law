@@ -1,0 +1,7 @@
+# Jurisdiction of the University
+5. (1) The University shall exercise the powers conferred on it by or under this Act within the territorial limits of Rajshahi Division and Khulna Division excluding Bakerganj and Patuakhali Districts and in respect of the institutions lying therein and imparting instruction and training above the Intermediate stage:
+Provided that the Government may by law modify the extent and scope of the exercise of the aforesaid powers of the University with regard to such territorial limits or institutions:
+Provided further that nothing in this section shall apply to any agricultural or technical institutions established with the sanction of the Government.
+(2) No educational institution imparting instruction above the Intermediate stage situated within the territorial limits of the University shall remain affiliated to, or be admitted to the privileges of, any other University established by law:
+Provided that nothing in this section shall preclude the Government from setting up other University or Universities, or special Boards for the conduct of examinations and affiliating educational institutions in regard to such courses of instruction and training as it may deem fit:
+Provided further that the University shall have power to frame Statutes for constituting one Government body for both the Degree and Intermediate sections of Colleges which have not been bifurcated.

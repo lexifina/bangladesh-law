@@ -1,0 +1,2 @@
+# Interim arrangement
+59. Upon the coming into force of this Act the existing Syndicate, Academic Council and all other Authorities, Committees and bodies constituted under the repealed Ordinances shall continue to function until a new Syndicate, Academic Council and other Authorities, Committees and bodies are duly constituted under this Act and all persons holding office under the repealed Ordinances shall continue to function till new appointments or nominations are made or elections are held according to this Act.

@@ -1,0 +1,2 @@
+# The Controller of Examinations
+17. The Controller of Examinations shall be responsible for all matters connected with the conduct of examinations and shall perform such other duties as may be prescribed by the Statutes and the University Ordinances.

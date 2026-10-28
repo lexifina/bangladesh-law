@@ -1,0 +1,5 @@
+# Conditions of service
+55. (1) Every salaried teacher and officer of the University shall be appointed on a written contract which shall be lodged with the Registrar of the University, and a copy of the contract shall be furnished to the teacher or officer concerned.
+(2) The service conditions shall be determined without any prejudice to the freedom of the teacher or officer to hold any political views and to keep association with any lawful organisation outside the University and shall be clearly stated in the contract:
+Provided that if a teacher or other salaried employee of the University seeks election as a Member of Parliament, he shall before the date for filing of nominations, resign from the service of the University.
+(3) A teacher or officer of the University may be dismissed only on grounds of moral turpitude or inefficiency, but no such teacher or officer shall be dismissed unless an enquiry into the charges of moral turpitude or inefficiency is held by an Enquiry Committee on which the teacher or the officer may be represented by a person nominated by him.
