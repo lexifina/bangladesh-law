@@ -1,0 +1,9 @@
+# Determination of lease and recovery of building in certain cases
+4. (1) Notwithstanding anything contained in any other law for the time being in force or any contract, where the lessee of a building or part of a building [^4][is a person in the service of the Republic] or of a Local Authority, the lease in respect of such
+building or part shall, in addition to the modes mentioned in section 111 of the Transfer of Property Act, 1882, terminate-
+(a) on the suspension, discharge, removal, dismissal, resignation, retirement or death of such servant or on his transfer from the station in which he is employed to any other station; or
+(b) on the transfer of the lessee's interest by assignment, mortgage, sub-lease or in any other manner.
+(2) On the determination of a lease in respect of a building or part of a building in the manner stated in sub-section (1) or in any of the modes mentioned in section 111 of the Transfer of Property Act, 1882, the lessee or the person claiming through him shall, notwithstanding anything contained elsewhere in the said Act or in any other law for the time being in force or in any contract, forthwith put the lessor into possession of such building or part, failing which it shall be lawful for the Deputy Commissioner to re-enter and recover khas possession of the same by evicting the lessee or the person claiming through him:
+Provided that the Deputy Commissioner shall, before re-entering such building or part of a building, issue, in the prescribed manner, a notice on such lessee or person calling upon him to vacate the same within a period of thirty days from the date of service of the notice.
+
+[^4]: The words “is a person in the service of the Republic” were substituted for the words “is a servant of Government in Pakistan” by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
