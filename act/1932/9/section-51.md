@@ -1,0 +1,4 @@
+# Return of premium on premature dissolution
+51. Where a partner has plaid a premium on entering into partnership for a fixed term, and the firm is dissolved before the expiration of that term otherwise than by the death of a partner, he shall be entitled to repayment of the premium or of such part thereof as may be reasonable, regard being had to the terms upon which he became a partner and to the length of time during which he was a partner, unless-
+(a) the dissolution is mainly due to his own misconduct, or
+(b) the dissolution is in pursuance of an agreement containing no provision for the return of the premium or any part of it.

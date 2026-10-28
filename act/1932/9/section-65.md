@@ -1,0 +1,2 @@
+# Amendment of Register by order of Court
+65. A court deciding any matter relating to a registered firm may direct that the Registrar shall make any amendment in the entry in the Register of Firms relating to such firm which is consequential upon its decision; and the Registrar shall amend the entry accordingly.

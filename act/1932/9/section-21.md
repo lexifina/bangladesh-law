@@ -1,0 +1,2 @@
+# Partner's authority in an emergency
+21. A partner has authority, in an emergency, to do all such acts for the purpose of protecting the firm from loss as would be done by a person of ordinary prudence, in his own case, acting under similar circumstances, and such acts bind the firm.

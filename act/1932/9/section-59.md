@@ -1,0 +1,2 @@
+# Registration
+59. When the Registrar is satisfied that the provisions of section 58 have been duly complied with, he shall record an entry of the statement in a register called the Register of Firms, and shall file the statement.

@@ -1,0 +1,2 @@
+# Noting of changes in names and addresses of partners
+62. When any partner in a registered firm alters his name or permanent address, an intimation of the alteration may be sent by any partner or agent of the firm to the registrar, who shall deal with it in the manner provided in section 61.

@@ -1,0 +1,2 @@
+# Noting of closing and opening of branches
+61. When a registered firm discontinues business at any place or begins to carry on business at any place, such place not being its principal place of business, any partner or agent of the firm may send intimation thereof to the Registrar, who shall make a note of such intimation in the entry relating to the firm in the Register of Firms, and shall file the intimation along with the statement relating to the firm filed under section 59.

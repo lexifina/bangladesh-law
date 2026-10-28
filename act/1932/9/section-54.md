@@ -1,0 +1,2 @@
+# Agreements in restraint of trade
+54. Partners may, upon or in anticipation of the dissolution of the firm, make an agreement that some or all of them will not carry on a business similar to that of the firm within a specified period or within specified local limits; and notwithstanding anything contained in section 27 of the Contract Act, 1872, such agreement shall be valid if the restrictions imposed are reasonable.

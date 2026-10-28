@@ -1,0 +1,3 @@
+# Rules of evidence
+68.(1) Any statement, intimation or notice recorded or noted in the Register of Firms shall, as against any person by whom or on whose behalf such statement, intimation or notice was signed, be conclusive proof of any fact therein stated.
+(2) A certified copy of an entry relating to a firm in the Register of Firms may be produced in proof of the fact of the registration of such firm, and of the contents of any statement, intimation or notice recorded or noted therein.

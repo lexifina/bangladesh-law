@@ -1,0 +1,2 @@
+# Penalty for furnishing false particulars
+70. Any person who signs any statement, amending statement, notice or intimation under this Chapter containing any particular which he knows to be false or does not believe to be true, or containing particulars which he knows to be incomplete or does not believe to be complete, shall be punishable with imprisonment which may extend to three months, or with fine, or with both.
