@@ -1,0 +1,4 @@
+# Powers of the Government to supersede the Authority
+9. If, in the opinion of the Government, the Authority have shown their incompetency, to perform or have persistently made default in the performance of the duties imposed on them by or under this Ordinance or have exceeded or abused their powers, the Government may, by an order published in the official Gazette, supersede them for a period specified in the order:
+Provided that the Government before six months of such order or supersession shall give notice to the Authority to show cause why such action shall not be taken and also to provide them an opportunity to take remedial measures:
+Provided further that except in case of misappropriation of Authority funds or persistent default in the performance of duties by the Authority the Government shall not ordinarily exercise powers under this section.

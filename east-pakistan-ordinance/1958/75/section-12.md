@@ -1,0 +1,2 @@
+# Determination of number, designation, etc., of officers and servants of the Authority
+12. The Authority may, subject to such conditions as may be prescribed, determine the number, designation and grade of officers and servants whom the Authority consider necessary to employ for the purpose of this Ordinance and the amount and nature of salary and allowances to be paid to each such officer and servant.
