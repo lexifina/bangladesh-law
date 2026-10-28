@@ -1,0 +1,1 @@
+31. If any difficulty arises in giving effect to the provisions of this Order, the Government may make such order, not inconsistent with the provisions of this Order, as may appear to it to be necessary for the purposes of removing the difficulty.

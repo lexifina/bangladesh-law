@@ -1,0 +1,3 @@
+24. (1) No company, whether incorporated in Bangladesh or elsewhere, shall practice as chartered accountants:
+Provided that nothing contained in this Article shall be deemed to prohibit an unlimited company termed as such in the Companies Act, 1913 (Act VII of 1913) from rendering Management Consultancy services.
+(2) If any company contravenes the provisions of clause (1) then, without prejudice to any other proceedings which may be taken against the company, every director, manager, secretary and any other officer thereof, who is knowingly a party to such contravention, shall be punishable with fine which may extend on first conviction to Taka one thousand and on any subsequent conviction to Taka five thousand.

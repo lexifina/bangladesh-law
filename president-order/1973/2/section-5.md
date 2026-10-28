@@ -1,0 +1,4 @@
+5. (1) Notwithstanding anything contained in this Order, or any other law for the time being in force, the enrolment of all persons as member of the Institute made, and all examinations held in the territories now comprising Bangladesh for such enrolment, during the period from the 26th day of March, 1971 to the 16th day of December, 1971, shall stand cancelled.
+(2) A person whose enrolment is cancelled under clause (1), shall be eligible for fresh enrolment in accordance with the provisions of this Order.
+(3) A person who passed any examination which is cancelled under clause (1), may appear at such fresh examination as the Council may held for them.
+(4) Notwithstanding the cancellation of enrolment of a person as a member of the Institute under clause (1), all actions taken by such person as a member of the Institute before such cancellation shall be deemed to be valid.

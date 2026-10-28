@@ -1,0 +1,3 @@
+15. (1) The duration of the Council constituted under this Order shall be three years from the date of the first meeting of the Council on the expiry of which it shall stand dissolved and a new Council shall be constituted in accordance with the provisions of this Order:
+Provided that the first Council nominated by the Government shall cease to exist on the expiry of three months from the date of the commencement of this Order.
+(2) Notwithstanding the expiry of the duration of the Council it shall continue to function until a new Council is constituted in accordance with the provisions of this Order, and upon such constitution, the Council so functioning shall stand dissolved.

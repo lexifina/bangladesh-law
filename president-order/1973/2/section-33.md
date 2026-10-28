@@ -1,0 +1,1 @@
+33. Notwithstanding the amendment of section 144 of the Companies Act, 1913 (Act VII of 1913), made by the preceding Article, the Auditors' Certificate Rules, 1950, shall so far as applicable, continue in force as if they are bye-laws made under this Order.

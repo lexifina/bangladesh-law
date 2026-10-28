@@ -1,0 +1,1 @@
+35. The provisions of the Chartered Accountants Ordinance, 1961 (Ord. No. X of 1961), shall, in so far they are not inconsistent with any of the provisions of this Order, continue in force until repealed or altered or amended by law.

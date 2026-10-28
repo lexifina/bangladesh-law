@@ -1,0 +1,8 @@
+10. (1) There shall be a Council of the Institute for the management of the affairs of the Institute and for discharging the functions assigned to it under this Order.
+(2) The Council shall be composed of the following persons, namely,-
+(a) not more than seventeen persons elected from such regional constituencies to be specified by the Government by notification in the Gazette, by the members of the Institute belonging to such constituencies from among the members of at least five years standing, the number of members to be elected from a constituency being such as may be prescribed; and
+(b) three Government officials, not below the rank of Joint Secretary, nominated by the Government, one each from the Ministries of Commerce, Finance and Education:
+Provided that this sub-clause conferring upon the Government the right of nomination shall cease to exist on the expiry of the life of the three consecutive Councils:
+Provided further that the date on which sub-clause (b) shall cease to have effect, sub-clause (a) shall automatically stand amended to the effect that for the word 'seventeen' in that sub-clause, the word 'twenty' shall be substituted.
+Explanation.- In computing the period of a person's standing with the Institute for the purpose of sub-clause (a), the period for which he has been an existing chartered accountant before the commencement of this Order shall be reckoned as period of membership of the Institute.
+(3) Notwithstanding anything contained in clause (2), the Council existing immediately before the commencement of this Order shall be deemed to be the first Council consisting of members nominated by the Government and shall discharge all the functions of the Council under this Order.
