@@ -1,0 +1,2 @@
+# Previous publication of notifications under section 3
+4. Not less than thirty days before the issue of any notification under sub-section (1) or sub-section (2) of section 3, the Government shall publish in the official Gazette and in such other manner (if any) as it thinks fit a draft of the proposed notification specifying a date on or after which the draft will be taken into consideration, and shall consider any objection or suggestion which may be received from any person with respect to the draft before the date so specified.
