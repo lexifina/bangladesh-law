@@ -1,0 +1,2 @@
+# Privilege not waived by volunteering evidence
+128. If any party to a suit gives evidence therein at his own instance or otherwise, he shall not be deemed to have consented thereby to such disclosure as is mentioned in section 126; and, if any party to a suit or proceeding calls any such [Advocate] as a witness, he shall be deemed to have consented to such disclosure only if he questions such [Advocate] on matters which, but for such question, he would not be at liberty to disclose.

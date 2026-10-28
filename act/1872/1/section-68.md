@@ -1,0 +1,3 @@
+# Proof of execution of document required by law to be attested
+68. If a document is required by law to be attested, it shall not be used as evidence until one attesting witness at least has been called for the purpose of proving its execution, if there be an attesting witness alive, and subject to the process of the Court and capable of giving evidence:
+Provided that it shall not be necessary to call an attesting witness in proof of the execution of any document, not being a will, which has been registered in accordance with the provisions of the Registration Act, 1908, unless its execution by the person by whom it purports to have been executed is specifically denied.

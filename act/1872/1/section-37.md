@@ -1,0 +1,5 @@
+# Relevancy of statement as to fact of public nature contained in certain Acts or notifications
+37. When the Court has to form an opinion as to the existence of any fact of a public nature, any statement of it, made in a recital contained in any Act of Parliament of the United Kingdom, or in any [^31][Act of Parliament] or in a Government notification [^32][* * *] is a relevant fact.
+
+[^31]: The words "Act of Parliament" were substituted, for the words and commas "Act of the Central Legislature, or of any other legislative authority in Pakistan, constituted by any laws for the time being in force" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).
+[^32]: The words and comma "or notification by the Crown Representative appearing in the official Gazette or in any printed paper purporting to be the London Gazette or the Government Gazette of any Dominion, Colony or possession of His Majesty" were omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).

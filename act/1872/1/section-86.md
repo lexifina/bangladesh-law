@@ -1,0 +1,3 @@
+# Presumption as to certified copies of foreign judicial records
+86. The Court may presume that any document purporting to be a certified copy of any judicial record of any country not forming part of Bangladesh is genuine and accurate, if the document purports to be certified in any manner which is certified by any representative of the Government in or for such country to be the manner commonly in use in that country for the certification of copies of judicial records.
+Second Paragraph.– [Omitted by the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973), section 3 and 2nd Schedule.]

@@ -1,0 +1,2 @@
+# What matters may be proved in connection with proved statement relevant under section 32 or 33
+158. Whenever any statement, relevant under section 32 or 33, is proved, all matters may be proved either in order to contradict or to corroborate it, or in order to impeach or confirm the credit of the person by whom it was made, which might have been proved if that person had been called as a witness and had denied upon cross-examination the truth of the matter suggested.

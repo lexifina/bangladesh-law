@@ -1,0 +1,12 @@
+# When facts not otherwise relevant become relevant
+11. Facts not otherwise relevant are relevant–
+(1) If they are inconsistent with any fact in issue or relevant fact;
+(2) If by themselves or in connection with other facts they make the existence or non-existence of any fact in issue or relevant fact highly probable or improbable.
+Illustrations
+(a) The question is whether A committed a crime at Chittagong on a certain day.
+The fact that, on that day, A was at [^12][Dhaka] is relevant.
+The fact that, near the time when the crime was committed, A was at a distance from the place where it was committed, which would render it highly improbable, though not impossible, that he committed it, is relevant.
+(b) The question is, whether A committed a crime.
+The circumstances are such that the crime must have been committed either by A, B, C or D. Every fact which shows that the crime could have been committed by no one else and that it was not committed by either B, C or D, is relevant.
+
+[^12]: The word "Dhaka" was substituted, for the word "Lahore" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).
