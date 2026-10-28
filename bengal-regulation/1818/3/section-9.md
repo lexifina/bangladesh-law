@@ -1,0 +1,4 @@
+# Attachment of estates by order of Government without decision of Court
+9. Whenever the [^5][Government], for the reasons declared in the preamble to this Regulation, shall judge it necessary to attach the estates or lands of any zamindar, jagirdar, talukdar or other person, without any previous decision of a Court of Justice or other judicial proceeding, the grounds on which the Resolution of the Government may have been adopted, and such other information connected with the case as may appear essential, shall be communicated to the Judge and Magistrate of the district in which the lands or estates may be situated, and to the Sadar Dewani Adalat and Nizamat Adalat.
+
+[^5]: The word "Government" was replaced, for the words "Provincial Government" by Article 8 of the Bangladesh (Adaptation of Existing Laws) Order, 1972 (President's Order No. 48 of 1972).

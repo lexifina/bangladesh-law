@@ -1,0 +1,2 @@
+# Report to Government regarding confinement, etc., of prisoners
+6. Every officer in whose custody any State prisoner may be placed shall, as soon after taking such prisoner into his custody as may be practicable, report to the Government whether the degree of confinement to which he may be subjected appears liable to injure his health, and whether the allowance fixed for his support be adequate to the supply of his own wants and those of his family, according to their rank in life.

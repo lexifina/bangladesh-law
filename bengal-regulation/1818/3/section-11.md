@@ -1,0 +1,4 @@
+# Rule as to cases where Government orders release of estate from attachment
+11. Whenever the [^6][Government] shall be of the opinion that the circumstances which rendered the attachment of such estate necessary have ceased to operate, and that the management of the estate can be committed to the hands of the proprietor without public hazard or inconvenience, the Revenue authorities will be directed to release the estate from attachment, to adjust the accounts of the collections during the period in which they may have been superintended by the officers of the Government, and to pay over to the proprietor the profits from the estate which may have accumulated during the attachment.
+
+[^6]: The word "Government" was replaced, for the words "Provincial Government" by Article 8 of the Bangladesh (Adaptation of Existing Laws) Order, 1972 (President's Order No. 48 of 1972).

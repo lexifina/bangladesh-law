@@ -1,0 +1,2 @@
+# Governor’s Province
+12A. In this Regulation references to a Governor’s Provinces mean East Pakistan and those areas in West Pakistan which immediately before the 14th day of October, 1955 were comprised in the Punjab, the North-West Frontier Province, Sind-Baluchistan including the Leased Areas, the Baluchistan States Union and the State of Bahawalpur and the State of Khairpur and those areas which, immediately before the first day of July, 1961, were comprised in the Federal Territory of Karachi.

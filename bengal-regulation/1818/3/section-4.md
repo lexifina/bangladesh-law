@@ -1,0 +1,4 @@
+# State prisoners in custody of Zila Magistrate, by whom to be visited
+4. First.- When any State prisoner is in the custody of a Zila Magistrate, the Judges are to visit such State prisoner on the occasion of the periodical sessions, and they are to issue any orders concerning the treatment of the State prisoner which may appear to them advisable, provided they be not inconsistent with the orders of the Government issued on that head.
+# State prisoners in custody of public officer, not being Zila Magistrate, by whom to be visited
+Second.- When any State prisoner is placed in the custody of any public officer not being a Zila Magistrate, the Government will instruct either the Zila Magistrate, or the Judge, or any other public officer, not being the person in whose custody the prisoner may be placed, to visit such prisoner at stated periods and to submit a report to the Government regarding the health and treatment of such prisoner.

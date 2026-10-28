@@ -1,0 +1,2 @@
+# Officers having custody of State prisoners to submit periodical reports
+3. Every officer in whose custody any State prisoner may be placed shall, on the 1st of January and 1st of July of each year, submit a report to the Government on the conduct, the health and the comfort of such State prisoner, in order that the Government may determine whether the orders for his detention shall continue in force or shall be modified.
