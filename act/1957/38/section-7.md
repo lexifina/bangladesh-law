@@ -1,0 +1,3 @@
+# Power to secure fulfilment of contracts
+7. If in the opinion of the Government, it is expedient or necessary so to do for the purpose of securing the fulfilment of any contract relating to export of cotton on which the exporter has defaulted, it may buy cotton elsewhere and appropriate it to the contract, and the defaulter shall be liable for any loss which the Government may sustain on that account, but the defaulter shall not be entitled to any gain on the purchase made against default.
+Explanation.- In this section “exporter” means a seller of cotton to a foreign buyer or to his agent in Bangladesh.
