@@ -1,0 +1,2 @@
+# Formal irregularity not to invalidate marriage
+17. No marriage contracted under this Act shall be deemed to be invalid solely by reason of the fact that it was not certified under section 6, or that the certificate was not sent to the Registrar, or that the certificate was defective, irregular or incorrect.

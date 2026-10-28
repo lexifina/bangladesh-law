@@ -1,0 +1,2 @@
+# Settlement of wife's property for benefit of children
+50. In any case in which the Court shall pronounce a decree divorce or judicial separation for adultery of the wife, if it shall be made to appear to the Court that the wife is entitled to any property either in possession or reversion, the Court may order such settlement as it shall think reasonable to be made of any part of such property, not exceeding one-half thereof, for the benefit of the children of the marriage or any of them.

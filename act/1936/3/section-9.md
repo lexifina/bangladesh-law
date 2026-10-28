@@ -1,0 +1,6 @@
+# Copy of certificate to be sent to Registrar-General of Births, Deaths and Marriages
+9. [^2][The Registrar shall, at such intervals as the Government] from time to time directs send to the Registrar-General of Births, Deaths and Marriages [^3][* * *] a true copy certified by him in such form [^4][as the Government] from time to time prescribes, of all certificates entered by him in the said register of marriages since the last of such intervals.
+
+[^2]: The words and comma "The Registrar shall, at such intervals as the Government" were substituted, for the words and commas "Every Registrar, shall, at such intervals as the Provincial Government by which he was appointed" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).
+[^3]: The words "for the territories administered by such Provincial Government" were omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).
+[^4]: The words "as the Government" were substituted, for the words "as such Provincial Government" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).

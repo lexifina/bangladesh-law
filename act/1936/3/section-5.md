@@ -1,0 +1,2 @@
+# Punishment of bigamy
+5. Every Parsi who during the lifetime of his or her wife or husband, whether a Parsi or not, contracts a marriage without having been lawfully divorced from such wife or husband or without his or her marriage with such wife or husband having legally been declared null and void or dissolved, shall be subject to the penalties provided in section 494 and 495 of the Penal Code for the offence of marrying again during the lifetime of a husband or wife.

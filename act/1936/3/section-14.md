@@ -1,0 +1,2 @@
+# Penalty for making, etc., false certificate
+14. Every person making or signing or attesting any such certificate containing a statement which is false, and which he either knows or believes to be false, shall be published with simple imprisonment for a term which may extend to three months, or with fine which may extend to one hundred Taka, or with both; and if the act amounts to forgery as defined in the Penal Code, then such person shall also be liable, on conviction thereof, to the penalties provided in section 466 of the said Code.
