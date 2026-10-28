@@ -1,0 +1,4 @@
+# Management
+5. (1) The general direction and administration of the Corporation and its affairs shall vest in a Board, which may exercise all powers and do all acts and things which may be exercised or done by the Corporation.
+(2) The Board in discharging its functions shall act on commercial considerations and shall be guided on questions of policy involving the national interest (including commercial and industrial interest) by such directions as the Government, which shall be the sole judge whether the national interest is involved, may give it from time to time.
+(3) If the Board fails to carry out any direction as aforesaid, the Government may remove the Directors including the Chairman, and notwithstanding anything contained in section 6, appoint persons in their place to be Directors temporarily until a fresh Board of Directors are appointed in accordance with the provision of that section.
