@@ -1,0 +1,5 @@
+# Power of Government to refer cases for investigation
+5. (1) The Government may, at any time [^2][* * *], refer to the Commission for investigation and report any case in which the Government has prima facie reasons for believing that a person has to a substantial extent evaded payment of taxation on income, together with such material as may be available in support of such belief.
+(2) If in the course of investigation into a case referred to it under sub-section (1), the Commission has reason to believe that some person other than the person whose case is being investigated has himself evaded payment of taxation on income, it may make a report to the Government stating its reasons for such belief, and on receipt of such report the Government may at any time refer the case of such other person to the Commission for investigation and report.
+
+[^2]: The words “before the 31st day of December, 1947” were omitted by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
