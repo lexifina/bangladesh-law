@@ -1,0 +1,4 @@
+# Appeals
+11. (1) The Government or any person who has shown cause under section 4 or section 6 or has made an objection under section 4 or has made an application under section 8 or section 9, if aggrieved by any order of the District Judge under any of the foregoing provisions of this Ordinance, may appeal to the High Court Division within thirty days from the date on which the order complained against was passed.
+(2) Upon any appeal under this section the High Court Division may, after giving such parties as it thinks proper an opportunity of being heard, pass such orders as it thinks fit.
+(3) Until an appeal under this section is finally disposed of by the High Court Division, no Court shall, otherwise than in accordance with the provisions of section 8 or section 13, order the withdrawal or suspension of any order of attachment to which the appeal relates.
