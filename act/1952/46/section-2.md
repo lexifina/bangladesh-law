@@ -1,0 +1,7 @@
+# Extension of service where term of service has expired
+2. Until such date as may be notified in this behalf by the [^2][Government], any person enrolled for service in the Bangladesh Air Force who, by reason of the expiry of the term for which he was engaged to serve when so enrolled, is no longer liable for service shall, notwithstanding such expiry, continue to be enrolled for service and to be liable for service in the Bangladesh Air Force until he is discharged by the orders of the prescribed officer under the [^3][* * *] Air Force Act, 1953:
+Provided that the period for which the service of any such person is extended under this Act shall not exceed six years from the day on which his service would otherwise have terminated:
+Provided further, that for the purpose of this Act any person whose form of enrolment shows that he was enrolled for the duration of the war and for so long thereafter as his services may be required shall be deemed to have been so enrolled for a period of nine years commencing with the date of his original enrolment.
+
+[^2]: The word “Government” was substituted for the words “Central Government” by section 5(c)(i) of প্রতিরক্ষা কর্মবিভাগ (কতিপয় আইন সংশোধন) আইন, ২০১৬ (২০১৬ সনের ১৫ নং আইন)।
+[^3]: The words “Indian Air Force Act, 1932 or the Pakistan” were omitted by section 5(c)(ii) of প্রতিরক্ষা কর্মবিভাগ (কতিপয় আইন সংশোধন) আইন, ২০১৬ (২০১৬ সনের ১৫ নং আইন)।
