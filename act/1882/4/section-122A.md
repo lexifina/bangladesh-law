@@ -1,0 +1,7 @@
+# Gift with reservation of the right of lifetime enjoyment (lifetime usufruct rights)
+[^33][122A. (1) Notwithstanding anything contained in this Act or any other law for the time being in force, a transfer of movable or immovable property by way of gift reserving the right of lifetime enjoyment (lifetime usufruct rights) of the property by the donor shall be valid.
+(2) The gift under sub-section (1) shall be valid subject to the condition that such gift shall be made by any parent or grandparent to his or her child or children or grandchild or grandchildren or vice-versa, or between spouses, and such gift so far relates to immovable property shall be made by a declaration under this section upon execution of a deed registered under section 17(1)(a) of Registration Act, 1908 (Act No. XVI of 1908).
+(3) In the event of the death of the donee during the lifetime of the donor, the property shall be transmitted to the donee's heirs in accordance with law with the right of lifetime enjoyment of the donor continuing to subsist and attached to the property.
+(4) A transfer under this section shall constitute a distinct mode of transfer under this Act and shall not be construed as limiting, derogating from, or otherwise affecting the validity of any gift or Heba or any other mode of transfer recognized under this Act or any other law for the time being in force.]
+
+[^33]: Section 122A was inserted by section 3 of the Transfer of Property (Amendment) Act, 2026 (Act No. 105 of 2026).

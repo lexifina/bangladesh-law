@@ -1,0 +1,4 @@
+# Condition restraining alienation
+10. Where property is transferred subject to a condition or limitation absolutely restraining the transferee or any person claiming under him from parting with or disposing of his interest in the property, the condition or limitation is void, except in the case of a lease where the condition is for the benefit of the lessor or those claiming under him : Provided that property may be transferred to or for the benefit of a woman (not being a Hindu, [^7][Muslim] or Buddhist), so that she shall not have power during her marriage to transfer or charge the same or her beneficial interest therein.
+
+[^7]: The word “Muslim” was substituted, for the word “Muhammadan” by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)

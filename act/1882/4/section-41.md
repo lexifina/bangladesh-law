@@ -1,0 +1,2 @@
+# Transfer by ostensible owner
+41. Where, with consent, express or implied, of the persons interested in immoveable property, a person is the ostensible owner of such property and transfers the same for consideration, the transfer shall not be voidable on the ground that the transferor was not authorised to make it: provided that the transferee, after taking reasonable care to ascertain that the transferor had power to make the transfer, has acted in good faith.

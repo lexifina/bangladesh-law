@@ -1,0 +1,3 @@
+# Restriction repugnant to interest created
+11. Where, on a transfer of property, an interest therein is created absolutely in favour of any person, but the terms of the transfer direct that such interest shall be applied or enjoyed by him in a particular manner, he shall be entitled to receive and dispose of such interest as if there were no such direction.
+Where any such direction has been made in respect of one piece of immoveable property for the purpose of securing the beneficial enjoyment of another piece of such property, nothing in this section shall be deemed to affect any right which the transferor may have to enforce such direction or any remedy which he may have in respect of a breach thereof.

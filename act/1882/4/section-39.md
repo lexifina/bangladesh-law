@@ -1,0 +1,2 @@
+# Transfer where third person is entitled to maintenance
+39. Where a third person has a right to receive maintenance, or a provision for advancement or marriage, from the profits of immoveable property, and such property is transferred the right may be enforced against the transferee, if he has notice thereof or if the transfer is gratuitous; but not against a transferee for consideration and without notice of the right, nor against such property in his hands.

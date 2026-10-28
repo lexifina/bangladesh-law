@@ -1,0 +1,2 @@
+# Right to inspection and production of documents
+60B. A mortgagor, as long as his right of redemption subsists, shall be entitled at all reasonable times, at his request and at his own cost, and on payment of the mortgagee's costs and expenses in this behalf, to inspect and make copies or abstracts or, extracts from, documents of title relating to the mortgaged property which are in the custody or power of the mortgagee.]

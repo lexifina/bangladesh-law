@@ -1,0 +1,4 @@
+# Right of usufructuary mortgagor to recover possession
+62. In the case of a usufructuary mortgage, the mortgagor has a right to recover possession of the property together with the mortgage-deed and all documents relating to the mortgaged property which are in the possession or power of the mortgage,-
+(a) where the mortgagee is authorised to pay himself the mortgage-money from the rents and profits of the property, - when such money is paid;
+(b) where the mortgagee is authorised to pay himself from such rents and profits or any part thereof a part only of the mortgage-money – when the term, if any, prescribed for the payment of the mortgage-money has expired and the mortgagor pays or tenders to the mortgagee the mortgage-money or the balance thereof or deposits it in Court as hereinafter provided.

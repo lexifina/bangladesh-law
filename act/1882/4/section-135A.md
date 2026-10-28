@@ -1,0 +1,7 @@
+# Assignment of rights under policy of marine insurance
+[^38][135A. (1) Where a policy of marine insurance has been assigned so as to pass the beneficial interest therein, the assignee of the policy is entitled to sue thereon in his own name; and the defendant is entitled to make any defence arising out of the contract which he would have been entitled to make if the action had been brought in the name of the person by or on behalf of whom the policy was effected.
+(2) Where the insurer pays for a total loss, either of the whole, or in the case of goods, of any apportionable part, of the subject-matter insured, he thereupon becomes entitled to take over the interest of the insured person in whatever may remain of the subject-matter so paid for, and he is thereby subrogated to all the rights and remedies of the insured person in and in respect of that subject-matter as from the time of the casualty causing the loss.
+(3) Where the insurer pays for a partial loss, he acquires no title to the subject–matter insured, or such part of it as may remain, but he is thereupon subrogated to all rights and remedies of the insured person as from the time of the casualty causing the loss, in so far as the insured person has been indemnified by such payment for the loss.
+(4) Nothing in clause (e) of section 6 shall affect the provisions of this section.]
+
+[^38]: Section 135A was inserted by section 4 of the Transfer of Property (Amendment) Act, 1944 (Act No. VI of 1944)

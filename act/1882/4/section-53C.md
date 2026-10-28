@@ -1,0 +1,2 @@
+# Immoveable Property without Khatian not to be sold
+53C. No immoveable property shall be sold by a person unless his name, if he is the owner of the property otherwise than by inheritance, or his name or the name of his predecessor, if he is the owner of the property by inheritance, appears in respect of the property in the latest khatian prepared under the State Acquisition and Tenancy Act, 1950, and any sale made otherwise shall be void.

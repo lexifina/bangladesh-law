@@ -1,0 +1,2 @@
+# Persons competent to transfer
+7. Every person competent to contract and entitled to transferable property, or authorised to dispose of transferable property not his own, is competent to transfer such property either wholly or in part, and either absolutely or conditionally, in the circumstances, to the extent and in the manner allowed and prescribed by any law for the time being in force.

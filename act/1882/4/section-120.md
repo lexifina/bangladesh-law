@@ -1,0 +1,2 @@
+# Rights and liabilities of parties
+120. Save as otherwise provided in this Chapter, each party has the rights and is subject to the liabilities of a seller as to that which he gives, and has the rights and is subject to the liabilities of a buyer as to that which he takes.

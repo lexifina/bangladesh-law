@@ -1,0 +1,3 @@
+### Priority
+# Postponement of prior mortgagee
+78. Where, through the fraud, misrepresentation or gross neglect of a prior mortgagee, another person has been induced to advance money on the security of the mortgaged property, the prior mortgagee shall be postponed to the subsequent mortgagee.
