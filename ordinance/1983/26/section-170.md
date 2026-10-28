@@ -1,0 +1,4 @@
+# Payment over of property of deceased seamen by Shipping Master
+170. Where any property of a deceased seaman or apprentice is paid or delivered to a Shipping Master, the Shipping Master, after deducting for expenses incurred in respect of that seaman or apprentice or his property such sums as he thinks proper to allow, may-
+(a) pay and deliver the residue to any claimants who can prove themselves to the satisfaction of the Shipping Master to be entitled thereto, and the Shipping Master shall thereby be discharged from all further liability in respect of the residue so paid or delivered; or
+(b) if he thinks fit so to do, require probate or letters of administration of a certificate under the Succession Act, 1925 (XXXIX of 1925), to be taken out, and thereupon pay and deliver the residue to the legal representative of the deceased.

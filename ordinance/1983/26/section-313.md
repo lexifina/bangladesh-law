@@ -1,0 +1,2 @@
+# Exemption Certificates
+313. The Principal Officer or an officer authorised by the Government in this behalf shall, on an application by the owner or master of any Bangladesh ship in regard to which the Government has made an order of exemption under the proviso to sub section (1) of section 303 or under the proviso to sub section (1) of section 304 or which is exempt from any of the provisions of the rules made under sections 296, 298, 299 or 308 issue in the prescribed form an Exemption Certificate in respect of such ship.

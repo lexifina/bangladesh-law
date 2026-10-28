@@ -1,0 +1,2 @@
+# Certificated officers may wear uniforms while unemployed
+225. A person holding a Certificate of Competency issued under this Ordinance and a citizen of Bangladesh holding a Certificate of Competency recognised under section 88, being temporarily unemployed, shall be entitled to wear on such occasions as the Government may direct, the Standard Uniform appropriate to the rank in which he was last employed.

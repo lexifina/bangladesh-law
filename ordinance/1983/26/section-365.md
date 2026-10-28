@@ -1,0 +1,4 @@
+# Ships to carry certain navigational instruments, etc.
+365. (1) Every Bangladesh ship shall be provided with such navigational and meteorological instruments, equipment and publications as the Government may by rules prescribe, and such rules may also prescribe the manner in which such instruments and equipment shall be maintained.
+(2) The Principal Officer or Surveyor may go on board any ship and inspect the instruments, equipment and publications maintained under sub section (1) with a view to satisfying himself that the provisions of that sub section have been duly complied with.
+(3) If the Principal Officer or Surveyor is of the opinion that the requirements under sub section (1) are not being complied with by any Bangladesh ship, he may detain the ship until such time as those requirements have been duly complied with.

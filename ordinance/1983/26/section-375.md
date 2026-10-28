@@ -1,0 +1,3 @@
+# Notice of loss of Bangladesh ship to be given
+375. (1) If the owner or agent of any Bangladesh ship has reason, owing to the non appearance of the ship or to any other circumstances to apprehend that the ship has been wholly lost, he shall, within a reasonable time, send to the Government notice in writing of the loss and of the probable cause thereof stating the name of the ship, her official number, if any, and her port of registry.
+(2) If the owner or agent fails, without reasonable cause, to comply with this section, he shall be punishable with fine which may extend to five thousand Taka.

@@ -1,0 +1,4 @@
+# Ships not to proceed to sea without Certificate
+334. (1) No Bangladesh ship, except a ship exempt by an order under sub section (2) of section 324 from the provisions of this Chapter, shall proceed to sea unless there is in force in respect of the ship a Load Line Certificate issued under section 332 or a Load Line Exemption Certificate issued under section 333.
+(2) The master of every Bangladesh ship shall produce to the Collector of Customs, from whom a port clearance for the ship is sought, the certificate which is required by sub section (1) to be in force when the ship proceeds to sea, and port clearance shall not be granted, and the ship may be detained, until that certificate is so produced.
+(3) The master of any ship which proceeds or attempts to proceed to sea in contravention of this section shall, for each offence, be punishable with fine which may extend to twenty thousand Taka.

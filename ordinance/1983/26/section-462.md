@@ -1,0 +1,2 @@
+# Search warrants where wreck is concealed
+462. Where a Receiver of Wreck suspects or receives information that any wreck is secreted or is in the possession of some person who is not the owner thereof, or that any wreck is otherwise improperly dealt with, he may apply to the nearest Magistrate for a search warrant, and that Magistrate shall have power to grant such warrant, and the Receiver of Wreck by virtue thereof may enter any house or other place wherever situated and also any vessel and search for, seize and detain any such wreck there found.

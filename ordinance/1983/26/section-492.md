@@ -1,0 +1,2 @@
+# Levy of wages, etc. by distress of movable property
+492. When an order under this Ordinance for the payment of any wages or other money is made by a Shipping Master or a Magistrate or other officer or authority, and the money is not paid at the time or in the manner directed, the sum mentioned in the order, with such further sum as may be thereby awarded for costs, may, under a warrant to be issued for that purpose by a Magistrate, be levied by distress and sale of the movable property of the person directed to pay the same.

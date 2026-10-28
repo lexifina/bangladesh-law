@@ -1,0 +1,4 @@
+# Changes in crew to be reported
+118. (1) The master of every Bangladesh ship, the crew of which has been engaged before a Shipping Master, shall, before finally leaving Bangladesh, sign and send to the nearest Shipping Master a full and accurate statement in the form sanctioned by the Government, of every change which takes place in his crew before finally leaving Bangladesh and that statement shall be admissible in evidence.
+(2) Nothing in sub section (1) shall be construed as enabling the master to engage, except in accordance with the other provisions of this Ordinance, any seaman as an additional member of the crew.
+(3) If any master fails without reasonable cause to comply with the requirements of sub section (1), he shall, for each offence, be punishable with fine which may extend to five thousand Taka.

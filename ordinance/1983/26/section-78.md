@@ -1,0 +1,2 @@
+# Penalty
+78. If any of the limitations or conditions contained in a licence granted or, as the case may be, a directive given under the provisions of this Part is contravened, the master and the owner, or, in the case of a ship other than a Bangladesh ship, the master, and the agent in Bangladesh of the owner, of the ship in respect of which the contravention has taken place, shall each be punishable with imprisonment for a term which may extend to one year, or with fine which may extend to Taka ten thousand, or with both.

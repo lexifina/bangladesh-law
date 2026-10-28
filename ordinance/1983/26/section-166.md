@@ -1,0 +1,2 @@
+# Property of deceased seaman left abroad but not on board ship
+166. If any seaman or apprentice on a Bangladesh ship, or engaged in Bangladesh on any other ship, the voyage of which is to terminate in Bangladesh, dies at any place outside Bangladesh leaving any money or effects hereinafter referred to as the property of a deceased seaman or apprentice not on board the ship, the Bangladesh Consular Officer at or near the place shall claim and take charge of such money and other effect.

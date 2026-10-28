@@ -1,0 +1,5 @@
+# Mode of transfer of ships, etc.
+36. (1) A Bangladesh ship or a share therein shall not be transferred except by an instrument executed by the transferor, the execution being in the presence of, and attested by, at least two witnesses.
+(2) An instrument of transfer shall be in the prescribed form or in a form as near thereto as circumstances permit and shall contain the description of the ship as contained in the Surveyor's certificate or some other description sufficient to identify the ship to the satisfaction of the Registrar.
+(3) An instrument of transfer when duly executed shall be produced to the Registrar of the ship's port of registry, and the Registrar, if he is satisfied that the description therein is sufficient to identify the ship, shall enter in the Registry Book the name of the transferee as owner of the ship or share, as the case may be, and shall endorse on the instrument the fact of that entry having been made with the day and hour thereof.
+(4) Every entry of transfer under this section shall be made in the Register Book in the order in which the instrument of transfer is produced to the Registrar.

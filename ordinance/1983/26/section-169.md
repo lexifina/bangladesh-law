@@ -1,0 +1,2 @@
+# Property of seamen dying in Bangladesh
+169. If a seaman or apprentice dies in Bangladesh and is at the time of his death entitled to claim from the master or owner of the ship in which he has served any effects or unpaid wages, the master, owner or agent shall pay and deliver or account for such property to the Shipping Master at the port where the seaman or apprentice was discharged or was to have been discharged or to such other Officer as the Government may direct.

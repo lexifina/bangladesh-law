@@ -1,0 +1,2 @@
+# Delivery of unclaimed wreck by Receivers not to prejudice title
+467. Upon delivery of wreck or payment of the proceeds of sale of wreck by a Receiver of Wreck, in pursuance of the provisions of this Chapter, the Receiver shall be discharged from all liability in respect thereof, but delivery shall not prejudice or affect any question which may be raised by third parties concerning the right or title to the wreck, or concerning the title to the soil of the place on which the wreck was found.

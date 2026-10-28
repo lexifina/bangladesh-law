@@ -1,0 +1,2 @@
+# Liability of Government for cost and damages to a ship wrongly detained
+354. If it appears that there was not reasonable and probable cause, by reason of the condition of the ship or the act or default of the owner or the master, for the provisional detention of a ship, the Government shall be liable to pay to the owner of the ship his costs of and incidental to the detention and survey of the ship, and also compensation for any loss or damage sustained by him by reason of the detention or survey

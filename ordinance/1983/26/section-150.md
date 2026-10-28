@@ -1,0 +1,2 @@
+# Rate of exchange for payment to seaman in a currency other than the currency as stated in the agreement
+150. Where a seaman or apprentice has agreed with the master of a ship for payment of his wages in Bangladesh or other currency, any payment, of, or on account of, his wages, if made in any currency other than that stated in the agreement shall, notwithstanding anything contained in the agreement, be made at the rate of exchange for the time being current at the place where the payment is made.

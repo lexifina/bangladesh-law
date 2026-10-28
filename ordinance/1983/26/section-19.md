@@ -1,0 +1,3 @@
+# Survey and measurement of ships before registration
+19. (1) Every ship in respect of which an application for registration is made, shall, at the expense of the owner, be surveyed by a Surveyor or by any Surveyor of a Classification Society duly authorised by the Government and the tonnage of the ship ascertained in the prescribed manner.
+(2) The Surveyor or the Classification Society so authorised shall grant to the owner a certificate in the prescribed form specifying the ship's tonnage and build and such other particulars descriptive of the identity of the ship as may be prescribed; and the owner shall deliver the certificate to the Registrar before registration.

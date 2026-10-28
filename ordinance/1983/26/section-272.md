@@ -1,0 +1,3 @@
+# Penalty for failing to supply special trade passengers with prescribed provisions
+272. (1) If the master of a special trade passenger ship, or any contractor employed by him for the purpose, should, without reasonable cause, the burden of proving which shall lie upon him, omit to supply to any special trade passenger the prescribed allowance of food and water, he shall be punishable with fine which may extend to twenty thousand Taka for every special trade passenger who has not been supplied with such allowance.
+(2) Where, under the terms of the ticket issued to him, a special trade passenger is not entitled to the supply of food as aforesaid, sub section (1) shall have effect in relation to such passenger as if reference therein to “food” were omitted.

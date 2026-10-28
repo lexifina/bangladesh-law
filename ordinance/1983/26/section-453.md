@@ -1,0 +1,5 @@
+# Rules to be observed by persons finding wreck
+453. (1) Any person finding and taking possession of any wreck within any local limits for which a Receiver of Wreck has been so appointed, or bringing within such limits any wreck which have been found and taken possession of elsewhere, shall, as soon as practicable,
+(a) if he be the owner thereof, give the Receiver of Wreck notice in writing of the finding thereof and of the marks by which such wreck is distinguished;
+(b) if he be not the owner of such wreck, deliver the same to the Receiver of Wreck.
+(2) Any person who fails to give notice of the finding of, or to deliver, any wreck to the Receiver of Wreck as required by sub section (1) shall be punishable with fine which may extend to twenty thousand Taka, and, in the case of failure to deliver any wreck, shall, in addition to such fine, forfeit all claims to salvage, and pay to the owner of such wreck if the same is claimed, or if the same is unclaimed, to the Government, a penalty not exceeding twice the value of such wreck.

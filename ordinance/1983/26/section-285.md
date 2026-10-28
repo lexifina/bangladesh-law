@@ -1,0 +1,4 @@
+# Issue or production of tickets
+285. (1) Every pilgrim travelling on a special trade passenger ship shall be entitled, on payment of his passage- money and fulfilment of other prescribed conditions, if any, to receive a ticket in the prescribed form, and shall be bound to produce it to such officers and on such occasions as may be prescribed and otherwise to deal with it in the prescribed manner:
+Provided that a pilgrim who has not been exempted under the proviso to section 284 shall not be given a ticket other than a return ticket unless he has made deposit required by that section.
+(2) Any ticket issued to a pilgrim for a voyage on a special trade passenger ship shall entitle him to receive food and water on the scale and of the quality prescribed and necessary medicines and medical treatment free of further charge throughout the voyage.

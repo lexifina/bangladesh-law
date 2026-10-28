@@ -1,0 +1,2 @@
+# Submersion of load lines
+327. A Bangladesh ship, not being exempt from the provisions of this Chapter, shall not be so loaded that the appropriate load line on each side of the ship, that is to say, the load line indicating or purporting to indicate the maximum depth to which the ship is for the time being entitled under the Load Line Rules to be loaded, is submerged if the ship is in salt water and has no list or would be submerged if the ship were in salt water and has no list.

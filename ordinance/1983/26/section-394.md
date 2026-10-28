@@ -1,0 +1,3 @@
+# Registration of alterations
+394. (1) When a fishing vessel is so altered as not to correspond with the particulars relating to her entered in the Certificate of Registry, the owner of such vessels shall make a report of such alteration to the Registrar of the port where the vessel is registered, and the Registrar shall either cause the alteration to be registered, or direct that the vessel be registered anew, in accordance with such rules as may be made in this behalf.
+(2) If the owner fails to comply with the provisions of this section, he shall be punishable with fine which may extend to five thousand Taka.

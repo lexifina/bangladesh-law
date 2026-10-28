@@ -1,0 +1,4 @@
+# Duty of Receiver where vessel is in distress
+449. (1) Where any vessel is wrecked, stranded or in distress at any place on or near the coasts of Bangladesh including the territorial waters thereof, the Receiver of Wreck within the limits of whose jurisdiction the place is situated shall, upon being informed of the same forthwith proceed there, and upon his arrival shall take command of all persons present and shall assign such duties and give such directions to each person as he thinks fit for the preservation of the vessel and of the lives of the persons belonging to the vessel and of its cargo and equipment:
+Provided that the Receiver shall not interfere between the master and the crew of the vessel in reference to the management thereof unless he is requested to do so by the master.
+(2) If any person wilfully disobeys the directions of the Receiver, he shall, for each offence, be punishable with fine which may extend to ten thousand Taka.

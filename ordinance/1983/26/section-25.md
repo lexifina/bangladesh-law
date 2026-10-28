@@ -1,0 +1,3 @@
+# Power of Government to inquire into title of ship to be registered as Bangladesh ship
+25. (1) Where it appears to the Government that there is any doubt as to the title of any ship to be registered as a Bangladesh ship, it may direct the Registrar of her port of registry to require, by giving not less than thirty days' notice to the persons concerned, or such longer notice as the Government may fix, evidence to his satisfaction that the ship is entitled to be registered as a Bangladesh ship.
+(2) If within the period referred to in sub section (1), evidence to the satisfaction of the Registrar that the ship is entitled to be registered as a Bangladesh ship is not given, the ship shall be liable to be forfeited to the Government.

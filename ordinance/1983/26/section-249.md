@@ -1,0 +1,9 @@
+# Ships with Passenger Ship Safety Certificate or certificates of partial survey granted outside Bangladesh
+249. (1) When a ship is required to be furnished with a Passenger Ship Safety Certificate under this Chapter and the Government is satisfied by the production of a certificate of partial survey-
+(a) that the ship has been officially surveyed at a port in a country outside Bangladesh,
+(b) that the requirements of this Ordinance are proved by that survey to have been substantially complied with, and
+(c) that Passenger Ship Safety Certificate granted under this Chapter are accepted in such country in lieu of the corresponding certificates required under the laws in force in that country,
+the Government may, if it thinks fit, dispense with any further survey of the ship in respect of the requirements so complied with, and give a Certificate which shall have the same effect as a Certificate given after survey under this Chapter.
+(2) When the Government has, by notification in the official Gazette, declared that it is satisfied that an official survey at a port in a country outside Bangladesh specified in the declaration is such as to prove that the requirements of this Ordinance have been substantially complied with, any person
+authorised by the Government in this behalf may exercise the power of the Government under sub section (1) to dispense with a survey and to give a Certificate.
+(3) The provisions of sub section (1) shall be applicable in the case of ships furnished with valid certificates of partial survey including docking certificates, as if they were ships furnished with like certificates granted at ports in countries outside Bangladesh and the powers of the Government under the said sub section may also be exercised by any person authorised by it in this behalf.

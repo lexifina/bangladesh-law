@@ -1,0 +1,3 @@
+# Payment of wages before Shipping Master
+145. (1) Where a seaman is discharged before a Shipping Master in Bangladesh, the master or owner of the ship shall pay the wages of the seaman through, or in the presence of, the Shipping Master unless a competent Court otherwise directs; and in such a case, if the master or owner pays the wages in any other manner, he shall, for each offence, be punishable with fine which may extend to two thousand Taka.
+(2) If the master or owner of a home trade ship of less than two hundred tons gross so desires, he may pay the wages of the seaman of that ship in the same manner as a seaman discharged from a foreign going ship is paid.

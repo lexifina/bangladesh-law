@@ -1,0 +1,2 @@
+# Transmission of interest in mortgage in certain circumstances
+46. Where the interest of a mortgagee in a ship or share is transmitted on death, or insolvency, or by any lawful means other than by a transfer under this Ordinance, the transmission shall be authenticated by a Declaration of Transmission in the prescribed form, and the provisions of section 37 shall, so far as may be, apply to such transmission.

@@ -1,0 +1,5 @@
+# Repatriation of seaman and apprentice on termination of service abroad
+136. (1) When the service of a seaman or apprentice terminates, without the consent of the seaman or apprentice, at a port or place outside Bangladesh, and before the expiration of the period for which the seaman was engaged or the apprentice was bound, the master or owner of the ship shall, in addition to any
+other relative obligation imposed on either of them by this Ordinance, make adequate provision for the maintenance of the seaman or apprentice according to his rank or rating, and for the return of that seaman or apprentice to a proper return port.
+(2) If the master or owner fails without reasonable cause, to comply with sub section (1), the expenses of maintenance and of the journey to the proper return port shall, if defrayed by the seaman or apprentice, be recoverable as wages due to him and if defrayed by a Bangladesh Consular Officer, be regarded as expenses falling within the provisions of sub section (2) of section 175:
+Provided that inability to provide the said expenses shall not, for the purposes of this sub section, be regarded as reasonable cause.

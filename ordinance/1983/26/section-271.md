@@ -1,0 +1,2 @@
+# Penalty for non compliance with requirements as to statements concerning special trade passengers
+271. The master of a special trade passenger ship shall, if he fails to comply with any of the requirements of sections 267, 268 or 269 as to the statements concerning special trade passengers, or wilfully makes any false entry in any such statement, for each offence, be punishable with imprisonment for a term which may extend to six months, or with fine which may extend to twenty thousand Taka, or with both.

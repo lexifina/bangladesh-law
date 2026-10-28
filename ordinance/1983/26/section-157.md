@@ -1,0 +1,2 @@
+# Summary proceedings for wages
+157. A seaman or apprentice or a person duly authorised on his behalf may, as soon as any wages due to him become payable, sue for the same in a summary manner before any Magistrate exercising jurisdiction in or near the place at which his service has terminated or at which he has been discharged, or at which any person upon whom the claim is made is or resides, and the order made by the Magistrate in the matter shall be final.

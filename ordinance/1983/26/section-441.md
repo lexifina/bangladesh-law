@@ -1,0 +1,2 @@
+# Power of Government to censure master, mate or engineer
+441. Where it appears to the Government that, having regard to the circumstances of the case, an order of cancellation or suspension under section 434 is not justified or where it revokes or sets aside an order of cancellation or suspension under clause (a) of sub section (1) of section 440, it may pass an order censuring the master, mate or engineer in respect of his conduct.

@@ -1,0 +1,9 @@
+# Power of Government to direct inquiry into charges of incompetency or misconduct
+419. (1) The Government, if it has reason to believe that there are grounds for charging any master, mate or engineer with incompetency or misconduct, including drunkenness or tyranny, otherwise than in the course of an inquiry under section 417, may-
+(a) if the master, mate or engineer holds a certificate under this Ordinance, in any case; and
+(b) if the master, mate or engineer holds a certificate under the law of a country other than Bangladesh, in a case where the incompetence or misconduct has occurred on board a Bangladesh ship,
+transmit statement of the case to any Court having jurisdiction under section 417 which is at or nearest to the place where it may be convenient for the parties and witnesses to attend, and may direct that Court to make an inquiry into that charge.
+(2) Notwithstanding the provisions of sub section (1), the Government may, where it considers expedient so to do, appoint a person to hold the inquiry if it has reason to believe that any master, mate or engineer is due to incompetency or misconduct unfit to discharge his duties, or that, in the case of a collision, he has failed to render such assistance or give such information as is required by section 372; and transmit a statement of the case to such person.
+(3) Before commencing an inquiry under this section, the Court or the person appointed under sub section (2), shall cause the master, mate or engineer so charged to be furnished with a copy of the statement transmitted by the Government.
+(4) Where the inquiry is held by a person appointed under sub section (2), that person, for the purpose of the inquiry, shall have all such powers as are specified in sub section (3) of section 416, and shall give a report of the case to the Government:
+Provided that no such inquiry shall be held without giving the master, mate or engineer concerned an opportunity of making a representation.

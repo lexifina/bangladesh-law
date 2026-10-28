@@ -1,0 +1,3 @@
+# Judicial Inquiry by Court
+417. (1) Where in any case it appears to the Government that a judicial inquiry should be held respecting a shipping casualty, whether a preliminary inquiry under section 416 respecting it has been held or not, it may direct an officer to make an application to a Court empowered under sub section (2) to make a judicial inquiry into such casualty and upon the making of such application, the Court shall make such inquiry.
+(2) Magistrates of the first class specially empowered by the Government shall have jurisdiction to make judicial inquiries into shipping casualties under this Chapter.

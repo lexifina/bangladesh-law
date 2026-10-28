@@ -1,0 +1,2 @@
+# Penalty and procedure for breach of rules and regulations
+507. In making a rule or regulation under this Ordinance, the Government may direct that a contravention of the provisions thereof shall, unless a penalty for such contravention has been expressly provided in this Ordinance, be punishable with fine which may extend to five thousand Taka and, if the contravention is a continuing one, with a further fine which may extend to five hundred Taka for everyday after the first during which the contravention continues.

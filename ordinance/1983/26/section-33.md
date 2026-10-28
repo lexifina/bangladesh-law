@@ -1,0 +1,2 @@
+# Temporary pass in lieu of Certificate of Registry
+33. Where it appears to the Government that by reason of special circumstances it is desirable that permission should be granted to any Bangladesh ship to pass from one port in Bangladesh to another such port without being previously registered, the Government may authorise the Registrar of the first mentioned port to grant a pass in such form as may be prescribed, and that pass shall, for the time and within the limits therein mentioned, have the same effect as a Certificate of Registry.

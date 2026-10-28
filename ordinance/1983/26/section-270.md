@@ -1,0 +1,6 @@
+# Medical Officers and attendants
+270. (1) Every special trade passenger ship which has on board more than one hundred persons, which number shall include special trade passengers, cabin passengers and crew, shall have on board a Medical Officer possessing such qualifications as may be prescribed. If the number of such persons exceeds one thousand, two such Medical Officers shall be carried and if the number exceeds two thousand, three such Medical Officers shall be carried. In addition to the aforementioned Medical Officers there shall also be carried such attendants as may be prescribed.
+(2) The services of all such Medical Officers and attendants shall be provided without charge to all special trade passengers on board.
+(3) Any person who charges a special trade passenger for the services of a Medical Officer or attendant shall, for each offence, be punishable with fine which may extend to two thousand Taka.
+(4) Every such Medical Officer shall keep diaries and submit reports or other returns as may be prescribed.
+(5) If Medical Officers and attendants are not carried on a special trade passenger ship in accordance with the provisions of sub section (1), the master and owner shall each be liable to a fine not exceeding twenty thousand Taka.

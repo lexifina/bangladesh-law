@@ -1,0 +1,4 @@
+# Conduct of business of Shipping office at other Office
+9. (1) Where, at any port, there is no Shipping Office, the whole or any part of the business of a Shipping Office shall be conducted at such office and be committed to such officer at that office as the Government may direct; and thereupon such business shall be conducted accordingly.
+(2) For the purposes of this Ordinance, an office at which the business of a Shipping Office is conducted under sub-section (1) shall be deemed to be a Shipping Office and the officer to whom such business is committed under that sub-section shall be deemed to be a Shipping Master.
+(3) All acts done by or before a Deputy Shipping Master or an Assistant Shipping Master shall have the same effect as if done by or before a Shipping Master for the purposes of this Ordinance.

@@ -1,0 +1,9 @@
+# Delivery of Certificate of ship lost or ceasing to be a Bangladesh ship
+31. (1) In the event of a Bangladesh ship being either actually or constructively lost, taken by the enemy, burnt or broken up, or ceasing for any reason to be such ship, the owner, or if there are more owners than one, everyone of them, shall immediately on obtaining knowledge of the event, if no notice thereof has already been given to the Registrar at her port of registry, give notice thereof to the Registrar who shall make an entry to that effect in the Register Book, and the entries in that Book relating to the ship shall be considered as closed except so far as they relate to any unsatisfied mortgage entered therein.
+(2) On the occurrence of any such event as is referred to in sub section (1), the master of the ship shall, unless her Certificate of Registry is mislaid, lost or destroyed, deliver the same-
+(a) to the Registrar, or to any other officer authorised in this behalf by the Government, by notification in the official Gazette,-
+(i) if the event occurs in any port in Bangladesh, immediately on the occurrence of the event;
+(ii) if it occurs elsewhere and the master arrives in any port in Bangladesh, within ten days of his arrival, or
+(b) to the Bangladesh Consular Officer, if the event occurs elsewhere and the master arrives in a port outside Bangladesh, soon after his arrival in such port.
+(3) The Registrar, if he is not himself the Registrar of the ship's port of registry, or the officer authorised under sub section (2), or the Bangladesh Consular Officer, as the case may be, shall, as soon as may be after the Certificate has been delivered to him, forward the same to the Registrar of the ship's port of registry.
+(4) If an owner or a master fails to comply with any of the provisions of sub-section (1) or sub section (2), as the case may be, he shall be punishable with fine which may extend to twenty thousand Taka.

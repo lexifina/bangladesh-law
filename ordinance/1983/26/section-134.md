@@ -1,0 +1,3 @@
+# Discharge of seamen and apprentices on charge of owner ship
+134. (1) Where a Bangladesh ship is transferred or disposed of at any port or place outside Bangladesh, every seaman and apprentice belonging to that ship shall be discharged at that port or place, unless the seaman or apprentice consents in writing in the presence of the Bangladesh Consular Officer to complete the voyage of the ship, if continued.
+(2) Where a seaman or apprentice is so discharged, the provisions of this Ordinance as to Continuous Discharge Certificate and the repatriation of the seaman or apprentice to a proper return port shall apply as if the service of the seaman or apprentice had terminated otherwise than by the consent of the seaman to be discharged during the currency of the agreement.

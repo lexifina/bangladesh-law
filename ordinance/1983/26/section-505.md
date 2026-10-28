@@ -1,0 +1,2 @@
+# Penalty for hindering or obstructing execution of duties, etc.
+505. If any person hinders or obstructs any Judge, assessor, officer or other person who is empowered by this Ordinance to make any inquiry or, investigation or to board, survey, inspect or detain a ship, or otherwise impedes him in the execution of his duties or the exercise of his powers under this Ordinance, he shall, if no other punishment is provided in this Ordinance for the offence, for each offence, be punishable with fine which may extend to ten thousand Taka.

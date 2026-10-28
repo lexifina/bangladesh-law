@@ -1,0 +1,3 @@
+# Passenger Ship Safety Certificate to be affixed in conspicuous part of ship
+254. (1) The owner, agent or master of every ship for which a Passenger Ship Safety Certificate has been granted under this Chapter shall forthwith, on the receipt of the Certificate, cause one of the duplicates thereof to be affixed and kept affixed so long as the Certificate remains in force and the ship is in use, on some conspicuous part of the ship where it may be easily read by all persons on board the ship.
+(2) If the Certificate is not so kept affixed, the owner, agent and master shall each be punishable with fine which may extend to ten thousand Taka.

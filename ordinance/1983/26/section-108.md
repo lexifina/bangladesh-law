@@ -1,0 +1,2 @@
+# Loss of Continuous Discharge Certificate, etc.
+108. Whenever a seaman proves to the satisfaction of a Shipping Master that the Continuous Discharge Certificate issued to him has, without fault on his part, been lost, torn or defaced, or that he has otherwise been deprived of it, the Shipping Master shall, on payment of the prescribed fee, if any, issue to the seaman a copy of the Certificate to which he may be entitled, and such copy shall have all the effect of the original.

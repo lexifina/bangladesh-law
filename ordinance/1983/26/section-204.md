@@ -1,0 +1,3 @@
+# Application of forfeitures
+204. (1) Where any wages or effects are forfeited under this Ordinance for desertion from a ship, they shall be applied towards reimbursing the expenses caused by the desertion to the master or the owner of the ship and, subject to that reimbursement, shall be paid into the public treasury and credited to the account of the Government.
+(2) For the purposes of such reimbursement, the master or the owner or his agent may, if the wages are earned subsequent to the desertion, recover them in the same manner as the deserter could have recovered them if not forfeited; and the Court in any legal proceeding relating to such wages may order them to be paid accordingly.

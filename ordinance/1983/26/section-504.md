@@ -1,0 +1,2 @@
+# Decision of Consular Officer to be final until ship returns to final port of discharge in Bangladesh
+504. The decision of a Bangladesh Consular Officer on any matter under this Ordinance shall be final, and shall not be called in question in any Court or before any authority, until the ship in respect of, or in relation to which such decision is taken, returns to the final port of discharge in Bangladesh.

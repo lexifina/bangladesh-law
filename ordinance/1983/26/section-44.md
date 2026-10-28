@@ -1,0 +1,2 @@
+# Mortgage not affected by insolvency
+44. A registered mortgage of a ship or share shall not be affected by any act of insolvency committed by the mortgagor after the date the mortgage has been recorded by the Registrar, notwithstanding that the mortgagor, at the commencement of his insolvency, had the ship or share in his possession, order or disposition, or was the reputed owner thereof, and the mortgage shall be preferred to any right, claim or interest therein of the other creditors of the insolvent or any trustee or assignee on their behalf.

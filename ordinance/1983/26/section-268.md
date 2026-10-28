@@ -1,0 +1,3 @@
+# List of arriving special trade passenger
+268. (1) The master of every special trade passenger ship arriving at any port or place in Bangladesh at which it is intended to disembark special trade passengers, shall, before any such passenger is landed, deliver to the Certifying Officer appointed thereat a statement signed by him specifying the total number, indicating the number of each sex, of all the special trade passengers on board and the number of other passengers and the number of crew and such other particulars as may be prescribed.
+(2) The foregoing requirements of this section are in addition to, and not in substitution for, the passenger returns required by section 258.

@@ -1,0 +1,4 @@
+# Penalty for taking wreck at time of casualty
+455. (1) Where a vessel is wrecked, stranded or in distress at any place on or near the coasts of Bangladesh, including the territorial waters thereof, any cargo or other articles belonging to or separated from the vessel, which may be washed on shore or otherwise lost or taken from the vessel shall be delivered to the Receiver of Wreck.
+(2) If any person, whether the owner or not, secrets or keeps possession of any such cargo or article, or refuses to deliver the same to the Receiver or any person authorised by him to demand the same, he shall, for each offence be punishable with fine which may extend to twenty thousand Taka.
+(3) The Receiver or any person authorised as aforesaid may take any such cargo or article by force from the person so refusing to deliver the same.

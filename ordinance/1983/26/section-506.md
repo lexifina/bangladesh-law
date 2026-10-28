@@ -1,0 +1,2 @@
+# General power to make rules
+506. Without prejudice to any power to make rules or regulations contained elsewhere in this Ordinance, the Government may, by notification in the official Gazette, make such rules as it may deem expedient generally to carry out the purposes of this Ordinance and to give effect to the provisions of international conventions adopted by the International Maritime Organisation and accepted by the Government and all rules duly made to give effect to such conventions shall be deemed to form part of this Ordinance and shall have effect accordingly.

@@ -1,0 +1,4 @@
+# Mercantile Marine Office
+5. (1) The Government shall establish and maintain the Principal Mercantile Marine Office at the port of Chittagong and may establish and maintain a branch office of that office at any other port in Bangladesh as it may consider necessary for carrying out the purposes of this Ordinance.
+(2) The Principal Mercantile Marine Office at the port of Chittagong shall be in the charge of a Principal Officer appointed by the Government and a branch office of that office at any other port shall be in the charge of a Deputy Principal Officer; and the Deputy Principal Officer may perform the functions of a Principal Officer under this Ordinance.
+(3) A Principal Officer appointed under sub section (2) or an officer performing the functions of a Principal Officer may, without prejudice to his functions as such, perform all or any of the functions of a Surveyor under this Ordinance.

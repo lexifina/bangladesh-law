@@ -1,0 +1,3 @@
+# Power of Court to inquire into charges against masters, mates and engineers
+418. (1) A Court making an inquiry under section 417 may inquire into any charge of incompetency or misconduct arising, in the Courts of the inquiry, against any master, mate or engineer, as also into any charge of a wrongful act or default on his part causing the shipping casualty.
+(2) In every case in which any such charge, whether of incompetency or misconduct, or of a wrongful act or default, as aforesaid, arise against any master, mate or engineer, in the course of an inquiry, the Court shall, before the commencement of the inquiry, cause to be furnished to him a statement of the case upon which the inquiry has been directed.

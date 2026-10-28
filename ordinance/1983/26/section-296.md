@@ -1,0 +1,4 @@
+# Construction of passenger ships
+296. (1) The Government may, by notification in the official Gazette, make rules prescribing the requirements to be complied with in respect of the hull, equipment and machinery of Bangladesh passenger ships.
+(2) The rules made under sub section (1) shall include such requirements as appear to the Government necessary to implement the provisions of the Safety Convention prescribing the requirements that the hull, equipment and machinery of passenger ships except so far as those provisions are implemented by the rules for life saving and fire appliances, the radio rules, the rules for direction finders, muster rules, pilot ladder rules or the Collision Regulations.
+(3) The powers under this section shall be in addition and without prejudice to the powers conferred by any other provisions to prescribe the requirements which the passenger ships may be required to comply with.

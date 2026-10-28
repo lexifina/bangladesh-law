@@ -1,0 +1,6 @@
+# Engagement of seaman outside Bangladesh
+125. (1) When the master of a Bangladesh ship engages a seaman at any port or place outside Bangladesh, the provisions of this Ordinance respecting agreements with the crew made in Bangladesh shall apply subject to the following modifications, that is to say:-
+(a) the master shall, before carrying the seaman to sea, procure the sanction of a Bangladesh Consular Officer, and shall, if not contrary to any law in force in that port or place, engage the seaman before that officer; and
+(b) the master shall request such Consular Officer to endorse upon the agreement an attestation to the effect that it has been signed in his presence and otherwise made as required by this Ordinance, and that it has his sanction, and if the attestation is not made, the burden of proving that the engagement was made as required by this Ordinance shall lie upon the master.
+(2) As soon as may be after a seaman has been engaged under sub section (1), the master shall sign and send to the Shipping Master before whom the crew was engaged a full and accurate statement, in the form sanctioned by the Government, of the seaman so engaged.
+(3) If a master fails to comply with any of the provisions of this section, he shall, for each offence, be punishable with fine which may extend to five thousand Taka.

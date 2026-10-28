@@ -1,0 +1,3 @@
+# Name of Bangladesh ship not to be changed, etc.
+47. (1) A Bangladesh ship registered under this Ordinance shall not be described by any name other than that by which she is for the time being so registered, nor shall a change be made in her name except in the prescribed manner.
+(2) If any person acts or suffers any person under his control to act in contravention of any of the provisions of sub section (1), he shall be punishable with fine which may extend to fifty thousand Taka and the ship in respect of which any such provision has been contravened may be detained until such provision is complied with.

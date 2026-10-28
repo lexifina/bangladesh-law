@@ -1,0 +1,3 @@
+# Provisional Certificate for ships becoming Bangladesh ships abroad
+32. (1) If at any port outside Bangladesh a ship becomes entitled to be registered as a Bangladesh ship, the Bangladesh Consular Officer may, upon receipt of specific instructions from the Registrar General, grant to the master of the ship a provisional Certificate of Registry in such form as may be prescribed by the Government and shall forthwith forward a copy thereof to the Registrar General.
+(2) A provisional Certificate granted under sub section (1) shall have the effect of a Certificate of Registry until the expiration of six months from its date, or until the arrival of the ship at a port where there is a Registrar, whichever first happens.

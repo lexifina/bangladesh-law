@@ -1,0 +1,2 @@
+# Power of District Magistrate to intervene in case of unrepresented seaman
+216. If any District Magistrate has reason to believe that any seaman who ordinarily resides or has property in his district and who is a party to any proceeding pending before any Court, is unable to appear therein or is a serving seaman, the District Magistrate may certify the facts in the prescribed manner to the Court.

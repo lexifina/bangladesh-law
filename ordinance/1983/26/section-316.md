@@ -1,0 +1,7 @@
+# Acceptance of Certificates issued outside Bangladesh
+316. (1) For the purpose of the provisions of this Ordinance, the expression “a valid Safety Convention Certificate” means a Certificate or Certificates complying with such of the rules made under sub section (4) as are applicable in the circumstances.
+(2) Where there is produced in respect of any ship other than a Bangladesh ship a valid Convention Certificate, such Certificate shall, subject to the rules referred to in sub section (4), be accepted as having the same force as the corresponding Certificate issued in respect of a Bangladesh ship.
+(3) Where a valid Safety Convention Certificate is produced in respect of a passenger ship other than a Bangladesh ship and there is attached to the Certificate a memorandum which-
+(a) has been issued by or under the authority of the Government of the country to which the ship belongs, and
+(b) modifies, for the purpose of any particular voyage, in view of the number of persons carried on that voyage, the particulars stated in the certificates with respect to life saving appliances, the certificate shall have effect for the purpose of that voyage as if it were modified in accordance with the memorandum.
+(4) With a view to determining the validity in Bangladesh of certificates purporting to have been issued in accordance with the Safety Convention in respect of ships other than Bangladesh ships, the Government shall make such rules as appear to it to be necessary.

@@ -1,0 +1,3 @@
+# Power to call for official logs
+384. (1) The Government, or the Marine Board, or any Principal Officer, Surveyor, Shipping Master or Bangladesh Consular Officer may, by order in writing, at any time, call for the official log book of a ship for the purpose of inspection of the entries made therein, and the master or owner of the ship shall, unless the official log book has already been called under this section, produce the same at the time and place specified in the order.
+(2) If the master or owner fails, without reasonable cause, to comply with an order made under sub section (1), he shall, for each offence, be punishable with fine which may extend to five thousand Taka.

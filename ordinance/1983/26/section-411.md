@@ -1,0 +1,4 @@
+# Foreign sailing vessels not to engage in coasting trade without permission
+411. (1) A sailing vessel not owned by a citizen of Bangladesh or a company which fulfils the condition set out in sub clause (b) of clause (3) of section 2 shall not engage in the coasting trade of Bangladesh without the previous permission in writing of the Government.
+(2) The Government may, when granting such permission, impose such terms and conditions as it thinks fit and may require the owner or other person in charge of the vessel to deposit such amount as it thinks necessary as security for the due fulfilment of such terms and conditions.
+(3) The Collector of Customs shall not grant a port clearance to a sailing vessel not registered under this Chapter which engages or attempts to engage in the coasting trade of Bangladesh until after the production by the owner or person in charge of the vessel of the permission under sub section (1).

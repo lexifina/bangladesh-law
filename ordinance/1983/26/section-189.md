@@ -1,0 +1,2 @@
+# Inspection of crew accommodation when a ship is registered or re registered
+189. Whenever a ship to which the rules made under section 188 apply is registered or re registered in Bangladesh or the crew accommodation of a ship has been substantially altered or reconstructed, or a complaint in respect of crew accommodation has been made in accordance with the rules, and on such other occasion as may be required under the rules, a Surveyor shall inspect the crew accommodation and satisfy himself that the requirements of crew accommodation have been duly complied with.

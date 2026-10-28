@@ -1,0 +1,5 @@
+## Chapter 30
+## COLLISIONS AND ACCIDENTS
+# Collision Regulations
+368. (1) The Government may, by notification in the official Gazette, make regulations for the prevention of collisions at sea, and may thereby regulate the lights and shapes to be carried and exhibited, the fog signals to be carried and used, and the steering and sailing rules to be observed by Bangladesh ships, and by sailing vessels and fishing vessels registered in Bangladesh.
+(2) The Collision Regulations, together with the provisions of sections 369 and 370, shall also be observed, while within Bangladesh Jurisdiction, by all ships other than Bangladesh ships and by all sailing vessels and fishing vessels not registered in Bangladesh, and, in any case arising in any Court in Bangladesh concerning matters arising within Bangladesh jurisdiction, such ships and vessels shall, for the purpose of application of the Collision Regulations and the said provisions, be treated as if they were Bangladesh ships, or sailing vessels or fishing vessels registered in Bangladesh, as the case may be.

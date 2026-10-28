@@ -1,0 +1,4 @@
+# Observance of Collision Regulations
+369. (1) The owner or master of every ship and the owner, master or skipper of every sailing vessel or fishing vessel shall observe the Collision Regulations and shall not carry or exhibit any lights or shapes, or use any fog signals, other than those required by the said Regulations.
+(2) Any person who contravenes the provisions of sub section (1) shall, for each offence, be punishable with fine which may extend to twenty thousand Taka.
+(3) If any damage to person or property arises from the non observance by any such ship or vessel of any of the Collision Regulations, the damage shall be deemed to have been occasioned by the wilful default of the person in charge of the ship or the vessel, as the case may be, at the time, unless it is shown to the satisfaction of the Court that the circumstances of the case made a departure from the Regulations necessary.

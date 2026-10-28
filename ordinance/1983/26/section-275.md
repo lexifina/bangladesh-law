@@ -1,0 +1,2 @@
+# Penalty for landing special trade passenger at a port or place other than that contracted for
+275. If the master of a special trade passenger ship lands any special trade passenger at any port or place other than the port or place contracted for by the passenger, except with his previous consent, or except when the landing is made necessary by perils of the sea or an unavoidable accident, the master shall, for each offence, be punishable with imprisonment for a term which may extend to three months, or with fine which may extend to twenty thousand Taka, or with both.

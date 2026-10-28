@@ -1,0 +1,2 @@
+# Engagement in Bangladesh of single seaman for foreign ship
+114. If the master of a ship, not being a Bangladesh ship, has an agreement with the crew made in due form according to the law of the port at which she is registered or in which her crew were engaged and engages a single seaman, not being a Bangladeshi seaman, in any port in Bangladesh, the seaman may sign the agreement so made, and it shall not be necessary for him to sign an agreement under this Ordinance.

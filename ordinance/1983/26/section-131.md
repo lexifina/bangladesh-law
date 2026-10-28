@@ -1,0 +1,4 @@
+# Entries to be made in Continuous Discharge Certificate and return of Certificates of Competency to officers on discharge
+131. (1) If a seaman is discharged from a ship in Bangladesh, either on his discharge or on payment of his wages, the master shall enter in the Continuous Discharge Certificate of the seaman, under his signature, particulars specifying the period of the seaman's service and the date and place of his discharge.
+(2) The master shall, upon the discharge of every Certificated Officer whose Certificate of Competency has been delivered to and retained by him, return the Certificate to the officer.
+(3) If a master acts in contravention of sub section (1), or fails, without reasonable cause, to return the Certificate of Competency to the officer concerned as required by sub section (2), he shall, for each offence, be punishable with fine which may, in the former case, extend to one thousand Taka and in the latter to five hundred Taka.

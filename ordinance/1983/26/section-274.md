@@ -1,0 +1,2 @@
+# Penalty for fraudulent alteration in ship after certificate obtained
+274. If the master or a special trade passenger ship after having obtained any of the certificates mentioned in this Chapter fraudulently does or suffers to be done anything whereby the certificate becomes inapplicable to the altered state of the ship, or her special trade passengers, or other matters to which the certificate relates, he shall be punishable with imprisonment for a term which may extend to one year, or with a fine which may extend to twenty thousand Taka, or with both.

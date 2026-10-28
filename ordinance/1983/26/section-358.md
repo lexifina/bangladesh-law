@@ -1,0 +1,2 @@
+# Costs, etc., payable by Government to be recovered from complainant
+358. Where a ship is detained in consequence of any complaint, and the circumstances are such that the Government is liable under this Chapter to pay to the owner of the ship any costs or compensation, the complainant shall be liable to pay to the Government all such costs and compensation as the Government incurs, or is liable to pay, in respect of the detention and survey of the ship.

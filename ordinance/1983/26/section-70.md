@@ -1,0 +1,4 @@
+# Restriction on the use of certain ships, etc.
+70. (1) No ship, other than a Bangladesh ship, shall, except with the previous permission in writing of the Shipping Authority, be engaged or used in lighterage of foodgrains and other cargo or transhipment of any cargo other than foodgrains at any point within the territorial waters of Bangladesh for carriage to any destination within Bangladesh.
+(2) No foreign ship shall, except with the previous permission in writing of the Shipping Authority, use, for the purpose of loading and unloading of bulk cargo within the territorial waters of Bangladesh, any device or equipment which is not permanently attached to the ship.
+(3) Whoever contravenes the provisions of sub section (1) shall be punishable with imprisonment for a term which may extend to one year, or with fine which may extend to Taka ten thousand, or with both.

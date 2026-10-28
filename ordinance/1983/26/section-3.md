@@ -1,0 +1,3 @@
+# Power to alter conditions relating to ownership of Bangladesh Ship
+3. (1) The Government may, by notification in the official Gazette, alter the percentage of the share capital or of the voting power referred to in paragraph (ii) of sub clause (b) of clause (3) of section 2 from such date, not being earlier than the date of the notification, as may be specified therein.
+(2) A notification under sub section (1) shall not apply to a ship which is registered or deemed to be registered under this Ordinance, or for the registration of which application has been made, before the date specified in the notification; nor shall the notification be construed as affecting any right, privilege, obligation or liability acquired, accrued or incurred before such date.

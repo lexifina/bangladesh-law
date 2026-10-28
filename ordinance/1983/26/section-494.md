@@ -1,0 +1,2 @@
+# Notice to be given to consular representative of proceedings to be taken in respect of foreign ships
+494. If any ship other than a Bangladesh ship is detained under this Ordinance or if any proceedings are taken under this Ordinance against the master, owner or agent of any such ship, notice shall forthwith be served on the Consular Officer of the country in which the ship is registered, at or nearest to the port where the ship is for the time being, and such notice shall specify the grounds on which the ship has been detained or the proceedings have been taken

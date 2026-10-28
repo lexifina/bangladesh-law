@@ -1,0 +1,2 @@
+# Issue of Certificates to ships of foreign countries
+317. The Government may, at the request of the Government of a country to which the Safety Convention applies, cause an appropriate Safety Convention Certificate to be issued in respect of a ship of that country if it is satisfied in like manner as in the case of a Bangladesh ship that such Certificate can properly be issued, and, where a Certificate is issued at such a request, it shall contain a statement that it has been issued at such request.

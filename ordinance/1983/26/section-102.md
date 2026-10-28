@@ -1,0 +1,5 @@
+# Maintenance of list or Register of young persons in a ship
+102. (1) There shall be included in every agreement with the crew of every ship, whether a Bangladesh ship or not, which engages young persons in Bangladesh, a list of the young persons who are members of the crew, together with particulars of the dates of their birth, and in the case of any ship where there is no agreement, the master shall maintain a Register of young persons with particulars of the dates of their birth and of the dates on which they became or ceased to be members of the crew.
+(2) The Shipping Master may require the master of any ship where there is no such agreement as aforesaid to produce for inspection the Register maintained under sub section (1).
+(3) If any master fails to maintain the Register required to be maintained under sub section (1) or refuses or neglects to
+produce such Register for inspection when required so to do under sub section (2), he shall, for each offence, be punishable with fine which may extend to five thousand Taka.

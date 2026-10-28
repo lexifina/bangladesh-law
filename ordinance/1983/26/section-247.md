@@ -1,0 +1,2 @@
+# Grant of Passenger Ship Safety Certificate
+247. Upon the receipt of a declaration of survey, the Principal Officer shall, if satisfied that the provisions of this Chapter have been complied with, cause a Certificate, in duplicate, to be prepared and delivered, through such officer at the port at which the ship was surveyed as the Principal Officer may specify in this behalf, to the owner or master of the ship surveyed, on his applying and paying the sums, if any, prescribed as payable prior to delivery of a Certificate.

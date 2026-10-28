@@ -1,0 +1,2 @@
+# Special provision regarding punishment
+484. Notwithstanding anything contained in section 32 of the Code of Criminal Procedure, 1898 (Act V of 1898), a Magistrate of the first class may pass any sentence authorised by or under this Ordinance any person convicted of an offence under this Ordinance or rule or regulation made thereunder.

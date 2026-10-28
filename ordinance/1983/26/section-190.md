@@ -1,0 +1,3 @@
+# Bedding, towels, etc. to be provided
+190. (1) The owner of every Bangladesh foreign going ship, home trade ship, coasting ship and of every Bangladesh passenger ship shall supply or cause to be supplied to every seaman for his personal use such clothing, bedding, towels, mess utensils and other articles of such quality and according to such scales as may be prescribed.
+(2) If any requirement of sub section (1) is not complied with in the case of any ship, the owner thereof shall be punishable with fine which may extend to two thousand Taka, unless he proves that the non compliance was not caused by his inattention, neglect or wilful default.

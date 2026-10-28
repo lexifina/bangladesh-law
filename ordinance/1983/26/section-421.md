@@ -1,0 +1,2 @@
+# Power of Court as to evidence and regulation of proceedings
+421. For the purpose of any inquiry under this Chapter, the Court making the inquiry, so far as relates to compelling the attendance and examination of witnesses and the production of documents and the regulation of the proceedings, shall have the same powers as are exercisable by that Court in the exercise of its criminal jurisdiction.

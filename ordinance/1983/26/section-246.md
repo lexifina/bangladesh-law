@@ -1,0 +1,8 @@
+# Declaration of survey
+246. When a survey under this Chapter is completed, the Surveyor making it shall, if satisfied that he can with propriety do so forthwith, give to the Principal Officer a declaration of survey in the prescribed form containing the following particulars, namely:-
+(a) that the hull and machinery of the ship are sufficient for the service intended and in good condition;
+(b) that the equipment of the ship is in such condition and the Certificates of the master, mate or mates, and engineer or engineers and of the radio operators, are such as are required by this Ordinance and by any other law for the time being in force and applicable to the ship;
+(c) the time, if less than one year, for which the hull, machinery and equipment of the ship will be sufficient;
+(d) the voyages or class of voyages on which, as regards construction, machinery and equipment, the ship is in the Surveyor's judgement fit to ply;
+(e) the number of passengers which the ship is, in the judgement of the Surveyor, fit to carry, distinguishing, if necessary, between the respective numbers to be carried on the deck and in the cabins and in different parts of the deck and cabins; and number to be subject to such conditions and variations, according to the time of year, the nature of the voyage, the cargo carried or other circumstances as the case requires; and
+(f) any other prescribed particulars

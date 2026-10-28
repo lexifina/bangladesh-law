@@ -1,0 +1,2 @@
+# No port clearance until Passenger Ship Safety Certificate produced
+241. The Collector of Customs shall not grant a clearance, and a pilot shall not be assigned, to any ship for which a Passenger Ship Safety Certificate is required by this Chapter until after the production by the owner or master thereof of such Certificate in force and applicable to the voyage on which she is about to proceed and the service on which she is about to be employed.

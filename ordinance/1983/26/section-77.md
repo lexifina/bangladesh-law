@@ -1,0 +1,2 @@
+# Power of Shipping Authority to enter ship
+77. Where, in respect of any ship to which a licence has been granted or a directive is given in writing under the provisions of this Part, the Shipping Authority has reason to suspect that any of those provisions is not being complied with, it may enter or authorise any other person to enter on board the ship and ask for the relevant documents for examination.

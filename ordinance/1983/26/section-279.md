@@ -1,0 +1,2 @@
+# Information sent under section 278, etc. to be admissible in evidence
+279. In any proceeding for the adjudication of any penalty incurred under this Chapter, any document purporting to be particulars sent under sub section (1) of section 278, or a copy of the proceedings of any Court duly authenticated, and also any like document purporting to be made and signed by a Bangladesh Consular Officer shall be received in evidence, if it appears to have been officially transmitted to any officer at or near the place where the proceeding under this Chapter is held.

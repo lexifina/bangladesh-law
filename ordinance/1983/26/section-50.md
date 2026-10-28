@@ -1,0 +1,3 @@
+# Procedure for registration anew
+50. (1) Where a ship is to be registered anew, the Registrar shall proceed as in the case of first registration, and, on the delivery to him of the existing Certificate of Registry and on compliance with the other requirements for registration, shall register the ship anew, and grant a new Certificate of Registry.
+(2) When a ship is registered anew, the entries in the Register Book relating to her previous registration shall be considered as closed except so far as they relate to any unsatisfied mortgage, but the names of all persons appearing in those entries to be interested in the ship as owners or mortgagees shall be entered anew; and the registration anew shall not in any way affect the rights of any of those persons.

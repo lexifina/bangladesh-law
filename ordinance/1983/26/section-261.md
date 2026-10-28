@@ -1,0 +1,4 @@
+# Notice to be given about day of departure
+261. (1) The owner, agent or master of a special trade passenger ship intending to depart or proceed on a voyage from a port or place designated under section 260 shall give notice to an officer appointed in this behalf by the Government, hereinafter called the Certifying Officer, stating that the ship is to carry special trade passengers and also specifying her destination and the time at which it is proposed to depart or proceed.
+(2) The notice under sub section (1) shall be given not less than 24 hours before the time of the ship's departure from the first port in Bangladesh at which passengers are embarked.
+(3) The owner, agent and master of a ship in respect of which the provisions of sub section (1) are not complied with shall each be punishable with a fine which may extend to ten thousand Taka.

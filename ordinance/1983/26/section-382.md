@@ -1,0 +1,4 @@
+# Delivery of official logs
+382. (1) The master of every foreign going ship for which an official log is required to be kept shall, within forty eight hours after the ship's arrival at her final port of destination in Bangladesh or upon the discharge of the crew, whichever first happens, deliver the official log book of the voyage to the Shipping Master before whom the crew is discharged.
+(2) The master or owner of every home trade ship, and of every coasting ship for which an official log is required to be kept shall, within twenty one days of the thirtieth day of June and also of the thirty first day of December every year, transmit or deliver to a Shipping Master in Bangladesh the official log book for the next preceding half-year.
+(3) If the master or owner of a ship fails, without reasonable cause, to comply with this section, he shall be punishable with fine which may extend to five thousand Taka.

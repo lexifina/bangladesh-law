@@ -1,0 +1,2 @@
+# Power to register Government ships
+61. The Government may, by notification in the official Gazette, direct that, subject to such conditions and exceptions as may be specified therein, ships belonging to the Government, not being ships of or commissioned for service in the Bangladesh Navy, shall be registered under this Ordinance, and thereupon this Ordinance shall, subject to those conditions and exceptions, apply to such ships.

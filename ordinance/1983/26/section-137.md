@@ -1,0 +1,3 @@
+# Leaving behind in Bangladesh of seaman or apprentice shipped abroad
+137. (1) The master of a ship shall not discharge at any port or place in Bangladesh a seaman or apprentice shipped outside Bangladesh, unless he previously obtains sanction in writing of a Shipping Master, but such sanction shall not be refused when the seaman or apprentice is discharged on the expiration of the period for which the seaman was engaged or the apprentice was bound.
+(2) Subject to the provisions of sub section (1), the sanction under that sub-section may be given or refused at the discretion of the Shipping Master, but whenever it is refused, the reasons for so refusing it shall be recorded by him.

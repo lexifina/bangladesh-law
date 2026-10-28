@@ -1,0 +1,4 @@
+# Inspection of life saving appliances, etc.
+300. (1) A Surveyor may, at any reasonable time, inspect any ship to which the provisions of sections 296, 298 and 299, apply for the purpose of seeing that the ship complies with the requirements of the rules as to life saving appliances and fire appliances.
+(2) If the Surveyor finds that the ship fails to comply with the aforementioned requirements, he shall give to the master or owner notice in writing pointing out in what respect the ship fails to comply with them and what in his opinion is required to be done for compliance with them.
+(3) Every notice so given shall be communicated in the prescribed manner to the Collector of Customs of any port or place at which the ship may seek to obtain port clearance, and the ship shall be detained until a certificate signed by the Surveyor to the effect that the ship complies with the requirements of the rules as to life saving appliances and fire appliances is produced.

@@ -1,0 +1,2 @@
+# Power to exempt ships from the provisions of the Ordinance
+510. Notwithstanding anything contained in this Ordinance, the Government may, upon such conditions, if any, as it may think fit to impose, exempt any ship from any specified requirement contained in, or prescribed in pursuance of, this Ordinance or dispense with the observance of any such requirement in the case of any ship, if it is satisfied that requirement has been substantially complied with or that compliance with the requirement is unnecessary in the circumstances of the case.

@@ -1,0 +1,2 @@
+# Notice of trust not received
+58. No notice of any trust in respect of a ship or a share therein, express, implied or constructive, shall be entered in the Register Book or be receivable by the Registrar, and, subject to any rights and powers appearing from the Register Book to be vested in any other person, the person registered as the owner of the ship or of the share shall have power to dispose of the ship or share in the manner provided in this Ordinance and to give effectual receipts for any money paid or advanced by way of consideration.

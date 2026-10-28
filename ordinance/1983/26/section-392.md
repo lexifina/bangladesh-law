@@ -1,0 +1,4 @@
+# Change of ownership
+392. (1) No person shall transfer or acquire any fishing vessel registered under this Chapter or any interest therein without the previous approval in writing of the Government or an officer authorised by it in this behalf; and any transaction effected in contravention of this section shall be void.
+(2) Every change of ownership shall be reported, jointly by the registered owner and the new owner, to the Registrar in the prescribed form, and the Registrar shall make such inquiry as he thinks fit with respect to the change of ownership, and shall thereupon enter the name of the new owner in the Fishing Vessels Register and endorse the Certificate of Registry accordingly.
+(3) Whoever contravenes any of the provisions of this section, shall, for each offence, be punishable with imprisonment for a term which may extend to one year, or with fine which may extend to ten thousand Taka or with both.

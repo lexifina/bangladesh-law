@@ -1,0 +1,2 @@
+# Decisions on questions of forfeiture and deduction in suits for wages
+205. Any question concerning the forfeiture of, or deductions from, the wages of a seaman or apprentice may be determined in any proceeding lawfully instituted with respect to those wages notwithstanding that the offence in respect of which the question arises, though by this Ordinance made punishable by imprisonment as well as forfeiture, has not been made the subject of any criminal proceeding.

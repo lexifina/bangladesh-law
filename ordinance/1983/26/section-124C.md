@@ -1,0 +1,3 @@
+# Recovery of excess salary, repatriation cost, etc.
+124C. (1) if a seaman is guilty of realising salary or other benefits from the Master or owner of a foreign ship in excess of those admissible to him under the governing agreement in violation of provision of sub section (2) of section 124A, or if he is found guilty of desertion, he shall be liable to be tried in summary way and the excess amount realised or, as the case may be, the actual cost spent for his repatriation shall be recovered from the seaman as a public demand.
+(2) The amount recovered on account of excess salary or other benefit shall be refunded to the person from whom it was realised.

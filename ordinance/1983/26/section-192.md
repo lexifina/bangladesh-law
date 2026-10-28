@@ -1,0 +1,2 @@
+# Inspection by master of provisions, water and accommodation at sea
+192. The master of every Bangladesh ship while at sea shall, at least once in a week, cause an inspection to be made of the provisions and water provided for the use of the seamen and apprentices and the crew accommodation, for the purpose of ascertaining whether the same are being maintained in accordance with the requirements of this Ordinance and the person making the inspection shall enter a statement of the result of the inspection in a separate book kept for the purpose.

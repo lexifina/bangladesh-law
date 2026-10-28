@@ -1,0 +1,2 @@
+# Loss of Certificate
+86. Whenever a seaman proves to the satisfaction of the Director-General that he has, without any fault on his part, lost or been deprived of a Certificate of Competency already granted to him under this Chapter, the Director-General shall, on payment of such fee as may be prescribed, cause a copy of such Certificate to be granted to him or issue a duplicate thereof, and such copy or duplicate shall have all the effects of the original.

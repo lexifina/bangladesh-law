@@ -1,0 +1,9 @@
+# Procedure where seaman or apprentice not shipped in Bangladesh is imprisoned on complaint of master or owner
+210. (1) If any seaman or apprentice who is not shipped in Bangladesh is imprisoned on complain made by or on behalf of the master or owner of the ship or for any offence for which he has been sentenced to imprisonment for a term not exceeding one month then-
+(a) while such imprisonment lasts, no person shall, without the previous sanction in writing of the Government or of such officer as it may specify in this behalf, engage any citizen of Bangladesh to serve as substitute for such seaman on board such ship; and
+(b) the Government or such officer as it may specify in this behalf may tender such seaman or apprentice to the master or owner of the ship in which he is engaged to serve, and may, if such master or owner, without
+assigning reasons satisfactory to the Government or to such officer as aforesaid, refuses to receive on board the seaman or apprentice so tendered, require the master or owner to deposit in the local Shipping Office-
+(i) the wages due to such seaman or apprentice and his money and effects; and
+(ii) such sum as may, in the opinion of the Government or such officer as aforesaid, be sufficient to defray the cost of the passage of such seaman or apprentice to the port at which he was shipped according to the scale of costs usual in the case of distressed seamen.
+(2) If any person wilfully disobeys the prohibition contained in clause (a) of sub section (1), he shall be punishable with imprisonment for a term which may extend to three months, or with fine which may extend to five thousand Taka, or with both.
+(3) If any master or owner refuses or neglects to deposit any wages, money, effects or sum when so required under clause (b) of sub section (1), he shall be punishable with fine which may extend to five thousand Taka.

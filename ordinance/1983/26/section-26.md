@@ -1,0 +1,3 @@
+# Grant of certificate of registry
+26. (1) On completion of the registration of a Bangladesh ship, the Registrar shall grant a Certificate of Registry in the prescribed form containing the particulars respecting the ship as entered in the Register Book and the name of her master.
+(2) Every Registrar shall every year, not later than the 15th day of January and the 15th day of July, submit to the Registrar General a report in such form as the Government may direct, stating therein the particulars of all registries, cancellation of registry, transfers and any other relevant information in respect of the merchant ships registered by him during the six months preceding the month in which the report is required to be submitted.

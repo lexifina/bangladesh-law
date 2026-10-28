@@ -1,0 +1,3 @@
+# Disrating of seamen
+143. (1) Where the master of a ship disrates a seaman he shall forthwith enter or cause to be entered in the official log book a statement of the disrating and furnish the seaman with a copy of the entry; and any reduction of wages consequent of the disrating shall not take effect until the entry has been so made and the copy so furnished.
+(2) Any reduction of wages consequent on the disrating of a seaman shall be deemed to be a deduction from wages within the meaning of sections 141 and 142.

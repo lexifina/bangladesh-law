@@ -1,0 +1,3 @@
+# Surveyors
+6. (1) The Government may, by notification in the official Gazette, appoint for the Principal Mercantile Marine Office and each of its branch offices as many persons as it may consider necessary to be Surveyors for the purposes of this Ordinance; and such Surveyors may be nautical Surveyors, ship Surveyors, an engineer and ship Surveyors.
+(2) Where for the Principal Mercantile Marine Office or any of its branch offices no Surveyor has been appointed under sub section (1), the Government may authorise any person whom it considers qualified for the purpose to perform the functions of a Surveyor; and a person so authorised may perform all or any functions of a Surveyor under this Ordinance.

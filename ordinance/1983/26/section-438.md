@@ -1,0 +1,4 @@
+# Power of Government to cancel or suspend other certificates
+438. (1) Notwithstanding anything contained in this Ordinance, the Government may, at any time, without any enquiry, cancel or suspend any certificate granted by it under this Ordinance other than a certificate granted to a master, mate or engineer, if, in its opinion, the holder is, or has become, unfit to act in the grade for which the certificate was granted to him:
+Provided that no order under this section shall be passed by the Government unless the person concerned has been given an opportunity of making a representation against the order proposed.
+(2) The provisions of clause (b) of sub section (1) of section 435, and sub section (2) of that section shall apply to certificates cancelled or suspended under this section as they apply to the delivery of cancelled and suspended certificates under that section.

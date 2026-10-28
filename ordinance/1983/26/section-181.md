@@ -1,0 +1,11 @@
+## Chapter 15
+## PROVISIONS AND ACCOMMODATION FOR
+## SEAMEN AND THEIR HEALTH
+# Ships to have sufficient provisions and water
+181. (1) All Bangladesh ships and all ships for which seamen have been engaged in Bangladesh shall have on board sufficient provisions and water of good quality and fit for consumption of the crew on the scale specified in the agreement with the crew.
+(2) If any person making an inspection under section 191 finds that provisions or water are of bad quality and unfit for human consumption or deficient in quantity, he shall signify it in writing to the master of the ship, and may, if he thinks fit, detain the ship until the defects are remedied to his satisfaction.
+(3) If the master does not thereupon provide other proper provisions or water in lieu of any so signified to be of bad quality and unfit for human consumption, or does not procure the requisite quantity of any provisions or water so signified to be deficient in quantity or uses any provisions or water so signified to be of bad quality and unfit for human consumption, he shall, for each offence, be punishable with fine which may extend to two thousand Taka.
+(4) The person making the inspection shall enter a statement of the result of the inspection in the official log book, and shall, if he is not the Shipping Master, send a report thereof to the Shipping Master and that report shall be admissible in evidence in any legal proceeding.
+(5) If the inspection was made in pursuance of a request by members of the crew and the person making the inspection certified in the statement of the result of the inspection that there was no reasonable ground for the request, every member of the crew who made the request shall be liable to forfeit to the owner out of his wages a sum not exceeding one week's wages.
+(6) If a master fails to furnish provisions to a seaman in accordance with the agreement entered into by him, and the Court considers the failure to be due to the neglect or default of the master, or if a master furnishes to a seaman provisions which are bad in quality or unfit for human consumption, such master shall, for each offence, be punishable with fine which may extend to five thousand Taka.
+(7) Nothing in sub section (6) shall affect any claim for compensation under section 182.

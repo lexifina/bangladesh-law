@@ -1,0 +1,2 @@
+# Alteration in agreement with the crew
+122. Every erasure, interlineation or alteration in any agreement with the crew, except additions made for the purpose of shipping substitutes or persons engaged subsequently to the first departure of the ship, shall be wholly inoperative, unless proved to have been made with the consent of all the persons interested in such erasure, interlineation or alteration by the written attestation, if made in Bangladesh, of some Shipping Master, or, if made elsewhere, of a Bangladesh Consular Officer.

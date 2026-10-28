@@ -1,0 +1,2 @@
+# Liability of owners
+59. Where any person is beneficially interested otherwise than by way of mortgage in any ship or share in a ship registered in the name of some other person as owner, the person so interested shall, as well as the person registered as owner, be subject to all the pecuniary penalties which may be imposed under this Ordinance or any other law for the time being in force on the owners of ships or shares therein; and proceedings for the enforcement of any such penalties may be taken against both or either of them.

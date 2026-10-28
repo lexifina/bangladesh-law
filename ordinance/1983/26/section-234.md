@@ -1,0 +1,3 @@
+# Seaman’s property not to be detained
+234. (1) If a person receives or takes into his possession or under his control any money or other property of a seaman or apprentice and does not return the same or pay the value thereof when required by the seaman or apprentice, subject to deduction of such amounts as may be justly due to him from the seaman or apprentice in respect of board or lodging or otherwise, absconds therewith, he shall, for each offence, be punishable with imprisonment which may extend to one year, or with fine which may extend to five thousand Taka, or with both.
+(2) Any Court imposing a fine under sub-section (1) may direct the amount of such money or the value of the property itself to be forthwith paid or delivered to the seaman or apprentice.
