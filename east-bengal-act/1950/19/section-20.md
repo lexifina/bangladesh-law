@@ -1,0 +1,3 @@
+# Payment of interest
+20. When the amount of compensation awarded is not paid, or is not deposited under sub-section (1) of section 19, on or before the date on which possession is taken of the land, the Collector shall when paying or depositing such amount also pay or deposit, as the case may be, interest thereon at the rate of three per centum per annum from such date until the date on which such amount is paid or so deposited:
+Provided that such interest shall not be payable in the case where the persons entitled to the amount of compensation do not consent to receive it or where there is any dispute as to the title to receive it or as to its apportionment.

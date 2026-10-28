@@ -1,0 +1,3 @@
+# Appeal
+15. (1) Any person interested who has not accepted the award made by the Collector or the decision of the Collector regarding the amount of compensation payable under sub-section (2) of section 24 may, in the manner prescribed, prefer an appeal, within six weeks of the date of such award or decision, to the prescribed authority whether his objection be to the measurement of the land, the amount of the compensation, the persons to whom it is payable or the apportionment of the compensation among the persons interested or the decision under sub-section (2) of section 24.
+(2) The decision of the prescribed authority shall be final.

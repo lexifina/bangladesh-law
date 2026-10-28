@@ -1,0 +1,3 @@
+# Apportionment of compensation
+13. (1) Where there are several persons interested, if such persons agree to the apportionment of the compensation, the particulars of such apportionment shall be specified in the award, and as between such persons the award shall be conclusive evidence of the correctness of the apportionment.
+(2) When the amount of compensation has been settled under section 10, if any dispute arises as to the apportionment of the same or any part thereof or as to the persons to whom the same or any part thereof is payable, the Collector shall decide such dispute subject to rules made under this Act before making the award under sub-section (1) of that section.

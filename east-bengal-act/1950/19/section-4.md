@@ -1,0 +1,4 @@
+# Objections
+4. (1) Any person interested in any land which has been notified under sub-section (1) of section 3, as being needed or likely to be needed for a public purpose, may, within fifteen days after the issue of the notification, object to the acquisition of the land.
+(2) Every objection under sub-section (1) shall be made to the Collector in writing, and the Collector shall, after giving the objector an opportunity of being heard and after making such inquiry, if any, as he thinks necessary, submit the case for the decision of the Government together with the record of the proceedings held by him and a report containing his recommendations on the objections. The decision of the Government on the objections shall be final.
+(3) For the purpose of this section, a person shall be deemed to be interested in land who would be entitled to claim an interest in compensation if the land were acquired under this Act.
