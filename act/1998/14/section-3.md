@@ -1,0 +1,2 @@
+# Ben. Act I of 1932 এর সংশোধন
+৩৷ Motor Vehicles Tax Act, 1932 (Ben. Act I of 1932) এর- First Schedule এর পরিবর্তে এই আইনের দ্বিতীয় তফসিলে বর্ণিত তফসিল প্রতিস্থাপিত হইবে৷
