@@ -1,0 +1,3 @@
+# ১৪৷ Ordinance No. XXXVI of 1984 এর section 37 এর সংশোধন
+১৪৷ Income-tax Ordinance এর section 37 এর প্রথম proviso এর পরিবর্তে নিম্নরূপ proviso প্রতিস্থাপিত হইবে, যথা:-
+"Provided that any loss in respect of any speculation business or any loss under the head "Capital gains” or any loss from any other source, income of which is exempted from tax shall not be so set off, but shall, excluding any loss from any other source, income of which is exempted from tax, in accordance with the provisions of this Ordinance, be set off, or be carried forward to succeeding assessment year or years for set off, against any income in respect of speculation business or any income under the head "Capital gains;”|

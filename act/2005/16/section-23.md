@@ -1,0 +1,4 @@
+# ২৩৷ Ordinance No. XXXVI of 1984 এ নতুন section 53BB এর সন্নিবেশ
+২৩৷ Income-tax Ordinance এর section 53B এর পর নিম্নরূপ নতুন section 53BB সন্নিবেশিত হইবে, যথা:-
+"53BB. Collection of tax from export of knit-wear and woven garments.- The bank, through which export proceeds of an exporter of knit wear and woven garments is received, shall deduct tax at the rate of zero point two five per cent (0.25%) of the total export proceeds at the time of crediting the proceeds to the account of the exporter:
+Provided that where the Board, on an application made in this behalf, gives a certificate in writing that the income of the exporter is partly or fully exempted from tax under any provision of the Ordinance, credit to the account of the assessee shall be made without any deduction of tax or deduction of tax at a rate less than the rate specified in this section for the period mentioned in that certificate.”৷
