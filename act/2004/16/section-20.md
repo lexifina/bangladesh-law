@@ -1,0 +1,3 @@
+# ২০৷ Ordinance No. XXXVI of 1984 এর section 51 এর সংশোধন
+২০৷ Income-tax Ordinance এর section 51 এর sub-section (1) এর পরিবর্তে নিম্নরূপ sub-section (1) প্রতিস্থাপিত হইবে, যথা:-
+'(1) Unless the Government otherwise directs in the case of the security of the Government, or security approved by the Government, the person responsible for making any payment which constitutes income of the payee classifiable under the head "Interest on securities,” shall, subject to the provisions of sub-section (2), at the time of making such payment, deduct tax at the rate of twenty per cent on the amount so payable.”|

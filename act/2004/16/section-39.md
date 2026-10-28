@@ -1,0 +1,4 @@
+# ৩৯৷ Ordinance No. XXXVI of 1984 এর section 158 এর সংশোধন
+৩৯৷ Income-tax Ordinance এর section 158 এর sub-section (2) এর পরিবর্তে নিম্নরূপ sub-section (2) প্রতিস্থাপিত হইবে, যথা:-
+"(2) No appeal under sub-section (1) shall lie against an order of the Appellate Joint Commissioner or the Commissioner (Appeals), as the case may be, unless the assessee has paid fifteen per cent of the amount representing the difference between the tax as determined on the basis of the order of the Appellate Joint Commissioner or the Commissioner (Appeals), as the case may be, and the tax payable under section 74:
+Provided that on an application made in this behalf by the assessee, the Commissioner of Taxes, may reduce, the requirement of such payment if the grounds of such application appears reasonable to him.”|
