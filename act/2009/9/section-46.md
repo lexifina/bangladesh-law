@@ -1,0 +1,3 @@
+# ৪৬৷ Ordinance No. XXXVI of 1984 এর section 117 এর সংশোধন৷
+৪৬৷ উক্ত Ordinance এর section 117 এর sub-section (4) এর শেষ প্রান্তস্থিত ফুলষ্টপের পরিবর্তে কোলন প্রতিস্থাপিত হইবে এবং অতঃপর নিম্নরূপ নূতন proviso সংযোজিত হইবে, যথাঃ-
+"Provided that if the owner or the person concerned, with out any reasonable cause, fails to comply with the provisions of this sub-section, the Deputy Director General, Central Intelligence Cell or the Deputy Commissioner of Taxes may realize from him the money or the value of the bullion, jewellery, valuable article or thing, if any, removed, parted with or otherwise dealt with; and in such a case the said person shall be deemed to be an assessee in default under this Ordinance."৷
