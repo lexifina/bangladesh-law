@@ -1,0 +1,3 @@
+# Power of arrest
+4.(1) Any officer of police, not below the rank of a sub-inspector, and any officer of the Customs Department empowered by a general or special order of the Government in this behalf may arrest without warrant any person who has contravened or against whom a reasonable suspicion exists that he has contravened any rule or order made under section 3.
+(2) Every officer making an arrest under this section shall, without unnecessary delay, take or send the person arrested before a Magistrate having jurisdiction in the case or to the officer in charge of the nearest police-station and the provisions of section 61 of the Code of Criminal Procedure, 1898, shall, so far as may be, apply in the case of any such arrest.
