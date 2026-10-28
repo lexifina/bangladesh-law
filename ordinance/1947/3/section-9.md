@@ -1,0 +1,3 @@
+# Recovery of premiums unpaid-
+9. (1) Where any person has failed to insure as, or to the full amount required by this Ordinance and has thereby evaded the payment by way of premium of any money which he would have had to pay but for such failure, an officer authorised in this behalf by the Government may determine the amount, payment of which has been evaded. The amount so determined shall be payable by such person and shall be recoverable from him as an arrear of land revenue and shall be a first charge on the property in respect of which the default was made.
+(2) A person against whom a determination is made under sub section (1) may, within the prescribed period appeal against such determination to the Government whose decision shall be final.
