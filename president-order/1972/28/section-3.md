@@ -1,0 +1,3 @@
+3. (1) On the coming into force of this Order, there shall be established a Corporation to be called the Bangladesh Inland Water Transport Corporation for carrying out the purposes of this Order.
+(2) The Corporation shall be a body corporate, having perpetual succession and a common seal with power, subject to the provisions of this Order, to acquire, hold and dispose of property, both movable and immovable, and shall by the said name sue and be sued.
+(3) The Corporation shall establish its head office at Dacca.

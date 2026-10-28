@@ -1,0 +1,2 @@
+24. If, after assessment of the assets and liabilities of any company, firm or individual transferred to the Corporation under Article 23, the value of the assets exceed the value of the liabilities, the Government shall, in respect of the excess pay, such compensation as it may determine to such person as it may find to be entitled thereto:
+Provided that no compensation shall be payable in respect of any assets which have already vested in the Government by or under any law.

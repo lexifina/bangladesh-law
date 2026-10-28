@@ -1,0 +1,1 @@
+18. The Corporation shall, by such date in each year as may be prescribed by rules, submit to the Government for approval a statement, to be called the Annual Budget Statement, in the prescribed form for each financial year showing the estimated receipts and expenditure and the sums which are likely to be required form the Government during that financial year.
