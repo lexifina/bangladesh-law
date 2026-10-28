@@ -1,0 +1,2 @@
+# Complaint by a police officer
+7. Without prejudice to the right of any other person to make a complaint of an offence under this Act, a Police Officer not below the rank of sub-inspector who receives information that such an offence has been committed, shall, if he is satisfied as to the truth of the information, make a complaint of the offence in writing to the nearest Magistrate having jurisdiction.

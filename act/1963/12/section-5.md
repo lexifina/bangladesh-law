@@ -1,0 +1,2 @@
+# Confiscation of documents, etc., containing indecent advertisements
+5. Any person authorised by the Government in this behalf may, at any time, seize and detain any document, article or thing which such person has reason to believe contains any advertisement which contravenes any of the provisions of this Act and the Court trying such contravention may direct that such document (including all copies thereof), article or thing shall be forfeited to the Government.
