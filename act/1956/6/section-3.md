@@ -1,0 +1,3 @@
+# Appointment of Commission
+3. (1) The Government may, if it is of opinion that it is necessary so to do, by notification in the official Gazette, appoint a Commission of Inquiry for the purpose of making an inquiry into any definite matter of public importance and performing such functions and within such time as may be specified in the notification, and the Commission so appointed shall make the inquiry and perform the functions accordingly.
+(2) The Commission may consist of one or more members appointed by the Government, and where the Commission consists of more than one member, one of them may be appointed as the President thereof.

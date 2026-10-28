@@ -1,0 +1,2 @@
+# Protection of action taken in good faith
+9. No suit or other legal proceedings shall lie against the Government, the Commission or any member thereof, or any person acting under the direction either of the Government or of the Commission in respect of anything which is in good faith done or intended to be done in pursuance of this Act or of any rules or orders made thereunder or in respect of the publication, by or under the authority of the Government or the Commission, of any report, paper or proceedings.
