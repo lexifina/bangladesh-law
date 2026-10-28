@@ -1,0 +1,2 @@
+# Claims to be made to Collector or other authorized officer
+5. Any person having a claim relating to any such pension or grant may prefer such claim to the Collector of the District or Deputy Commissioner or other officer authorized in this behalf by the Government; and such Collector, Deputy Commissioner or other officer shall dispose of such claim in accordance with such rules as the Chief Revenue-authority may, subject to the general control of the Government, from time to time prescribe in this behalf.
