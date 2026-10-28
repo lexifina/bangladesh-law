@@ -1,0 +1,2 @@
+20. A scheme framed and sanctioned under this Order may be amended or modified by the Board concerned at any time but, if a material change is made in the scheme, previous sanction of the Government shall be obtained.
+Explanation.- An increase in the cost of the scheme by more than fifteen per cent of the sanctioned costs, or a change in the benefit and cost ratio which either makes the cost component in the ratio exceed the benefit or reduces the benefit component by more than fifteen per cent shall be deemed to be a material change for the purpose of this Article.

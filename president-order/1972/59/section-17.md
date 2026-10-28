@@ -1,0 +1,7 @@
+17. (1) Each Board may take such measures and exercise such powers as it considers necessary or expedient for carrying out the purposes of this Order.
+(2) Without prejudice to the generality of the power conferred by clause (1), each Board may-
+(a) undertake any works, incur any expenditure within the budget or any special allotment, procure plant, machinery and materials required for its use and enter into and perform all such contracts as it may consider necessary or expedient;
+(b) acquire by purchase, lease, exchange or otherwise any land or interest in land and dispose of by sale, lease, exchange or otherwise such land or any interest in such land;
+(c) seek and obtain advice and assistance in the preparation or execution of a scheme from any local authority or agency of the Government and such local authority or agency shall give the advice and assistance sought by the Board to the best of its ability, knowledge and judgment:
+Provided that the Board shall pay the cost of such advice and assistance if the giving of such advice and assistance entails additional expenditure to the local authority or the agency.
+(3) The acquisition of any land or any interest in land for a Board under this Article or for any scheme under this Order shall be deemed to be an acquisition for a public purpose within the meaning of the Land Acquisition Act, 1894 (Act I of 1894), or any other law for the time being in force, and the provisions of the said Act or law shall apply to all such proceedings.

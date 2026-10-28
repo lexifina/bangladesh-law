@@ -1,0 +1,1 @@
+35. All rules and regulations made under the East Pakistan Water and Power Development Authority Ordinance, 1958 (E.P. Ord. No. I of 1959), and in force immediately before the repeal thereof shall, mutatis mutandis and so far as they are not inconsistent with the provisions of this Order, continue in force until repealed or altered by rules or regulations made under this Order.

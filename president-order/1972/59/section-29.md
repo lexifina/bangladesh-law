@@ -1,0 +1,3 @@
+29. (1) Each Board shall furnish to the Government such returns, reports and statements as the Government may from time to time require.
+(2) Each Board shall, as soon as possible after the end of every financial year, furnish to the Government a statement of accounts audited by the Auditor-General or auditor under Article 28 together with an annual report giving therein a true and faithful account of its activity during that year and its proposal for the next ensuing financial year.
+(3) The copies of the audited accounts and annual report received by the Government under clause (2) shall be published in the official Gazette and shall be laid before the Legislature.
