@@ -1,0 +1,6 @@
+# Abolition of Housing and Building Research Centre
+22. Notwithstanding anything contained in any other law for the time being in force or in any rules or regulations, on the commencement of this Ordinance, the Housing and Building Research Centre at Dar-us-Salam, Mirpur, Dacca, hereinafter referred to as the said Centre, shall stand abolished and upon such abolition-
+(a) all assets, including lands and buildings, workshops, machinery, apparatus and materials of the said Centre shall stand transferred to, and vest in, the Institute;
+(b) all debts, liabilities and obligations of the said Centre subsisting immediately before such abolition shall be the debts, liabilities and obligations of the Institute;
+(c) all officers and other employees of the said Centre shall, notwithstanding anything contained in their terms and conditions of service, stand transferred to the Institute and shall hold office or service in the Institute on the same terms and conditions as were enjoyed by them immediately before such transfer and shall continue to do so until the terms and conditions are duly altered by the Institute or the Government:
+Provided that an officer or employee of the said Centre may, within such time as may be specified by the Institute, exercise his option not to continue in the service of the Institute.
