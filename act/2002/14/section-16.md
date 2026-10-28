@@ -1,0 +1,5 @@
+# Act IV of 1969 এর section 96 এর সংশোধন
+১৬৷ Customs Act এর section 96 এর পরিবর্তে নিম্নরূপ section 96 প্রতিস্থাপিত হইবে, যথা:-
+“96. Payment of rent and warehouse dues.-(1) The owner of any warehoused goods shall pay to the warehouse-keeper rent and other charges at the rates fixed under any law for the time being in force or where no rates are so fixed, at such rates as may be fixed by the Commissioner of Customs (Bond) or any other Commissioner of Customs or by agreement between the owner of the warehouse and the owner of warehoused goods.
+(2) A table of the rates of rent and other charges fixed under sub-section (1) shall be displayed in a conspicuous part of such warehouse.
+(3) If any rent or other charges are not paid within ten days from the date when they become due, the warehouse-keeper may, after due notice to the owner of the warehoused goods and with the permission of the appropriate officer, cause to be sold (any transfer of the warehoused goods notwithstanding) such portion of the goods as may be sufficient to realise the unpaid rent and other charges.”|

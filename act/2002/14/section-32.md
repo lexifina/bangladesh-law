@@ -1,0 +1,3 @@
+# ৩২৷ Ordinance No. XXXVI of 1984 এ নতুন section 19AAA এর সন্নিবেশ
+৩২৷ Income-tax Ordinance এর section 19AA এর পর নিম্নরূপ নতুন section 19AAA সন্নিবেশিত হইবে; যথা:-
+“19AAA. Exemption in respect of investment.- Notwithstanding anything contained in this Ordinance or any other law for the time being in force, any investment made by an assessee, being an individual, firm, association of persons or a private limited company between the first day of July, 2002 and thirtieth day of June, 2005 (both days inclusive) in any trade, commercial or industrial venture, engaged in production of goods or services shall be exempted from tax and no question as to the source of such investment shall be raised.”|

@@ -1,0 +1,2 @@
+# Taxes Settlement Commission এর অনিষ্পন্ন মামলা সংক্রান্ত বিধান
+৭১৷ এই আইন দ্বারা Taxes Settlement Commission বিলোপের তারিখে উক্ত Commission এ কোন দরখাস্ত কিংবা মামলা অনিষ্পন্ন থাকিলে উক্ত অনিষ্পন্ন দরখাস্ত এবং মামলা Taxes Appellate Tribunal এ তাত্ক্ষণিকভাবে স্থানান্তরিত (stand transfer) হইয়াছে বলিয়া গণ্য হইবে, এবং Taxes Appellate Tribunal স্থানান্তরিত দরখাস্ত এবং মামলা এইরূপে নিষ্পন্ন করিবে যেন স্থানান্তরিত হওয়ার তারিখে উহা Taxes Appellate Tribunal এ দায়ের করা হইয়াছে৷

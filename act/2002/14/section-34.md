@@ -1,0 +1,3 @@
+# ৩৪৷ Ordinance No. XXXVI of 1984 এ নতুন section 19BB এর সন্নিবেশ
+৩৪৷ Income-tax Ordinance এর section 19B এর পর নিম্নরূপ নতুন section 19BB সন্নিবেশিত হইবে, যথা:-
+“19BB. Special tax treatment in respect of investment in land property.- Notwithstanding anything contained in this Ordinance or any other law for the time being in force, no question as to the source of any sum invested by any person in purchasing of any land situated in city corporation or pourashava or cantonment board shall be raised if the assessee pays, before the assessment is completed for the relevant assessment year, tax at the rate of five per cent of the deed value of the said land.”|
