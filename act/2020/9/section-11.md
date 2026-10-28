@@ -1,0 +1,3 @@
+# Act No. IV of 1969 এর section 156 এর সংশোধন
+১১। Act No. IV of 1969 এর section 156 এর সংশোধন ।— উক্ত Act এর Section 156 এর sub-section (1) এর Table এর Offences কলাম এর 14 নং ক্রমিকে বর্ণিত Offence এর বিপরীতে Penalties কলাম এর এন্ট্রির পরিবর্তে নিম্নরূপ এন্ট্রি প্রতিস্থাপিত হইবে, যথা:—
+“Such person shall be liable to a penalty at least twice but not exceeding four times the amount of the tax evaded in respect of which such offence is committed and such goods shall be liable to confiscation; and upon conviction by a Magistrate such person shall further be liable to rigorous imprisonment for a term not exceeding five years or to a fine not exceeding Taka fifty thousand or to both.”।

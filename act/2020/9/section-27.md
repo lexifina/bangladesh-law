@@ -1,0 +1,3 @@
+# Ordinance No. XXXVI of 1984 এর section 51 এর প্রতিস্থাপন
+২৭। উক্ত Ordinance এর section 51এর পরিবর্তে নিম্নরূপ section 51প্রতিস্থাপিত হইবে, যথা:—
+“51. Deduction at source from discount, interest or profit on securities.— Any person responsible for issuing a security of the Government, or security approved by the Government or Bangladesh Securities and Exchange Commission, income of which is classifiable under the head “interest on securities”, shall collect income-tax at the rate of five percent (5%) on discount, intererst or profit on securities at the time of making payment or credit, whichever is earlier.”।

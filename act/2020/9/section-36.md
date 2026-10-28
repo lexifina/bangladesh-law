@@ -1,0 +1,3 @@
+# Ordinance No. XXXVI of 1984 এর section 53BBB এর প্রতিস্থাপন
+৩৬। উক্ত Ordinance এর section 53BBB এর পরিবর্তে নিম্নরূপ section 53BBB প্রতিস্থাপিত হইবে, যথা:—
+“53BBB. Collection of tax from Member of Stock Exchanges.—The Chief Executive Officer of a stock exchange shall collect tax at the rate of “zero point zero five percent (0.05%)”on the value of shares and mutual funds transacted by a member of a stock exchange and at the rate of ten percent (10%) on the commission received or receivable by a member of a stock exchange for the transaction of securities other than shares and mutual funds at the time of making payment for such transactions.”।

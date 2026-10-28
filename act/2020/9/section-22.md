@@ -1,0 +1,3 @@
+# Ordinance No. XXXVI of 1984 এর section 31এর পর নূতন section 31A এর সন্নিবেশ
+২২। উক্ত Ordinance এর section 31 এর পর নিম্নরূপ নূতন section 31A সন্নিবেশিত হইবে, যথা:—
+“31A. Capital gains from the transfer of business or undertaking.— Tax shall be payable by an assessee on “capital gains from the transfer of business or undertaking” in respect of any profits and gains arising from the transfer of business or undertaking in its entirety with all of its assets and liabilities and such profits and gains shall be deemed to be the income of the assessee in respect of the income year during which the transfer takes place.”।
