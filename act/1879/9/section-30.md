@@ -1,0 +1,3 @@
+# Production of minor proprietor, and order for his temporary custody
+30. A Collector acting under the last preceding section may direct that any person who has the custody of a minor heir of any such deceased proprietor shall produce such minor before such Collector or before any other Collector on a day fixed; and the Collector before whom the minor is so produced may make such order for the temporary custody and protection of such minor as to him may seem fit.
+If the minor is a female, she shall not be brought into the presence of the Collector, but the Collector may take such steps for her identification as he may think fit.

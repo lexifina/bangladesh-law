@@ -1,0 +1,2 @@
+# When Court may order property to be formed into separate estate
+19. If the Court thinks it expedient to direct the sale or mortgage of any part of an estate of which the ward is the sole proprietor, it may order the Collector to partition off such part into a separate estate; and the demand of land-revenue and of the cesses for which the original estate was liable shall be assessed upon and divided between the two separate estates so formed, respectively, in such manner as the Court, with the sanction of the Government, may direct.

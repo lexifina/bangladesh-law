@@ -1,0 +1,2 @@
+# Application of proceeds of estate farmed under section 24
+26. When an estate has been farmed under the provisions of section 24, the proceeds of such farm shall be paid to the Collector; and the Collector, after deducting the amount of the claims of the Government for revenue and other public demands, and the charges of management, shall either pay the proceeds to the person authorized to receive them for the proprietor, or shall dispose of them in any of the modes mentioned in section 49 or in section 50.

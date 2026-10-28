@@ -1,0 +1,3 @@
+# For disobeying orders under section 47
+58. Any person who refuses to comply with an order made under section 47 may be punished, by order of the Court, with simple imprisonment and attachment of his property until the order is complied with:
+Provided that the Collector may release any person who has been so imprisoned, on his furnishing sufficient security for his attendance and for the delivery of the accounts or property required within such time as the Collector shall think fit. The Collector may, at any time, rescind such order or release, and direct that effect shall be given to the previous order of imprisonment.

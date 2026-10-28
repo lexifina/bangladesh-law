@@ -1,0 +1,2 @@
+# Application to Civil Court in case of lunatics
+31. If a sole proprietor of an estate is reported by a Collector to be of unsound mind and incapable of managing his affairs, the Court may order the Collector making such report, or such other Collector as the Court may appoint, to apply, in pursuance of the provisions of the Lunacy Act, 1912, to the Civil Court of the district within the jurisdiction of which such proprietor may reside.

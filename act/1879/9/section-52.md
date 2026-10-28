@@ -1,0 +1,2 @@
+# Power of Court of Wards to nominate another person to be next friend or guardian for suit
+52. The Court of Wards may, by an order, nominate or substitute any other person to be next friend or guardian for any such suit; and, upon receiving a copy of any such order of substitution, the Civil Court in which such suit is pending shall substitute the name of the next friend or guardian for suit so appointed for the name of the manager or Collector.

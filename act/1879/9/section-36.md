@@ -1,0 +1,3 @@
+# Collector to take possession of movable property
+36. As soon as conveniently may be after an order is made under the provisions of section 35, the Collector of every district within which any part of the ward's property may be situated, or some person authorized in writing by him in that behalf, shall take possession of all accounts, papers and movable property of the ward, and place under proper custody such portion thereof as he may think necessary.
+Any such Collector, or some person authorized as aforesaid may, in case he has reason to believe that any such account, paper or property is in any room, box or receptacle within any house in the actual possession of the ward, break open the same for the purpose of searching for such account, paper or property.

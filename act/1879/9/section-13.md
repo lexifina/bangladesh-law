@@ -1,0 +1,2 @@
+# Procedure when succession to property of ward disputed
+13. Whenever, on the death of any ward, the succession to his property or any part thereof is in dispute, the Court may either direct that such property or part thereof be made over to any person claiming such property, or may retain charge of the same until the right to possession of the claimant has been determined under Act VII of 1876 or under the Assam Land and Revenue Regulation, 1886, as the case may be, or until the dispute has been determined by a competent Civil Court.
