@@ -1,0 +1,2 @@
+# Act No. V of 1898 এর section 51 এর সংশোধন
+৪। উক্ত Code এর section 51 এর শেষে উল্লিখিত “him” শব্দটির পর “; and where any article is seized from the arrested person, the officer shall prepare a list in the presence of a witness and obtain his signature, if practicable, and shall serve a copy thereof to the arrested person or to any person nominated by him” সেমিকোলন, শব্দগুলি ও কমাগুলি সন্নিবেশিত হইবে।

@@ -1,0 +1,5 @@
+# Act No. V of 1898 এ নূতন section 167A এর সন্নিবেশ
+১১। উক্ত Code এর section 167 এর পর নিম্নরূপ নূতন section 167A সন্নিবেশিত হইবে, যথা:-
+“167A. Duties of Magistrates in relation to shown arrest and detention.—(1) Where the officer making the investigation in a case seeks a person who is already in custody in another case to be shown arrested in that case, the Magistrate shall not allow such prayer unless the arrested person is produced before him along with a copy of the entries in the diary relating to such case and given opportunity of being heard and unless the application appears to be well-founded.
+(2) The Magistrate shall not authorize the detention of any person in judicial custody where the police forwarding report discloses that the arrest has been made for the purpose of detaining him under any law providing for preventive detention.
+(3) If the Magistrate has reason to believe that any officer who has legal authority to commit a person in confinement has acted contrary to law, he shall proceed against such officer under section 220 of the Penal Code.”।

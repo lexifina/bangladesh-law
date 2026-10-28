@@ -1,0 +1,3 @@
+# Act No. V of 1898 এ নূতন section 67A এর সন্নিবেশ
+৭। উক্ত Code এর section 67 এর পর নিম্নরূপ নূতন section 67A সন্নিবেশিত হইবে, যথা:—
+“67A. Procedure in case of non-compliance with provisions relating to arrest.—The Magistrate or Court, as the case may be, before whom the arrested person is produced, shall examine whether the provisions of this Code relating to arrest have been duly complied with by the officer making the arrest; and if the Magistrate or Court finds that any such provision or provisions have been negligently violated or not complied with, he or it may, for reasons to be recorded in writing, direct appropriate action to be taken against the concerned officer in accordance with the applicable service rules.”।
