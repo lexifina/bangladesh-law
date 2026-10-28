@@ -1,0 +1,2 @@
+# Powers of the Commissioner, etc., in taking evidence
+33. The Commissioner, the Collector, and a committee appointed under section 9 shall have all such powers as are conferred on a Civil Court by the Code of Civil Procedure, 1908, for the purpose of compelling the attendance of witnesses and the production of evidence, and for the purpose of examining witnesses in any inquiry, or appeal, as the case may be, which they may be empowered to make or entertain under this Act.

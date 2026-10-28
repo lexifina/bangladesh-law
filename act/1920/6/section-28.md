@@ -1,0 +1,2 @@
+# Drainage works subject to laws relating to public embankments
+28. All outlets and water-channels, natural or artificial, included in a scheme under this Act, whether reconstructed, cleared, altered, enlarged, excavated or cut under this Act or not, and the construction and maintenance of embankments and dams and works therein, or connected therewith, shall be subject to the law for the time being in force regulating the construction and maintenance of public embankments, rivers, channels and outlets.

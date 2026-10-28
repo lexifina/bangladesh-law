@@ -1,0 +1,2 @@
+# Procedure in the case of major schemes Appointment of committee
+9. In the case of major schemes, the Collector shall, as soon as possible after the receipt of the scheme, in addition to the publication required by section 6, refer it to the Commissioner, and the Commissioner shall forthwith appoint a committee, to be constituted in the prescribed manner, with the Collector as Chairman, representing the local authorities and the landowning, cultivating and other interests of the area to which the scheme relates.

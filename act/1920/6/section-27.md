@@ -1,0 +1,2 @@
+# Additional costs
+27. If, after the apportionment of the cost of the work as above provided, any expenses not included in such apportionment shall be found to have been paid, or to have become payable, on account of the said work, whether as compensation, or otherwise, or if the amount recovered is insufficient to cover the cost of the scheme, the Collector may proceed to distribute, apportion and recover such additional cost, or deficiency; and the procedure set out in section 18 and the following section shall then apply.

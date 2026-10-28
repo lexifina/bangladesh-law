@@ -1,0 +1,5 @@
+# Committee to consider major schemes
+10.(1) On the expiry of the period fixed by the notice published under section 6, the committee shall proceed in the prescribed manner to consider any objections or suggestions in regard to the scheme received by the Collector, and may either accept the scheme with such modifications as it may deem necessary, or reject it.
+(2) Whenever a scheme has been accepted by the committee, it shall frame proposals, in the prescribed manner, regarding the method in which, and the conditions subject which, the cost of the work shall be financed and distributed.
+(3) An appeal shall lie to the Government against every order by the committee under sub-section (1) or (2), within sixty days of such order.
+(4) It shall be in the discretion of the Government, in the case of any scheme rejected by the committee under sub-section (1), of their own motion, to cancel or modify such order, and in such case the committee shall be required to frame proposals for financing and distributing the cost of the work as sanctioned by the Government, in the manner set out in sub section (2).

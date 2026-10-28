@@ -1,0 +1,4 @@
+## APPLICATION FOR CONSTRUCTION OF WORKS AND PROCEDURE THEREON
+# Procedure by the Collector on receipt of application for the undertaking of a work
+3. Whenever an application is received by the Collector from a local authority, or local authorities, or any person, or persons, recommending the undertaking of any work for the improvement, or for the prevention of the deterioration, of the agricultural or sanitary condition of any area, or if the Collector is himself of opinion that the undertaking of any such work is necessary, he shall cause such inquiries as he may deem necessary to be made and shall thereafter consult the local authority or local authorities concerned:
+Provided that if after such inquires, the Collector is satisfied that the proposed work will constitute a minor scheme which is mainly agricultural in character, reference to any local authority shall not be necessary but may be made if the Collector deems it desirable.
