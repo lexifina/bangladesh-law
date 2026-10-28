@@ -1,0 +1,2 @@
+# Application of Act reciprocal
+3. If the Government is satisfied that the Government of any country within the Commonwealth has made provision for extending to the representatives of the Government of Bangladesh attending conferences in that country and their official staff immunities similar to those provided for in this Act, it may, by notification in the official Gazette, declare that this Act applies to such country, and thereupon the provisions of this Act shall, during the period such notification remains in force, apply accordingly.
