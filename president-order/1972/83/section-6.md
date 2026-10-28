@@ -1,0 +1,1 @@
+6. The standard weight of the coins of any denomination coined under the provisions of Article 4, and the remedy allowed in the making of such coins shall be such as may be prescribed in this behalf by the Government.
