@@ -1,0 +1,8 @@
+# Powers of the Vice Chancellor
+13. (1) The Vice Chancellor shall be the principal executive and academic officer of the University and shall, if present, preside at the meetings of the Syndicate, the Academic Council, the Faculties, the Committee for Advanced Studies and Research, the Selection Board, the Finance Committee and the Planning and Development Committee. In the absence of the Chancellor, he shall preside at the Convocations of the University. He shall be entitled to attend and preside at any meeting of any Authority or other body or committee of the University.
+(2) The Vice Chancellor shall ensure that the provisions of this Ordinance, the Statutes and the University Ordinance are faithfully observed and carried out, and he shall exercise all powers necessary for this purpose.
+(3) In an emergency arising out of the business of the University and requiring, in the opinion of the Vice-Chancellor, immediate action, the Vice Chancellor may take such action as he may deem necessary, and shall report the action so taken to the Authority concerned as early as possible.
+(4) The Vice Chancellor shall have the power to appoint, punish or dismiss such employees of the University as may be laid down in the Statutes.
+(5) The Vice Chancellor shall have the power to create and fill temporary posts for a period not exceeding six months.
+(6) The Vice Chancellor may, subject to such conditions as may be prescribed by the Statutes, delegate any of his powers to such officers and employees of the University as he may determine.
+(7) The Vice Chancellor shall exercise such other powers as may be prescribed by the Statutes.
