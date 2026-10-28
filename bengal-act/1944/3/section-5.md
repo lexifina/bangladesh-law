@@ -1,0 +1,6 @@
+# Licence to open or to carry on an orphanage, a widows’ home or a marriage bureau
+5. (1) Subject to the provisions of sub section (2) the District Magistrate may, on receipt of an application in the prescribed form containing the prescribed particulars, grant to any person a licence for the opening and carrying on or the carrying on of an orphanage, a widows' home or a marriage bureau (hereinafter referred to as the said institution) on such conditions as may be prescribed in this behalf.
+(2) The District Magistrate shall refuse to grant a licence under sub section (1) unless he is satisfied
+(a) that for the control and supervision of the said institution a society has, subject to such rules as may be made in this behalf by the Government, been formed and registered under the Societies Registration Act, 1860, the provisions of which shall, notwithstanding anything to the contrary contained in that Act, apply to every such institution as if such institution is a charitable society;
+(b) that the members of the society are respectable persons of the locality where the said institution is or is to be located;
+(c) that the said institution is or is to be located in a healthy locality and the accommodation therein is sufficient for the purpose for which it is to be opened or is being carried on.

@@ -1,0 +1,2 @@
+# Inspection of the institution
+7. The District Magistrate or any Magistrate authorised in writing in this behalf by the District Magistrate or any person not in the Government service when authorised in writing in this behalf by the District Magistrate may enter and inspect any orphanage, widows' home or marriage bureau at any time by day or night and the society having control of such institution and the persons in charge thereof shall not refuse such entry or inspection.
