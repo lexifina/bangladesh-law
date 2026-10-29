@@ -1,0 +1,5 @@
+.autopush.json
+.tmp-build/
+.tmp/
+.tmp-build2/
+__pycache__/
