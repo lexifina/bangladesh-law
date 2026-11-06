@@ -1,5 +1,7 @@
 # The laws of Bangladesh, as a git repository
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Bangladesh's national law, which global-law reads at `bangladesh/national/acts/`.
+
 The laws of Bangladesh in force that the official [Laws of Bangladesh](http://bdlaws.minlaw.gov.bd) site publishes in English: 590 laws (the Constitution, 347 Acts, 138 Ordinances, 67 President's Orders and 37 Regulations), each split into one file per section or Article (13,576 files), with one paragraph per line, so `git blame` and `git diff` work line by line. The site is run by the Legislative and Parliamentary Affairs Division of the Ministry of Law, Justice and Parliamentary Affairs.
 
 **What this repository is not, yet: a history.** The site publishes only the current text of each law, with footnotes saying which law inserted, substituted or omitted which words. It keeps no earlier versions and gives no date for its texts. So each law is a single commit holding its whole text as retrieved on 2026-10-28, and there is no line-by-line history before that day (corpus.json `"history": "current-only"`). Later retrievals will be added as later commits, so the history grows forward from here. The footnotes are kept in the files, word for word, and parsed into [`data/amendments.csv`](data/amendments.csv).
