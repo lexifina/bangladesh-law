@@ -1,69 +1,86 @@
-# The laws of Bangladesh, as a git repository
+# Bangladesh: law history in git
+
+
+The law of Bangladesh in git: one file per section or Article, one paragraph per line, so `git blame` and `git diff` work line by line. The official site publishes only the current text of each law and keeps no earlier versions, so each law starts as one commit, its text as retrieved on 2026-10-28; later retrievals are added as later commits, and the history grows forward from that day.
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Bangladesh's national law, which global-law reads at `bangladesh/national/acts/`.
 
-The laws of Bangladesh in force that the official [Laws of Bangladesh](http://bdlaws.minlaw.gov.bd) site publishes in English: 590 laws (the Constitution, 347 Acts, 138 Ordinances, 67 President's Orders and 37 Regulations), each split into one file per section or Article (13,576 files), with one paragraph per line, so `git blame` and `git diff` work line by line. The site is run by the Legislative and Parliamentary Affairs Division of the Ministry of Law, Justice and Parliamentary Affairs.
+**What is in it now:** the Constitution and 589 laws in force that the official Laws of Bangladesh site publishes in English (347 Acts, 138 Ordinances, 67 President's Orders and 37 Regulations), in 13,576 section and Article files, with the site's 6,234 amendment footnotes kept word for word and listed in [`data/amendments.csv`](data/amendments.csv). [`laws.csv`](laws.csv) lists every law with its number, date and folder.
 
-**What this repository is not, yet: a history.** The site publishes only the current text of each law, with footnotes saying which law inserted, substituted or omitted which words. It keeps no earlier versions and gives no date for its texts. So each law is a single commit holding its whole text as retrieved on 2026-10-28, and there is no line-by-line history before that day (corpus.json `"history": "current-only"`). Later retrievals will be added as later commits, so the history grows forward from here. The footnotes are kept in the files, word for word, and parsed into [`data/amendments.csv`](data/amendments.csv).
+Each law is in `<kind>/<year>/<number>/`, one file per section (`act/1860/45/section-302.md` is section 302 of the Penal Code, Act No. XLV of 1860); the Constitution is `constitution/`, one file per Article. Laws of a provincial legislature before 1971 carry it in front of the kind (`bengal-act`, `east-pakistan-ordinance`).
 
-**Only the laws with an English text, for now.** Of the 1,685 laws in the site's chronological index, 333 are marked repealed and 1,350 are in force. 590 of those have an English text and are here. The other 760 laws in force have a text only in Bengali (almost every law made since 1987 is in Bengali only). They are **not included yet**, and whether to add them has not been decided. They are listed in [`data/bengali-only.csv`](data/bengali-only.csv) with their links.
+The text is in English, as the site publishes it. Under Article 153 of the Constitution, the Bengali text prevails where the two differ.
 
-The record holds 590 laws in 591 commits.
-
-## A lawyer's questions as git commands
+## Questions as git commands
 
 | Question | Command |
 | --- | --- |
-| What does Article 27 of the Constitution say? | `python tools/in_force_on.py 2026-10-28 constitution article-27` |
-| What does section 302 of the Penal Code say? | `python tools/in_force_on.py 2026-10-28 act/1860/45 section-302` |
-| The whole of a law, in order | `python tools/in_force_on.py 2026-10-28 act/1872/1` |
-| Which law changed a section, by its footnotes | `grep '^\[\^' act/1860/45/section-124A.md` |
-| Everything an amending law touched, by the footnotes | `grep 'Ordinance No. XLI of 1985' data/amendments.csv` |
-| What changed in a law since this build (after later builds) | `git log -p -- act/1860/45` |
-| The list of laws, with their numbers and dates | [`laws.csv`](laws.csv) |
+| Every change to Article 27 of the Constitution | `git log -p --word-diff -- constitution/article-27.md` |
+| Which commit wrote each line of Article 27? | `git blame constitution/article-27.md` |
+| Every version of the Constitution, with the day it was retrieved | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- constitution` |
+| Article 27 as published on a date (2026-10-28 or later) | `python tools/in_force_on.py 2026-11-01 constitution article-27` |
 
-## The files
+**Outside git**, we also host this record publicly, for free:
 
-Each law is a folder `<kind>/<year>/<number>/`: `act/1860/45/` is Act No. XLV of 1860, the Penal Code. The kinds are `act`, `ordinance`, `president-order` and `regulation`. A law made by a provincial legislature before 1971 has the legislature in front: `bengal-act`, `bengal-regulation`, `east-bengal-act`, `east-bengal-regulation`, `east-pakistan-act`, `east-pakistan-ordinance` and `east-pakistan-regulation` (98 laws). That way Bengal Act III of 1913 and Act III of 1913 do not share a folder. Where two laws still share a number, year and kind, the second gets its site id: `act/1923/7-130`. The Constitution is `constitution/`. In each folder:
+- **[Ask Claude about Bangladeshi law](https://global-law.lexifina.com/v1/try_claude?country=bangladesh)**: opens Claude with a first question ready.
+- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=bangladesh)**: the same question in ChatGPT.
+- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=bail&jurisdictions=bangladesh)**: a search of Bangladeshi law for "bail", returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
 
-- `title.md`: the title, the law's number and date as the site prints them, and its long title and preamble;
-- `section-12A.md` (`article-7A.md` in the Constitution): one file per section, starting with any Part or Chapter headings above it as `##` lines and any heading over a group of sections as `###`, then the section's name as a `#` line and its text, one paragraph per line. A row the site prints without a number of its own (an "Extent" line, a defined term with its own heading, an illustration) stays in the file of the section above it. A number printed twice gives `section-4~2.md`. A Part or Chapter the site shows only as omitted or repealed is `chapter-VII.md` or `part-III.md`;
-- `index.txt`: the files in the order of the law.
+Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in English.
 
-A footnote mark is written `[^12]`, numbered as on the site. Each footnote is copied word for word at the end of the file that first cites it: `[^94]: The word "imprisonment" was substituted, for the word "transportation" by section 19 of the Penal Code (Amendment) Ordinance, 1985 (Ordinance No. XLI of 1985)`. Text is copied as the site gives it, with spaces collapsed. Nothing is reworded. Table cells are joined with ` | `, and pictures are marked `[image]`. Names of Bengali-language laws cited in English texts stay in Bengali, as on the site.
+**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
 
-## The dates, and which one we use
+```sh
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add bangladesh/national/acts
+python3 tools/law.py show 2026-11-01 bangladesh/national/acts/constitution/article-27.md
+```
 
-The site gives no date for its texts. **Every commit is dated by the day the pages were retrieved, 2026-10-28**, at noon in Dhaka (UTC+6), and that date is in the `In-force:` and `Consolidated:` trailers (`Date-source: retrieved`). It says only that this was the published text on that day. It is not the date any amendment took effect. The date the site prints under each law's title (its date of assent or making) is the `Published:` trailer and the `date` column of laws.csv.
+Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
-`tools/in_force_on.py` answers for 2026-10-28 and any later date. For an earlier date it says there is no version, because the source has none.
+## Dates
 
-## What "author" means
+Each law-text commit is dated at noon, Asia/Dhaka (UTC+6), and carries its day in its `In-force:` and `Consolidated:` trailers:
 
-Every law-text commit has the same author: `Laws of Bangladesh (Legislative and Parliamentary Affairs Division) <bdlaws@bdlaws-minlaw-gov-bd.invalid>`, with the trailer `Kind: consolidated`. The address cannot exist. The author is the publisher of the text, not a lawmaker. No line is credited to an amending law, because without the earlier text nobody can tell which words an amendment wrote. In the shared design for these repositories, a change is credited to an amending law only when the source shows the text before and after it.
+- every law's first commit is dated 2026-10-28, the day its page was retrieved (`Date-source: retrieved`): the site gives no date for its texts, so this is not the day any amendment took effect;
+- the date the site prints under a law's title (its assent or making) is the `Published:` trailer and the `date` column of `laws.csv`;
+- `tools/in_force_on.py` answers for 2026-10-28 and later; for an earlier date it says there is no version.
 
-The footnotes say which law did what. [`data/amendments.csv`](data/amendments.csv) has one row per footnote (6,234): the law and file it belongs to, the kind of change (substituted, omitted, inserted, added and so on), the amending law's number as printed (6,037 footnotes print one), the amending provision ("section 3 and 2nd Schedule"), and, where the amending law is itself on the site and could be matched by number, year and name (2,784 footnotes, 75 distinct laws), its title, date and link. The date is the one the site prints for the amending law. It is not a commencement date.
-
-## What it does not show
-
-- Any text before 2026-10-28. The site has none.
-- The 760 laws in force whose text the site has only in Bengali ([`data/bengali-only.csv`](data/bengali-only.csv)). 1 English law here has a Bengali text too, linked in its `Bengali-version:` trailer, and 1 Bengali text is left out because its English version is here.
-- The 333 laws the index marks repealed ([`data/repealed.csv`](data/repealed.csv)). One more, the Lunacy Act, 1912, marked repealed in the index, could not be read: the site answered with an error ([`data/issues.csv`](data/issues.csv)).
-- Rules, regulations made under Acts, notifications and SROs. The site publishes the laws themselves.
-- Pictures and the layout of tables.
-
-Other things the build noticed are in [`data/issues.csv`](data/issues.csv) (3 rows).
-
-This is a research aid. It is not legal advice, and it is not the authentic text of any law. For anything that matters, read the Bangladesh Gazette.
+Every law-text commit is credited to the publisher, `Laws of Bangladesh (Legislative and Parliamentary Affairs Division)`, not to a law: without the earlier text nobody can tell which words an amendment wrote. The footnotes say which law inserted, substituted or omitted what; 2,784 of them are matched in `data/amendments.csv` to an amending law on the site.
 
 ## How it is checked
 
-`tools/build/` holds the build as it was run, and [`data/source-sha256.tsv`](data/source-sha256.tsv) has the sha256 of every retrieved page it read. The build is deterministic: from the same pages it gives the same commit hashes. See [`REPRODUCE.md`](REPRODUCE.md). Before publishing, the build was checked for these things:
-- the letters and digits of every law, text and footnotes, equal those of its page on the site, read by a separate program (`check_repo.py`) that does not use the builder's parser;
-- the text `tools/in_force_on.py` prints for sample sections is the stored text, and it refuses an earlier date;
-- every commit's trailers parse, and there are no merges, no dates that go backwards and none after the build date;
-- two builds from the same pages give the same HEAD.
+- `tools/build/check_repo.py`, which does not use the builder's parser, reads every law back from git and compares its letters and digits, text and footnotes, with its page on the site; in the run [`REPRODUCE.md`](REPRODUCE.md) records, none of the 590 laws differed.
+- [`data/source-sha256.tsv`](data/source-sha256.tsv) has the sha256 of every page the build read, and the build is deterministic: two builds from the same pages give the same HEAD.
+- History is append-only: no merge commits, no dates going backwards, and every commit's trailers parse; `tools/in_force_on.py` gives the stored text and refuses an earlier date.
+
+## What it does not show
+
+- **Any text before 2026-10-28.** The site keeps no earlier versions.
+- **The 760 laws in force that the site has only in Bengali** (almost every law made since 1987), listed in [`data/bengali-only.csv`](data/bengali-only.csv); their texts are on the `bengali` branch, not on `main`.
+- **The 333 laws** of the site's 1,685-law index **marked repealed** ([`data/repealed.csv`](data/repealed.csv)).
+- **Rules, regulations made under Acts, notifications and SROs**: the site publishes the laws themselves.
+- **Pictures and table layout**: pictures are marked `[image]` and table cells joined with ` | `.
+
+## Sources
+
+| Source | Kind | Past versions | Notes |
+| --- | --- | --- | --- |
+| [Laws of Bangladesh](http://bdlaws.minlaw.gov.bd) (Legislative and Parliamentary Affairs Division, Ministry of Law, Justice and Parliamentary Affairs) | Official laws site: the Constitution, Acts, Ordinances, President's Orders, Regulations | no, current text only | No date for its texts; footnotes name the law and provision behind each change |
 
 ## Licence
 
-Source: the Laws of Bangladesh site (http://bdlaws.minlaw.gov.bd), Legislative and Parliamentary Affairs Division, Ministry of Law, Justice and Parliamentary Affairs, Government of Bangladesh. Its footer reads "Copyright © 2019, Legislative and Parliamentary Affairs Division" and states no licence. No provision of Bangladesh law was found that takes Acts out of copyright or allows them to be reproduced. The Copyright Act, 2023 counts the work of the law-making authority as a Government work, owned by the Government for 60 years. The details are in [`SOURCES.md`](SOURCES.md). **This repository is private, and stays private until that is settled.** Lexifina's own contributions (the tools, the arrangement and the commit messages) are CC0. See [`LICENSE`](LICENSE).
+See [`LICENSE`](LICENSE). The texts are copied unchanged from the Laws of Bangladesh site, which states no licence for reuse; under the Copyright Act, 2023 the work of the law-making authority is a Government work, and no provision was found that allows reproducing it (see [`SOURCES.md`](SOURCES.md)). Lexifina's own contributions (the tools, the arrangement and the commit messages) are CC0 1.0.
+
+No AI model wrote or changed legal text; the scripts, documentation and checks were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## More
+
+From [lexifina/global-law](https://github.com/lexifina/global-law):
+
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): every feature, and what every corpus must support (`git blame`, `law.py`, the MCP tools)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): questions and answers · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): proposing changes · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): the MCP server · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): how it was built · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): how current each corpus is · [Monitoring](https://github.com/lexifina/global-law/tree/main/monitoring): whether updates are running · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): how each official source is watched for changes
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): how fast the tools are, measured
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): charts and bridges across the world's law
+- [Vulnerabilities](https://github.com/lexifina/global-law/tree/main/vulnerabilities): mistakes in legislation as published
