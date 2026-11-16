@@ -1,5 +1,9 @@
 # Bangladesh: law history in git
 
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
+<img alt="Bangladeshi law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
+</picture>
 
 The law of Bangladesh in git: one file per section or Article, one paragraph per line, so `git blame` and `git diff` work line by line. The official site publishes only the current text of each law and keeps no earlier versions, so each law starts as one commit, its text as retrieved on 2026-10-28; later retrievals are added as later commits, and the history grows forward from that day.
 
