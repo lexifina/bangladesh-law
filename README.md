@@ -58,6 +58,7 @@ Every law-text commit is credited to the publisher, `Laws of Bangladesh (Legisla
 - `tools/build/check_repo.py`, which does not use the builder's parser, reads every law back from git and compares its letters and digits, text and footnotes, with its page on the site; in the run [`REPRODUCE.md`](REPRODUCE.md) records, none of the 590 laws differed.
 - [`data/source-sha256.tsv`](data/source-sha256.tsv) has the sha256 of every page the build read, and the build is deterministic: two builds from the same pages give the same HEAD.
 - History is append-only: no merge commits, no dates going backwards, and every commit's trailers parse; `tools/in_force_on.py` gives the stored text and refuses an earlier date.
+- [vulnerabilities/](vulnerabilities/): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -78,6 +79,10 @@ Every law-text commit is credited to the publisher, `Laws of Bangladesh (Legisla
 See [`LICENSE`](LICENSE). The texts are copied unchanged from the Laws of Bangladesh site, which states no licence for reuse; under the Copyright Act, 2023 the work of the law-making authority is a Government work, and no provision was found that allows reproducing it (see [`SOURCES.md`](SOURCES.md)). Lexifina's own contributions (the tools, the arrangement and the commit messages) are CC0 1.0.
 
 No AI model wrote or changed legal text; the scripts, documentation and checks were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/): charts drawn from this repository. Not drawn yet.
 
 ## More
 
